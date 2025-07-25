@@ -1,0 +1,126 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Easy Engineering Studies,Easy Engineering Studies Live Stream,2020-08-22 16:01:53+00:00,0,0,0,0.0,True,Saturday,16,36,
+Easy Engineering Studies,LALR parsing in [Hindi] | Compiler Design | Example 3,2019-02-17 05:42:57+00:00,6188,71,18,21.48,False,Sunday,5,53,0.014382676147382029
+Easy Engineering Studies,LALR parsing in [Hindi] | Compiler Design | Example 2,2019-02-13 17:09:29+00:00,10198,112,10,21.63,False,Wednesday,17,53,0.011963130025495195
+Easy Engineering Studies,LALR parsing in [Hindi] | Compiler Design | Example 1,2019-02-10 10:27:33+00:00,55094,620,19,24.82,False,Sunday,10,53,0.011598359167967474
+Easy Engineering Studies,CLR / LR(1) parsing in [Hindi] | Compiler Design | Example 3,2019-01-26 09:22:10+00:00,17961,192,16,25.25,False,Saturday,9,60,0.011580646957296364
+Easy Engineering Studies,CLR / LR(1) parsing in [Hindi] | Compiler Design | Example 2,2019-01-22 16:53:42+00:00,20500,234,11,18.35,False,Tuesday,16,60,0.011951219512195122
+Easy Engineering Studies,CLR / LR(1) parsing in [Hindi] | Compiler Design | Example 1,2019-01-19 16:39:59+00:00,86335,826,28,14.97,False,Saturday,16,60,0.009891700932414432
+Easy Engineering Studies,LR Parsing |  LR (0) Parsing in [Hindi]   | Compiler Design | Example 2,2019-01-11 14:27:40+00:00,17638,180,10,16.2,False,Friday,14,71,0.010772196394148996
+Easy Engineering Studies,LR Parsing |  LR (0) Parsing in [Hindi]   | Compiler Design | Example 1,2019-01-10 16:08:54+00:00,46308,503,30,28.45,False,Thursday,16,71,0.011509890299732227
+Easy Engineering Studies,Compiler Design | LL1 | push-pop Parsing-Operations using stack | Example 2,2019-01-09 13:23:46+00:00,14152,180,9,8.7,False,Wednesday,13,75,0.013355002826455624
+Easy Engineering Studies,Compiler Design | LL1 | push-pop Parsing-Operations using stack | Example 1,2019-01-08 14:12:55+00:00,67133,771,34,17.83,False,Tuesday,14,75,0.011991122100904176
+Easy Engineering Studies,Predictive Parser LL1 with Left recursion and  Left Factoring[Hindi] | Compiler design | Example 2,2019-01-06 13:39:57+00:00,4218,47,3,12.37,False,Sunday,13,98,0.011853959222380275
+Easy Engineering Studies,Predictive Parser LL1 with Left recursion and  Left Factoring[Hindi] | Compiler design | Example 1,2019-01-05 14:25:09+00:00,6915,79,8,16.47,False,Saturday,14,98,0.012581344902386117
+Easy Engineering Studies,Predictive Parser LL1 with Left Factoring[Hindi] | Compiler design | Example 2,2019-01-04 13:55:43+00:00,1673,32,6,9.75,False,Friday,13,78,0.022713687985654513
+Easy Engineering Studies,Predictive Parser LL1 with Left Factoring[Hindi] | Compiler design | Example 1,2019-01-03 15:01:32+00:00,2647,46,3,10.02,False,Thursday,15,78,0.018511522478277295
+Easy Engineering Studies,Predictive Parser LL1 with Left Recursion[Hindi] | Compiler design | Example 4,2019-01-02 15:39:01+00:00,3120,47,6,21.78,False,Wednesday,15,78,0.016987179487179486
+Easy Engineering Studies,Predictive Parser LL1 with Left Recursion[Hindi] | Compiler design | Example 3,2018-10-05 17:26:09+00:00,3905,48,5,19.43,False,Friday,17,78,0.01357234314980794
+Easy Engineering Studies,Predictive Parser LL1 with Left Recursion[Hindi] | Compiler design | Example 2,2018-10-04 16:10:07+00:00,8407,93,5,18.6,False,Thursday,16,78,0.011656952539550375
+Easy Engineering Studies,Predictive Parser LL1 [Hindi] | Compiler design | Example 1,2018-10-03 04:47:28+00:00,24579,270,16,14.8,False,Wednesday,4,59,0.011635949387688678
+Easy Engineering Studies,How to find First and Follow set Basics [Hindi] | Compiler Design | Example 3,2018-10-02 04:50:42+00:00,5894,77,3,14.17,False,Tuesday,4,77,0.013573125212080081
+Easy Engineering Studies,How to find First and Follow set Basics [Hindi] | Compiler Design | Example 2,2018-10-01 05:04:14+00:00,8234,85,5,12.77,False,Monday,5,77,0.010930289045421423
+Easy Engineering Studies,How to find First and Follow set Basics [Hindi] | Compiler Design | Example 1,2018-09-30 08:48:03+00:00,24853,308,12,17.85,False,Sunday,8,77,0.012875709169919125
+Easy Engineering Studies,Job Sequencing with Deadlines Greedy Method  [Hindi] | DAA | Example 2,2018-09-25 06:04:39+00:00,45563,647,40,6.25,False,Tuesday,6,70,0.015078023835129382
+Easy Engineering Studies,Job Sequencing with Deadlines Greedy Method  [Hindi] | DAA | Example 1,2018-09-24 06:11:59+00:00,208507,3097,98,9.22,False,Monday,6,70,0.015323226558340968
+Easy Engineering Studies,Longest Common Subsequence(LCS) [Hindi] | DAA | Example 4,2018-09-23 03:51:07+00:00,4381,48,9,7.42,False,Sunday,3,57,0.013010728144259302
+Easy Engineering Studies,Longest Common Subsequence(LCS) [Hindi] | DAA | Example 3,2018-09-22 11:34:18+00:00,19782,233,6,7.93,False,Saturday,11,57,0.01208169042563947
+Easy Engineering Studies,Longest Common Subsequence(LCS) [Hindi] | DAA | Example 2,2018-09-21 05:42:29+00:00,7228,103,7,10.03,False,Friday,5,57,0.015218594355285003
+Easy Engineering Studies,Longest Common Sub-sequence(LCS) [Hindi] | DAA | Example 1,2018-09-20 05:23:35+00:00,25082,295,22,10.02,False,Thursday,5,58,0.012638545570528665
+Easy Engineering Studies,knapsack Problem [Hindi] | Greedy Method | DAA | Example 4,2018-09-15 10:12:17+00:00,12376,134,7,10.13,False,Saturday,10,58,0.011393018745959922
+Easy Engineering Studies,knapsack Problem [Hindi] | Greedy Method | DAA | Example 3,2018-09-14 06:27:27+00:00,17005,191,10,10.43,False,Friday,6,58,0.011820052925610114
+Easy Engineering Studies,knapsack Problem [Hindi] | Greedy Method | DAA | Example 2,2018-09-13 09:36:37+00:00,57204,622,40,12.72,False,Thursday,9,58,0.011572617299489546
+Easy Engineering Studies,knapsack Problem [Hindi] | Greedy Method | DAA | Example 1,2018-04-12 04:33:17+00:00,404678,4627,175,10.77,False,Thursday,4,58,0.011866224504420798
+Easy Engineering Studies,Strassen's Matrix Multiplication [Hindi] | DAA | Example 2,2018-04-08 15:37:31+00:00,23743,306,9,11.3,False,Sunday,15,58,0.013267068188518721
+Easy Engineering Studies,Strassen's Matrix Multiplication [Hindi] | DAA | Example 1,2018-04-05 19:06:13+00:00,311916,4193,163,12.97,False,Thursday,19,58,0.01396529834955565
+Easy Engineering Studies,Merge Sort [Hindi] | DAA | Example 3,2018-04-03 16:13:40+00:00,2148,33,7,13.28,False,Tuesday,16,36,0.0186219739292365
+Easy Engineering Studies,Merge Sort [Hindi] | DAA | Example 2,2018-04-01 05:09:04+00:00,3302,44,3,9.27,False,Sunday,5,36,0.014233797698364628
+Easy Engineering Studies,Merge Sort [Hindi] | DAA | Example 1,2018-03-30 04:44:57+00:00,26420,327,11,15.27,False,Friday,4,36,0.01279333838001514
+Easy Engineering Studies,Min Max Algorithm [Hindi] | DAA | Example 3,2018-03-28 04:59:15+00:00,2279,38,8,8.53,False,Wednesday,4,43,0.020184291355857833
+Easy Engineering Studies,Min Max Algorithm [Hindi] | DAA | Example 2,2018-03-27 05:15:38+00:00,5466,65,4,9.52,False,Tuesday,5,43,0.012623490669593854
+Easy Engineering Studies,Min Max Algorithm [Hindi] | DAA | Example 1,2018-03-26 04:15:02+00:00,107858,1038,43,9.03,False,Monday,4,43,0.010022436907786163
+Easy Engineering Studies,Binary Search [Hindi] | DAA | Example 6,2018-03-25 04:09:07+00:00,2816,45,15,10.05,False,Sunday,4,39,0.02130681818181818
+Easy Engineering Studies,Binary Search [Hindi] | DAA | Example 5,2018-03-24 04:49:42+00:00,1617,17,1,10.4,False,Saturday,4,39,0.011131725417439703
+Easy Engineering Studies,Binary Search [Hindi] | DAA | Example 4,2018-03-23 05:44:12+00:00,1684,22,4,10.03,False,Friday,5,39,0.015439429928741092
+Easy Engineering Studies,Binary Search [Hindi] | DAA | Example 3,2018-03-22 05:47:18+00:00,2584,34,5,10.55,False,Thursday,5,39,0.015092879256965945
+Easy Engineering Studies,Binary Search [Hindi] | DAA | Example 2,2018-03-21 06:43:17+00:00,6680,97,5,12.42,False,Wednesday,6,39,0.01526946107784431
+Easy Engineering Studies,Binary Search [Hindi] | DAA | Example 1,2018-03-20 06:12:01+00:00,33715,405,12,12.05,False,Tuesday,6,39,0.012368382025804538
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 7,2018-03-19 05:35:38+00:00,18743,184,22,6.45,False,Monday,5,45,0.010990769887424638
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 6,2018-03-18 04:49:35+00:00,21706,200,28,6.72,False,Sunday,4,45,0.010504008108357136
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 5,2018-03-17 05:20:31+00:00,23235,206,10,11.55,False,Saturday,5,45,0.009296320206584894
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 4,2018-03-16 08:22:21+00:00,37680,400,31,9.38,False,Friday,8,45,0.011438428874734606
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 3,2018-03-15 06:01:29+00:00,29642,232,2,7.05,False,Thursday,6,45,0.007894204169759125
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 2,2018-03-14 05:56:09+00:00,51862,571,18,7.55,False,Wednesday,5,45,0.011357062974817785
+Easy Engineering Studies,Asymptotic Notation [Hindi] | DAA | Example 1,2018-03-13 05:29:59+00:00,243145,3442,133,11.03,False,Tuesday,5,45,0.014703160665446545
+Easy Engineering Studies,Master Theorem [Hindi] | DAA | Example 3,2018-03-12 05:37:13+00:00,37997,478,45,6.13,False,Monday,5,40,0.013764244545622023
+Easy Engineering Studies,Master Theorem [Hindi] | DAA | Example 2,2018-03-11 05:07:54+00:00,73283,893,48,6.73,False,Sunday,5,40,0.01284063152436445
+Easy Engineering Studies,Master Theorem [Hindi] | DAA | Example 1,2018-03-10 05:18:29+00:00,248781,3360,163,6.33,False,Saturday,5,40,0.014161049276271098
+Easy Engineering Studies,Logarithmic Recurrence Relation [Hindi] | DAA | Example 4,2018-03-09 09:07:03+00:00,3156,44,5,15.92,False,Friday,9,57,0.015525982256020279
+Easy Engineering Studies,Logarithmic Recurrence Relation [Hindi] | DAA | Example 3,2018-03-08 04:59:38+00:00,3346,35,7,17.82,False,Thursday,4,57,0.012552301255230125
+Easy Engineering Studies,Logarithmic Recurrence Relation [Hindi] | DAA | Example 2,2018-03-07 05:51:41+00:00,4671,54,4,11.32,False,Wednesday,5,57,0.012417041318775423
+Easy Engineering Studies,Logarithmic Recurrence Relation [Hindi] | DAA | Example 1,2018-03-06 05:36:28+00:00,18766,167,10,12.9,False,Tuesday,5,57,0.009431951401470745
+Easy Engineering Studies,NON Homogeneous Recurrence Relation [Hindi] | DAA | Example 4,2018-03-04 05:02:45+00:00,6358,64,9,15.18,False,Sunday,5,61,0.011481597986788298
+Easy Engineering Studies,NON Homogeneous Recurrence Relation [Hindi] | DAA | Example 3,2018-03-03 05:12:52+00:00,9147,98,8,26.27,False,Saturday,5,61,0.011588498961408112
+Easy Engineering Studies,NON Homogeneous Recurrence Relation [Hindi] | DAA | Example 2,2018-03-02 07:13:53+00:00,14317,123,14,13.22,False,Friday,7,61,0.009569043794090942
+Easy Engineering Studies,NON Homogeneous Recurrence Relation [Hindi] | DAA | Example 1,2018-03-01 06:28:37+00:00,16184,154,13,12.93,False,Thursday,6,61,0.01031883341571923
+Easy Engineering Studies,NON Homogeneous Recurrence Relation Basics [Hindi] | DAA,2018-02-28 04:48:06+00:00,45206,390,17,10.05,False,Wednesday,4,56,0.009003229659779675
+Easy Engineering Studies,Homogeneous Recurrence Relation [Hindi] | DAA | Example 4,2018-02-26 07:21:43+00:00,7917,95,26,10.93,False,Monday,7,57,0.015283567007704939
+Easy Engineering Studies,Homogeneous Recurrence Relation [Hindi] | DAA | Example 3,2018-02-25 05:17:19+00:00,9062,90,2,8.62,False,Sunday,5,57,0.01015228426395939
+Easy Engineering Studies,Homogeneous Recurrence Relation [Hindi] | DAA | Example 2,2018-02-24 05:06:50+00:00,16898,169,9,8.52,False,Saturday,5,57,0.010533790981181205
+Easy Engineering Studies,Homogeneous Recurrence Relation [Hindi] | DAA | Example 1,2018-02-23 05:41:13+00:00,70146,719,22,11.97,False,Friday,5,57,0.010563681464374305
+Easy Engineering Studies,Round Robin CPU Scheduling Algorithm [Hindi] | Example 6,2018-02-19 05:59:51+00:00,142764,1338,82,8.72,False,Monday,5,56,0.009946485108290605
+Easy Engineering Studies,Preemptive Priority CPU Scheduling Algorithm [Hindi] | Example 5,2018-02-18 05:58:05+00:00,19430,161,11,7.05,False,Sunday,5,64,0.00885229027277406
+Easy Engineering Studies,NON Preemptive Priority CPU Scheduling Algorithm [Hindi] | Example 4,2018-02-17 06:23:41+00:00,15650,105,9,5.05,False,Saturday,6,68,0.007284345047923323
+Easy Engineering Studies,Preemptive SJF CPU Scheduling Algorithm [Hindi] | Example 3,2018-02-16 05:06:36+00:00,70223,571,44,7.08,False,Friday,5,59,0.008757814391296298
+Easy Engineering Studies,NON Preemptive SJF CPU Scheduling Algorithm [Hindi] | Example 2,2018-02-15 05:12:19+00:00,15973,118,6,4.9,False,Thursday,5,63,0.007763100231640894
+Easy Engineering Studies,FCFS CPU Scheduling Algorithm [Hindi] | Example 1,2018-02-14 05:48:36+00:00,22698,192,17,4.9,False,Wednesday,5,49,0.009207859723323641
+Easy Engineering Studies,Round Robin | CPU Scheduling Algorithm [Hindi],2018-02-11 05:58:44+00:00,152414,1780,86,7.98,False,Sunday,5,46,0.01224296980592334
+Easy Engineering Studies,Preemptive Priority  | CPU Scheduling Algorithm [Hindi],2018-02-10 05:32:37+00:00,127683,1022,75,9.57,False,Saturday,5,55,0.008591590109881503
+Easy Engineering Studies,Non Preemptive Priority  | CPU Scheduling Algorithm [Hindi],2018-02-09 04:40:37+00:00,115003,947,27,7.3,False,Friday,4,59,0.008469344277975356
+Easy Engineering Studies,Preemptive SJF | CPU Scheduling Algorithm [Hindi],2018-02-07 05:20:32+00:00,296310,2707,105,10.43,False,Wednesday,5,49,0.009490061084674834
+Easy Engineering Studies,Non Preemptive SJF | CPU Scheduling Algorithm [Hindi],2018-02-05 04:47:18+00:00,218218,2362,78,6.22,False,Monday,4,53,0.011181479071387328
+Easy Engineering Studies,FCFS(First come First serve) | CPU Scheduling Algorithm [Hindi],2018-02-04 05:38:04+00:00,367015,4301,118,7.6,False,Sunday,5,63,0.012040379820988243
+Easy Engineering Studies,Banker's Algorithm in operating system [Hindi] | Example 4,2018-02-02 08:47:36+00:00,265815,3649,164,18.98,False,Friday,8,58,0.014344562947914903
+Easy Engineering Studies,Banker's Algorithm in operating system [Hindi] | Example 3,2018-01-29 05:17:26+00:00,23625,325,23,19.2,False,Monday,5,58,0.01473015873015873
+Easy Engineering Studies,Banker's Algorithm in operating system [Hindi] | Example 2,2018-01-27 15:46:41+00:00,23924,257,36,6.67,False,Saturday,15,58,0.012247115866911887
+Easy Engineering Studies,Banker's Algorithm in operating system [Hindi]  | Example 1,2018-01-23 09:37:48+00:00,72587,962,44,10.42,False,Tuesday,9,59,0.013859230991775386
+Easy Engineering Studies,OPTIMAL |  PAGE REPLACEMENT ALGORITHM | OPERATING SYSTEM [Hindi],2018-01-20 15:29:17+00:00,79158,1072,36,4.6,False,Saturday,15,64,0.013997321812072059
+Easy Engineering Studies,LRU |  PAGE REPLACEMENT ALGORITHM | OPERATING SYSTEM [Hindi],2018-01-20 05:57:39+00:00,87208,1090,68,4.1,False,Saturday,5,60,0.01327859829373452
+Easy Engineering Studies,FIFO |  PAGE REPLACEMENT ALGORITHM | OPERATING SYSTEM [Hindi],2018-01-18 04:54:02+00:00,104881,1250,36,4.57,False,Thursday,4,61,0.012261515431775059
+Easy Engineering Studies,Page Replacement Algorithm in Operating System [Hindi]  |  Example 3,2018-01-16 05:18:54+00:00,19703,201,14,14.25,False,Tuesday,5,68,0.010912043851190174
+Easy Engineering Studies,Page Replacement Algorithm in Operating System [Hindi] |  Example 2,2018-01-15 06:32:08+00:00,45810,552,22,15.25,False,Monday,6,67,0.01253001528050644
+Easy Engineering Studies,Page Replacement Algorithm in Operating System [Hindi] |  Example 1,2018-01-14 10:30:09+00:00,226891,3293,98,10.25,False,Sunday,10,67,0.014945502465941797
+Easy Engineering Studies,Disk scheduling algorithm in operating system [Hindi] | part 5,2018-01-13 05:35:35+00:00,3996,35,4,12.82,False,Saturday,5,62,0.00975975975975976
+Easy Engineering Studies,Disk scheduling algorithm in operating system [Hindi] | part 4,2018-01-12 10:16:54+00:00,5982,59,15,21.27,False,Friday,10,62,0.01237044466733534
+Easy Engineering Studies,Disk scheduling algorithm in operating system [Hindi] | part 3,2018-01-10 05:00:02+00:00,6908,54,2,19.88,False,Wednesday,5,62,0.008106543138390272
+Easy Engineering Studies,Disk scheduling algorithm in operating system [Hindi] | part 2,2018-01-09 08:43:26+00:00,14118,125,14,18.87,False,Tuesday,8,62,0.009845587193653492
+Easy Engineering Studies,Disk scheduling algorithm in operating system [Hindi] | part 1,2018-01-08 09:20:51+00:00,85308,1154,71,28.03,False,Monday,9,62,0.014359731795376753
+Easy Engineering Studies,line coding schemes | Example 7 [Hindi],2018-01-07 05:52:09+00:00,2744,29,2,8.08,False,Sunday,5,39,0.01129737609329446
+Easy Engineering Studies,line coding schemes | Example 6 [Hindi],2018-01-06 05:10:57+00:00,2539,26,2,8.67,False,Saturday,5,39,0.011027963765261915
+Easy Engineering Studies,line coding schemes | Example 5 [Hindi],2018-01-05 05:47:24+00:00,2614,28,2,7.87,False,Friday,5,39,0.011476664116296864
+Easy Engineering Studies,line coding schemes | Example 4 [Hindi],2018-01-04 04:29:07+00:00,2712,27,5,8.32,False,Thursday,4,39,0.011799410029498525
+Easy Engineering Studies,line coding schemes | Example 3 [Hindi],2018-01-03 09:02:46+00:00,2990,30,1,10.2,False,Wednesday,9,39,0.01036789297658863
+Easy Engineering Studies,line coding schemes | Example 2 [Hindi],2018-01-02 07:20:15+00:00,4281,43,2,6.43,False,Tuesday,7,39,0.01051156271899089
+Easy Engineering Studies,Line coding schemes | Example 1 [Hindi],2018-01-01 15:34:59+00:00,13097,119,16,9.15,False,Monday,15,39,0.010307704054363594
+Easy Engineering Studies,"MLT-3, HDB3, B8ZS | Line coding schemes [Hindi]",2017-12-31 05:03:58+00:00,97211,1140,69,20.67,False,Sunday,5,47,0.012436864140889405
+Easy Engineering Studies,"AMI, Pseudoternary, 2B1Q, Bipolar NRZ | line Coding Schemes [Hindi]",2017-12-30 04:46:01+00:00,124076,1404,37,11.58,False,Saturday,4,67,0.011613849576066282
+Easy Engineering Studies,"Polar RZ,Manchester,Differential Manchester, Bipolar RZ | line coding schemes [Hindi]",2017-12-29 05:17:58+00:00,324732,3984,105,13.07,False,Friday,5,85,0.01259192195410369
+Easy Engineering Studies,"uni-polar NRZ, polar NRZ-L, NRZ-I | line coding Schemes [Hindi]",2017-12-27 15:55:09+00:00,413176,5509,152,10.3,False,Wednesday,15,63,0.013701183030960172
+Easy Engineering Studies,linker and loader in system programming | part4[Hindi],2017-12-26 06:47:59+00:00,6597,57,7,35.47,False,Tuesday,6,54,0.009701379414885554
+Easy Engineering Studies,linker and loader in system programming | part3[Hindi],2017-12-24 07:00:17+00:00,11035,91,17,19.73,False,Sunday,7,54,0.009787041232442228
+Easy Engineering Studies,linker and loader in system programming | part2[Hindi],2017-12-23 05:22:36+00:00,14380,123,11,13.75,False,Saturday,5,54,0.009318497913769123
+Easy Engineering Studies,linker and loader in system programming | part1[Hindi],2017-12-21 12:45:33+00:00,66225,438,21,18.72,False,Thursday,12,54,0.006930917327293318
+Easy Engineering Studies,microprocessor | part4 [Hindi],2017-12-17 19:18:54+00:00,6405,66,7,12.17,False,Sunday,19,30,0.011397345823575333
+Easy Engineering Studies,microprocessor | part3 [Hindi],2017-12-17 05:38:54+00:00,8299,82,8,8.28,False,Sunday,5,30,0.010844680081937582
+Easy Engineering Studies,microprocessor | part2 [Hindi],2017-12-16 06:59:09+00:00,15120,149,8,9.9,False,Saturday,6,30,0.010383597883597884
+Easy Engineering Studies,microprocessor | part1[Hindi],2017-12-15 06:41:14+00:00,36765,389,12,12.4,False,Friday,6,29,0.010907112743098055
+Easy Engineering Studies,Assembly Language Programming-part 9[Hindi],2017-12-13 05:01:33+00:00,8036,73,10,12.42,False,Wednesday,5,43,0.010328521652563464
+Easy Engineering Studies,Assembly Language Programming-part 8[HIndi],2017-12-13 04:33:47+00:00,8245,76,5,14.2,False,Wednesday,4,43,0.009824135839902971
+Easy Engineering Studies,Assembly Language Programming-part 7[Hindi],2017-12-10 21:55:11+00:00,10058,72,9,17.92,False,Sunday,21,43,0.008053290912706304
+Easy Engineering Studies,Assembly Language Programming-part 6[Hindi],2017-12-10 13:00:55+00:00,11104,91,6,11.03,False,Sunday,13,43,0.008735590778097983
+Easy Engineering Studies,Assembly Language Programming-part5 [Hindi],2017-12-09 05:37:46+00:00,12925,113,8,8.48,False,Saturday,5,43,0.009361702127659575
+Easy Engineering Studies,Assembly Language Programming-part4 [Hindi],2017-12-09 05:21:45+00:00,18332,171,11,8.18,False,Saturday,5,43,0.00992799476325551
+Easy Engineering Studies,Assembly Language Programming-part3 [Hindi],2017-12-09 05:04:32+00:00,24947,201,20,6.38,False,Saturday,5,43,0.008858780614903595
+Easy Engineering Studies,Assembly Language Programming-part2 [Hindi],2017-12-06 08:03:26+00:00,50278,407,15,11.48,False,Wednesday,8,43,0.008393333068141134
+Easy Engineering Studies,Assembly Language Programming-part1[hindi],2017-12-05 17:09:38+00:00,203742,1780,60,14.58,False,Tuesday,17,42,0.009031029439192704
+Easy Engineering Studies,StuDenTs VLoG Live Stream,2017-11-29 17:38:04+00:00,0,0,0,0.0,True,Wednesday,17,25,

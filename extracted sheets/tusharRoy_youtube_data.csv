@@ -1,0 +1,105 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Tushar Roy - Coding Made Simple,System Design : Distributed Database System Key Value Store,2018-07-07 14:33:34+00:00,191979,2255,194,40.92,False,Saturday,14,59,0.012756603586850645
+Tushar Roy - Coding Made Simple,System Design Introduction For Interview.,2017-11-27 04:28:22+00:00,576778,11129,283,27.38,False,Monday,4,41,0.019785775463003096
+Tushar Roy - Coding Made Simple,System Design : Design messaging/chat service like Facebook Messenger or Whatsapp,2017-11-18 15:58:27+00:00,356225,4687,332,29.27,False,Saturday,15,81,0.014089409783142676
+Tushar Roy - Coding Made Simple,Binary Search : Median of two sorted arrays of different sizes.,2017-11-14 04:44:28+00:00,565853,12298,745,24.8,False,Tuesday,4,63,0.02305015613595757
+Tushar Roy - Coding Made Simple,System design : Design Autocomplete or Typeahead Suggestions for Google search,2017-11-08 05:09:28+00:00,322247,4419,288,19.7,False,Wednesday,5,78,0.014606807821329601
+Tushar Roy - Coding Made Simple,Convex Hull Jarvis March(Gift wrapping algorithm),2017-10-15 03:46:52+00:00,104973,1390,89,18.07,False,Sunday,3,49,0.014089337258152096
+Tushar Roy - Coding Made Simple,System Design : Design a service like TinyUrl,2017-05-27 07:59:03+00:00,582331,6849,478,24.17,False,Saturday,7,45,0.012582191228012934
+Tushar Roy - Coding Made Simple,Tushar Roy Live Stream,2016-09-10 02:13:43+00:00,0,2,0,0.0,True,Saturday,2,22,inf
+Tushar Roy - Coding Made Simple,Burst Balloon Dynamic Programming[Leetcode],2016-07-06 20:19:54+00:00,107160,1181,131,27.37,False,Wednesday,20,43,0.012243374393430385
+Tushar Roy - Coding Made Simple,Sum Query in 2D Immutable Array Dynamic Programming,2016-06-16 04:48:18+00:00,52089,790,46,18.57,False,Thursday,4,51,0.016049453819424447
+Tushar Roy - Coding Made Simple,Regular Expression Dynamic Programming,2016-06-06 05:03:18+00:00,266036,3485,291,18.57,False,Monday,5,38,0.01419356778781819
+Tushar Roy - Coding Made Simple,Lowest Common Ancestor Binary Search Tree,2016-05-05 07:02:00+00:00,77241,1489,74,4.27,False,Thursday,7,41,0.020235367227249775
+Tushar Roy - Coding Made Simple,Sparse Table Algorithm Range Minimum Query,2016-05-01 02:41:11+00:00,61394,1211,71,27.55,False,Sunday,2,42,0.02088151936671336
+Tushar Roy - Coding Made Simple,Lowest Common Ancestor Binary Tree,2016-04-28 05:05:37+00:00,256270,5740,342,11.13,False,Thursday,5,34,0.023732781831661918
+Tushar Roy - Coding Made Simple,Iterative Postorder traversal of binary tree using one stack,2016-04-27 06:35:53+00:00,119022,1826,92,14.08,False,Wednesday,6,60,0.016114667876527027
+Tushar Roy - Coding Made Simple,Trie Data Structure,2016-04-26 07:14:53+00:00,416232,7393,399,19.67,False,Tuesday,7,19,0.018720329047262105
+Tushar Roy - Coding Made Simple,Combination of Characters in String (All subsets of characters),2016-03-16 05:31:09+00:00,75300,572,39,18.3,False,Wednesday,5,63,0.008114209827357237
+Tushar Roy - Coding Made Simple,Morris Inorder Tree Traversal,2016-03-09 06:21:16+00:00,153430,3633,224,11.73,False,Wednesday,6,29,0.02513849964153034
+Tushar Roy - Coding Made Simple,N Queen Problem Using Backtracking Algorithm,2016-03-01 07:46:20+00:00,345125,3757,259,18.07,False,Tuesday,7,44,0.011636363636363636
+Tushar Roy - Coding Made Simple,Wildcard Matching Dynamic Programming,2016-02-13 07:37:00+00:00,150347,1910,189,16.63,False,Saturday,7,37,0.013961036801532455
+Tushar Roy - Coding Made Simple,Coin Changing Minimum Coins Dynamic Programming,2016-02-02 17:36:17+00:00,180225,1438,135,20.8,False,Tuesday,17,47,0.008727978915244832
+Tushar Roy - Coding Made Simple,String Permutation Algorithm,2016-01-30 04:36:45+00:00,322344,3085,268,25.15,False,Saturday,4,28,0.01040193085647631
+Tushar Roy - Coding Made Simple,Detect Cycle in Directed Graph Algorithm,2016-01-16 03:53:38+00:00,195955,2903,163,10.72,False,Saturday,3,40,0.01564644943992243
+Tushar Roy - Coding Made Simple,Skyline Problem,2016-01-15 07:20:40+00:00,198677,2931,197,22.9,False,Friday,7,15,0.015744147535950312
+Tushar Roy - Coding Made Simple,Buy/Sell Stock With K transactions To Maximize Profit Dynamic Programming,2016-01-06 08:35:11+00:00,179145,2243,218,29.15,False,Wednesday,8,73,0.013737475229562644
+Tushar Roy - Coding Made Simple,Ford Fulkerson Algorithm Edmonds Karp Algorithm For Max Flow,2016-01-03 00:05:37+00:00,183664,2398,180,38.02,False,Sunday,0,60,0.01403650143740744
+Tushar Roy - Coding Made Simple,Rabin Karp Substring Search Pattern Matching,2015-12-30 15:52:07+00:00,247089,3059,248,16.95,False,Wednesday,15,44,0.01338384144984196
+Tushar Roy - Coding Made Simple,Floyd Warshall Algorithm All Pair Shortest Path Graph Algorithm,2015-12-13 07:39:22+00:00,149366,1353,107,19.43,False,Sunday,7,63,0.00977464751014287
+Tushar Roy - Coding Made Simple,Bellman-Ford Algorithm Single Source Shortest Path Graph Algorithm,2015-12-09 07:47:16+00:00,203461,1534,108,21.53,False,Wednesday,7,66,0.00807034271924349
+Tushar Roy - Coding Made Simple,Traveling Salesman Problem Dynamic Programming Held-Karp,2015-12-07 07:11:28+00:00,237229,1821,143,20.35,False,Monday,7,56,0.00827892036808316
+Tushar Roy - Coding Made Simple,Johnson's Algorithm - All simple cycles in directed graph,2015-11-23 21:58:31+00:00,70619,491,36,26.15,False,Monday,21,57,0.0074625808918279786
+Tushar Roy - Coding Made Simple,Red Black Tree Deletion,2015-11-16 03:25:50+00:00,185860,1771,190,34.48,False,Monday,3,23,0.010550952329710536
+Tushar Roy - Coding Made Simple,Red Black Tree Insertion,2015-11-09 03:17:29+00:00,238466,2277,197,42.95,False,Monday,3,24,0.01037464460342355
+Tushar Roy - Coding Made Simple,Z Algorithm Z values,2015-11-05 08:11:11+00:00,174092,3028,155,24.05,False,Thursday,8,20,0.01828343634400202
+Tushar Roy - Coding Made Simple,0/1 Knapsack Problem Top Down Dynamic Programming,2015-10-30 03:40:57+00:00,55771,374,49,15.75,False,Friday,3,49,0.0075845869717236555
+Tushar Roy - Coding Made Simple,Dijkstra's Algorithm Single Source Shortest Path Graph Algorithm,2015-10-28 19:41:06+00:00,396687,2650,173,16.33,False,Wednesday,19,64,0.007116441930287607
+Tushar Roy - Coding Made Simple,Prim's Algorithm Minimum Spanning Tree Graph Algorithm,2015-10-26 07:03:11+00:00,295989,1857,176,19.22,False,Monday,7,54,0.006868498491497995
+Tushar Roy - Coding Made Simple,Kruskal's algorithm Minimum Spanning Tree Graph Algorithm,2015-10-25 05:12:27+00:00,308500,2308,121,8.7,False,Sunday,5,57,0.007873581847649918
+Tushar Roy - Coding Made Simple,Coin Change Top down dynamic programming,2015-09-30 17:45:24+00:00,50744,449,28,15.67,False,Wednesday,17,40,0.009400126123285512
+Tushar Roy - Coding Made Simple,Articulation Points Graph Algorithm,2015-09-10 03:48:25+00:00,123023,1138,90,26.77,False,Thursday,3,35,0.009981873308243175
+Tushar Roy - Coding Made Simple,Strongly Connected Components Kosaraju's Algorithm Graph Algorithm,2015-08-13 18:03:32+00:00,234278,3636,246,24.5,False,Thursday,18,66,0.01657005779458592
+Tushar Roy - Coding Made Simple,Lazy Propagation Segment Tree,2015-08-12 16:29:44+00:00,99594,1801,115,28.45,False,Wednesday,16,29,0.01923810671325582
+Tushar Roy - Coding Made Simple,Topological Sort Graph Algorithm,2015-08-03 01:23:51+00:00,670962,6017,331,10.53,False,Monday,1,32,0.009461042503152191
+Tushar Roy - Coding Made Simple,Longest Increasing Subsequence in nlogn time,2015-08-02 04:43:32+00:00,224238,2370,217,12.05,False,Sunday,4,44,0.01153684924053907
+Tushar Roy - Coding Made Simple,Cycle in Undirected Graph Graph Algorithm,2015-08-01 04:02:18+00:00,145729,1611,85,12.38,False,Saturday,4,41,0.011638040472383671
+Tushar Roy - Coding Made Simple,Longest Palindromic Substring Manacher's Algorithm,2015-07-31 06:26:15+00:00,370627,3744,232,16.77,False,Friday,6,50,0.010727766730432483
+Tushar Roy - Coding Made Simple,Disjoint Sets using union by rank and path compression Graph Algorithm,2015-06-22 00:07:10+00:00,323379,5489,312,17.82,False,Monday,0,70,0.017938703502701166
+Tushar Roy - Coding Made Simple,0/1 Knapsack Problem Dynamic Programming,2015-06-14 02:00:48+00:00,2064171,19476,1156,15.83,False,Sunday,2,40,0.009995295932362192
+Tushar Roy - Coding Made Simple,Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) Part2,2015-06-13 23:41:45+00:00,241019,3899,211,9.33,False,Saturday,23,64,0.017052597513059136
+Tushar Roy - Coding Made Simple,Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search),2015-06-13 05:41:36+00:00,1217074,24615,1091,12.83,False,Saturday,5,58,0.02112114793348638
+Tushar Roy - Coding Made Simple,Suffix Tree using Ukkonen's algorithm,2015-06-07 03:51:32+00:00,112229,1188,107,76.22,False,Sunday,3,37,0.011538907056108492
+Tushar Roy - Coding Made Simple,Box Stacking Dynamic Programming,2015-05-15 07:02:18+00:00,103325,1788,121,10.85,False,Friday,7,32,0.018475683522864748
+Tushar Roy - Coding Made Simple,Maximum Size Rectangle of All 1's Dynamic Programming,2015-05-15 06:45:43+00:00,182809,4346,151,6.92,False,Friday,6,53,0.02459944532271387
+Tushar Roy - Coding Made Simple,Largest BST in Binary Tree,2015-05-11 02:23:00+00:00,90791,1803,90,9.72,False,Monday,2,26,0.02085008425945303
+Tushar Roy - Coding Made Simple,Maximum Rectangular Area in Histogram,2015-05-09 23:38:38+00:00,300655,2566,273,15.23,False,Saturday,23,37,0.009442716735128304
+Tushar Roy - Coding Made Simple,Text Justification Dynamic Programming,2015-05-08 05:05:05+00:00,145747,1642,137,15.52,False,Friday,5,38,0.012206083144078438
+Tushar Roy - Coding Made Simple,Maximum Sum Rectangular Submatrix in Matrix dynamic programming/2D kadane,2015-05-05 03:31:19+00:00,207725,3072,249,13.9,False,Tuesday,3,73,0.015987483451678903
+Tushar Roy - Coding Made Simple,Fenwick Tree or Binary Indexed Tree,2015-05-03 23:19:44+00:00,252902,4436,286,22.72,False,Sunday,23,35,0.01867126396786107
+Tushar Roy - Coding Made Simple,Reverse level order traversal binary tree,2015-04-27 05:03:48+00:00,44964,489,23,6.9,False,Monday,5,41,0.011386887287607865
+Tushar Roy - Coding Made Simple,AVL Tree Insertion,2015-04-26 07:09:08+00:00,290026,3247,386,20.0,False,Sunday,7,18,0.012526463144683581
+Tushar Roy - Coding Made Simple,Segment Tree Range Minimum Query,2015-04-23 06:45:41+00:00,288347,4955,350,27.73,False,Thursday,6,32,0.018397971888037677
+Tushar Roy - Coding Made Simple,Tree Traversal Spiral Order,2015-04-21 06:10:56+00:00,43924,475,30,17.77,False,Tuesday,6,27,0.011497131408797013
+Tushar Roy - Coding Made Simple,Level by Level Printing of Binary Tree,2015-04-19 05:54:35+00:00,66886,640,49,15.62,False,Sunday,5,38,0.010301109350237718
+Tushar Roy - Coding Made Simple,Iterative Inorder Traversal of Binary Tree,2015-04-13 01:57:04+00:00,123825,1554,90,10.5,False,Monday,1,42,0.01327680193821926
+Tushar Roy - Coding Made Simple,Iterative Preorder Traversal of Binary Tree,2015-04-13 01:40:59+00:00,68307,763,51,6.65,False,Monday,1,43,0.011916787444917797
+Tushar Roy - Coding Made Simple,Level Order Traversal of Binary Tree,2015-04-13 01:18:10+00:00,68314,662,36,7.95,False,Monday,1,36,0.010217524958280879
+Tushar Roy - Coding Made Simple,Iterative Postorder Traversal of Binary Tree,2015-04-13 00:57:24+00:00,80553,854,67,8.48,False,Monday,0,44,0.011433466165133514
+Tushar Roy - Coding Made Simple,Same Binary Tree,2015-04-12 03:29:42+00:00,45445,368,26,5.03,False,Sunday,3,16,0.008669820662339092
+Tushar Roy - Coding Made Simple,Check if Binary Tree is Binary Search Tree,2015-04-12 03:14:39+00:00,123212,1864,152,10.48,False,Sunday,3,42,0.016362042658182644
+Tushar Roy - Coding Made Simple,Root To Leaf Sum Binary Tree,2015-04-12 02:53:20+00:00,89165,765,50,9.07,False,Sunday,2,28,0.009140357763696517
+Tushar Roy - Coding Made Simple,Binary Search Tree Search,2015-04-12 00:22:01+00:00,76782,594,19,5.5,False,Sunday,0,25,0.007983641999426949
+Tushar Roy - Coding Made Simple,Binary Search Tree Insertion (Iterative method),2015-04-08 05:27:19+00:00,125484,950,55,5.7,False,Wednesday,5,47,0.008008989193841446
+Tushar Roy - Coding Made Simple,Height Of Binary Tree,2015-04-06 00:49:37+00:00,98640,1014,93,6.58,False,Monday,0,21,0.011222627737226277
+Tushar Roy - Coding Made Simple,Size Of Binary Tree,2015-04-05 23:51:07+00:00,49545,385,11,4.82,False,Sunday,23,19,0.007992733878292461
+Tushar Roy - Coding Made Simple,Binary Tree Traversal,2015-04-05 23:33:57+00:00,206965,1350,68,14.38,False,Sunday,23,21,0.006851399995168265
+Tushar Roy - Coding Made Simple,Optimal Binary Search Tree,2015-04-05 01:56:29+00:00,337417,2366,224,10.92,False,Sunday,1,26,0.007675961792085165
+Tushar Roy - Coding Made Simple,Numbers WIthout Consecutive 1s in binary representation,2015-04-04 23:22:44+00:00,53067,537,29,3.97,False,Saturday,23,55,0.01066576214973524
+Tushar Roy - Coding Made Simple,Maximum Sum Subsequence Non-Adjacent,2015-04-04 23:15:55+00:00,90734,960,128,6.08,False,Saturday,23,36,0.011991094848678555
+Tushar Roy - Coding Made Simple,Maximum Subsquare With Sides as X,2015-03-31 03:22:42+00:00,38471,465,36,10.8,False,Tuesday,3,33,0.013022796392087546
+Tushar Roy - Coding Made Simple,String Interleaving Dynamic Programming,2015-03-30 00:14:50+00:00,95936,814,110,7.78,False,Monday,0,39,0.009631420947298198
+Tushar Roy - Coding Made Simple,Subset Sum Problem Dynamic Programming,2015-03-29 23:40:51+00:00,555445,4435,376,9.12,False,Sunday,23,38,0.008661523643204997
+Tushar Roy - Coding Made Simple,Maximum Sum Increasing Subsequence Dynamic Programming,2015-03-29 22:48:36+00:00,82942,745,45,8.5,False,Sunday,22,54,0.009524728123266862
+Tushar Roy - Coding Made Simple,Minimum jump to reach end,2015-03-29 00:19:05+00:00,221255,2151,158,9.37,False,Sunday,0,25,0.010435922352037242
+Tushar Roy - Coding Made Simple,Staircase Problem Fibonacci Series,2015-03-29 00:01:01+00:00,96155,1126,62,3.23,False,Sunday,0,34,0.012355051739379128
+Tushar Roy - Coding Made Simple,Egg Dropping Dynamic Programming,2015-03-28 23:47:59+00:00,204032,1784,214,11.28,False,Saturday,23,32,0.009792581555834378
+Tushar Roy - Coding Made Simple,Word Break Problem Dynamic Programming,2015-03-27 04:17:14+00:00,184169,1312,162,15.85,False,Friday,4,38,0.008003518507457823
+Tushar Roy - Coding Made Simple,Matrix Chain Multiplication,2015-03-17 05:56:35+00:00,452438,2924,259,11.13,False,Tuesday,5,27,0.007035218085129896
+Tushar Roy - Coding Made Simple,Palindrome Partition Dynamic Programming,2015-03-15 02:24:33+00:00,106457,1108,97,11.77,False,Sunday,2,40,0.011319124153414054
+Tushar Roy - Coding Made Simple,Longest Palindromic Subsequence,2015-03-15 01:24:15+00:00,323244,3077,245,9.3,False,Sunday,1,31,0.010277066240982045
+Tushar Roy - Coding Made Simple,Count Number of Binary Tree Possible given Preorder Sequence length dynamic programming,2015-03-15 01:19:18+00:00,32925,272,33,9.55,False,Sunday,1,87,0.009263477600607441
+Tushar Roy - Coding Made Simple,Count Number of Binary Search Tree Possible given n keys Dynamic Programming,2015-03-15 01:07:49+00:00,85732,1230,87,11.0,False,Sunday,1,76,0.015361825222787291
+Tushar Roy - Coding Made Simple,Minimum Cost Path Dynamic Programming,2015-03-14 03:05:21+00:00,136326,1391,100,4.63,False,Saturday,3,37,0.01093701861713833
+Tushar Roy - Coding Made Simple,Total Ways in Matrix Dynamic Programming,2015-03-14 02:56:20+00:00,61249,648,35,3.08,False,Saturday,2,40,0.011151202468611732
+Tushar Roy - Coding Made Simple,Maximum Sub Square Matrix Dynamic Programming,2015-03-13 03:35:04+00:00,109740,1298,104,3.87,False,Friday,3,45,0.012775651540003645
+Tushar Roy - Coding Made Simple,Minimum Edit Distance Dynamic Programming,2015-03-13 03:23:11+00:00,593544,8486,527,9.78,False,Friday,3,41,0.015185057889558314
+Tushar Roy - Coding Made Simple,Longest Common Substring,2015-03-09 01:02:22+00:00,185009,2078,177,5.52,False,Monday,1,24,0.012188596230453654
+Tushar Roy - Coding Made Simple,Longest Common Subsequence,2015-03-08 21:20:04+00:00,804009,9516,565,7.92,False,Sunday,21,26,0.012538416858517754
+Tushar Roy - Coding Made Simple,Longest Bitonic Subsequence,2015-03-08 00:58:32+00:00,53414,434,33,4.28,False,Sunday,0,27,0.00874302617291347
+Tushar Roy - Coding Made Simple,Weighted Job Scheduling Dynamic Programming,2015-03-08 00:44:42+00:00,206992,1715,156,7.22,False,Sunday,0,43,0.009038996676200046
+Tushar Roy - Coding Made Simple,Optimal Strategy Game Pick from Ends of array Dynamic Programming,2015-03-07 06:47:31+00:00,131255,1341,127,9.02,False,Saturday,6,65,0.01118433583482534
+Tushar Roy - Coding Made Simple,Cutting Rod dynamic programming,2015-03-02 01:31:41+00:00,250408,1629,134,7.55,False,Monday,1,31,0.007040509887863007
+Tushar Roy - Coding Made Simple,Coin Changing Minimum Number of Coins Dynamic programming,2015-03-02 00:37:39+00:00,517390,3864,264,8.55,False,Monday,0,57,0.007978507508842459
+Tushar Roy - Coding Made Simple,Coin Changing Number of ways to get total dynamic programming,2015-03-02 00:31:10+00:00,183529,1206,214,6.43,False,Monday,0,61,0.0077371968462749754
+Tushar Roy - Coding Made Simple,Longest Increasing Subsequence,2015-03-01 23:25:01+00:00,460047,4894,288,7.15,False,Sunday,23,30,0.01126406649755351

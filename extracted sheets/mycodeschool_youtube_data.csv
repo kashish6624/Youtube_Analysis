@@ -1,0 +1,111 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+mycodeschool,Graph Representation part 03 - Adjacency List,2016-10-24 11:41:58+00:00,450390,6729,693,27.83,False,Monday,11,45,0.016479051488709786
+mycodeschool,Graph Representation part 02 - Adjacency Matrix,2015-02-20 11:49:30+00:00,548076,4752,185,14.75,False,Friday,11,47,0.009007874820280398
+mycodeschool,Graph Representation part 01 - Edge List,2015-01-24 16:26:50+00:00,489788,4681,130,13.75,False,Saturday,16,40,0.009822617132310306
+mycodeschool,Data structures: Properties of Graphs,2014-09-16 13:02:07+00:00,490030,5527,170,15.27,False,Tuesday,13,37,0.01162581882741873
+mycodeschool,Data structures: Introduction to graphs,2014-09-02 11:25:00+00:00,1000702,13261,390,16.72,False,Tuesday,11,39,0.013641423720548175
+mycodeschool,Know your data type: int - C Programming Tutorial 08,2014-06-23 17:16:47+00:00,239192,3718,217,23.05,False,Monday,17,52,0.01645121910431787
+mycodeschool,Maximum sum sub-array,2014-06-23 14:08:34+00:00,395177,3299,233,18.48,False,Monday,14,21,0.008937767127135435
+mycodeschool,Using Arithmetic Operators - C Programming Tutorial 07,2014-06-03 11:05:26+00:00,143238,1225,53,16.2,False,Tuesday,11,54,0.008922213379131237
+mycodeschool,Find merge point of two linked list,2014-05-29 06:40:02+00:00,108994,1315,120,12.8,False,Thursday,6,35,0.013165862341046296
+mycodeschool,Input and Output:  Printf and Scanf - C Programming Tutorial 06,2014-05-28 03:25:16+00:00,285405,2912,102,17.32,False,Wednesday,3,63,0.01056043166727983
+mycodeschool,Inorder Successor in a binary search tree,2014-05-17 10:32:17+00:00,369502,3442,169,17.97,False,Saturday,10,41,0.00977261286813062
+mycodeschool,Find height of a binary tree,2014-05-17 10:30:10+00:00,583489,4988,224,7.15,False,Saturday,10,28,0.008932473448514024
+mycodeschool,Delete a node from Binary Search Tree,2014-05-01 10:47:54+00:00,1242840,15216,704,18.45,False,Thursday,10,37,0.012809372083293103
+mycodeschool,Check if a binary tree is binary search tree or not,2014-04-19 16:57:24+00:00,385572,3758,265,16.5,False,Saturday,16,51,0.010433848930938969
+mycodeschool,"Binary tree traversal: Preorder, Inorder, Postorder",2014-04-07 18:12:17+00:00,980974,10159,394,14.48,False,Monday,18,51,0.010757675534723652
+mycodeschool,Binary tree: Level Order Traversal,2014-03-13 05:13:43+00:00,631557,7611,338,11.38,False,Thursday,5,34,0.012586354042469642
+mycodeschool,Direction of a point from a line segment,2014-03-04 16:03:13+00:00,24088,326,27,12.07,False,Tuesday,16,40,0.014654599800730654
+mycodeschool,Binary tree traversal - breadth-first and depth-first strategies,2014-02-26 01:10:27+00:00,838992,8147,197,11.9,False,Wednesday,1,64,0.009945267654518756
+mycodeschool,Find min and max element in a binary search tree,2014-02-13 01:37:52+00:00,366423,2942,78,5.8,False,Thursday,1,48,0.008241840714147311
+mycodeschool,BST implementation -  memory allocation in stack and heap,2014-02-10 16:07:49+00:00,309829,3542,162,13.07,False,Monday,16,57,0.011954981618893003
+mycodeschool,Binary search tree - Implementation in C/C++,2014-02-04 11:40:40+00:00,1414698,14877,617,18.6,False,Tuesday,11,44,0.010952160814534269
+mycodeschool,Data structures: Binary Search Tree,2014-01-25 04:55:55+00:00,1394492,13499,390,19.47,False,Saturday,4,35,0.009959899375543209
+mycodeschool,Data structures: Binary Tree,2014-01-18 06:08:28+00:00,1514138,14328,389,16.28,False,Saturday,6,28,0.009719721716250435
+mycodeschool,Data structures: Introduction to Trees,2014-01-12 08:06:59+00:00,1543182,19832,459,15.83,False,Sunday,8,38,0.013148805520022913
+mycodeschool,Analysis of quicksort,2013-12-16 16:25:05+00:00,315154,2913,163,20.28,False,Monday,16,21,0.009760307659112687
+mycodeschool,Area of polygon,2013-12-09 17:08:38+00:00,41272,530,29,13.97,False,Monday,17,15,0.013544291529366157
+mycodeschool,Infix to Postfix using stack,2013-12-09 04:50:34+00:00,770395,7646,351,18.33,False,Monday,4,28,0.010380389280823474
+mycodeschool,Evaluation of Prefix and Postfix expressions using stack,2013-11-29 06:02:06+00:00,649678,6458,271,14.17,False,Friday,6,56,0.01035743860804891
+mycodeschool,"Infix, Prefix and Postfix",2013-11-26 05:17:18+00:00,957254,8896,272,13.63,False,Tuesday,5,25,0.009577395341257388
+mycodeschool,Data structures: Linked List implementation of Queue,2013-11-17 07:10:00+00:00,559288,5819,233,14.28,False,Sunday,7,52,0.010820900859664431
+mycodeschool,Doubly Linked List - Implementation in C/C++,2013-11-13 00:19:33+00:00,601323,5733,281,15.35,False,Wednesday,0,44,0.010001280509809205
+mycodeschool,Data structures: Introduction to Doubly Linked List,2013-11-12 09:31:15+00:00,519150,4199,84,7.22,False,Tuesday,9,51,0.008250024077819513
+mycodeschool,Data structures: Array implementation of Queue,2013-11-06 06:34:08+00:00,916983,9547,387,14.98,False,Wednesday,6,46,0.010833352417656598
+mycodeschool,Data structures: Introduction to Queues,2013-11-01 13:30:16+00:00,538741,5322,130,9.32,False,Friday,13,39,0.010119890633903861
+mycodeschool,Check for balanced parentheses using stack,2013-10-29 00:54:17+00:00,487878,5263,200,14.22,False,Tuesday,0,42,0.011197471499022296
+mycodeschool,Reverse a string or linked list using stack.,2013-10-15 17:32:13+00:00,390698,2805,183,16.42,False,Tuesday,17,44,0.007647850769648168
+mycodeschool,GCD using Euclid's algorithm,2013-10-10 09:48:54+00:00,65520,1014,64,15.55,False,Thursday,9,28,0.016452991452991454
+mycodeschool,Data Structures: Linked List implementation of stacks,2013-10-10 08:09:40+00:00,648262,5496,206,10.97,False,Thursday,8,53,0.008795826378840655
+mycodeschool,Data structures: Array implementation of stacks,2013-10-08 02:52:32+00:00,867393,7348,297,13.15,False,Tuesday,2,47,0.00881376723123198
+mycodeschool,Data structures: Introduction to stack,2013-10-01 10:24:32+00:00,616690,5520,140,8.43,False,Tuesday,10,38,0.009178031101525888
+mycodeschool,Function pointers and callbacks,2013-09-28 01:26:58+00:00,342455,4300,179,15.32,False,Saturday,1,31,0.01307909068344746
+mycodeschool,Function Pointers in C / C++,2013-09-22 19:19:11+00:00,445956,6357,256,11.95,False,Sunday,19,28,0.014828817192727533
+mycodeschool,Pointers and multidimensional arrays,2013-09-18 14:10:25+00:00,248959,2728,146,16.75,False,Wednesday,14,36,0.01154406950542057
+mycodeschool,Pointers and 2-D arrays,2013-09-07 08:13:03+00:00,491813,5863,307,12.32,False,Saturday,8,23,0.012545418685557315
+mycodeschool,mycodeschool.com - Walk-through and Getting started.,2013-09-06 14:46:33+00:00,4570,71,25,2.52,False,Friday,14,52,0.02100656455142232
+mycodeschool,"Data types, Constants and Variables - C Programming Tutorial 05",2013-08-25 06:28:40+00:00,179384,1453,52,16.13,False,Sunday,6,63,0.008389822949649912
+mycodeschool,Installing and configuring gcc / g++ on Windows.,2013-08-16 07:33:57+00:00,157569,904,57,3.15,False,Friday,7,48,0.006098915395794858
+mycodeschool,Working with Integrated Development Environments (IDEs): C Programming Tutorial 04,2013-08-14 08:12:31+00:00,106017,630,36,10.97,False,Wednesday,8,82,0.006282011375534112
+mycodeschool,Writing and executing your first program: C Programming Tutorial 03,2013-08-14 07:47:35+00:00,232828,1794,86,9.43,False,Wednesday,7,67,0.008074630199116944
+mycodeschool,Basics of computer's memory and Getting started: C Programming Tutorial 02,2013-08-14 05:04:53+00:00,227616,2515,66,9.62,False,Wednesday,5,74,0.011339273161816392
+mycodeschool,Introduction to programming and programming languages: C Programming Tutorial 01,2013-08-14 04:58:14+00:00,782405,7781,285,17.37,False,Wednesday,4,80,0.01030923882132655
+mycodeschool,Quicksort algorithm,2013-07-23 03:25:01+00:00,1890073,18476,1008,20.65,False,Tuesday,3,19,0.010308596546270964
+mycodeschool,Analysis of Merge sort algorithm,2013-07-06 12:21:00+00:00,555271,4426,206,18.35,False,Saturday,12,32,0.008341872707200628
+mycodeschool,Merge sort algorithm,2013-07-02 18:00:10+00:00,2305553,22757,1233,18.33,False,Tuesday,18,20,0.010405312738418939
+mycodeschool,Insertion sort algorithm,2013-06-12 10:19:17+00:00,1617634,14177,493,14.25,False,Wednesday,10,24,0.00906880048268026
+mycodeschool,Bubble sort algorithm,2013-06-07 14:32:45+00:00,1820081,15388,414,10.4,False,Friday,14,21,0.008682031184326412
+mycodeschool,Selection sort algorithm,2013-06-07 14:32:14+00:00,1325773,10280,369,10.3,False,Friday,14,24,0.008032295121412188
+mycodeschool,Introduction to sorting algorithms,2013-06-07 14:31:07+00:00,966738,7098,190,8.95,False,Friday,14,34,0.00753875403677108
+mycodeschool,Print 2-D array in spiral order,2013-05-22 16:39:25+00:00,229488,2698,177,10.22,False,Wednesday,16,31,0.012527888168444537
+mycodeschool,Memory leak in C/C++,2013-05-08 06:28:52+00:00,250402,4527,337,17.92,False,Wednesday,6,20,0.019424764977915513
+mycodeschool,Reverse a linked list using recursion,2013-05-02 08:10:59+00:00,620764,5250,340,8.92,False,Thursday,8,37,0.009005032508328447
+mycodeschool,Print elements of a linked list in forward and reverse order using recursion,2013-04-30 17:28:13+00:00,363570,2647,146,14.4,False,Tuesday,17,76,0.007682151992738675
+mycodeschool,Reverse a linked list - Iterative method,2013-04-29 01:16:48+00:00,785704,7150,318,13.83,False,Monday,1,40,0.009504851699876799
+mycodeschool,Character arrays and pointers - part 2,2013-04-25 14:57:00+00:00,275580,3090,157,10.02,False,Thursday,14,38,0.011782422527033893
+mycodeschool,Character arrays and pointers - part 1,2013-04-24 16:39:18+00:00,555173,5666,327,14.68,False,Wednesday,16,38,0.010794833322225684
+mycodeschool,Pointers to Pointers in C/C++,2013-04-20 08:55:26+00:00,551216,7109,340,9.35,False,Saturday,8,29,0.013513758671736669
+mycodeschool,Pointers as function returns in C/C++,2013-04-13 06:49:34+00:00,285517,4407,245,15.25,False,Saturday,6,37,0.016293250489462976
+mycodeschool,Linked List in C/C++ - Delete a node at nth position,2013-04-10 18:27:40+00:00,550417,3899,305,12.5,False,Wednesday,18,52,0.007637845488057237
+mycodeschool,Linked List in C/C++ - Insert a node at nth position,2013-04-09 15:09:20+00:00,741789,5024,359,15.25,False,Tuesday,15,52,0.007256780566980637
+mycodeschool,Linked List in C/C++ - Inserting a node at beginning,2013-04-06 18:27:00+00:00,1175640,8448,580,12.83,False,Saturday,18,52,0.007679221530400463
+mycodeschool,Linked List - Implementation in C/C++,2013-04-04 13:56:15+00:00,1660646,13648,579,13.97,False,Thursday,13,37,0.008567147965309885
+mycodeschool,Data Structures: Arrays vs Linked Lists,2013-04-02 17:13:37+00:00,812431,7319,244,12.27,False,Tuesday,17,39,0.009309098249574425
+mycodeschool,Introduction to linked list,2013-03-28 09:45:09+00:00,1708705,19492,887,17.22,False,Thursday,9,27,0.011926575974202686
+mycodeschool,Data Structures: List as abstract data type,2013-03-25 23:49:11+00:00,1149641,8950,259,13.13,False,Monday,23,43,0.008010326701987838
+mycodeschool,Introduction to data structures,2013-03-25 23:48:32+00:00,3104915,20774,588,6.55,False,Monday,23,31,0.0068800595185375445
+mycodeschool,Arrays as function arguments,2013-03-19 08:33:50+00:00,383666,4682,240,12.9,False,Tuesday,8,28,0.012828866774746785
+mycodeschool,Dynamic memory allocation in C - malloc calloc realloc free,2013-03-05 06:59:10+00:00,900899,12763,542,17.58,False,Tuesday,6,59,0.014768581161706252
+mycodeschool,Pointers and dynamic memory - stack vs heap,2013-02-23 19:01:08+00:00,1562903,31587,1080,17.43,False,Saturday,19,43,0.02090148908793444
+mycodeschool,Pointers and arrays,2013-02-20 15:10:20+00:00,659578,7632,273,8.72,False,Wednesday,15,19,0.011984935822601725
+mycodeschool,"Pointer types, pointer arithmetic, void pointers",2013-02-18 17:01:43+00:00,494977,6617,429,10.95,False,Monday,17,48,0.014235004858811622
+mycodeschool,Pointers as function arguments - call by reference,2013-02-16 17:18:08+00:00,495236,7110,351,14.27,False,Saturday,17,50,0.015065544508072919
+mycodeschool,Search element in a circular sorted array,2013-02-12 12:45:07+00:00,125842,1344,58,12.37,False,Tuesday,12,41,0.011140954530284007
+mycodeschool,How many times is a sorted array rotated?,2013-02-11 16:32:49+00:00,174172,1665,154,13.05,False,Monday,16,41,0.010443699331695106
+mycodeschool,Count occurrences of a number in a sorted array with duplicates using Binary Search,2013-02-08 15:18:23+00:00,247423,2005,96,12.42,False,Friday,15,83,0.008491530698439515
+mycodeschool,Binary Search - Recursive implementation,2013-01-30 14:23:16+00:00,167159,1772,67,9.17,False,Wednesday,14,40,0.011001501564378825
+mycodeschool,Binary search - finding first or last occurrence of a number,2013-01-27 14:16:12+00:00,359718,2192,100,10.45,False,Sunday,14,60,0.00637165779860891
+mycodeschool,Binary Search - Iterative Implementation and common errors,2013-01-26 08:44:45+00:00,152309,1357,37,10.18,False,Saturday,8,58,0.009152446670912421
+mycodeschool,What is binary search,2013-01-23 20:07:43+00:00,711848,5989,271,12.75,False,Wednesday,20,21,0.008794012204852722
+mycodeschool,Prime factorization of a number,2013-01-18 10:38:21+00:00,90575,1109,73,11.78,False,Friday,10,31,0.013049958597847088
+mycodeschool,Finding all factors of a number,2013-01-14 11:32:11+00:00,114774,936,42,6.88,False,Monday,11,31,0.008521093627476606
+mycodeschool,Finding Prime numbers - Sieve of Eratosthenes,2013-01-10 12:16:47+00:00,311102,3582,158,9.9,False,Thursday,12,45,0.012021780637861537
+mycodeschool,Working with pointers,2013-01-08 08:14:48+00:00,589579,7755,412,11.63,False,Tuesday,8,21,0.013852257288675479
+mycodeschool,Arrays in programming - fundamentals,2013-01-06 17:43:30+00:00,159004,1170,28,10.23,False,Sunday,17,36,0.007534401650272949
+mycodeschool,Introduction to pointers in C/C++,2013-01-06 17:42:06+00:00,1604374,20087,903,10.12,False,Sunday,17,33,0.013082984391419956
+mycodeschool,Time complexity analysis - some general rules,2012-12-08 16:41:14+00:00,574559,7201,262,8.33,False,Saturday,16,45,0.012989092503990017
+mycodeschool,"Time complexity analysis: asymptotic notations - big oh, theta ,omega",2012-12-03 19:03:06+00:00,655875,5299,205,10.67,False,Monday,19,69,0.008391842957880693
+mycodeschool,Time complexity analysis - How to calculate running time?,2012-12-03 19:00:00+00:00,1038312,7788,259,11.05,False,Monday,19,57,0.0077500789743352675
+mycodeschool,Exponentiation - Time Complexity analysis of recursion,2012-10-18 14:10:04+00:00,94572,1073,41,8.47,False,Thursday,14,54,0.011779385018821639
+mycodeschool,"Exponentiation - Calculate Pow(x,n) using recursion",2012-10-15 17:37:54+00:00,170627,1885,84,8.07,False,Monday,17,51,0.011539791474971722
+mycodeschool,Modular exponentiation - using Recursion,2012-10-15 17:36:28+00:00,107442,1113,54,7.58,False,Monday,17,40,0.010861674205617915
+mycodeschool,Fibonacci Sequence - Anatomy of recursion and space complexity analysis,2012-10-11 13:10:39+00:00,248831,3243,88,9.65,False,Thursday,13,71,0.013386595721594174
+mycodeschool,Time Complexity analysis of recursion - Fibonacci Sequence,2012-10-10 17:48:24+00:00,371837,3527,136,9.47,False,Wednesday,17,58,0.009851090666071424
+mycodeschool,Time and space complexity analysis of recursive programs - using factorial,2012-10-10 09:17:27+00:00,472067,4576,131,8.05,False,Wednesday,9,74,0.009971042246121843
+mycodeschool,Fibonacci Sequence - Recursion with memoization,2012-10-01 09:34:43+00:00,203416,2105,89,9.2,False,Monday,9,47,0.010785778896448658
+mycodeschool,Why recursion is not always good,2012-09-25 15:46:02+00:00,146756,1650,50,8.45,False,Tuesday,15,32,0.011583853471067622
+mycodeschool,Recursion basics - using factorial,2012-09-23 10:03:03+00:00,334310,2780,126,8.68,False,Sunday,10,34,0.00869253088450839
+mycodeschool,Convert a number from decimal to binary.,2012-09-19 17:46:36+00:00,97806,790,28,7.63,False,Wednesday,17,40,0.008363495082101302
+mycodeschool,What is binary number system,2012-09-17 01:13:29+00:00,284502,2160,68,5.55,False,Monday,1,28,0.007831227899979613
+mycodeschool,Verify a Prime number - Trial division method,2012-09-13 10:41:03+00:00,121353,1301,38,6.85,False,Thursday,10,45,0.011033925819716035
+mycodeschool,Time complexity of a computer program,2012-09-11 16:26:36+00:00,690199,6424,230,9.7,False,Tuesday,16,37,0.009640697827727945

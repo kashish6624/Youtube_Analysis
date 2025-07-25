@@ -1,0 +1,972 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Kevin Powell,:has() is more than a parent selector,2025-07-09 13:01:14+00:00,10726,902,43,11.75,False,Wednesday,13,37,0.08810367331717323
+Kevin Powell,Breaking Through the ShadowDOM with Style Queries,2025-07-02 13:01:31+00:00,14863,667,20,13.85,False,Wednesday,13,49,0.04622216241673956
+Kevin Powell,Style selected text using ::selection,2025-06-26 13:01:19+00:00,10303,410,9,1.3,False,Thursday,13,37,0.04066776666990197
+Kevin Powell,Easier Site-Wide Theming with Style Queries,2025-06-25 16:27:43+00:00,22080,1233,36,6.08,False,Wednesday,16,43,0.05747282608695652
+Kevin Powell,Take control of your list styling with ::marker,2025-06-19 13:00:22+00:00,12987,447,8,1.38,False,Thursday,13,47,0.035035035035035036
+Kevin Powell,Getting started with CSS Style Queries,2025-06-18 12:56:54+00:00,29272,1227,73,17.8,False,Wednesday,12,38,0.04441104126810604
+Kevin Powell,Seems that not enough people know about these pseudo-elements,2025-06-16 13:01:38+00:00,11786,707,30,7.78,False,Monday,13,61,0.06253181741048702
+Kevin Powell,I challenge a CSS Magician to a CSS Battle!,2025-06-13 13:01:13+00:00,54035,1679,85,20.85,False,Friday,13,43,0.032645507541408346
+Kevin Powell,The State of CSS 2025 survey,2025-06-12 19:22:38+00:00,7842,279,7,188.67,False,Thursday,19,28,0.03647028819178781
+Kevin Powell,Make Any Text Instantly Selectable,2025-06-12 13:00:52+00:00,110363,4160,55,0.68,True,Thursday,13,34,0.0381921477306706
+Kevin Powell,Create this trendy blurry glass effect with CSS,2025-06-11 13:01:09+00:00,41091,2340,116,19.1,False,Wednesday,13,47,0.05976977927039984
+Kevin Powell,:has() is more than a parent selector,2025-06-05 13:01:03+00:00,26830,1232,27,2.3,False,Thursday,13,37,0.046925083861349234
+Kevin Powell,Make an animated glowing border effect with CSS,2025-06-04 13:00:37+00:00,35312,2117,110,30.17,False,Wednesday,13,47,0.06306637970095152
+Kevin Powell,Easily transition to and from display none,2025-05-29 13:01:54+00:00,21247,1199,42,2.35,False,Thursday,13,42,0.05840824587000518
+Kevin Powell,Form Styling Essentials | The basics to modern CSS tips & tricks,2025-05-28 13:01:27+00:00,30914,1721,88,19.45,False,Wednesday,13,64,0.058517176683703175
+Kevin Powell,Pro Developer Tries to Survive CSS Hell,2025-05-23 13:02:01+00:00,22969,626,30,45.68,False,Friday,13,39,0.028560233358004266
+Kevin Powell,The most important CSS update we've seen in a long time,2025-05-22 19:16:26+00:00,16089,369,17,168.85,False,Thursday,19,55,0.0239915470197029
+Kevin Powell,:placeholder-shown is more powerful than you might realize,2025-05-22 13:01:36+00:00,30481,1657,29,1.9,False,Thursday,13,58,0.05531314589416358
+Kevin Powell,CSS makes sense when you realize it's a collection of algorithms,2025-05-21 13:01:35+00:00,18126,956,61,12.83,False,Wednesday,13,64,0.05610724925521351
+Kevin Powell,I challenged the Syntax crew to a CSS BATTLE!,2025-05-16 14:00:43+00:00,54680,1838,133,38.05,False,Friday,14,45,0.036046086320409655
+Kevin Powell,Content-First Breakpoints,2025-05-14 13:00:25+00:00,29708,1396,82,25.83,False,Wednesday,13,25,0.04975090884610206
+Kevin Powell,Figma Sites is worse than you might have thought,2025-05-09 12:43:09+00:00,85706,3120,554,8.93,False,Friday,12,48,0.04286747718946165
+Kevin Powell,Can I survive CSS Hell?,2025-05-08 19:59:38+00:00,14534,370,16,159.3,False,Thursday,19,23,0.0265584147516169
+Kevin Powell,5 CSS tips every developer should know,2025-05-07 13:01:08+00:00,42387,2141,78,26.17,False,Wednesday,13,38,0.052350956661240476
+Kevin Powell,Emulate system color schemes in a couple of clicks,2025-05-01 13:00:35+00:00,14058,344,1,0.8,True,Thursday,13,50,0.0245411865130175
+Kevin Powell,The MOST ANNOYING thing about CSS,2025-04-30 13:00:37+00:00,16813,1180,85,4.15,False,Wednesday,13,33,0.07523939808481532
+Kevin Powell,This custom property trick solves a common CSS problem,2025-04-23 13:00:49+00:00,23436,1026,31,10.45,False,Wednesday,13,54,0.04510155316606929
+Kevin Powell,z-index animation fix,2025-04-18 13:00:47+00:00,20063,1016,20,1.67,False,Friday,13,21,0.051637342371529685
+Kevin Powell,New CSS features to know for 2025,2025-04-16 04:00:06+00:00,52056,2601,162,33.4,False,Wednesday,4,33,0.053077455048409404
+Kevin Powell,How to set max-columns using auto-fit or auto-fill,2025-04-09 13:00:15+00:00,22235,1196,60,16.75,False,Wednesday,13,50,0.05648751967618619
+Kevin Powell,I challenged a CSS Wizard to a CSS Battle,2025-04-02 13:00:44+00:00,29811,806,56,24.9,False,Wednesday,13,41,0.02891550098956761
+Kevin Powell,:focus gets focus states wrong,2025-04-02 13:00:27+00:00,7907,463,5,1.9,False,Wednesday,13,30,0.059188061211584674
+Kevin Powell,Learning how CSS-only carousels are going to work,2025-04-01 13:00:58+00:00,39350,1711,184,39.65,False,Tuesday,13,49,0.04815756035578145
+Kevin Powell,Level up your responsive type,2025-03-27 13:00:28+00:00,23660,1357,22,1.18,False,Thursday,13,29,0.05828402366863905
+Kevin Powell,Responsive Bento Grid | CSS Tutorial | Frontend Mentor Challenge,2025-03-26 14:29:29+00:00,27433,1051,38,64.6,False,Wednesday,14,64,0.03969671563445485
+Kevin Powell,Quick accessibility wins that are easy to implement,2025-03-19 13:01:22+00:00,20167,954,68,29.37,False,Wednesday,13,51,0.05067684831655675
+Kevin Powell,Create a fun quick text flip effect,2025-03-12 14:00:11+00:00,14507,898,49,14.35,False,Wednesday,14,35,0.06527883090921624
+Kevin Powell,Wrapper Classes: A Layout Foundation,2025-03-05 15:01:15+00:00,23051,1202,64,9.48,False,Wednesday,15,36,0.054921695371133575
+Kevin Powell,A simple shift to better understand CSS,2025-02-27 14:00:39+00:00,12808,541,8,1.18,False,Thursday,14,39,0.042863835103060584
+Kevin Powell,Redesigning a webpage,2025-02-21 20:47:49+00:00,18547,506,6,210.38,False,Friday,20,21,0.02760554267536529
+Kevin Powell,Improve forms with :user-valid and :user-invalid,2025-02-20 14:00:29+00:00,10149,669,5,1.77,False,Thursday,14,48,0.06641048379150655
+Kevin Powell,Breakpoint-Free CSS Grid Layouts,2025-02-19 14:00:43+00:00,55120,3305,109,11.38,False,Wednesday,14,32,0.06193759071117562
+Kevin Powell,The unexpected burden that can come from a disability,2025-02-13 14:45:48+00:00,5472,173,7,1.0,False,Thursday,14,53,0.03289473684210526
+Kevin Powell,Don't use spans or code for shortcuts and keystrokes,2025-02-12 14:00:50+00:00,23132,1144,48,13.18,False,Wednesday,14,52,0.05153034757046516
+Kevin Powell,Fixing when CSS Grid has extra spacing,2025-02-10 14:00:30+00:00,15336,1041,27,3.55,False,Monday,14,38,0.06964006259780908
+Kevin Powell,What if you suddenly couldn't type anymore?,2025-02-07 14:00:27+00:00,11431,615,82,34.63,False,Friday,14,43,0.0609745429096317
+Kevin Powell,Using code elements when you should be using kbd?,2025-02-06 14:00:29+00:00,19410,882,20,1.72,False,Thursday,14,49,0.04647089129314786
+Kevin Powell,"Create a super fun ""focus by negation"" effect",2025-02-05 14:00:34+00:00,28324,1440,75,32.1,False,Wednesday,14,45,0.0534882078802429
+Kevin Powell,Centering in CSS is a meme for the wrong reasons,2025-02-03 14:00:29+00:00,54085,3503,71,2.18,False,Monday,14,48,0.06608116853101599
+Kevin Powell,Remove empty elements with one line of CSS - great for dynamic content,2025-01-30 14:00:22+00:00,21519,1544,24,1.42,False,Thursday,14,70,0.07286583949068265
+Kevin Powell,My best CSS tips from 2024,2025-01-29 14:01:00+00:00,38321,2243,65,16.92,False,Wednesday,14,26,0.060228073380130996
+Kevin Powell,Creating a dark theme for a website live,2025-01-24 21:09:33+00:00,13247,535,8,196.8,False,Friday,21,40,0.04099041292368083
+Kevin Powell,You can scope styles with vanilla CSS now,2025-01-24 14:00:19+00:00,10463,447,10,2.75,False,Friday,14,41,0.04367772149479117
+Kevin Powell,MPA View Transitions deep dive,2025-01-23 15:01:06+00:00,18984,774,69,51.12,False,Thursday,15,30,0.04440581542351454
+Kevin Powell,Scroll state queries are on the way! (and a bunch more),2025-01-22 14:01:01+00:00,17152,878,60,10.75,False,Wednesday,14,55,0.0546875
+Kevin Powell,Centering in CSS keeps getting easier,2025-01-20 14:00:48+00:00,48031,2782,94,0.72,True,Monday,14,37,0.0598779954612646
+Kevin Powell,Floats are still relevant in 2025,2025-01-16 14:01:07+00:00,51082,3310,49,1.2,False,Thursday,14,33,0.06575701812771623
+Kevin Powell,CSS lessons for your parking fails,2025-01-13 15:16:56+00:00,12666,566,25,2.7,False,Monday,15,34,0.046660350544765514
+Kevin Powell,HTML & CSS for Absolute Beginners: Creating and linking to a CSS file,2025-01-10 15:03:03+00:00,10387,171,9,3.97,False,Friday,15,69,0.01732935400019255
+Kevin Powell,HTML & CSS for Absolute Beginners: What's next?,2025-01-10 15:03:02+00:00,4604,293,55,5.32,False,Friday,15,47,0.07558644656820157
+Kevin Powell,HTML & CSS for Absolute Beginners: HTML Lists (ol and ul),2025-01-10 15:03:01+00:00,6585,128,3,6.22,False,Friday,15,57,0.019893697798025817
+Kevin Powell,HTML & CSS for Absolute Beginners: Dev tools,2025-01-10 15:03:01+00:00,4521,143,5,5.25,False,Friday,15,44,0.0327361203273612
+Kevin Powell,HTML & CSS for Absolute Beginners: Adding content to our project,2025-01-10 15:03:01+00:00,8896,160,3,6.75,False,Friday,15,64,0.018322841726618706
+Kevin Powell,HTML & CSS for Absolute Beginners: Images,2025-01-10 15:03:01+00:00,6827,156,8,12.6,False,Friday,15,41,0.024022264537864362
+Kevin Powell,HTML & CSS for Absolute Beginners: Box model - Borders,2025-01-10 15:03:01+00:00,4331,103,4,7.22,False,Friday,15,54,0.024705610713461095
+Kevin Powell,HTML & CSS for Absolute Beginners: Creating a two-column layout,2025-01-10 15:03:01+00:00,6384,131,4,11.27,False,Friday,15,63,0.021146616541353382
+Kevin Powell,HTML & CSS for Absolute Beginners: Divs and Spans,2025-01-10 15:03:01+00:00,4856,126,8,11.62,False,Friday,15,49,0.02759472817133443
+Kevin Powell,HTML & CSS for Absolute Beginners: Box Model - Margin,2025-01-10 15:03:01+00:00,3818,78,6,3.62,False,Friday,15,53,0.022001047668936617
+Kevin Powell,HTML & CSS for Absolute Beginners: Specificity + Dev tools,2025-01-10 15:02:59+00:00,2567,56,0,1.93,False,Friday,15,58,0.0218153486560187
+Kevin Powell,HTML & CSS for Absolute Beginners: Styling links with pseudo-classes,2025-01-10 15:02:59+00:00,6363,180,5,7.72,False,Friday,15,68,0.029074336005029074
+Kevin Powell,HTML & CSS for Absolute Beginners: box-sizing,2025-01-10 15:02:59+00:00,4561,119,0,4.78,False,Friday,15,45,0.026090769568077175
+Kevin Powell,HTML & CSS for Absolute Beginners: Text alignment,2025-01-10 15:02:59+00:00,8048,136,7,5.35,False,Friday,15,49,0.017768389662027834
+Kevin Powell,HTML & CSS for Absolute Beginners: Creating a second page,2025-01-10 15:02:58+00:00,6978,136,0,8.72,False,Friday,15,57,0.01948982516480367
+Kevin Powell,HTML & CSS for Absolute Beginners: HTML Headings,2025-01-10 15:02:58+00:00,9570,187,1,8.75,False,Friday,15,48,0.019644723092998955
+Kevin Powell,HTML & CSS for Absolute Beginners: IDs and Classes,2025-01-10 15:02:58+00:00,3850,95,6,7.28,False,Friday,15,50,0.026233766233766234
+Kevin Powell,HTML & CSS for Absolute Beginners: Font sizes,2025-01-10 15:02:57+00:00,5138,140,5,7.73,False,Friday,15,45,0.02822109770338653
+Kevin Powell,HTML & CSS for Absolute Beginners: Responsive images,2025-01-10 15:02:57+00:00,6895,213,9,6.13,False,Friday,15,52,0.032197244379985494
+Kevin Powell,HTML & CSS for Absolute Beginners: Styling lists,2025-01-10 15:02:57+00:00,3295,99,6,11.23,False,Friday,15,48,0.03186646433990895
+Kevin Powell,HTML & CSS for Absolute Beginners: CSS syntax / formatting CSS,2025-01-10 15:02:56+00:00,6371,138,2,6.28,False,Friday,15,62,0.02197457228064668
+Kevin Powell,HTML & CSS for Absolute Beginners: Intro to CSS,2025-01-10 15:02:55+00:00,5635,109,3,0.92,True,Friday,15,47,0.01987577639751553
+Kevin Powell,HTML & CSS for Absolute Beginners: Preventing layouts from getting too wide,2025-01-10 15:02:55+00:00,3839,118,10,12.92,False,Friday,15,75,0.033342016150039074
+Kevin Powell,HTML & CSS for Absolute Beginners: What is HTML?,2025-01-10 15:02:55+00:00,36005,896,57,7.62,False,Friday,15,48,0.026468546035272877
+Kevin Powell,HTML & CSS for Absolute Beginners: Semantic HTML,2025-01-10 15:02:55+00:00,10123,247,11,9.55,False,Friday,15,48,0.0254865158549837
+Kevin Powell,HTML & CSS for Absolute Beginners: Background images,2025-01-10 15:02:55+00:00,5328,139,6,16.63,False,Friday,15,52,0.027214714714714715
+Kevin Powell,HTML & CSS for Absolute Beginners: Finishing touches,2025-01-10 15:02:55+00:00,3268,75,1,2.92,False,Friday,15,52,0.023255813953488372
+Kevin Powell,HTML & CSS for Absolute Beginners: User Agent Styles,2025-01-10 15:02:55+00:00,4889,114,2,3.6,False,Friday,15,52,0.023726733483329925
+Kevin Powell,HTML & CSS for Absolute Beginners: Strong and Em elements,2025-01-10 15:02:55+00:00,6142,126,3,4.33,False,Friday,15,57,0.021002930641484858
+Kevin Powell,HTML & CSS for Absolute Beginners: A simple navigation,2025-01-10 15:02:55+00:00,4517,117,6,13.5,False,Friday,15,54,0.027230462696479964
+Kevin Powell,HTML & CSS for Absolute Beginners: Specificity,2025-01-10 15:02:53+00:00,3088,101,0,7.4,False,Friday,15,46,0.03270725388601036
+Kevin Powell,HTML & CSS for Absolute Beginners: HTML Comments,2025-01-10 15:02:52+00:00,6685,121,5,2.52,False,Friday,15,48,0.018848167539267015
+Kevin Powell,"HTML & CSS for Absolute Beginners: The box model - width, height, inline-size, block-size",2025-01-10 15:02:51+00:00,5533,151,2,9.43,False,Friday,15,89,0.02765226820892825
+Kevin Powell,HTML & CSS for Absolute Beginners: Line height and spacing,2025-01-10 15:02:51+00:00,6486,162,11,7.68,False,Friday,15,58,0.026672833795868024
+Kevin Powell,HTML & CSS for Absolute Beginners: Inheritence,2025-01-10 15:02:51+00:00,5083,103,5,6.45,False,Friday,15,46,0.021247294904583908
+Kevin Powell,HTML & CSS for Absolute Beginners: The new layout!,2025-01-10 15:02:51+00:00,4050,81,1,2.42,False,Friday,15,50,0.020246913580246915
+Kevin Powell,HTML & CSS for Absolute Beginners: Box model - Padding,2025-01-10 15:02:51+00:00,5610,154,3,8.83,False,Friday,15,54,0.027985739750445632
+Kevin Powell,HTML & CSS for Absolute Beginners: Font family and font stacks,2025-01-10 15:02:51+00:00,5262,109,3,5.57,False,Friday,15,62,0.021284682630178638
+Kevin Powell,HTML & CSS for Absolute Beginners: Nesting HTML elements,2025-01-10 15:02:51+00:00,7137,149,6,6.17,False,Friday,15,56,0.021717808603054504
+Kevin Powell,HTML & CSS for Absolute Beginners: Media Query basics - making a layout responsive,2025-01-10 15:02:51+00:00,3728,95,8,7.37,False,Friday,15,82,0.027628755364806867
+Kevin Powell,"HTML & CSS for Absolute Beginners: DOCTYPE, head, and body",2025-01-10 15:02:49+00:00,11816,219,9,9.48,False,Friday,15,58,0.01929587000677048
+Kevin Powell,HTML & CSS for Absolute Beginners: Root folder & your first HTML file,2025-01-10 15:02:49+00:00,14364,196,3,4.35,False,Friday,15,69,0.013854079643553327
+Kevin Powell,HTML & CSS for Absolute Beginners: Block & Inline elements,2025-01-10 15:02:49+00:00,6457,129,1,3.15,False,Friday,15,58,0.020133188787362553
+Kevin Powell,HTML & CSS for Absolute Beginners: Introduction,2025-01-10 15:02:48+00:00,45096,829,55,3.02,False,Friday,15,47,0.01960262551002306
+Kevin Powell,HTML & CSS for Absolute Beginners: A bit more flexbox stuff,2025-01-10 15:02:48+00:00,3040,69,3,1.87,False,Friday,15,59,0.02368421052631579
+Kevin Powell,HTML & CSS for Absolute Beginners: Descendant Selectors,2025-01-10 15:02:48+00:00,3204,75,0,4.63,False,Friday,15,55,0.023408239700374533
+Kevin Powell,HTML & CSS for Absolute Beginners: Creating links to other pages,2025-01-10 15:02:48+00:00,6138,146,3,9.52,False,Friday,15,64,0.02427500814597589
+Kevin Powell,HTML & CSS for Absolute Beginners: Inline CSS and Internal stylesheets,2025-01-10 15:02:48+00:00,4318,102,7,4.77,False,Friday,15,70,0.02524316813339509
+Kevin Powell,HTML & CSS for Absolute Beginners: CSS color basics,2025-01-10 15:02:48+00:00,7123,185,8,6.98,False,Friday,15,51,0.02709532500350976
+Kevin Powell,HTML & CSS for Absolute Beginners: Order in CSS is important,2025-01-10 15:02:48+00:00,5267,117,4,2.17,False,Friday,15,60,0.022973229542434023
+Kevin Powell,Super quick way to improve your gradients,2025-01-09 14:00:22+00:00,36560,2411,34,1.68,False,Thursday,14,41,0.06687636761487965
+Kevin Powell,This CSS Color Game is way harder than I expected,2025-01-08 14:00:16+00:00,7176,273,28,12.5,False,Wednesday,14,49,0.0419453734671126
+Kevin Powell,Easily create overlapping sections on a website,2025-01-02 14:00:42+00:00,49391,2407,177,11.33,False,Thursday,14,47,0.052317223785709945
+Kevin Powell,What is azure?? Guessing CSS color keyword values: part 4,2024-12-27 15:43:16+00:00,2334,54,2,0.52,True,Friday,15,57,0.023993144815766924
+Kevin Powell,"Deep pink, dodgerblue... Guessing CSS color keyword values: part 3",2024-12-27 15:43:00+00:00,1747,46,0,0.88,True,Friday,15,66,0.02633085289066972
+Kevin Powell,Is golden rod more gold than gold? 😅 Guessing CSS color keyword values: part 2,2024-12-27 15:42:50+00:00,5450,102,4,1.0,False,Friday,15,78,0.019449541284403668
+Kevin Powell,Bisque? Guessing CSS color keyword values: part 1,2024-12-27 15:42:35+00:00,3264,96,4,0.43,True,Friday,15,49,0.030637254901960783
+Kevin Powell,This named color picker is awesome,2024-12-20 14:00:24+00:00,8692,593,9,0.78,True,Friday,14,34,0.06925908881730326
+Kevin Powell,Improve your animations by adding weight to them,2024-12-19 14:00:11+00:00,19631,1521,18,1.4,False,Thursday,14,48,0.07839641383526055
+Kevin Powell,This position absolute mistake is ruining modals,2024-12-18 15:02:11+00:00,36035,2555,199,4.85,False,Wednesday,15,48,0.07642569723879561
+Kevin Powell,Animate and do math on things like height: auto with interpolate-size and calc-size(),2024-12-13 14:06:02+00:00,23885,1228,63,15.15,False,Friday,14,85,0.05405065940967134
+Kevin Powell,No more extra scrollbars when using overflow-x,2024-12-12 14:00:19+00:00,42913,3201,31,1.53,False,Thursday,14,46,0.07531517255843218
+Kevin Powell,CSS Grid Alignment & Justification Without the Guesswork,2024-12-11 14:00:28+00:00,25775,1448,33,13.28,False,Wednesday,14,56,0.05745877788554801
+Kevin Powell,Timing functions + ranges make scroll-driven animations even better,2024-12-06 18:38:19+00:00,6174,316,3,0.88,True,Friday,18,67,0.05166828636216391
+Kevin Powell,"Grid auto-fit, but with even number of columns only",2024-12-05 14:00:59+00:00,32684,2621,31,1.68,False,Thursday,14,51,0.08114061926324807
+Kevin Powell,A Simple Fix for Your CSS Overflow Problems,2024-12-04 14:00:03+00:00,31364,2221,58,3.5,False,Wednesday,14,43,0.07266292564723888
+Kevin Powell,"Can I clone this rotating, gradient, inner glow effect?",2024-11-27 14:00:41+00:00,55686,2305,92,23.08,False,Wednesday,14,55,0.043044930503178536
+Kevin Powell,CSS Popover + Anchor Positioning is Magical,2024-11-20 14:00:19+00:00,73333,3316,122,20.73,False,Wednesday,14,43,0.04688203128196037
+Kevin Powell,Improve your forms with a couple lines of CSS,2024-11-13 14:01:01+00:00,87129,5732,55,1.0,False,Wednesday,14,45,0.06641875839272803
+Kevin Powell,Figma's missing feature that ancient software added decades ago,2024-11-13 14:00:07+00:00,14272,578,106,8.17,False,Wednesday,14,63,0.047926008968609865
+Kevin Powell,Stop Writing Extra Code: HTML Inputs Are More Powerful Than You Think,2024-11-07 15:19:28+00:00,45568,3166,44,1.72,False,Thursday,15,69,0.07044417134831461
+Kevin Powell,Center the bottom row when using grid auto-fit,2024-11-06 14:00:15+00:00,28468,1226,78,26.9,False,Wednesday,14,46,0.045805817057749054
+Kevin Powell,Don't use viewport units for font-size,2024-10-31 13:00:04+00:00,32426,2038,20,2.63,False,Thursday,13,38,0.06346758773823474
+Kevin Powell,Animate details & summary with a few lines of CSS,2024-10-30 13:00:41+00:00,45423,2167,102,12.6,False,Wednesday,13,49,0.04995266715100279
+Kevin Powell,My top 5 most popular front-end tips,2024-10-23 14:00:17+00:00,83358,4273,131,22.12,False,Wednesday,14,36,0.052832361620960194
+Kevin Powell,This new CSS property just solved animating to height auto,2024-10-16 13:00:30+00:00,59927,3563,178,5.8,False,Wednesday,13,58,0.062425951574415536
+Kevin Powell,"Please, don’t use viewport units for font sizes",2024-10-11 16:00:16+00:00,31760,1647,110,9.92,False,Friday,16,47,0.05532115869017632
+Kevin Powell,CSS Typography Crash Course,2024-10-02 13:00:39+00:00,20832,981,63,69.12,False,Wednesday,13,27,0.05011520737327189
+Kevin Powell,Creating a CSS Boilerplate,2024-10-01 18:57:46+00:00,20046,511,24,123.52,False,Tuesday,18,26,0.026688616182779606
+Kevin Powell,Style queries are better than I thought they would be,2024-09-30 13:14:50+00:00,28878,1272,53,7.48,False,Monday,13,53,0.04588267885587644
+Kevin Powell,Remove useless keyframes from your CSS animations,2024-09-26 13:00:04+00:00,34836,2174,17,0.82,True,Thursday,13,49,0.06289470662533012
+Kevin Powell,Dynamic numbering with CSS counters,2024-09-25 13:00:58+00:00,23986,1412,75,12.07,False,Wednesday,13,35,0.061994496789794046
+Kevin Powell,Improve your forms with this underused HTML element,2024-09-19 13:00:56+00:00,67998,6288,52,0.98,True,Thursday,13,51,0.09323803641283566
+Kevin Powell,I gave three AI models a CSS quiz,2024-09-18 13:00:01+00:00,14808,468,80,50.52,False,Wednesday,13,33,0.037007023230686116
+Kevin Powell,Dynamically number elements with a few lines of CSS,2024-09-13 13:01:00+00:00,28110,2673,29,0.92,True,Friday,13,51,0.09612237637851298
+Kevin Powell,Create a blog with a headless CMS // Full 3-hour course // Astro + Wix Studio,2024-09-11 14:42:55+00:00,34240,941,122,168.3,False,Wednesday,14,77,0.031045560747663552
+Kevin Powell,npm for absolute beginners,2024-09-10 13:00:37+00:00,37623,1456,102,15.53,False,Tuesday,13,26,0.04141083911437153
+Kevin Powell,Flexbox Alignment & Justification Without the Guesswork,2024-09-06 13:01:05+00:00,23189,1355,62,14.45,False,Friday,13,55,0.061106559144421924
+Kevin Powell,Improve your reset with these modern CSS additions,2024-09-04 13:00:46+00:00,47653,2946,84,4.63,False,Wednesday,13,50,0.06358466413447213
+Kevin Powell,The State of CSS 2024,2024-08-30 13:00:38+00:00,20433,737,33,39.48,False,Friday,13,21,0.03768413840356286
+Kevin Powell,Turning off inheritance on custom props is more useful than I'd thought,2024-08-28 13:00:37+00:00,17807,960,27,3.85,False,Wednesday,13,71,0.05542764081540967
+Kevin Powell,Responsive Layouts Workshop,2024-08-24 07:43:49+00:00,30800,1172,33,173.6,False,Saturday,7,27,0.03912337662337662
+Kevin Powell,Flex: 1 probably doesn't work the way you think it does,2024-08-23 13:00:33+00:00,15685,1189,19,0.98,True,Friday,13,55,0.07701625757092764
+Kevin Powell,Easy fix for a very annoying z-index issue,2024-08-22 13:00:56+00:00,21550,1108,32,6.97,False,Thursday,13,42,0.052900232018561484
+Kevin Powell,Announcing something new!,2024-08-19 14:05:28+00:00,14294,671,65,6.25,False,Monday,14,25,0.05149013572128166
+Kevin Powell,Very small CSS tweaks for better forms,2024-08-16 13:41:50+00:00,53537,4582,117,3.58,False,Friday,13,38,0.08777107421035919
+Kevin Powell,A simple update for better form UX,2024-08-15 13:00:31+00:00,201934,15260,126,1.0,False,Thursday,13,34,0.07619321164340824
+Kevin Powell,The problem with Frontend Mentor,2024-08-14 14:39:12+00:00,29888,1185,58,5.73,False,Wednesday,14,32,0.041588597430406854
+Kevin Powell,An easy fix for an annoying CSS transition issue,2024-08-08 13:00:12+00:00,23346,2418,13,0.9,True,Thursday,13,48,0.1041291870127645
+Kevin Powell,"No, Flexbox isn't ""good enough""",2024-08-07 14:08:19+00:00,46425,2552,217,9.3,False,Wednesday,14,31,0.05964458804523425
+Kevin Powell,Improve your CSS animations with individual transforms,2024-08-01 13:00:28+00:00,43991,2649,22,0.97,True,Thursday,13,54,0.06071696483371599
+Kevin Powell,3 underused CSS Grid features,2024-07-31 16:15:58+00:00,36501,1806,55,14.18,False,Wednesday,16,29,0.050984904523163746
+Kevin Powell,A background-image trick most people don't know about,2024-07-25 13:00:21+00:00,130176,12146,67,1.0,False,Thursday,13,53,0.0938191371681416
+Kevin Powell,Taking on HTML & CSS challenges,2024-07-24 20:03:42+00:00,21358,719,8,202.52,False,Wednesday,20,31,0.034038767674875924
+Kevin Powell,Quick trick to boost specificity,2024-07-18 13:00:18+00:00,30723,2167,53,1.0,False,Thursday,13,32,0.07225856849917
+Kevin Powell,Design to Code // HTML & CSS from scratch // Frontend Mentor Form,2024-07-17 13:34:52+00:00,41641,1382,93,71.58,False,Wednesday,13,65,0.03542181984102207
+Kevin Powell,"One-liner to fix shadows, borders, and gradients that break multiple lines",2024-07-11 13:03:04+00:00,29082,2701,24,0.85,True,Thursday,13,74,0.09370057079980744
+Kevin Powell,"Stop the Flexbox for 1D, Grid for 2D layout nonsense",2024-07-10 17:38:39+00:00,57951,3076,169,10.37,False,Wednesday,17,52,0.05599558247484944
+Kevin Powell,Use this instead of white-space: nowrap,2024-07-04 13:00:06+00:00,97207,7947,41,0.92,True,Thursday,13,39,0.08217515199522668
+Kevin Powell,Relative colors make so many things easier!,2024-07-03 15:06:21+00:00,56806,2665,123,13.27,False,Wednesday,15,43,0.04907932260676689
+Kevin Powell,One small tweak to instantly improve your gradients,2024-06-27 13:00:37+00:00,101973,6738,40,0.7,True,Thursday,13,51,0.06646857501495494
+Kevin Powell,"""Smart"" design patterns with container queries",2024-06-26 13:12:35+00:00,47871,1708,60,15.45,False,Wednesday,13,46,0.036932589668066264
+Kevin Powell,Naming things just got easier thanks to @scope,2024-06-20 15:15:04+00:00,53772,1923,167,26.37,False,Thursday,15,46,0.03886781224429071
+Kevin Powell,CSS animations just got a lot more powerful,2024-06-19 13:00:03+00:00,84736,5257,40,0.98,True,Wednesday,13,43,0.06251180135951662
+Kevin Powell,"Chatting with Clark Sell on the current state of front-end, CSS, and more",2024-06-18 14:33:16+00:00,7801,270,26,8.13,False,Tuesday,14,73,0.03794385335213434
+Kevin Powell,Easily reduce the opacity of a custom property color with relative colors,2024-06-13 13:00:31+00:00,48338,3138,59,0.97,True,Thursday,13,73,0.06613844180561877
+Kevin Powell,JavaScript Promises Crash Course,2024-06-12 13:48:19+00:00,46388,2242,104,24.05,False,Wednesday,13,32,0.050573424161421056
+Kevin Powell,We can now transition to and from display: none,2024-06-06 13:48:38+00:00,128570,5096,248,21.33,False,Thursday,13,47,0.04156490627673641
+Kevin Powell,A great way to keep up with front-end development,2024-06-04 13:00:04+00:00,26587,1738,21,0.82,True,Tuesday,13,49,0.06616015345845715
+Kevin Powell,The different types of JavaScript functions explained,2024-05-29 14:25:03+00:00,54741,2738,147,14.78,False,Wednesday,14,53,0.05270272738897718
+Kevin Powell,Transitioning to and from display none is easy now!,2024-05-23 13:00:48+00:00,67280,6196,76,0.98,True,Thursday,13,51,0.09322235434007134
+Kevin Powell,Add an overlay to a background-image with one line of CSS,2024-05-22 15:41:58+00:00,76007,4481,134,6.33,False,Wednesday,15,57,0.060718091754706806
+Kevin Powell,Avoid these 5 beginner CSS mistakes,2024-05-16 13:59:35+00:00,94382,3184,141,21.63,False,Thursday,13,35,0.03522917505456549
+Kevin Powell,Fix ugly text wrapping with this simple CSS trick,2024-05-15 13:17:23+00:00,68996,7258,36,0.97,True,Wednesday,13,49,0.10571627340715403
+Kevin Powell,It's time for a change...,2024-05-14 13:09:33+00:00,85404,5172,354,4.18,False,Tuesday,13,25,0.06470422931010257
+Kevin Powell,A flexbox trick to improve text wrapping,2024-05-09 14:06:41+00:00,241533,16969,282,5.03,False,Thursday,14,40,0.0714229525572075
+Kevin Powell,Vertically centering WITHOUT flex or grid? It's so easy now!,2024-05-08 13:22:16+00:00,62626,3811,48,0.5,True,Wednesday,13,60,0.061619774534538374
+Kevin Powell,"JavaScript var, let, and const explained",2024-05-07 12:31:43+00:00,28480,1292,116,11.93,False,Tuesday,12,40,0.04943820224719101
+Kevin Powell,23 CSS features you should know (and be using) by now,2024-05-02 15:00:25+00:00,92416,4655,151,31.52,False,Thursday,15,53,0.05200398199445983
+Kevin Powell,What :focus should have been from the start,2024-05-01 13:00:51+00:00,17300,1030,9,0.5,True,Wednesday,13,43,0.06005780346820809
+Kevin Powell,Under-used CSS features 3: matrix-3d(),2024-05-01 13:00:30+00:00,23444,921,7,0.63,True,Wednesday,13,38,0.039583688790308824
+Kevin Powell,Under-used CSS features 1: overscroll-behavior: contain,2024-05-01 13:00:22+00:00,54292,4191,36,0.45,True,Wednesday,13,55,0.07785677447874456
+Kevin Powell,What would you call this layout?,2024-04-30 12:03:23+00:00,38319,1634,227,23.18,False,Tuesday,12,32,0.04856598554242021
+Kevin Powell,I never thought of using CSS animations like this before!,2024-04-25 13:49:36+00:00,74909,4182,129,10.47,False,Thursday,13,57,0.057549827123576605
+Kevin Powell,A great way to showcase your skills to employers,2024-04-24 13:00:45+00:00,18793,782,29,0.75,True,Wednesday,13,48,0.04315436598733571
+Kevin Powell,Write less CSS by taking advantage of inheritence,2024-04-23 13:04:43+00:00,23692,953,79,15.87,False,Tuesday,13,49,0.043559007259834547
+Kevin Powell,Is CSS getting harder to learn?,2024-04-22 12:54:10+00:00,18524,778,72,12.72,False,Monday,12,31,0.04588641762038437
+Kevin Powell,Super simple & useful CSS selector trick,2024-04-18 13:00:58+00:00,33247,2032,24,0.75,True,Thursday,13,40,0.06184016603001775
+Kevin Powell,"Fun button effect with HTML, CSS & JS",2024-04-18 13:00:53+00:00,23753,955,40,45.65,False,Thursday,13,37,0.041889445543720795
+Kevin Powell,How I find and debug issues in my CSS,2024-04-16 13:27:51+00:00,29880,1340,63,23.48,False,Tuesday,13,37,0.04695448460508701
+Kevin Powell,Write less code with these 5 CSS tips,2024-04-11 14:28:33+00:00,54992,2911,110,15.63,False,Thursday,14,37,0.054935263311027056
+Kevin Powell,Selecting the preceeding sibling with CSS is so easy now!,2024-04-10 13:00:35+00:00,133636,9631,67,0.97,True,Wednesday,13,57,0.07257026549732108
+Kevin Powell,These CSS features give us more control on the cascade and specificity,2024-04-09 16:51:02+00:00,21754,828,36,42.92,False,Tuesday,16,70,0.03971683368575894
+Kevin Powell,Create a diamond grid with CSS (with a bonus animation),2024-04-04 13:19:34+00:00,50494,2890,143,26.05,False,Thursday,13,55,0.06006654255951202
+Kevin Powell,New way to handle light/dark themes with CSS,2024-04-03 13:00:02+00:00,53919,2697,41,0.95,True,Wednesday,13,44,0.050779873513974665
+Kevin Powell,Animate nav on scroll - CSS-only & easy to customize,2024-04-02 16:50:02+00:00,57230,2265,88,26.87,False,Tuesday,16,52,0.04111479993010659
+Kevin Powell,@scope is coming to CSS and it's amazing 🤯,2024-03-29 18:37:45+00:00,35443,1726,55,0.97,True,Friday,18,42,0.0502496966961036
+Kevin Powell,Dynamic horizontal scrolling based on the amount of content,2024-03-28 16:00:22+00:00,44163,1467,31,7.92,False,Thursday,16,59,0.03391979711523221
+Kevin Powell,How to take control of Flexbox,2024-03-26 16:34:20+00:00,158342,6905,119,16.02,False,Tuesday,16,30,0.044359677154513645
+Kevin Powell,"Make position absolute work with you, not against you",2024-03-21 12:16:42+00:00,30517,1445,38,10.52,False,Thursday,12,53,0.048595864600058984
+Kevin Powell,Create a cool bubble zoom effect with CSS,2024-03-19 15:35:35+00:00,35745,1825,74,19.07,False,Tuesday,15,41,0.05312631137221989
+Kevin Powell,This changed how I use media queries,2024-03-14 14:40:23+00:00,45676,2765,107,5.1,False,Thursday,14,36,0.06287766004028374
+Kevin Powell,"Create an animated, circular progress bar",2024-03-12 15:52:55+00:00,51848,2183,126,34.62,False,Tuesday,15,41,0.04453402252738775
+Kevin Powell,Front-end developer takes on a CSS Battle,2024-03-07 16:38:00+00:00,37709,988,31,21.03,False,Thursday,16,41,0.027022726670025723
+Kevin Powell,A simple CSS solution to select ranges of content,2024-03-05 16:00:10+00:00,36260,1875,49,7.37,False,Tuesday,16,49,0.053061224489795916
+Kevin Powell,"Stop using terrible class names! With special guest, Adam Argyle!",2024-03-04 20:21:57+00:00,18872,635,37,120.18,False,Monday,20,65,0.03560830860534125
+Kevin Powell,Can I clone this fun effect from CSS Day using modern CSS?,2024-02-29 15:23:27+00:00,36943,1659,80,25.65,False,Thursday,15,58,0.047072517120970145
+Kevin Powell,A simple mistake that can screw up your light/dark theme (and how to fix it),2024-02-27 15:36:19+00:00,53416,2926,101,4.65,False,Tuesday,15,76,0.056668413958364534
+Kevin Powell,Using currentColor with color-mix is amazing,2024-02-22 17:34:58+00:00,51988,2013,89,12.77,False,Thursday,17,44,0.040432407478648916
+Kevin Powell,The background values no one knows about,2024-02-20 17:51:28+00:00,43723,2106,132,15.47,False,Tuesday,17,40,0.05118587471125037
+Kevin Powell,Taking on a CSS Battle Live,2024-02-15 20:17:30+00:00,30839,763,14,154.17,False,Thursday,20,27,0.02519536949965952
+Kevin Powell,Can I recreate this tucked-corner photo effect with CSS?,2024-02-13 13:53:54+00:00,29460,842,66,22.42,False,Tuesday,13,56,0.030821452817379497
+Kevin Powell,The problem with min-width: 0,2024-02-08 14:09:20+00:00,30985,1622,112,24.57,False,Thursday,14,29,0.055962562530256575
+Kevin Powell,Use this instead of media queries or container queries,2024-02-06 17:26:58+00:00,42323,1515,94,22.18,False,Tuesday,17,54,0.03801715379344565
+Kevin Powell,And they say CSS isn't a programming language! CSS-only games are amazing,2024-02-01 14:00:18+00:00,112028,2814,160,18.03,False,Thursday,14,73,0.026546934694897703
+Kevin Powell,Learn how to use Media queries & Container queries,2024-01-30 14:00:05+00:00,99631,3423,110,34.55,False,Tuesday,14,50,0.035460850538487014
+Kevin Powell,Unfamiliar CSS patterns that improve on the classics,2024-01-25 14:13:03+00:00,49359,2011,189,22.95,False,Thursday,14,52,0.044571405417451734
+Kevin Powell,3 under-rated VS Code shortcuts,2024-01-24 14:00:36+00:00,32335,2531,33,0.97,True,Wednesday,14,31,0.07929488170712849
+Kevin Powell,When you accidentally make something awesome,2024-01-23 16:57:43+00:00,41988,1684,72,16.63,False,Tuesday,16,44,0.041821472801752885
+Kevin Powell,"Modern CSS, the state of the web, Safari's progress, and more! With Jen Simmons",2024-01-19 16:02:09+00:00,19816,799,95,96.0,False,Friday,16,79,0.0451150585385547
+Kevin Powell,Most people have no idea you can style underlines like this,2024-01-18 17:28:02+00:00,44673,2536,87,10.05,False,Thursday,17,59,0.058715555257090414
+Kevin Powell,This way of using margin is often overlooked,2024-01-17 14:00:41+00:00,80904,6109,65,1.0,False,Wednesday,14,44,0.07631266686443192
+Kevin Powell,A practical guide to responsive web design,2024-01-16 14:03:11+00:00,307663,9903,227,23.22,False,Tuesday,14,42,0.03292563616684489
+Kevin Powell,"Create a clean, modern navigation with HTML & CSS",2024-01-11 14:42:46+00:00,165634,6091,192,25.28,False,Thursday,14,49,0.037933033072919814
+Kevin Powell,A simple way to make a masonry layout,2024-01-10 14:00:22+00:00,62876,4598,54,0.98,True,Wednesday,14,37,0.07398689484063872
+Kevin Powell,Five easy and fun CSS effects,2024-01-09 14:32:01+00:00,53414,2139,44,26.47,False,Tuesday,14,29,0.04086943497959337
+Kevin Powell,Under the radar CSS features for your CSS reset,2024-01-05 15:48:05+00:00,51931,2402,127,11.68,False,Friday,15,47,0.048699235524060774
+Kevin Powell,Overlap elements without using position in CSS,2024-01-04 14:00:06+00:00,78205,3639,24,0.95,True,Thursday,14,46,0.04683843744006138
+Kevin Powell,Flexbox or Grid challenge // which would you use to solve these?,2024-01-02 14:05:11+00:00,57966,2298,98,25.45,False,Tuesday,14,64,0.04133457544077563
+Kevin Powell,Can I copy this text reveal scroll effect with CSS-only?,2023-12-28 14:10:22+00:00,145713,5966,171,17.28,False,Thursday,14,56,0.04211703828759274
+Kevin Powell,7 resources to help you practice your front-end skills,2023-12-27 14:00:20+00:00,41026,5426,18,0.97,True,Wednesday,14,54,0.13269633890703456
+Kevin Powell,Responsive layout practice for beginners,2023-12-26 15:17:49+00:00,119071,4274,152,71.62,False,Tuesday,15,40,0.037171099596039335
+Kevin Powell,The man behind some of the craziest CSS I've ever seen,2023-12-22 19:14:20+00:00,33672,1124,32,20.47,False,Friday,19,54,0.0343311950582086
+Kevin Powell,Incredible scroll-based animations with CSS-only,2023-12-21 14:03:34+00:00,570184,20318,380,32.38,False,Thursday,14,48,0.03630056262539812
+Kevin Powell,Use this instead of :focus in your css,2023-12-20 14:00:15+00:00,90094,7365,58,0.8,True,Wednesday,14,38,0.08239172419916975
+Kevin Powell,How I use AI to boost productivity while coding,2023-12-19 14:58:44+00:00,33852,1096,138,32.28,False,Tuesday,14,47,0.03645279451731065
+Kevin Powell,2 better alternatives to overflow: hidden,2023-12-14 14:05:29+00:00,169087,6854,198,11.07,False,Thursday,14,41,0.041706340522926065
+Kevin Powell,True parallax with css-only,2023-12-13 14:00:03+00:00,20766,1817,17,1.0,False,Wednesday,14,27,0.08831744197245497
+Kevin Powell,These font stacks will improve your site performance,2023-12-12 14:00:06+00:00,79660,3853,227,11.73,False,Tuesday,14,52,0.051217675119256845
+Kevin Powell,CSS unit Tier List,2023-12-07 14:04:53+00:00,28618,966,74,28.0,False,Thursday,14,18,0.03634076455377734
+Kevin Powell,This fixes the problem with vh,2023-12-06 14:03:53+00:00,43227,2793,22,0.98,True,Wednesday,14,30,0.06512133620191084
+Kevin Powell,Probably the most underrated (and useful) CSS feature,2023-12-05 14:08:38+00:00,74640,2709,101,21.18,False,Tuesday,14,53,0.03764737406216506
+Kevin Powell,The real code behind a @Hyperplexed video,2023-11-30 14:14:04+00:00,69281,3201,98,13.25,False,Thursday,14,41,0.047617672955067046
+Kevin Powell,CSS shorthands aren't always worth it,2023-11-29 13:57:42+00:00,34746,1670,20,1.0,False,Wednesday,13,37,0.0486386922235653
+Kevin Powell,"Tab filtering animation with view transitions / HTML, CSS & JS",2023-11-28 13:51:10+00:00,73013,2511,130,35.08,False,Tuesday,13,62,0.036171640666730585
+Kevin Powell,Keeping up with CSS: The features released in 2023,2023-11-23 14:06:56+00:00,94841,3671,149,31.22,False,Thursday,14,50,0.04027793886610221
+Kevin Powell,Select all siblings of an element using :has(),2023-11-22 14:00:20+00:00,162039,14219,70,1.0,False,Wednesday,14,46,0.0881824745894507
+Kevin Powell,This flowchart will help you pick the right CSS unit,2023-11-21 14:17:10+00:00,54779,2830,111,18.83,False,Tuesday,14,52,0.05368845725551762
+Kevin Powell,Use these instead of vh,2023-11-16 14:10:33+00:00,540576,26226,386,6.1,False,Thursday,14,23,0.04922897057952998
+Kevin Powell,CSS animation trick with rotated items,2023-11-15 14:00:45+00:00,33611,1786,14,0.88,True,Wednesday,14,38,0.05355389604593734
+Kevin Powell,CSS position deep dive,2023-11-14 14:21:27+00:00,130437,5086,160,28.23,False,Tuesday,14,22,0.040218649616289855
+Kevin Powell,A new approach to container and wrapper classes,2023-11-09 14:07:12+00:00,291268,11141,653,25.45,False,Thursday,14,47,0.040491918096049
+Kevin Powell,CSS animation keyframe tips,2023-11-08 14:01:54+00:00,330855,13998,57,0.98,True,Wednesday,14,27,0.042480845083193546
+Kevin Powell,A better image reset for your CSS,2023-11-07 14:03:00+00:00,123602,6068,148,11.27,False,Tuesday,14,33,0.05029044837462177
+Kevin Powell,True parallax with CSS-only is now possible,2023-11-02 13:05:56+00:00,260755,8610,151,17.53,False,Thursday,13,43,0.03359858871354336
+Kevin Powell,7 ways to center with CSS,2023-11-01 13:00:05+00:00,71438,5389,40,1.0,False,Wednesday,13,25,0.07599596853215376
+Kevin Powell,One of the most common CSS issues people run into,2023-10-31 13:31:13+00:00,71263,2954,76,6.35,False,Tuesday,13,49,0.042518558017484526
+Kevin Powell,Subgrid & Container Queries change how we can create layouts,2023-10-26 12:52:47+00:00,85292,3313,114,21.13,False,Thursday,12,60,0.0401796182525911
+Kevin Powell,How flexbox and grid are like owning different types of shoes,2023-10-25 13:00:22+00:00,10837,445,26,0.63,True,Wednesday,13,61,0.043462212789517396
+Kevin Powell,The problem with mobile-first CSS,2023-10-24 12:51:27+00:00,136748,4767,338,13.88,False,Tuesday,12,33,0.03733144177611373
+Kevin Powell,I asked people to make this simple layout and was surprised by the results,2023-10-19 13:20:24+00:00,66098,2039,115,15.95,False,Thursday,13,74,0.032587975430421495
+Kevin Powell,:nth-child() has an amazing upgrade not enough people are talking about,2023-10-18 13:00:09+00:00,42653,3090,29,0.87,True,Wednesday,13,71,0.07312498534686891
+Kevin Powell,A simple approach to layouts when going from design to code,2023-10-17 13:04:41+00:00,72989,3051,103,23.28,False,Tuesday,13,59,0.04321199084793599
+Kevin Powell,I have a podcast (and second channel!),2023-10-15 14:00:39+00:00,7484,347,21,6.8,False,Sunday,14,38,0.04917156600748263
+Kevin Powell,Using CSS custom properties like this is a waste,2023-10-12 13:13:13+00:00,206333,8436,270,16.2,False,Thursday,13,48,0.04219392923090344
+Kevin Powell,Simplify your code with this underused pseudo-class,2023-10-11 13:00:50+00:00,74717,6368,66,0.7,True,Wednesday,13,51,0.08611159441626404
+Kevin Powell,How to create and style lists with HTML and CSS,2023-10-10 12:39:47+00:00,30385,1065,55,32.85,False,Tuesday,12,47,0.036860292907684715
+Kevin Powell,Front-end developer takes on a CSS battle,2023-10-05 12:54:30+00:00,204449,4617,121,18.63,False,Thursday,12,41,0.023174483612049948
+Kevin Powell,The easy way to make sense of complex selectors,2023-10-04 13:00:13+00:00,34131,2393,25,0.98,True,Wednesday,13,47,0.07084468664850137
+Kevin Powell,5 tips to getting better at CSS,2023-10-03 13:24:36+00:00,32489,1413,72,14.23,False,Tuesday,13,31,0.045707778017175044
+Kevin Powell,Turns out I know less about HTML than I thought! 😅,2023-09-29 13:36:34+00:00,51046,1981,93,13.22,False,Friday,13,50,0.04063001998197704
+Kevin Powell,Create an infinite horizontal scroll animation,2023-09-28 13:00:23+00:00,251997,8891,320,32.02,False,Thursday,13,46,0.036552022444711646
+Kevin Powell,The border-radius feature most people don’t know about,2023-09-27 13:00:18+00:00,297723,17599,110,0.37,True,Wednesday,13,54,0.059481464314144354
+Kevin Powell,How to make your own frontend roadmap,2023-09-26 13:50:43+00:00,21260,1122,48,9.62,False,Tuesday,13,37,0.05503292568203198
+Kevin Powell,"I just wasted a day on this code, was it worth it?",2023-09-21 12:57:07+00:00,30171,1578,70,28.92,False,Thursday,12,50,0.05462198800172351
+Kevin Powell,Is this the strangest CSS solution out there?,2023-09-20 13:27:00+00:00,47001,5414,88,0.82,True,Wednesday,13,45,0.11706133912044425
+Kevin Powell,Quick guide to CSS focus states,2023-09-19 13:00:30+00:00,33694,1632,48,6.55,False,Tuesday,13,31,0.049860509289487744
+Kevin Powell,Can I copy this cool effect with CSS?,2023-09-14 13:11:50+00:00,179570,7350,172,37.1,False,Thursday,13,37,0.04188895695272039
+Kevin Powell,Why Gradients can be better than SVGs for patterns,2023-09-13 13:00:44+00:00,43321,3952,26,0.63,True,Wednesday,13,50,0.09182613513076798
+Kevin Powell,How to get started with VS Code,2023-09-12 11:47:49+00:00,231352,4033,102,17.8,False,Tuesday,11,31,0.017873197551782564
+Kevin Powell,Bring a smile to your users’ face with a confetti celebration,2023-09-07 12:58:45+00:00,26618,907,32,55.63,False,Thursday,12,61,0.03527688030655947
+Kevin Powell,The scrollbar control you didn’t know you needed #css,2023-09-06 13:00:34+00:00,69800,6637,58,0.82,True,Wednesday,13,53,0.09591690544412608
+Kevin Powell,Beginner’s guide to styling text with CSS,2023-09-05 14:13:16+00:00,46595,1697,75,26.57,False,Tuesday,14,41,0.03802983152698788
+Kevin Powell,Is Tailwind Taking Over CSS? (and some other insights),2023-09-01 12:39:38+00:00,61000,1904,184,18.42,False,Friday,12,54,0.03422950819672131
+Kevin Powell,How to escape the container on only one side,2023-08-31 13:06:02+00:00,53619,2006,114,28.8,False,Thursday,13,44,0.039538223390962156
+Kevin Powell,Do you make this mistake with border-radius? #css,2023-08-30 13:00:14+00:00,189415,13591,99,0.28,True,Wednesday,13,49,0.07227516300187418
+Kevin Powell,"Learn by copying, not copying & pasting",2023-08-29 13:54:00+00:00,27439,1075,45,28.03,False,Tuesday,13,39,0.040817814060279164
+Kevin Powell,Power-up position absolute with this simple technique,2023-08-24 13:15:22+00:00,41133,2667,91,5.98,False,Thursday,13,53,0.06705078647314808
+Kevin Powell,5 Responsive Layouts in 60 seconds,2023-08-23 13:03:28+00:00,117623,13945,85,0.97,True,Wednesday,13,34,0.11927939263579403
+Kevin Powell,These CSS best practices might be holding you back,2023-08-22 12:56:58+00:00,31135,1346,117,23.47,False,Tuesday,12,50,0.046988919222739685
+Kevin Powell,A deep dive into CSS color-mix(),2023-08-17 15:03:51+00:00,31656,1440,57,18.1,False,Thursday,15,32,0.047289613343442
+Kevin Powell,A quick & fun CSS animation effect,2023-08-16 13:00:27+00:00,111491,11135,73,0.95,True,Wednesday,13,34,0.10052829376362217
+Kevin Powell,Absolute beginner’s guide to starting web development in 2023,2023-08-15 13:02:51+00:00,111944,4593,256,15.28,False,Tuesday,13,61,0.04331630100764668
+Kevin Powell,Create direction-aware effects using modern CSS,2023-08-10 13:09:44+00:00,68231,3375,90,18.5,False,Thursday,13,47,0.05078336826369246
+Kevin Powell,The big gotcha with native CSS nesting,2023-08-09 13:00:17+00:00,31201,1461,27,0.97,True,Wednesday,13,38,0.04769077914169418
+Kevin Powell,The only tags you need when first learning HTML,2023-08-08 13:05:52+00:00,71138,3061,86,17.12,False,Tuesday,13,47,0.04423796002136692
+Kevin Powell,"CSS is getting better, but Sass is still relevant",2023-08-03 13:04:04+00:00,34671,1150,118,18.7,False,Thursday,13,49,0.036572351532981454
+Kevin Powell,"hsl() is great, but this is even better!",2023-08-02 12:55:29+00:00,31178,2085,35,0.92,True,Wednesday,12,40,0.06799666431458079
+Kevin Powell,9 Resources to help you practice your front-end skills,2023-08-01 12:56:53+00:00,168475,8955,118,11.23,False,Tuesday,12,54,0.053853687490725624
+Kevin Powell,"How to create animated tabs with HTML, CSS, & JS",2023-07-28 13:18:26+00:00,43157,1467,73,30.73,False,Friday,13,48,0.03568366661260051
+Kevin Powell,How I build a website from scratch,2023-07-27 18:19:19+00:00,233785,5288,118,120.02,False,Thursday,18,34,0.023123810338558932
+Kevin Powell,This new CSS function makes color schemes a breeze,2023-07-26 13:00:09+00:00,46165,3961,46,0.92,True,Wednesday,13,50,0.08679735730531789
+Kevin Powell,CSS-only particle animations,2023-07-25 13:06:40+00:00,32241,1244,69,47.83,False,Tuesday,13,28,0.04072454328339692
+Kevin Powell,The differences between CSS and Sass Nesting,2023-07-20 13:02:39+00:00,34061,1183,90,12.2,False,Thursday,13,44,0.0373741228971551
+Kevin Powell,Timing function tips to improve your css animations,2023-07-19 13:36:40+00:00,50791,3318,19,1.0,False,Wednesday,13,51,0.0657006162509106
+Kevin Powell,Getting started with CSS nesting,2023-07-18 12:50:02+00:00,80709,3197,180,27.23,False,Tuesday,12,32,0.0418416781275942
+Kevin Powell,CSS features with better browser support than you might have thought,2023-07-13 12:40:57+00:00,23789,1191,61,21.38,False,Thursday,12,68,0.05262936651393501
+Kevin Powell,CSS border effects without using borders,2023-07-12 18:08:57+00:00,72347,6307,49,1.0,False,Wednesday,18,40,0.08785436852944835
+Kevin Powell,My journey to learning CSS,2023-07-11 13:40:10+00:00,18521,1037,98,19.48,False,Tuesday,13,26,0.06128178824037579
+Kevin Powell,The unknown fundamentals of CSS: Offset parents and Stacking Context explained,2023-07-06 17:28:08+00:00,19933,713,35,21.22,False,Thursday,17,78,0.03752571113229318
+Kevin Powell,5 useful resources for front-end devs - part 2,2023-07-05 14:53:07+00:00,75241,14280,56,1.0,False,Wednesday,14,46,0.19053441607634136
+Kevin Powell,Animate CSS Shadows With This Trick...,2023-07-04 13:02:26+00:00,32333,1195,38,5.78,False,Tuesday,13,38,0.03813441375684285
+Kevin Powell,"Create Accessible Tabs with HTML, CSS & JS",2023-06-29 13:26:42+00:00,65869,1987,110,52.65,False,Thursday,13,42,0.031835916743840044
+Kevin Powell,Styling underlines with CSS is easier than you might have thought,2023-06-28 16:21:41+00:00,74757,5534,58,0.98,True,Wednesday,16,65,0.07480235964525062
+Kevin Powell,Figma Dev Mode is here!,2023-06-27 13:32:55+00:00,73178,1824,105,25.17,False,Tuesday,13,23,0.026360381535434147
+Kevin Powell,The State of CSS 2023 survey is here!,2023-06-22 13:02:13+00:00,22765,849,43,38.37,False,Thursday,13,37,0.03918295629255436
+Kevin Powell,"You don't need transform to rotate, translate, or scale",2023-06-21 13:22:18+00:00,36746,2015,26,0.9,True,Wednesday,13,55,0.055543460512708864
+Kevin Powell,Fix your wonky headings with text-wrap: balance,2023-06-20 13:21:24+00:00,41767,2832,91,2.33,False,Tuesday,13,47,0.0699834797806881
+Kevin Powell,Creating a layered card with HTML & CSS,2023-06-15 13:05:25+00:00,49256,1636,93,41.85,False,Thursday,13,39,0.03510232255968816
+Kevin Powell,One line of CSS for better typography,2023-06-14 13:24:42+00:00,53287,5140,59,0.58,True,Wednesday,13,37,0.0975660104715972
+Kevin Powell,How to make a nice site with less CSS,2023-06-13 13:26:22+00:00,58402,3101,102,18.93,False,Tuesday,13,37,0.05484401219136331
+Kevin Powell,Astro makes websites faster & easier to build,2023-06-08 13:18:33+00:00,131938,4812,277,22.92,False,Thursday,13,45,0.038571147053919265
+Kevin Powell,5 useful resources for front-end devs,2023-06-07 13:30:34+00:00,182665,33853,117,1.0,False,Wednesday,13,37,0.1859688500807489
+Kevin Powell,"Why I only use vanilla HTML, CSS, and JS on YouTube",2023-06-06 13:09:40+00:00,70520,4678,300,4.53,False,Tuesday,13,51,0.07058990357345434
+Kevin Powell,CSS gap is NOT a replacement for margins,2023-06-01 12:44:28+00:00,39198,1937,80,10.33,False,Thursday,12,40,0.051456706974845653
+Kevin Powell,"Amazing, easy & customizable CSS patterns",2023-05-31 13:00:26+00:00,49170,4993,38,0.7,True,Wednesday,13,41,0.10231848688224528
+Kevin Powell,From Figma to Code / Creating a resume page,2023-05-30 12:54:08+00:00,81130,2379,108,90.2,False,Tuesday,12,43,0.030654505115247133
+Kevin Powell,Creating an inverted border-radius with CSS,2023-05-25 13:23:10+00:00,151749,5404,209,8.43,False,Thursday,13,43,0.03698871162248186
+Kevin Powell,"25 lines of CSS is all you need (to start with, anyway)",2023-05-24 13:00:44+00:00,174855,14733,66,1.0,False,Wednesday,13,55,0.08463584112550399
+Kevin Powell,Two simple layouts that work better with Grid,2023-05-23 13:02:49+00:00,65987,3114,97,14.08,False,Tuesday,13,45,0.048661099913619346
+Kevin Powell,Redesigning VS Code's Website With Inspect Element,2023-05-18 13:25:33+00:00,28438,948,53,13.57,False,Thursday,13,50,0.035199381109782685
+Kevin Powell,When position sticky doesn't stick,2023-05-17 13:00:02+00:00,278715,20088,172,0.87,True,Wednesday,13,34,0.07269074143838689
+Kevin Powell,Easily change sticky nav styling on scroll,2023-05-16 12:45:34+00:00,76019,3204,107,12.2,False,Tuesday,12,42,0.043554900748497084
+Kevin Powell,Stop over-engineering your CSS,2023-05-11 13:31:41+00:00,95132,5805,154,3.92,False,Thursday,13,30,0.06263928015809613
+Kevin Powell,An easier way to center with position absolute,2023-05-10 13:00:10+00:00,114909,10390,153,0.53,True,Wednesday,13,46,0.09175086372694916
+Kevin Powell,You probably want position: sticky instead of fixed,2023-05-09 13:27:10+00:00,83238,3191,86,15.92,False,Tuesday,13,51,0.03936903817967755
+Kevin Powell,Creating a CSS-only directionally aware button,2023-05-04 13:12:24+00:00,69458,3147,135,17.47,False,Thursday,13,46,0.04725157649226871
+Kevin Powell,Trying to teach my son HTML & CSS,2023-05-03 13:00:04+00:00,806119,34219,688,0.75,True,Wednesday,13,33,0.043302539699473654
+Kevin Powell,The simple trick to transition from height 0 to auto with CSS,2023-05-02 12:47:45+00:00,239854,13759,536,4.45,False,Tuesday,12,61,0.059598755909845154
+Kevin Powell,I finally found a great use-case for flex-basis!,2023-04-27 13:42:29+00:00,61899,3368,79,4.3,False,Thursday,13,48,0.05568749091261571
+Kevin Powell,A better way to write media queries,2023-04-26 13:00:38+00:00,288921,18686,144,0.95,True,Wednesday,13,35,0.06517352494280443
+Kevin Powell,Dynamic color change while scrolling with CSS,2023-04-25 14:20:44+00:00,80400,4038,91,8.02,False,Tuesday,14,45,0.05135572139303483
+Kevin Powell,How to create a responsive HTML table,2023-04-20 13:33:11+00:00,247178,8884,339,27.32,False,Thursday,13,37,0.037313191303433156
+Kevin Powell,The problem with AI as a learning tool,2023-04-19 03:00:02+00:00,48475,2620,102,1.0,False,Wednesday,3,38,0.05615265600825168
+Kevin Powell,The steps you need to take before you write any code,2023-04-18 13:59:56+00:00,38617,1976,88,15.58,False,Tuesday,13,52,0.053447963332211204
+Kevin Powell,Please NEVER do this in your CSS,2023-04-13 14:10:37+00:00,88039,3555,198,7.7,False,Thursday,14,32,0.04262883494814798
+Kevin Powell,"Maybe the easiest way to share HTML, CSS, and JS?",2023-04-12 13:00:05+00:00,206108,7884,61,0.53,True,Wednesday,13,49,0.038547751664176066
+Kevin Powell,Create amazing patterns using CSS gradients,2023-04-11 14:26:59+00:00,51297,2648,91,25.47,False,Tuesday,14,43,0.0533949353763378
+Kevin Powell,10 CSS animation tips and tricks,2023-04-06 13:42:56+00:00,190749,6696,100,20.22,False,Thursday,13,32,0.03562797183733597
+Kevin Powell,CSS positioning in 60 seconds,2023-04-05 13:00:28+00:00,154594,12449,110,0.98,True,Wednesday,13,29,0.08123859916943736
+Kevin Powell,"Build a responsive, animated, accessible accordion that looks pretty good",2023-04-04 13:03:44+00:00,69176,2303,124,77.98,False,Tuesday,13,73,0.03508442234300914
+Kevin Powell,This is the hardest CSS Battle I've tried,2023-03-30 13:09:31+00:00,130146,2695,179,87.72,False,Thursday,13,41,0.02208289152182933
+Kevin Powell,VS Code has a hidden build-in browser,2023-03-29 13:00:29+00:00,179527,11092,140,0.95,True,Wednesday,13,37,0.0625644053540693
+Kevin Powell,Surprising differences in Selector Performance,2023-03-28 13:05:29+00:00,43095,1985,128,16.95,False,Tuesday,13,46,0.04903121011718297
+Kevin Powell,CSS Trigonometry is surprisingly useful,2023-03-23 13:02:42+00:00,57682,3174,183,18.68,False,Thursday,13,39,0.05819839811379633
+Kevin Powell,cqw and cqi units are game changers,2023-03-22 13:00:08+00:00,52003,4283,30,0.72,True,Wednesday,13,35,0.08293752283522104
+Kevin Powell,I've been challenged to solve a CSS riddle,2023-03-21 14:22:06+00:00,28953,1434,95,19.15,False,Tuesday,14,42,0.052809726107829934
+Kevin Powell,"Create an animated, glowing, gradient border with CSS",2023-03-16 14:20:21+00:00,145124,5415,139,8.45,False,Thursday,14,53,0.03827072021168104
+Kevin Powell,From Design to Code // HTML & CSS from scratch // Frontend Mentor,2023-03-14 13:58:26+00:00,174064,6281,352,35.55,False,Tuesday,13,65,0.038106673407482305
+Kevin Powell,nth-child() just got an upgrade,2023-03-09 15:00:05+00:00,48238,2739,98,3.32,False,Thursday,15,31,0.058812554417679005
+Kevin Powell,The CSS shorthand not enough people know about,2023-03-08 05:00:09+00:00,81766,6670,31,0.53,True,Wednesday,5,46,0.08195337915515007
+Kevin Powell,3 super small changes to improve your CSS,2023-03-07 15:00:45+00:00,53329,2522,68,14.4,False,Tuesday,15,41,0.048566446023739426
+Kevin Powell,Getting started with Variable fonts on the web,2023-03-02 15:00:00+00:00,48909,1907,70,21.73,False,Thursday,15,46,0.040422008219346134
+Kevin Powell,A useful alternative to :focus in CSS,2023-03-01 15:00:21+00:00,64259,4026,24,0.68,True,Wednesday,15,37,0.06302619088376725
+Kevin Powell,"Useful & Responsive Layouts, no Media Queries required",2023-02-28 15:00:37+00:00,194717,10192,180,11.05,False,Tuesday,15,54,0.053267049102030124
+Kevin Powell,The reason why many people struggle with CSS,2023-02-23 15:02:57+00:00,65062,3096,154,19.5,False,Thursday,15,44,0.04995235314008177
+Kevin Powell,Leveraging the powers of CSS,2023-02-22 15:00:27+00:00,63193,4457,89,0.87,True,Wednesday,15,28,0.07193834760179134
+Kevin Powell,5 super useful CSS properties that don't get enough attention,2023-02-21 15:18:31+00:00,154643,7447,175,16.38,False,Tuesday,15,61,0.04928771428386671
+Kevin Powell,The problems with viewport units,2023-02-16 20:08:57+00:00,378893,15164,418,13.38,False,Thursday,20,32,0.04112506697141409
+Kevin Powell,Attribute selectors are OP,2023-02-15 15:00:17+00:00,82553,9093,69,1.0,False,Wednesday,15,26,0.11098324712608869
+Kevin Powell,"3D Tilting Card Effect with Mouse Tracking // HTML, CSS & JS",2023-02-14 15:16:48+00:00,67322,3299,95,22.5,False,Tuesday,15,60,0.050414426190546924
+Kevin Powell,Animated Glowing Border // Easy to Customize CSS Effect,2023-02-09 14:56:53+00:00,61753,2415,98,50.05,False,Thursday,14,55,0.04069437922044273
+Kevin Powell,Number-only inputs aren't so straight-forward,2023-02-08 15:00:37+00:00,821763,47046,277,0.98,True,Wednesday,15,45,0.05758716320885705
+Kevin Powell,How to write Semantic CSS,2023-02-07 16:15:18+00:00,96461,5313,201,8.82,False,Tuesday,16,25,0.05716299851753558
+Kevin Powell,Self-hosting fonts explained (including Google fonts) // @font-face tutorial,2023-02-02 15:02:08+00:00,76548,3128,178,15.67,False,Thursday,15,76,0.04318858755290798
+Kevin Powell,The easiest improvement you can make to your CSS,2023-02-01 15:02:22+00:00,285723,25557,163,0.77,True,Wednesday,15,48,0.09001725447373855
+Kevin Powell,"Spice up your site | Easy waves, angles, & other creative shapes with CSS",2023-01-31 16:42:18+00:00,173298,7684,196,34.95,False,Tuesday,16,73,0.04547080751076181
+Kevin Powell,Simplify your CSS with these 3 grid layout solutions,2023-01-26 15:20:41+00:00,145576,7512,188,7.17,False,Thursday,15,52,0.05289333406605484
+Kevin Powell,Make a user-resizeable element super easily,2023-01-25 15:00:08+00:00,63218,5576,42,0.75,True,Wednesday,15,43,0.08886709481476794
+Kevin Powell,"Your CSS questions, answered",2023-01-24 14:59:56+00:00,20378,1059,133,18.07,False,Tuesday,14,28,0.05849445480420061
+Kevin Powell,Position absolute and responsive layouts,2023-01-19 14:56:20+00:00,101640,3860,157,27.63,False,Thursday,14,40,0.039521841794569065
+Kevin Powell,Creating Web Components - With Special Guest Dave Rupert!,2023-01-18 20:02:25+00:00,44496,1145,65,93.98,False,Wednesday,20,57,0.027193455591513843
+Kevin Powell,Simple single-page smooth scrolling,2023-01-18 15:00:30+00:00,221409,17801,106,1.0,False,Wednesday,15,35,0.08087747110551062
+Kevin Powell,Avoid These 5 Awful CSS Mistakes,2023-01-17 15:14:50+00:00,207258,7473,240,20.7,False,Tuesday,15,32,0.03721448629244709
+Kevin Powell,Quickfire CSS Tips,2023-01-12 15:02:30+00:00,20445,903,75,12.83,False,Thursday,15,18,0.047835656639765224
+Kevin Powell,CSS’s :target pseudo-class is surprisingly powerful,2023-01-11 15:27:27+00:00,72258,7789,43,0.47,True,Wednesday,15,51,0.10838938249052008
+Kevin Powell,The dumb CSS mistakes I always make (and how I debug them),2023-01-10 15:00:25+00:00,26414,1380,157,11.95,False,Tuesday,15,58,0.058188839251911866
+Kevin Powell,The new CSS pseudo-classes explained - :is() :where() :has(),2023-01-05 15:30:51+00:00,151302,6676,175,13.83,False,Thursday,15,60,0.045280300326499316
+Kevin Powell,pseudo-classes can do more than you might think,2023-01-04 15:36:11+00:00,52396,3951,28,0.88,True,Wednesday,15,47,0.07594091151996335
+Kevin Powell,CSS Selectors - beyond the very basics,2023-01-03 14:49:08+00:00,46537,2118,63,18.78,False,Tuesday,14,38,0.04686593463265788
+Kevin Powell,The problem with percentages in CSS,2022-12-29 14:50:10+00:00,107273,5535,122,9.43,False,Thursday,14,35,0.05273461169166519
+Kevin Powell,Stop using width 100vw for no good reason,2022-12-28 16:03:25+00:00,161932,10828,126,1.0,False,Wednesday,16,41,0.06764567843292246
+Kevin Powell,Recreating PRO Ink Reveal In CSS,2022-12-27 15:02:46+00:00,155229,7266,144,13.33,False,Tuesday,15,32,0.0477359256324527
+Kevin Powell,Can ChatGPT write decent CSS?,2022-12-22 15:30:58+00:00,152738,3545,280,13.15,False,Thursday,15,29,0.025042883892678967
+Kevin Powell,Stop using this useless CSS declaration,2022-12-21 15:05:10+00:00,208849,12448,113,1.0,False,Wednesday,15,39,0.06014393174015677
+Kevin Powell,Create an animated pop-out effect // HTML & CSS,2022-12-20 14:46:08+00:00,72484,3554,86,19.82,False,Tuesday,14,47,0.05021797914022405
+Kevin Powell,image() - taking background-images to the next level,2022-12-15 14:56:41+00:00,79280,2612,84,13.85,False,Thursday,14,52,0.034006054490413724
+Kevin Powell,Don’t use JS for that - Part 1,2022-12-14 15:26:18+00:00,110008,10044,116,0.87,True,Wednesday,15,30,0.09235691949676388
+Kevin Powell,Create a layered parallax effect with HTML & CSS,2022-12-13 15:12:52+00:00,73373,2490,54,8.03,False,Tuesday,15,48,0.034672154607280604
+Kevin Powell,These 20 Art Pieces Are Done PURELY In CSS,2022-12-08 14:56:15+00:00,38480,1008,66,21.8,False,Thursday,14,42,0.027910602910602912
+Kevin Powell,State of CSS results 2022 - live with special guest Stephanie Eckles,2022-12-07 19:07:16+00:00,13711,392,12,57.93,False,Wednesday,19,68,0.029465392750346438
+Kevin Powell,Easily match a design's letter-spacing with CSS,2022-12-07 15:00:25+00:00,81125,5468,42,0.83,True,Wednesday,15,47,0.06791987673343605
+Kevin Powell,mask-image lets you do some really cool stuff,2022-12-06 15:07:33+00:00,107634,4773,99,6.58,False,Tuesday,15,45,0.04526450749763086
+Kevin Powell,Why you shouldn't use a div for everything - creating accessible buttons and navigations,2022-12-01 15:16:36+00:00,135600,4961,462,31.78,False,Thursday,15,88,0.03999262536873156
+Kevin Powell,Simplest CSS reset to prevent headaches,2022-11-30 15:00:02+00:00,193958,19630,131,0.98,True,Wednesday,15,39,0.10188288186102146
+Kevin Powell,Stop fighting with CSS positioning,2022-11-29 15:00:12+00:00,94594,3528,116,21.58,False,Tuesday,15,34,0.03852252785588938
+Kevin Powell,4 ways to deal with overflowing text,2022-11-24 15:15:19+00:00,87247,4243,87,4.58,False,Thursday,15,36,0.04962921361192935
+Kevin Powell,Two ways to blur content with CSS,2022-11-23 15:00:41+00:00,102734,8779,55,0.62,True,Wednesday,15,33,0.08598905912356182
+Kevin Powell,Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component,2022-11-22 15:11:22+00:00,121367,3505,199,66.9,False,Tuesday,15,81,0.030519004342201752
+Kevin Powell,Forced Colors and CSS,2022-11-17 15:02:51+00:00,25622,846,55,15.88,False,Thursday,15,21,0.03516509249863398
+Kevin Powell,When lightmode breaks your favicon,2022-11-16 17:09:52+00:00,437661,34219,273,0.75,True,Wednesday,17,34,0.07880985511617439
+Kevin Powell,"Basic, Intermediate & Pro animated hamburger icons",2022-11-15 15:28:23+00:00,152354,5005,174,59.68,False,Tuesday,15,50,0.03399320004725836
+Kevin Powell,How to set a maximum number of lines of text with CSS,2022-11-10 16:32:56+00:00,94324,5752,148,4.0,False,Thursday,16,53,0.062550358339341
+Kevin Powell,Style based on how many children with CSS only,2022-11-09 15:00:36+00:00,54688,4788,51,0.93,True,Wednesday,15,46,0.08848376243417203
+Kevin Powell,Why I use grid over flexbox for this common layout,2022-11-08 15:03:53+00:00,240792,9182,203,7.53,False,Tuesday,15,50,0.03897554736037742
+Kevin Powell,Entire CSS History In 26 Years,2022-11-03 14:24:01+00:00,136045,2840,368,25.37,False,Thursday,14,30,0.02358043294498144
+Kevin Powell,Easily change images WITHOUT any CSS or JS,2022-11-02 14:00:18+00:00,433325,45261,269,0.87,True,Wednesday,14,42,0.10507125137021865
+Kevin Powell,How to create a theme switcher with HTML & CSS,2022-11-01 15:36:05+00:00,118888,5582,245,28.35,False,Tuesday,15,46,0.0490125159814279
+Kevin Powell,The thing people get wrong about flex-basis,2022-10-27 14:09:41+00:00,65852,3138,78,9.0,False,Thursday,14,43,0.048836785519042705
+Kevin Powell,The HTML even seasoned devs get wrong,2022-10-26 14:00:13+00:00,47446,2564,58,0.87,True,Wednesday,14,37,0.05526282510643679
+Kevin Powell,"Easily test your site across all browsers, including Safari on Windows",2022-10-25 13:53:50+00:00,67846,2636,155,7.42,False,Tuesday,13,70,0.04113728149043422
+Kevin Powell,The secret to mastering CSS layouts,2022-10-20 14:03:13+00:00,311373,9949,239,17.18,False,Thursday,14,35,0.03271959996531491
+Kevin Powell,"Test responsiveness, no extensions or extra tools required",2022-10-19 14:00:17+00:00,28176,1148,17,0.78,True,Wednesday,14,58,0.04134724588302101
+Kevin Powell,CSS Battle #19 - live coding challenge,2022-10-18 16:48:23+00:00,48559,1194,28,159.02,False,Tuesday,16,38,0.025165262876088883
+Kevin Powell,State of CSS survey - What do I NOT know about CSS?,2022-10-17 23:17:59+00:00,22501,944,62,19.85,False,Monday,23,51,0.044709124038931604
+Kevin Powell,Teaching my 11-year-old HTML & CSS,2022-10-13 14:20:09+00:00,248237,7747,763,35.15,False,Thursday,14,34,0.03428175493580731
+Kevin Powell,Write less by using the new CSS color syntax,2022-10-12 14:00:06+00:00,157462,9656,85,0.95,True,Wednesday,14,44,0.0618625446139386
+Kevin Powell,The border property you never knew you needed,2022-10-11 14:11:31+00:00,104241,5311,185,14.42,False,Tuesday,14,45,0.052723976170604654
+Kevin Powell,"Debugging CSS, no extensions required - Using your devtools",2022-10-06 14:16:03+00:00,56507,2644,86,13.13,False,Thursday,14,59,0.04831259843913144
+Kevin Powell,Avoid making this mistake in your CSS,2022-10-05 14:00:28+00:00,255366,24465,163,1.0,False,Wednesday,14,37,0.09644196956525145
+Kevin Powell,Can I recreate Stripe’s text effect?,2022-10-04 14:03:58+00:00,112392,3944,136,26.8,False,Tuesday,14,36,0.036301516122143926
+Kevin Powell,Mastering :has() to Expand Your CSS Skills,2022-09-29 14:01:21+00:00,30517,1704,102,15.63,False,Thursday,14,42,0.05918012910836583
+Kevin Powell,No one writes perfect code on the first try,2022-09-28 14:00:20+00:00,29529,2833,70,1.0,False,Wednesday,14,43,0.09831013579870636
+Kevin Powell,Styling modals just got easier!,2022-09-27 14:28:49+00:00,61076,2655,68,4.0,False,Tuesday,14,31,0.04458379723623027
+Kevin Powell,New CSS Units! Container Query Units explained,2022-09-22 14:17:44+00:00,68305,2816,108,13.7,False,Thursday,14,46,0.04280799355830466
+Kevin Powell,How to keep up with web development,2022-09-21 14:00:37+00:00,52461,4317,64,1.0,False,Wednesday,14,35,0.08350965479117821
+Kevin Powell,Container Queries are going to change how we make layouts,2022-09-20 14:08:21+00:00,181696,6367,229,24.4,False,Tuesday,14,57,0.03630239520958084
+Kevin Powell,:has() opens up new possibilities with CSS,2022-09-15 14:08:54+00:00,293307,13420,478,14.5,False,Thursday,14,42,0.04738379922743064
+Kevin Powell,2 ways to improve your list styling with CSS,2022-09-14 14:00:11+00:00,140029,10618,54,0.75,True,Wednesday,14,44,0.07621278449464039
+Kevin Powell,What do you mean there are no divs?!,2022-09-13 13:56:24+00:00,144472,3704,182,19.52,False,Tuesday,13,36,0.02689794562268121
+Kevin Powell,6 things I wish I knew about CSS when I started,2022-09-08 13:25:21+00:00,228151,9665,303,9.15,False,Thursday,13,47,0.043690362961372076
+Kevin Powell,CSS Grid trick that’s worth remembering,2022-09-07 14:00:27+00:00,274378,18415,110,0.3,True,Wednesday,14,39,0.06751634606273098
+Kevin Powell,A new way to do CSS transforms!,2022-09-06 14:11:29+00:00,61240,3583,114,2.87,False,Tuesday,14,31,0.060369039843239714
+Kevin Powell,How is this possible with CSS only?!,2022-09-01 14:13:48+00:00,102255,3197,127,20.42,False,Thursday,14,36,0.03250696787443157
+Kevin Powell,Remember this CSS property,2022-08-31 14:00:11+00:00,69593,6613,74,0.63,True,Wednesday,14,26,0.09608725015446956
+Kevin Powell,Build a responsive website with HTML & CSS | Part 11: Fixing the footer,2022-08-30 14:01:39+00:00,37871,821,98,27.1,False,Tuesday,14,71,0.024266589210741728
+Kevin Powell,Improve your form validation hints without JS!,2022-08-25 14:12:03+00:00,70424,3263,160,12.77,False,Thursday,14,46,0.04860558900374872
+Kevin Powell,Simplify your CSS selectors,2022-08-24 14:00:09+00:00,102246,7807,90,1.0,False,Wednesday,14,27,0.07723529526827455
+Kevin Powell,Build a responsive website with HTML & CSS | Part ten: fixing the nav and adding the blobs,2022-08-23 14:10:47+00:00,30907,643,44,49.22,False,Tuesday,14,90,0.022227974245316594
+Kevin Powell,Lower the opacity of a background-image with CSS,2022-08-18 14:01:50+00:00,75090,3192,142,7.05,False,Thursday,14,48,0.044400053269410045
+Kevin Powell,CSS will never be the same,2022-08-17 14:00:17+00:00,344812,24096,278,0.88,True,Wednesday,14,26,0.07068779508833799
+Kevin Powell,Build a responsive website with HTML & CSS | Part nine: The Slider,2022-08-16 15:12:45+00:00,32976,728,107,50.73,False,Tuesday,15,66,0.02532144590004852
+Kevin Powell,CSS color pro tips,2022-08-11 14:31:53+00:00,40567,2214,56,10.0,False,Thursday,14,18,0.05595681218724579
+Kevin Powell,Don’t learn web dev this way,2022-08-10 14:00:30+00:00,1394194,103797,936,1.0,False,Wednesday,14,28,0.0751208224967257
+Kevin Powell,Build a responsive website with HTML & CSS | Part eight: Numbered list,2022-08-09 14:03:05+00:00,31070,835,61,39.62,False,Tuesday,14,70,0.028838107499195364
+Kevin Powell,✉️ Custom HTML emails with an email expert,2022-08-05 15:54:26+00:00,36421,1277,67,59.32,False,Friday,15,42,0.03690178743032866
+Kevin Powell,CSS Mouse Tracking 3D Tilting Card,2022-08-04 14:26:05+00:00,35431,1374,54,32.73,False,Thursday,14,34,0.04030368886003782
+Kevin Powell,Full-width background inside a container,2022-08-03 14:00:04+00:00,387309,34238,238,1.0,False,Wednesday,14,40,0.08901419796596516
+Kevin Powell,Build a responsive website with HTML & CSS | Part seven: the footer,2022-08-02 13:48:27+00:00,41123,944,77,53.12,False,Tuesday,13,67,0.024827955158913503
+Kevin Powell,Build a responsive website with HTML & CSS | Part six: CTA,2022-07-28 14:41:19+00:00,37709,1015,64,25.27,False,Thursday,14,58,0.0286138587605081
+Kevin Powell,Build a responsive website with HTML & CSS | Part five: Spacing and stuff,2022-07-26 14:15:59+00:00,43063,1096,65,18.02,False,Tuesday,14,73,0.0269604997329494
+Kevin Powell,Build a responsive website with HTML & CSS | Part Four: The navigation,2022-07-21 15:08:20+00:00,90431,2060,127,52.87,False,Thursday,15,70,0.024184184626953147
+Kevin Powell,Build a responsive website with HTML & CSS | Part three: General styling,2022-07-19 14:00:47+00:00,103385,2423,118,31.55,False,Tuesday,14,72,0.02457803356386323
+Kevin Powell,Build a responsive website with HTML & CSS | Part two: Writing the HTML,2022-07-07 13:49:24+00:00,170329,3977,224,36.95,False,Thursday,13,71,0.024664032548773255
+Kevin Powell,Build a responsive website with HTML & CSS | Part one: Analyzing the project and setting the stage,2022-07-05 14:08:50+00:00,521713,12855,465,49.63,False,Tuesday,14,98,0.025531278691541134
+Kevin Powell,Ridiculous & fun (and maybe kinda of useful?) PostCSS plugins,2022-06-30 14:00:06+00:00,12207,507,41,11.22,False,Thursday,14,61,0.044892274924223804
+Kevin Powell,Can you beat me at a CSS Battle?,2022-06-28 13:55:20+00:00,364672,8384,286,49.7,False,Tuesday,13,32,0.0237747893997894
+Kevin Powell,5 Useful CSS Properties You Didn't Know,2022-06-23 14:44:00+00:00,58437,2888,88,18.28,False,Thursday,14,39,0.05092663894450434
+Kevin Powell,The console.log() of css,2022-06-22 14:00:27+00:00,477721,45534,601,0.88,True,Wednesday,14,24,0.09657310438519555
+Kevin Powell,Create borders with cut corners | fully responsive CSS and easy to adapt,2022-06-21 15:33:07+00:00,50701,2345,144,24.17,False,Tuesday,15,72,0.04909173389085028
+Kevin Powell,3 useful CSS hacks,2022-06-16 14:04:08+00:00,71217,4072,117,8.83,False,Thursday,14,18,0.058820225507954564
+Kevin Powell,Stop writing var() to use custom properties in VS Code,2022-06-15 14:00:36+00:00,56030,3790,82,0.53,True,Wednesday,14,54,0.06910583615920043
+Kevin Powell,Stop using JS for things that CSS can solve,2022-06-14 14:22:04+00:00,77267,4762,161,9.22,False,Tuesday,14,43,0.06371413410641023
+Kevin Powell,Get started faster with these URL shortcuts,2022-06-08 14:00:28+00:00,57869,4282,27,0.43,True,Wednesday,14,43,0.0744612832431872
+Kevin Powell,Create interesting blob shapes with CSS,2022-06-07 14:02:59+00:00,87418,4243,112,5.25,False,Tuesday,14,39,0.04981811526230296
+Kevin Powell,🎨 Generative Art & CSS Houdini with Amit Sheen,2022-06-03 14:00:09+00:00,13043,375,22,96.05,False,Friday,14,46,0.030437782718699687
+Kevin Powell,Stop fixed navigations covering content on scroll,2022-06-02 13:50:30+00:00,121340,5712,228,7.42,False,Thursday,13,49,0.048953354211307074
+Kevin Powell,Dealing with hover on mobile,2022-05-31 14:01:26+00:00,136391,6111,134,7.12,False,Tuesday,14,28,0.045787478645951715
+Kevin Powell,JavaScript Scroll Animation Tutorial | Web Animations API + ScrollTimeline,2022-05-26 14:04:14+00:00,142286,4328,96,25.68,False,Thursday,14,74,0.031092307043560155
+Kevin Powell,HTML only Dark & Light mode!,2022-05-25 14:00:59+00:00,73131,4906,27,0.87,True,Wednesday,14,28,0.0674542943484979
+Kevin Powell,Easier layouts with these 3 Grid tips,2022-05-24 14:06:15+00:00,47871,2957,79,11.38,False,Tuesday,14,37,0.06342044243905497
+Kevin Powell,Get started with grid WITHOUT being overwhelmed,2022-05-19 14:12:35+00:00,103415,4563,122,9.65,False,Thursday,14,47,0.045302905768022046
+Kevin Powell,Create a nice color scheme for your website the easy way,2022-05-18 14:00:59+00:00,165787,14204,73,0.68,True,Wednesday,14,56,0.08611652300843854
+Kevin Powell,VS Code shortcuts & tips to help you work faster,2022-05-17 14:36:31+00:00,68394,3567,152,7.77,False,Tuesday,14,48,0.054376114863876945
+Kevin Powell,Solving The Biggest Challenge of Custom Properties,2022-05-12 13:43:19+00:00,23364,1216,48,8.48,False,Thursday,13,50,0.05410032528676596
+Kevin Powell,Remove the specificity of any selector in your CSS,2022-05-11 14:00:44+00:00,83301,5228,56,1.0,False,Wednesday,14,50,0.06343261185339912
+Kevin Powell,5 tips to learn Sass quickly,2022-05-10 14:00:33+00:00,32898,1226,40,10.15,False,Tuesday,14,28,0.03848258252781324
+Kevin Powell,Can I create Netflix’s video carousel with CSS only?,2022-05-05 14:05:35+00:00,114474,2942,147,66.07,False,Thursday,14,52,0.02698429337666195
+Kevin Powell,Work faster with these 3 VS code tips,2022-05-04 14:00:22+00:00,99602,4856,94,1.0,False,Wednesday,14,37,0.04969779723298729
+Kevin Powell,Background images with HTML & CSS,2022-05-03 14:26:15+00:00,399589,8330,237,20.32,False,Tuesday,14,33,0.021439529116166863
+Kevin Powell,Create a color theme mixin with Sass,2022-04-28 13:54:42+00:00,43920,1546,53,11.58,False,Thursday,13,36,0.036407103825136615
+Kevin Powell,Stop using HEX and rgb(),2022-04-27 14:00:49+00:00,26305,1496,49,0.97,True,Wednesday,14,24,0.05873408097319901
+Kevin Powell,Understanding Propagation and Why It Matters,2022-04-26 15:10:32+00:00,23185,1116,48,7.07,False,Tuesday,15,44,0.050204873840845377
+Kevin Powell,Light & Dark mode WITHOUT CSS!,2022-04-21 14:02:15+00:00,108790,3906,123,11.7,False,Thursday,14,30,0.03703465392039709
+Kevin Powell,Improve performance with one attribute,2022-04-20 14:00:35+00:00,157193,15796,143,0.9,True,Wednesday,14,38,0.10139764493329856
+Kevin Powell,3 tricks to improve your CSS,2022-04-19 14:14:41+00:00,33029,1684,58,12.4,False,Tuesday,14,28,0.05274153017045627
+Kevin Powell,Animate from display none,2022-04-14 14:11:22+00:00,163925,5206,206,21.92,False,Thursday,14,25,0.03301509836815617
+Kevin Powell,Making complex problems simpler with custom properties,2022-04-13 14:00:34+00:00,186787,12839,78,1.0,False,Wednesday,14,54,0.06915363488893767
+Kevin Powell,Can I create this tricky orbiting icon animation?,2022-04-12 14:36:15+00:00,171697,4300,224,94.23,False,Tuesday,14,49,0.026348742261076197
+Kevin Powell,Create an adaptive CSS grid with a max column count!,2022-04-07 14:01:27+00:00,48711,2254,92,10.25,False,Thursday,14,52,0.048161606208043356
+Kevin Powell,Select a range of content WITHOUT JavaScript,2022-04-06 14:00:32+00:00,79177,7470,58,0.88,True,Wednesday,14,44,0.09507811611958018
+Kevin Powell,Modern CSS is magic,2022-04-06 14:00:25+00:00,974119,65169,387,0.85,True,Wednesday,14,19,0.06729773261788344
+Kevin Powell,A powerful CSS display property that no one talks about,2022-04-05 13:52:51+00:00,41374,2009,140,11.93,False,Tuesday,13,55,0.051940832406825545
+Kevin Powell,More HTML elements that almost no one uses (but should!),2022-03-31 14:16:02+00:00,50437,2388,146,15.78,False,Thursday,14,56,0.05024089458135892
+Kevin Powell,Modals made easy,2022-03-30 14:00:20+00:00,87178,7356,56,0.9,True,Wednesday,14,16,0.085021450365918
+Kevin Powell,Is Sass still relevant?,2022-03-29 13:58:26+00:00,91523,2727,169,17.25,False,Tuesday,13,23,0.031642319416977156
+Kevin Powell,The problem with shorthands in CSS,2022-03-24 14:57:51+00:00,62445,2897,135,9.28,False,Thursday,14,34,0.04855472816078149
+Kevin Powell,A look at the CUBE CSS methodology in action,2022-03-22 14:00:49+00:00,107374,3210,178,47.15,False,Tuesday,14,44,0.03155326242852087
+Kevin Powell,dialog = the easiest way to make a popup modal,2022-03-17 14:11:34+00:00,205625,8500,344,9.67,False,Thursday,14,46,0.04301033434650456
+Kevin Powell,Get more out of custom properties,2022-03-15 14:06:42+00:00,52427,2453,99,13.2,False,Tuesday,14,33,0.0486772083086959
+Kevin Powell,Multiple elements with one shadow with CSS,2022-03-10 15:57:01+00:00,29384,1467,55,7.7,False,Thursday,15,42,0.051796896270078954
+Kevin Powell,Stop using an extension to compile Sass,2022-03-09 17:23:45+00:00,133069,3872,335,21.65,False,Wednesday,17,39,0.031615177088578104
+Kevin Powell,Obscure HTML elements that almost no one uses (but should!),2022-03-03 16:25:12+00:00,101093,4139,212,12.58,False,Thursday,16,59,0.04303957741881238
+Kevin Powell,What they got WRONG with CSS,2022-03-01 15:17:09+00:00,36162,1740,132,11.6,False,Tuesday,15,28,0.051767048282727726
+Kevin Powell,CSS Animations 101: Digging Deep with Amit Sheen,2022-02-25 15:00:01+00:00,15379,525,20,121.75,False,Friday,15,48,0.03543793484621887
+Kevin Powell,Can I make this animated navigation design with HTML & CSS?,2022-02-24 15:42:42+00:00,123304,2941,92,117.35,False,Thursday,15,59,0.024597742165704276
+Kevin Powell,The fastest way to center vertically & horizontally with CSS,2022-02-23 15:00:19+00:00,42374,2008,37,0.5,True,Wednesday,15,60,0.04826072591683579
+Kevin Powell,HTML section elements are a lie (sort of),2022-02-22 15:04:22+00:00,141808,5331,208,7.98,False,Tuesday,15,41,0.03905985557937493
+Kevin Powell,Supercharge your CSS with Open Props,2022-02-17 15:02:37+00:00,59521,2554,138,19.97,False,Thursday,15,36,0.04522773474908016
+Kevin Powell,Outline text with one line of CSS,2022-02-16 15:00:11+00:00,53351,2018,40,0.85,True,Wednesday,15,33,0.038574722123296656
+Kevin Powell,Place-content vs. place-items | What's the difference to vertically & horizontally center?,2022-02-15 15:01:32+00:00,40672,2142,53,9.28,False,Tuesday,15,90,0.0539683320220299
+Kevin Powell,Strengthening Typography with Responsive Techniques and Typetura,2022-02-10 15:16:04+00:00,52472,1740,80,19.68,False,Thursday,15,64,0.03468516542155817
+Kevin Powell,Better readability with one line of CSS,2022-02-09 15:00:24+00:00,35927,2083,29,0.45,True,Wednesday,15,39,0.05878587135023798
+Kevin Powell,No more specificity issues?! (or all new ones 🤔) - A look at CSS Cascade Layers,2022-02-08 15:00:32+00:00,57359,2499,128,17.73,False,Tuesday,15,79,0.04579926428285012
+Kevin Powell,Create a horizontal media scroller with CSS,2022-02-03 20:22:03+00:00,317275,7850,307,26.22,False,Thursday,20,43,0.025709557954455915
+Kevin Powell,Position absolute is even better with grid!,2022-02-02 15:00:10+00:00,40583,1630,26,0.63,True,Wednesday,15,43,0.04080526328758347
+Kevin Powell,The how and why: align-items & align-content in flex and grid,2022-02-01 15:00:49+00:00,82033,3068,88,12.68,False,Tuesday,15,61,0.03847232211427109
+Kevin Powell,Can I create this interactive Dribbble card design?,2022-01-27 15:02:00+00:00,98900,2738,135,96.33,False,Thursday,15,51,0.029049544994944387
+Kevin Powell,Set and control multiple background images on a single element with CSS,2022-01-26 15:00:00+00:00,33510,1671,23,0.93,True,Wednesday,15,71,0.05055207400775888
+Kevin Powell,The problem with multiple nav elements (and the simple solution),2022-01-25 15:02:03+00:00,49843,2024,68,8.5,False,Tuesday,15,64,0.041971791425074734
+Kevin Powell,Formatting your code is a waste of time - use Prettier instead,2022-01-20 15:01:04+00:00,92581,2847,184,10.48,False,Thursday,15,62,0.03273889891014355
+Kevin Powell,How to style elements when you can't add a class | #shorts,2022-01-19 15:00:01+00:00,31567,2410,24,0.75,True,Wednesday,15,58,0.07710583837551874
+Kevin Powell,Flexbox or grid - How to decide?,2022-01-18 16:04:27+00:00,789501,26460,514,18.85,False,Tuesday,16,32,0.03416588452706203
+Kevin Powell,"min-content, max-content, fit-content - intrinsic sizing with CSS",2022-01-13 15:07:05+00:00,111059,5490,130,8.87,False,Thursday,15,65,0.05060373315084775
+Kevin Powell,Adding extra elements with CSS,2022-01-12 05:00:06+00:00,58934,3162,23,0.98,True,Wednesday,5,30,0.05404350629517766
+Kevin Powell,Use future CSS features in your code right now!,2022-01-11 14:47:43+00:00,35899,1611,82,14.72,False,Tuesday,14,47,0.04716008802473606
+Kevin Powell,Simpler positioning with inset and auto,2022-01-06 14:59:04+00:00,59103,3010,96,6.88,False,Thursday,14,39,0.05255232390910783
+Kevin Powell,The 6 most important CSS concepts for beginners,2022-01-04 17:39:19+00:00,173205,6817,189,28.97,False,Tuesday,17,47,0.040449178718859155
+Kevin Powell,3 modern CSS techniques for responsive design,2021-12-30 17:24:56+00:00,218877,9941,191,14.53,False,Thursday,17,45,0.04629083914710088
+Kevin Powell,Learn how to create a responsive CSS grid layout,2021-12-28 14:56:32+00:00,137473,5009,145,31.87,False,Tuesday,14,48,0.037490998232380175
+Kevin Powell,Learn flexbox the easy way,2021-12-23 15:15:09+00:00,770309,26141,505,34.07,False,Thursday,15,26,0.0345913133560688
+Kevin Powell,"Most sites have a skip-to-main link, and yours should too!",2021-12-21 14:56:51+00:00,440675,15220,292,7.45,False,Tuesday,14,58,0.03520054461905032
+Kevin Powell,5 important HTML concepts for beginners,2021-12-16 15:43:32+00:00,122901,4600,121,14.62,False,Thursday,15,39,0.03841303162708196
+Kevin Powell,The state of CSS 2021 results are in!,2021-12-15 15:01:40+00:00,37143,1272,76,49.63,False,Wednesday,15,37,0.03629216810704574
+Kevin Powell,Create template layouts for your HTML with Astro SSG,2021-12-14 15:31:57+00:00,86023,2620,206,24.48,False,Tuesday,15,52,0.032851679202073866
+Kevin Powell,Amazing 3D CSS creations from my community,2021-12-10 15:34:02+00:00,80664,2450,73,69.1,False,Friday,15,42,0.031277893484082116
+Kevin Powell,No JS typing suggestions!,2021-12-09 15:04:37+00:00,40388,2245,87,10.28,False,Thursday,15,25,0.057739922749331485
+Kevin Powell,em vs rem - css units | #shorts,2021-12-08 15:00:31+00:00,38383,1850,31,0.93,True,Wednesday,15,31,0.04900607039574812
+Kevin Powell,No justify-self in Flexbox? No problem!,2021-12-07 17:42:16+00:00,35830,2528,119,6.52,False,Tuesday,17,39,0.07387663968741279
+Kevin Powell,How to write CSS with confidence,2021-12-02 15:29:48+00:00,64108,2639,85,11.98,False,Thursday,15,32,0.04249079678043302
+Kevin Powell,Change the selection color on your website | #shorts,2021-12-01 16:06:48+00:00,30674,2981,19,0.68,True,Wednesday,16,52,0.09780269935450218
+Kevin Powell,3 awesome tools for a better front-end dev experience,2021-11-30 14:55:56+00:00,64641,3007,62,17.47,False,Tuesday,14,53,0.04747760709147445
+Kevin Powell,Learn CSS Grid the easy way,2021-11-25 15:29:15+00:00,985885,32726,829,37.07,False,Thursday,15,27,0.034035409809460536
+Kevin Powell,Using auto margins to center vertically | #shorts,2021-11-24 18:10:16+00:00,87643,7287,54,0.72,True,Wednesday,18,49,0.08376025466951154
+Kevin Powell,Two flexbox & grid behaviors most people don't know about,2021-11-23 15:02:48+00:00,73060,3353,111,14.05,False,Tuesday,15,57,0.047413085135505066
+Kevin Powell,Front-end Dev reacts to incredible CSS-only creations,2021-11-18 15:00:50+00:00,153677,4062,153,16.72,False,Thursday,15,53,0.027427656708551053
+Kevin Powell,A CSS value you probably never knew about | #shorts,2021-11-17 15:00:14+00:00,217140,26754,172,1.0,False,Wednesday,15,51,0.12400294740720273
+Kevin Powell,Responsive navbar tutorial using HTML CSS & JS,2021-11-16 15:02:12+00:00,1032904,30425,414,49.42,False,Tuesday,15,46,0.02985659848349895
+Kevin Powell,Get started as a freelance developer | An interview with Kyle Prinsloo,2021-11-12 15:17:23+00:00,17976,876,36,67.1,False,Friday,15,70,0.050734312416555405
+Kevin Powell,Learn how to power-up your CSS with PostCSS,2021-11-11 15:04:43+00:00,83692,2327,131,20.38,False,Thursday,15,43,0.029369593270563495
+Kevin Powell,Auto margins do more than you might know! | #shorts,2021-11-10 15:02:43+00:00,40311,3191,41,0.93,True,Wednesday,15,51,0.08017662672719605
+Kevin Powell,Cool 3D grid layout | Can I clone it?,2021-11-09 15:13:10+00:00,259035,7392,197,68.03,False,Tuesday,15,37,0.0292971992201826
+Kevin Powell,The most common HTML mistake //  The incorrect use of HTML heading levels,2021-11-04 14:02:42+00:00,150433,6580,346,15.82,False,Thursday,14,73,0.04604042995885212
+Kevin Powell,Fun CSS effect with multiple shadows | #shorts,2021-11-03 13:30:09+00:00,136885,12344,75,0.7,True,Wednesday,13,46,0.09072579172297915
+Kevin Powell,Use this instead of :focus (most of the time),2021-11-02 15:09:10+00:00,58432,2603,96,8.48,False,Tuesday,15,45,0.046190443592552026
+Kevin Powell,CSS Battle - taking on round 15,2021-10-28 15:04:32+00:00,134490,2523,125,84.2,False,Thursday,15,31,0.01968919622276749
+Kevin Powell,You can't do this without subgrid,2021-10-26 14:02:53+00:00,18891,737,43,10.82,False,Tuesday,14,33,0.04128950293790694
+Kevin Powell,How To Easily Get The Attention Of Recruiters,2021-10-21 13:28:27+00:00,17790,902,78,24.43,False,Thursday,13,45,0.05508712759977515
+Kevin Powell,Creating a robust grid system using subgrid,2021-10-19 13:48:45+00:00,46568,1648,84,36.37,False,Tuesday,13,43,0.037192922178319876
+Kevin Powell,3D text animations with CSS,2021-10-14 14:00:08+00:00,49944,2115,113,35.12,False,Thursday,14,27,0.04460996315873779
+Kevin Powell,Responsive columns without using flex or grid | #shorts,2021-10-13 13:00:18+00:00,28745,1998,36,1.0,False,Wednesday,13,55,0.07076013219690382
+Kevin Powell,Easy and more consistent layouts using subgrid,2021-10-12 14:03:00+00:00,53341,2308,88,8.02,False,Tuesday,14,46,0.04491854295944958
+Kevin Powell,I've been challenged to a CSS Battle!,2021-10-07 14:13:13+00:00,207000,5341,393,33.0,False,Thursday,14,37,0.02770048309178744
+Kevin Powell,Images inside text with CSS | #shorts,2021-10-06 13:00:24+00:00,86216,7901,66,0.77,True,Wednesday,13,37,0.09240744177414865
+Kevin Powell,I'm not sure how much longer I can wait!,2021-10-05 16:47:51+00:00,67307,2494,129,12.97,False,Tuesday,16,40,0.03897068655563314
+Kevin Powell,"Host your site for free, with version control, staging, and more using Netlify",2021-09-30 14:02:06+00:00,115461,4273,115,13.35,False,Thursday,14,78,0.038004174569768144
+Kevin Powell,Strange shapes with border-radius | #shorts,2021-09-29 13:00:16+00:00,96776,9380,79,0.75,True,Wednesday,13,43,0.09774117549805737
+Kevin Powell,Create custom scrollbars using CSS,2021-09-28 13:08:56+00:00,247241,8634,288,13.97,False,Tuesday,13,34,0.036086247831063616
+Kevin Powell,Initial doesn't do what you think it does,2021-09-23 13:04:51+00:00,21264,1343,95,8.67,False,Thursday,13,41,0.06762603461249059
+Kevin Powell,CSS Outlines are great | #shorts,2021-09-22 13:00:29+00:00,63157,4960,48,0.77,True,Wednesday,13,32,0.07929445667146952
+Kevin Powell,The Unexpected Possibilities with Locally Scoped Properties,2021-09-21 12:57:50+00:00,35407,2051,87,10.9,False,Tuesday,12,59,0.060383539977970455
+Kevin Powell,There is a way to overlap grid-template-areas!,2021-09-16 13:13:35+00:00,30182,1165,55,8.85,False,Thursday,13,46,0.0404214432443178
+Kevin Powell,Overlapping content with CSS Grid | #shorts,2021-09-15 13:00:20+00:00,36396,2505,55,1.0,False,Wednesday,13,43,0.07033739971425432
+Kevin Powell,Confusing CSS behaviors that actually make sense,2021-09-14 13:00:12+00:00,43379,2599,125,12.68,False,Tuesday,13,48,0.06279536181101454
+Kevin Powell,Can I clone this weird border design?,2021-09-09 12:49:03+00:00,72403,3323,423,20.5,False,Thursday,12,37,0.05173818764415839
+Kevin Powell,Why grid-template-areas are amazing | #shorts,2021-09-08 13:00:34+00:00,72294,5601,95,0.98,True,Wednesday,13,45,0.07878938777768556
+Kevin Powell,Simple solutions to responsive typography,2021-09-07 12:56:11+00:00,193393,7641,234,9.35,False,Tuesday,12,41,0.040720191527097674
+Kevin Powell,Three fun uses for  ::before and ::after,2021-09-02 12:02:09+00:00,133160,6108,134,12.07,False,Thursday,12,40,0.046875938720336435
+Kevin Powell,Blend background images and colors with CSS | #shorts,2021-09-01 04:00:05+00:00,32256,2142,59,0.7,True,Wednesday,4,53,0.06823536706349206
+Kevin Powell,Styling forms just got easier with accent-color,2021-08-31 12:28:02+00:00,96097,4949,182,3.62,False,Tuesday,12,47,0.05339396651300249
+Kevin Powell,Do you know the difference? pseudo-classes vs pseudo-elements,2021-08-26 12:38:13+00:00,47862,2453,73,5.7,False,Thursday,12,61,0.0527767331076846
+Kevin Powell,Fun text-shadow effect with CSS | CSS Tip of the Day | #shorts,2021-08-25 13:00:32+00:00,58551,5393,47,0.95,True,Wednesday,13,62,0.09291045413400284
+Kevin Powell,Open up new possibilities with custom properties and HSL,2021-08-24 13:21:40+00:00,27103,1553,55,8.13,False,Tuesday,13,56,0.05932922554698742
+Kevin Powell,5 simple tips to making responsive layouts the easy way,2021-08-19 13:16:52+00:00,807611,32439,678,15.9,False,Thursday,13,55,0.041006127950213654
+Kevin Powell,Smooth Scrolling with one line of CSS | #shorts,2021-08-18 13:00:18+00:00,90650,9289,176,0.45,True,Wednesday,13,47,0.10441257584114727
+Kevin Powell,Improve your CSS by organizing your properties,2021-08-17 13:30:00+00:00,57175,2670,181,10.32,False,Tuesday,13,46,0.04986445124617403
+Kevin Powell,Effortlessly Open GitHub Repositories in VS Code with Just One Click #shorts,2021-08-13 13:00:20+00:00,24238,1063,80,0.55,True,Friday,13,76,0.047157356217509695
+Kevin Powell,Best (and worst!) ways to center WITHOUT flex or grid,2021-08-12 14:32:18+00:00,73685,3517,177,17.4,False,Thursday,14,53,0.050132320010857025
+Kevin Powell,Multi-line underline text-gradient animation | CSS Tip of the Day | #shorts,2021-08-11 14:22:30+00:00,257626,31552,210,1.0,False,Wednesday,14,75,0.12328724585251488
+Kevin Powell,Overcoming Imposter Syndrome in the Tech Industry,2021-08-10 13:13:40+00:00,26853,2133,182,4.85,False,Tuesday,13,49,0.08621010687818866
+Kevin Powell,"Width & Height vs. Positioning properies (top, right, bottom, left)",2021-08-05 14:38:38+00:00,69965,3126,83,6.27,False,Thursday,14,67,0.04586579003787608
+Kevin Powell,Gradient text with CSS | CSS Tip of the Day #shorts,2021-08-05 00:43:09+00:00,198348,25280,216,0.87,True,Thursday,0,51,0.12854175489543632
+Kevin Powell,Understanding the Strange Complexity of CSS and the Web,2021-08-04 13:27:59+00:00,14659,877,75,8.65,False,Wednesday,13,55,0.06494303840643972
+Kevin Powell,Creating squishy padding and margin that adapt to the viewport,2021-08-03 15:38:51+00:00,84298,3549,89,3.67,False,Tuesday,15,62,0.04315642126740848
+Kevin Powell,CSS's Future Discussed with Adam Argyle,2021-07-29 17:08:03+00:00,24325,1088,77,51.17,False,Thursday,17,39,0.04789311408016444
+Kevin Powell,I am NOT the King of CSS,2021-07-27 15:44:42+00:00,36925,2939,399,6.72,False,Tuesday,15,24,0.09039945836154367
+Kevin Powell,Write better CSS using logical properties,2021-07-22 13:52:03+00:00,52885,2677,125,20.67,False,Thursday,13,41,0.052982887397182564
+Kevin Powell,Scroll-linked animations only using CSS?! Featuring Adam Argyle,2021-07-15 13:53:21+00:00,75119,2421,108,50.17,False,Thursday,13,63,0.03366658235599516
+Kevin Powell,Up your CSS game with these 3 pseudo-classes that nobody use,2021-07-13 14:03:57+00:00,49299,3292,124,9.37,False,Tuesday,14,60,0.06929146635834399
+Kevin Powell,Front-end dev reacts to amazing CSS-only Codepens,2021-07-08 14:08:10+00:00,1605874,39574,652,11.85,False,Thursday,14,49,0.025049287802156334
+Kevin Powell,Cloning Google Font's Light/Dark Mode Toggle,2021-07-06 14:34:23+00:00,81001,2557,113,51.57,False,Tuesday,14,44,0.03296255601782694
+Kevin Powell,Getting started with web accessibility with Ashlee Boyer,2021-07-02 14:05:49+00:00,56957,2427,134,30.48,False,Friday,14,56,0.04496374457924399
+Kevin Powell,3 useful CSS tricks,2021-07-01 13:44:20+00:00,83641,5468,195,8.05,False,Thursday,13,19,0.06770602933967791
+Kevin Powell,"How to use mix-blend-mode, and how to avoid problems with it",2021-06-29 15:00:11+00:00,80953,3024,79,13.27,False,Tuesday,15,60,0.03833088335206848
+Kevin Powell,CSS Showdown: 7 Challenges with Rachit Jain,2021-06-25 14:00:20+00:00,31223,1267,118,42.98,False,Friday,14,43,0.044358325593312625
+Kevin Powell,Turn static HTML/CSS into a blog with CMS using the JAMStack,2021-06-24 13:04:52+00:00,159139,4011,319,83.57,False,Thursday,13,60,0.02720891798993333
+Kevin Powell,More interesting designs with ::first-letter and ::first-line pseudo-elements,2021-06-22 13:02:55+00:00,17099,1183,78,8.45,False,Tuesday,13,77,0.07374700274869875
+Kevin Powell,Creating a magazine layout with CSS,2021-06-18 17:22:51+00:00,52972,1630,31,162.67,False,Friday,17,35,0.03135618817488484
+Kevin Powell,"5 underused CSS properties, values, and selectors",2021-06-15 13:14:20+00:00,52834,3115,176,12.88,False,Tuesday,13,49,0.06228943483362986
+Kevin Powell,Flexbox is more complicated than you thought,2021-06-10 14:54:48+00:00,157264,6266,243,22.7,False,Thursday,14,44,0.041389001933055246
+Kevin Powell,A new way to write media queries is coming to CSS: range syntax,2021-06-08 14:14:46+00:00,60309,3058,201,5.32,False,Tuesday,14,63,0.054038369065976886
+Kevin Powell,Set the position on all four sides with one CSS property!,2021-06-03 13:18:40+00:00,68297,5710,175,2.58,False,Thursday,13,57,0.08616776725185586
+Kevin Powell,Customizable typewriter animation with CSS,2021-06-01 13:07:46+00:00,352115,14696,354,19.45,False,Tuesday,13,42,0.04274171790466183
+Kevin Powell,The EASIEST way to get started with CSS GRID,2021-05-27 12:02:31+00:00,213159,9108,429,6.85,False,Thursday,12,44,0.04474124948981746
+Kevin Powell,How to pick the right combinator - Descendant vs direct child,2021-05-25 12:48:37+00:00,45124,2493,82,9.55,False,Tuesday,12,61,0.05706497650917472
+Kevin Powell,Container Queries are going to be a game changer!,2021-05-20 13:28:01+00:00,73106,3109,172,17.33,False,Thursday,13,49,0.04488003720624846
+Kevin Powell,I tried styling a page BLINDFOLDED,2021-05-18 14:46:19+00:00,14667,508,71,33.17,False,Tuesday,14,34,0.039476375536919614
+Kevin Powell,:where() - Remove the specificity of ANY selector with this pseudo-class,2021-05-13 13:22:03+00:00,28168,1455,106,9.32,False,Thursday,13,72,0.05541749502982107
+Kevin Powell,"3D CSS - lighting, animations, and more!",2021-05-11 13:29:14+00:00,412238,15011,554,44.95,False,Tuesday,13,40,0.03775731494913133
+Kevin Powell,Taking on Gary Simon's challenge LIVE!,2021-05-10 17:55:53+00:00,74437,1627,58,208.5,False,Monday,17,38,0.022636592017410695
+Kevin Powell,Freelancing Transition Tips and More with @DevOpsDirective,2021-05-07 18:37:55+00:00,11980,491,22,32.13,False,Friday,18,58,0.04282136894824708
+Kevin Powell,Step up your front-end skills with these 5 resources,2021-05-06 13:15:48+00:00,383814,25515,497,12.37,False,Thursday,13,52,0.06777241059471514
+Kevin Powell,CSS Only Lightsaber (with sound?!?!),2021-05-04 13:04:20+00:00,61353,2449,104,34.37,False,Tuesday,13,36,0.0416116571316806
+Kevin Powell,Create a neon button with a reflection using CSS,2021-04-30 13:14:41+00:00,541131,27421,415,21.0,False,Friday,13,48,0.05144040906915331
+Kevin Powell,CSS Card with hover animation and mobile fallback,2021-04-28 12:23:59+00:00,474805,16063,344,49.2,False,Wednesday,12,49,0.03455523846631775
+Kevin Powell,Collapsing margins - what they are and how to deal with them,2021-04-22 13:07:39+00:00,67690,3091,219,14.52,False,Thursday,13,60,0.04889939429753287
+Kevin Powell,Is CSS Battle a bad influence on CSS?,2021-04-20 13:50:53+00:00,24165,1101,81,3.0,False,Tuesday,13,37,0.0489137181874612
+Kevin Powell,Do you understand how Flexbox does what it does?,2021-04-15 12:50:10+00:00,168362,9754,373,7.93,False,Thursday,12,48,0.06015015264727195
+Kevin Powell,Are you using the WRONG color model in your CSS?,2021-04-14 13:00:39+00:00,69007,3246,153,9.17,False,Wednesday,13,48,0.04925587259263553
+Kevin Powell,Front-End Development vs No-Code and AI: What's The Future?,2021-04-08 13:34:04+00:00,23716,1108,143,9.98,False,Thursday,13,59,0.05274919885309496
+Kevin Powell,Styling your list-items just got so much easier with this ::marker,2021-04-06 13:24:44+00:00,73211,4267,172,7.85,False,Tuesday,13,66,0.060632964991599626
+Kevin Powell,Front-end dev reacts to mind-blowing Codepens,2021-04-02 13:21:45+00:00,2154470,44242,1098,21.42,False,Friday,13,45,0.02104461886217956
+Kevin Powell,Breaking Down the Complexity of Sass,2021-03-30 12:42:30+00:00,21121,937,133,8.73,False,Tuesday,12,36,0.050660480090904784
+Kevin Powell,You can use Emmet with CSS!,2021-03-25 13:23:34+00:00,96780,5074,300,7.67,False,Thursday,13,27,0.05552800165323414
+Kevin Powell,Fastest way to be a MASTER web dev???,2021-03-23 13:28:39+00:00,461580,22293,602,10.8,False,Tuesday,13,37,0.049601369210104426
+Kevin Powell,Generate custom props & utility classes with Sass,2021-03-18 13:20:32+00:00,57859,2003,117,16.98,False,Thursday,13,49,0.036640799184223714
+Kevin Powell,5 Sass features that make it better than vanilla CSS,2021-03-16 13:25:32+00:00,75679,2697,148,28.48,False,Tuesday,13,52,0.0375929914507327
+Kevin Powell,Get your stylesheets more organized with Sass partials,2021-03-12 13:51:01+00:00,106456,3038,113,7.32,False,Friday,13,54,0.029599083189298867
+Kevin Powell,Wrap text around any image or shape that you want with shape-outside and shape-margin,2021-03-10 13:44:29+00:00,85467,3242,141,12.05,False,Wednesday,13,85,0.03958252892929435
+Kevin Powell,What's the deal with height: auto?,2021-03-04 15:09:48+00:00,121336,5277,158,6.02,False,Thursday,15,34,0.04479297158304213
+Kevin Powell,How you can simplify your CSS with :is(),2021-03-02 14:48:37+00:00,338164,17144,591,9.33,False,Tuesday,14,40,0.05244496753054731
+Kevin Powell,I've been challenged to a CSS BATTLE by Web Dev Simplified,2021-02-25 14:26:36+00:00,964832,21400,922,42.37,False,Thursday,14,58,0.023135633975655864
+Kevin Powell,200k Sub AMA | Come and Ask Me Anything 🥳,2021-02-25 06:44:12+00:00,7746,438,25,191.75,False,Thursday,6,41,0.05977278595404079
+Kevin Powell,Stop using @import with Sass | @use and @forward explained,2021-02-23 13:52:03+00:00,268367,9961,627,13.22,False,Tuesday,13,58,0.03945343503485898
+Kevin Powell,How to find what a client wants and get paid what you deserve | Freelance Dev Q&A with Niall Maher,2021-02-18 13:00:30+00:00,5736,261,20,57.37,False,Thursday,13,98,0.04898884239888424
+Kevin Powell,Write less code with these Sass mixins,2021-02-16 16:12:47+00:00,70215,1512,47,15.17,False,Tuesday,16,38,0.022203232927437158
+Kevin Powell,Are you using the right CSS units?,2021-02-12 18:13:21+00:00,487464,25063,479,6.5,False,Friday,18,34,0.0523977155236079
+Kevin Powell,Web design tips for developers,2021-02-10 12:56:40+00:00,100032,4743,169,21.2,False,Wednesday,12,30,0.049104286628278954
+Kevin Powell,CSS width auto vs 100% | What's the difference?,2021-02-05 13:00:00+00:00,117472,7061,204,2.15,False,Friday,13,47,0.06184452465268319
+Kevin Powell,Use Emmet to up your HTML game,2021-02-03 14:27:06+00:00,69814,4400,230,11.37,False,Wednesday,14,30,0.06631907640301372
+Kevin Powell,Make your next project POP!,2021-01-29 14:00:08+00:00,25821,1872,45,3.57,False,Friday,14,27,0.07424189613105611
+Kevin Powell,CSS & Web Dev resources that you need to check out,2021-01-27 13:00:30+00:00,22668,1459,43,3.28,False,Wednesday,13,50,0.06626080818775366
+Kevin Powell,Chrome 88 adds aspect-ratio and 2 awesome new devtool features!,2021-01-22 12:57:41+00:00,24718,1632,129,5.52,False,Friday,12,63,0.07124362812525285
+Kevin Powell,Sass with auto-refresh (and more) made easy,2021-01-21 12:24:54+00:00,87083,2770,302,17.75,False,Thursday,12,43,0.035276690054315996
+Kevin Powell,Fun outline animations!,2021-01-19 13:02:21+00:00,85881,3586,112,15.4,False,Tuesday,13,23,0.043059582445476884
+Kevin Powell,Checking for browser support,2021-01-15 12:00:34+00:00,13577,414,35,10.9,False,Friday,12,28,0.03307063416071297
+Kevin Powell,How to host your own fonts made simple,2021-01-13 12:45:00+00:00,95161,2468,117,14.0,False,Wednesday,12,38,0.027164489654375217
+Kevin Powell,Controlling background-images | CSS Tutorial,2021-01-07 13:27:44+00:00,396541,9078,307,16.7,False,Thursday,13,44,0.02366716178150557
+Kevin Powell,"CSS Outline vs Border - differences, advantages, and disadvantages",2021-01-05 13:57:35+00:00,46159,2620,179,10.1,False,Tuesday,13,66,0.060638228731125024
+Kevin Powell,Flexbox design patterns you can use in your projects,2020-12-30 17:48:48+00:00,451411,18756,449,15.55,False,Wednesday,17,52,0.042544377518492014
+Kevin Powell,VS Code extensions that I can't live without!,2020-12-23 15:00:01+00:00,76733,2671,176,9.02,False,Wednesday,15,45,0.03710268072406917
+Kevin Powell,Responsive design made easy,2020-12-16 17:07:16+00:00,494717,16468,532,42.67,False,Wednesday,17,27,0.034363080306518676
+Kevin Powell,Reacting to the state of CSS 2020 results,2020-12-11 18:50:13+00:00,16207,664,60,43.98,False,Friday,18,41,0.0446720552847535
+Kevin Powell,Masonry layout with CSS only!,2020-12-09 17:30:29+00:00,72480,2284,129,16.93,False,Wednesday,17,29,0.03329194260485651
+Kevin Powell,Stop animating box-shadows the wrong way!,2020-12-02 17:52:23+00:00,34743,2109,88,14.63,False,Wednesday,17,41,0.06323575972138272
+Kevin Powell,How to decide what to learn next when learning front-end,2020-11-25 16:27:27+00:00,9078,551,44,8.87,False,Wednesday,16,56,0.06554307116104868
+Kevin Powell,Taking on a Frontend Mentor challenge!,2020-11-18 16:32:39+00:00,100441,1941,89,143.88,False,Wednesday,16,38,0.020210870063022073
+Kevin Powell,Gap in flexbox & how to replicate it while we wait on Safari,2020-11-11 15:30:05+00:00,41211,1792,95,10.47,False,Wednesday,15,60,0.04578874572322923
+Kevin Powell,Start writing CSS with confidence!,2020-10-26 14:30:03+00:00,14938,520,70,4.3,False,Monday,14,34,0.039496585888338466
+Kevin Powell,Pushing the limits of HTML & CSS,2020-10-21 15:20:14+00:00,186904,4287,150,78.62,False,Wednesday,15,32,0.023739459829645166
+Kevin Powell,Inner and Outer display values? What they are and why they matter,2020-10-14 15:13:18+00:00,26135,1294,63,10.32,False,Wednesday,15,65,0.05192270901090492
+Kevin Powell,Get your media queries working with the meta viewport HTML tag,2020-10-09 16:52:16+00:00,61002,2899,73,3.68,False,Friday,16,62,0.04871971410773417
+Kevin Powell,Prototyping animations with Figma,2020-10-07 15:22:10+00:00,55936,1805,77,16.9,False,Wednesday,15,33,0.033645594965675055
+Kevin Powell,"Create a Calculator with HTML, CSS, and Vanilla JavaScript | Testing JavaScript",2020-10-06 14:10:17+00:00,12455,303,13,62.32,False,Tuesday,14,79,0.02537133681252509
+Kevin Powell,"Create a Calculator with HTML, CSS, and Vanilla JavaScript | The JS",2020-10-02 02:37:27+00:00,40129,796,54,91.23,False,Friday,2,67,0.021181689052804705
+Kevin Powell,Use Figma to design a great looking landing page,2020-09-30 17:10:16+00:00,34727,1265,78,30.4,False,Wednesday,17,48,0.03867307858438679
+Kevin Powell,"Create a Calculator with HTML, CSS, and Vanilla JavaScript | The HTML & CSS",2020-09-30 01:59:27+00:00,39574,1054,53,51.05,False,Wednesday,1,75,0.027972911507555466
+Kevin Powell,Animated glitch text effect with CSS only,2020-09-23 15:05:05+00:00,118224,5538,161,19.8,False,Wednesday,15,41,0.048205102178914605
+Kevin Powell,Get rid of that small space under your images,2020-09-18 20:29:43+00:00,30955,2039,119,6.32,False,Friday,20,45,0.06971410111452107
+Kevin Powell,You can do that with margins?,2020-09-16 16:51:49+00:00,191790,9994,300,14.67,False,Wednesday,16,29,0.05367328849262214
+Kevin Powell,SVG wave animation - Two different ways,2020-09-09 15:58:00+00:00,79182,1994,56,24.1,False,Wednesday,15,39,0.025889722411659214
+Kevin Powell,How to make wave and blob shapes in Illustrator,2020-09-08 15:00:23+00:00,31852,601,49,8.18,False,Tuesday,15,47,0.02040688182845661
+Kevin Powell,Create a pulsing animation with CSS,2020-09-02 15:23:15+00:00,65051,2081,79,23.85,False,Wednesday,15,35,0.03320471629951884
+Kevin Powell,Setting up Font Awesome icons as pseudo-elements,2020-08-26 17:39:00+00:00,68116,2020,117,17.25,False,Wednesday,17,48,0.031372952023019554
+Kevin Powell,Animated card with HTML & CSS | Tutorial,2020-08-19 14:12:27+00:00,173980,6031,213,68.85,False,Wednesday,14,40,0.0358891826646741
+Kevin Powell,Having fun with CSS - styling stylestage,2020-08-14 20:15:43+00:00,27468,521,18,179.38,False,Friday,20,40,0.01962283384301733
+Kevin Powell,Lazy loading is too easy now,2020-08-12 17:59:17+00:00,150496,5146,239,16.08,False,Wednesday,17,28,0.035781681905166916
+Kevin Powell,CUBE CSS with its creator Andy Bell,2020-08-06 18:12:00+00:00,17449,586,61,32.37,False,Thursday,18,35,0.03707948879591954
+Kevin Powell,Container queries are possible!,2020-08-04 14:54:43+00:00,158772,8050,388,17.5,False,Tuesday,14,31,0.05314539087496536
+Kevin Powell,Figma components: the basics to creating robust components,2020-07-29 15:30:18+00:00,169897,4771,181,37.82,False,Wednesday,15,58,0.029147071460943984
+Kevin Powell,Having fun with CSS - styling stylestage,2020-07-23 17:09:55+00:00,39490,852,34,157.25,False,Thursday,17,40,0.022436059761965055
+Kevin Powell,Custom select menu - CSS only,2020-07-22 16:31:44+00:00,154372,4647,195,17.67,False,Wednesday,16,29,0.03136579172388775
+Kevin Powell,Getting started with Figma: A beginner's guide,2020-07-15 15:47:15+00:00,222659,6676,250,43.28,False,Wednesday,15,46,0.03110586142936059
+Kevin Powell,The ch unit is the most underappreciated CSS unit,2020-07-09 17:07:05+00:00,57020,3053,150,8.43,False,Thursday,17,49,0.0561732725359523
+Kevin Powell,Ready to launch your career as a dev?,2020-07-07 16:35:38+00:00,7387,315,61,5.52,False,Tuesday,16,37,0.050900230134019224
+Kevin Powell,From idea to layout: How I approach designing a site,2020-07-01 15:23:47+00:00,161984,6054,195,45.9,False,Wednesday,15,52,0.038577884235480045
+Kevin Powell,The closest thing we have to a CSS parent selector,2020-06-24 16:22:06+00:00,18731,879,61,9.48,False,Wednesday,16,50,0.050184186642464365
+Kevin Powell,The one CSS combinator I use in every project,2020-06-17 17:07:43+00:00,107728,5527,200,15.07,False,Wednesday,17,45,0.05316166641912966
+Kevin Powell,Why are there two ways to make shadows in CSS? box-shadow vs filter: drop-shadow(),2020-05-27 16:00:05+00:00,49787,2500,83,9.65,False,Wednesday,16,82,0.05188101311587362
+Kevin Powell,"Creating a responsive, asymmetrical design with HTML & CSS",2020-05-22 17:40:58+00:00,133170,4361,149,57.77,False,Friday,17,58,0.033866486445896224
+Kevin Powell,What is display: flow-root and when to use it,2020-05-13 16:15:04+00:00,41037,2680,109,7.03,False,Wednesday,16,45,0.06796305772839145
+Kevin Powell,"Block, Inline, and Inline-Block explained | CSS Tutorial",2020-05-06 15:32:23+00:00,261084,9882,297,14.32,False,Wednesday,15,56,0.03898745231419773
+Kevin Powell,Stop fighting with CSS by taking advantage of these tools,2020-04-29 15:36:05+00:00,29212,1211,69,15.02,False,Wednesday,15,57,0.04381760920169793
+Kevin Powell,"min(), max(), and clamp() are CSS magic!",2020-04-21 16:21:53+00:00,310741,12532,309,18.2,False,Tuesday,16,40,0.041323803424717045
+Kevin Powell,Pseudo-elements positioning on steroids,2020-04-15 15:13:09+00:00,33528,1444,68,13.35,False,Wednesday,15,39,0.04509663564781675
+Kevin Powell,Conquering Responsive Layouts | FREE COURSE,2020-04-11 16:00:23+00:00,13887,583,93,2.3,False,Saturday,16,43,0.04867862029235976
+Kevin Powell,Turning a design from desktop only to mobile friendly,2020-04-08 16:03:13+00:00,46619,879,46,30.15,False,Wednesday,16,53,0.019841695446062763
+Kevin Powell,Are you writing responsive CSS the wrong way?,2020-04-01 18:54:39+00:00,426298,16675,1029,14.25,False,Wednesday,18,45,0.04152963419955055
+Kevin Powell,Creating a Mars Weather App - HTML & CSS part 4,2020-03-28 15:25:05+00:00,8429,252,40,30.78,False,Saturday,15,47,0.034642306323407285
+Kevin Powell,Creating a Mars Weather App - HTML & CSS part 3,2020-03-26 16:00:14+00:00,5519,223,21,15.05,False,Thursday,16,47,0.04421090777314731
+Kevin Powell,Creating a Mars Weather App - HTML & CSS part 2,2020-03-25 16:00:13+00:00,7916,316,36,38.5,False,Wednesday,16,47,0.04446690247599798
+Kevin Powell,Creating a Mars Weather App - HTML & CSS part 1,2020-03-24 16:00:00+00:00,18701,752,55,20.52,False,Tuesday,16,47,0.043152772579006474
+Kevin Powell,Learn To Use CSS Subgrid in 8 Minutes,2020-03-20 14:59:58+00:00,34767,1066,57,8.9,False,Friday,14,37,0.032300744959300486
+Kevin Powell,Stop using Chrome if you're writing CSS,2020-03-18 19:31:14+00:00,362434,12175,696,15.5,False,Wednesday,19,39,0.035512672652124246
+Kevin Powell,From design to code - HTML & CSS tutorial [ part three- fighting with CSS Grid],2020-03-12 18:50:26+00:00,28712,884,64,39.83,False,Thursday,18,79,0.033017553636110336
+Kevin Powell,From design to code - HTML & CSS tutorial [ part two ],2020-03-11 15:21:30+00:00,48934,1378,69,38.7,False,Wednesday,15,54,0.02957044181959374
+Kevin Powell,From design to code - HTML & CSS tutorial [ part one ],2020-03-10 17:29:56+00:00,110608,3255,84,16.42,False,Tuesday,17,54,0.030187689859684654
+Kevin Powell,Learn how to use Figma to create an awesome landing page,2020-03-04 18:08:26+00:00,108068,2779,106,37.25,False,Wednesday,18,56,0.02669615427323537
+Kevin Powell,Easily change the selection color with CSS,2020-02-28 19:41:13+00:00,17960,600,34,3.12,False,Friday,19,42,0.03530066815144766
+Kevin Powell,Make your sites look better // Simple tips to picking fonts,2020-02-26 16:04:18+00:00,53826,2236,137,16.6,False,Wednesday,16,59,0.04408650094749749
+Kevin Powell,6 simple typography tips to more professional looking sites,2020-02-19 18:15:56+00:00,130222,5332,151,38.05,False,Wednesday,18,59,0.04210502065703184
+Kevin Powell,The grid inspector: making grid easy to understand!,2020-01-31 17:32:30+00:00,64954,2231,59,5.63,False,Friday,17,51,0.03525571943221357
+Kevin Powell,Fade + slide in nav list items one at a time,2020-01-29 22:52:47+00:00,21341,601,43,23.45,False,Wednesday,22,44,0.030176655264514317
+Kevin Powell,Easily overlap content with CSS Grid,2020-01-24 20:03:18+00:00,92552,2384,108,3.12,False,Friday,20,36,0.026925404097156193
+Kevin Powell,Improving hover/focus of a hamburger icon | microinteraction,2020-01-22 15:36:31+00:00,10303,383,22,12.73,False,Wednesday,15,60,0.03930893914393866
+Kevin Powell,An introduction to microinteractions,2020-01-17 16:08:09+00:00,24901,976,46,13.45,False,Friday,16,36,0.04104252841251355
+Kevin Powell,Using Feature Queries (@supports) to use new CSS responsibly (and when you don't need them),2020-01-09 16:05:28+00:00,17379,961,40,9.97,False,Thursday,16,91,0.057598250762414406
+Kevin Powell,Smooth scrolling with one line of CSS,2020-01-04 02:57:29+00:00,153028,4954,181,2.53,False,Saturday,2,37,0.0335559505449983
+Kevin Powell,My thoughts after using one for a full week,2019-12-20 17:34:06+00:00,9402,344,56,14.52,False,Friday,17,43,0.042544139544777704
+Kevin Powell,Front-End Dev tries Webflow for the first time,2019-12-11 15:27:11+00:00,23986,606,143,58.18,False,Wednesday,15,46,0.031226548820145084
+Kevin Powell,Change the style of an input based on if there is a placeholder,2019-12-04 18:18:23+00:00,25738,896,57,6.82,False,Wednesday,18,63,0.03702696402206854
+Kevin Powell,Give your site a fantastic color scheme fast,2019-11-29 16:00:17+00:00,328581,12886,422,25.92,False,Friday,16,44,0.04050142887141983
+Kevin Powell,You can do that with one line of HTML?!,2019-11-26 20:58:30+00:00,40248,1098,52,44.9,False,Tuesday,20,39,0.0285728483402902
+Kevin Powell,Making an animated hamburger button and a challenge to you!,2019-11-14 14:56:33+00:00,38687,945,53,14.93,False,Thursday,14,59,0.025796779279861452
+Kevin Powell,You are doing :focus wrong (and I was too),2019-11-06 18:22:20+00:00,155752,5444,147,13.4,False,Wednesday,18,42,0.035896810313832246
+Kevin Powell,How to make a website light/dark toggle with CSS & JS,2019-10-23 16:56:19+00:00,128057,4439,151,16.8,False,Wednesday,16,53,0.035843413479934715
+Kevin Powell,Dark mode with a media query!,2019-10-16 16:00:14+00:00,32914,1654,97,4.85,False,Wednesday,16,29,0.05319924652123716
+Kevin Powell,Unlock VS Code Efficiency with these Hacks,2019-10-10 12:40:04+00:00,36429,1631,110,10.62,False,Thursday,12,42,0.047791594608690875
+Kevin Powell,How to create an expanding search bar using :focus-within,2019-10-02 16:00:02+00:00,104059,3230,177,32.93,False,Wednesday,16,57,0.03274104114012243
+Kevin Powell,Trouble shooting trick and some fun effects with CSS outline,2019-09-26 13:52:42+00:00,23087,1382,85,9.27,False,Thursday,13,60,0.06354225321609563
+Kevin Powell,How to create a background video | HTML & CSS tutorial,2019-09-18 20:08:43+00:00,89114,2785,154,10.92,False,Wednesday,20,54,0.03298022757366968
+Kevin Powell,Build a responsive card - HTML and CSS tutorial,2019-08-28 16:00:00+00:00,48861,1662,112,23.8,False,Wednesday,16,47,0.036307075172427906
+Kevin Powell,I never thought of using CSS filters like this,2019-08-23 16:00:20+00:00,50848,1755,66,11.82,False,Friday,16,46,0.035812617998741345
+Kevin Powell,I've just launched a course!,2019-08-20 15:06:47+00:00,5744,226,72,7.55,False,Tuesday,15,28,0.05188022284122563
+Kevin Powell,The magic of auto-fit and auto-fill (and the difference between them),2019-08-15 16:00:11+00:00,68943,3295,118,8.57,False,Thursday,16,69,0.04950466327255849
+Kevin Powell,Fun ways to animate CSS gradients,2019-08-07 17:18:54+00:00,254735,8945,211,14.0,False,Wednesday,17,33,0.03594323512670029
+Kevin Powell,5 CSS mistakes that I see way too often,2019-07-25 16:00:11+00:00,361717,12816,598,19.05,False,Thursday,16,39,0.037084239889195146
+Kevin Powell,Creating a better todo app - the HTML and CSS,2019-07-17 16:00:04+00:00,88240,2343,132,63.02,False,Wednesday,16,45,0.02804850407978241
+Kevin Powell,Interview with SEO expert Brendan Hufford,2019-07-10 16:00:08+00:00,9082,390,67,33.92,False,Wednesday,16,41,0.050319312926668136
+Kevin Powell,How to lazy load images,2019-07-03 16:19:29+00:00,111722,2769,105,12.33,False,Wednesday,16,23,0.02572456633429405
+Kevin Powell,Fade and scroll items into view while scrolling,2019-06-22 14:54:09+00:00,347239,8211,180,17.22,False,Saturday,14,47,0.02416491235143518
+Kevin Powell,How to change your navigation style on scroll,2019-06-19 16:00:10+00:00,217318,5872,198,13.37,False,Wednesday,16,45,0.027931418474309536
+Kevin Powell,Introduction to the Intersection Observer JavaScript API,2019-06-12 17:50:53+00:00,184064,5896,260,22.18,False,Wednesday,17,56,0.03344488873435327
+Kevin Powell,Easy sticky footer - stop a footer from floating up a short page!,2019-06-05 16:25:23+00:00,190958,4866,301,7.12,False,Wednesday,16,65,0.02705830601493522
+Kevin Powell,"Transitions, transition-delay and hover for ""backward"" animations",2019-05-31 15:58:02+00:00,20342,409,31,6.8,False,Friday,15,65,0.02163012486481172
+Kevin Powell,Really fun CSS hover effects,2019-05-29 16:09:04+00:00,231536,7063,244,34.88,False,Wednesday,16,28,0.03155880726971184
+Kevin Powell,Why you shouldn't set font-sizes using em,2019-05-22 16:50:49+00:00,133954,4007,195,13.7,False,Wednesday,16,41,0.03136897741015573
+Kevin Powell,Coding a signup form with HTML and CSS,2019-05-15 17:07:39+00:00,20450,870,93,26.53,False,Wednesday,17,38,0.04709046454767726
+Kevin Powell,Which one should I code?,2019-05-08 18:55:44+00:00,6675,205,60,22.93,False,Wednesday,18,24,0.039700374531835204
+Kevin Powell,Your submissions from the Sticky Challenge!,2019-05-06 20:27:31+00:00,11254,626,28,12.1,False,Monday,20,43,0.058112671050293226
+Kevin Powell,Coding a responsive webpage from start to finish,2019-05-02 16:07:31+00:00,393901,8823,374,122.43,False,Thursday,16,48,0.023348506350580476
+Kevin Powell,Redesigning a site with Adobe XD,2019-04-24 16:07:02+00:00,18989,425,49,23.62,False,Wednesday,16,32,0.02496182000105324
+Kevin Powell,The problem with browser defaults and the future of resets!,2019-04-17 21:04:21+00:00,31687,1324,73,15.0,False,Wednesday,21,59,0.044087480670306434
+Kevin Powell,How to tell an engaging story with the help of CSS,2019-04-10 18:00:53+00:00,21742,726,41,46.23,False,Wednesday,18,50,0.035277343390672435
+Kevin Powell,A couple of cool things you can do with CSS position sticky,2019-04-03 16:04:36+00:00,130968,4613,208,13.27,False,Wednesday,16,59,0.03681051859996335
+Kevin Powell,What should you learn next?,2019-03-27 17:18:58+00:00,12894,527,52,8.57,False,Wednesday,17,27,0.04490460679385761
+Kevin Powell,calc() lets you do some real CSS magic,2019-03-20 16:52:03+00:00,182645,6268,213,11.9,False,Wednesday,16,38,0.03548413589203099
+Kevin Powell,Refactoring my own site [Design & Code],2019-03-13 16:14:19+00:00,8575,218,18,27.15,False,Wednesday,16,39,0.027521865889212828
+Kevin Powell,box-sizing: border-box explained,2019-03-09 18:00:21+00:00,243733,10729,260,5.37,False,Saturday,18,32,0.045086221398005194
+Kevin Powell,Designing a testimonial with Adobe XD,2019-02-27 20:04:33+00:00,4670,103,21,34.32,False,Wednesday,20,37,0.026552462526766595
+Kevin Powell,Gulp v4 - Sass and BrowserSync setup,2019-02-20 17:00:52+00:00,91074,2884,396,29.48,False,Wednesday,17,36,0.036014669389727035
+Kevin Powell,How (and why) to use borders to make a CSS triangle (plus a scss mixin),2019-02-13 17:00:06+00:00,39473,1513,81,19.4,False,Wednesday,17,71,0.040382033288577
+Kevin Powell,Each loops with SCSS - how to loop through lists and maps,2019-02-06 17:00:03+00:00,29087,934,46,10.17,False,Wednesday,17,57,0.03369202736617733
+Kevin Powell,sass vs scss - what's the difference and which should you use?,2019-02-01 17:00:04+00:00,184249,5681,175,8.88,False,Friday,17,62,0.03178307616323562
+Kevin Powell,How to start using Sass without having to worry about the command line,2019-01-30 21:01:18+00:00,35586,680,109,14.55,False,Wednesday,21,70,0.022171640532793795
+Kevin Powell,A few reasons I love Sass + a big announcement!,2019-01-25 17:00:00+00:00,23174,889,106,27.58,False,Friday,17,47,0.042936049020453955
+Kevin Powell,Why CSS grid-area is the best property for laying out content,2019-01-23 17:00:06+00:00,196670,6622,274,19.93,False,Wednesday,17,61,0.03506381247775461
+Kevin Powell,Discord community open to all!,2019-01-21 17:00:06+00:00,2808,124,9,2.63,False,Monday,17,30,0.047364672364672365
+Kevin Powell,Giveaway winners announced!,2019-01-11 17:00:08+00:00,787,37,8,4.27,False,Friday,17,27,0.05717916137229987
+Kevin Powell,So you want to be a freelancer? A discussion plus a giveaway!,2019-01-07 17:37:33+00:00,5190,274,117,13.77,False,Monday,17,61,0.07533718689788053
+Kevin Powell,"How to code a carousel with HTML, CSS and JavaScript - from scratch (part 2)",2019-01-03 19:05:21+00:00,135950,3340,408,64.68,False,Thursday,19,76,0.02756895917616771
+Kevin Powell,"How to code a carousel with HTML, CSS and JavaScript - from scratch (part 1)",2019-01-03 19:05:13+00:00,266214,3610,153,22.77,False,Thursday,19,76,0.014135244577670595
+Kevin Powell,Happy Holidays! [ speed coding ],2018-12-20 17:25:15+00:00,5001,197,43,13.25,False,Thursday,17,32,0.04799040191961608
+Kevin Powell,The HTML picture element explained [ Images on the web part 3 ],2018-12-14 15:00:03+00:00,63196,1865,117,20.93,False,Friday,15,63,0.03136274447749857
+Kevin Powell,When to use .jpg or .png? the answer is WebP... sort of  [ images on the web | part two ],2018-12-07 18:18:21+00:00,74328,2304,114,9.98,False,Friday,18,89,0.032531482079431705
+Kevin Powell,srcset and sizes attributes - [ images on the web | part one ],2018-12-05 17:00:01+00:00,125515,4058,257,30.13,False,Wednesday,17,62,0.03437836115205354
+Kevin Powell,CSS Conic Gradients,2018-11-30 17:56:56+00:00,12441,516,37,9.23,False,Friday,17,19,0.044449803070492726
+Kevin Powell,Dealing with Cross Browser Compatibility,2018-11-28 17:34:48+00:00,44547,1509,147,29.93,False,Wednesday,17,40,0.03717422048622803
+Kevin Powell,Create nice gradients without worrying about the specific color values,2018-11-23 17:32:13+00:00,17475,1016,48,5.95,False,Friday,17,70,0.06088698140200286
+Kevin Powell,Center content without a container - the perfect fallback for Grid based layouts,2018-11-21 17:00:05+00:00,7287,432,40,9.08,False,Wednesday,17,80,0.06477288321668725
+Kevin Powell,A big problem with letter-spacing and a super easy Sass mixin to fix it,2018-11-16 17:00:05+00:00,7346,383,40,7.18,False,Friday,17,71,0.05758235774571195
+Kevin Powell,Create a CSS only lightbox using :target,2018-11-14 17:00:02+00:00,69922,2195,152,34.13,False,Wednesday,17,40,0.03356597351334344
+Kevin Powell,Why I use the BEM naming convention for my CSS,2018-11-09 17:00:05+00:00,221298,8463,443,7.05,False,Friday,17,46,0.04024437636128659
+Kevin Powell,CSS Gradients and repeating gradients,2018-11-02 16:00:01+00:00,191159,5225,191,6.03,False,Friday,16,37,0.028332435302549187
+Kevin Powell,Coding the front-end of a signup form,2018-10-31 16:00:24+00:00,15542,415,57,64.88,False,Wednesday,16,37,0.030369321837601337
+Kevin Powell,Remove all styling with one line of CSS,2018-10-26 16:00:00+00:00,104076,2952,186,5.75,False,Friday,16,39,0.030151043468234752
+Kevin Powell,Design a signup form with Adobe XD,2018-10-24 16:00:06+00:00,8145,198,36,34.13,False,Wednesday,16,34,0.028729281767955802
+Kevin Powell,How to use CSS object-fit to control your images,2018-10-12 16:00:02+00:00,453638,8671,223,6.02,False,Friday,16,48,0.019605941301213743
+Kevin Powell,Create a 3D flipping animation with HTML and CSS,2018-10-10 16:00:00+00:00,112747,3635,169,24.73,False,Wednesday,16,48,0.03373925692036152
+Kevin Powell,"Unsplash.it - free, beautiful, easy to use placeholder images",2018-10-05 17:25:05+00:00,27647,764,46,6.35,False,Friday,17,61,0.02929793467645676
+Kevin Powell,How to learn to code more efficiently,2018-10-03 16:00:00+00:00,17967,1088,144,19.13,False,Wednesday,16,37,0.06857015639784049
+Kevin Powell,Clip an image to text with CSS,2018-09-28 16:00:01+00:00,82756,3885,147,4.33,False,Friday,16,30,0.04872154284885688
+Kevin Powell,How to host your website for free,2018-09-26 16:00:00+00:00,571350,12593,813,15.4,False,Wednesday,16,33,0.023463726262361075
+Kevin Powell,5 ways to vertically center with CSS,2018-09-21 17:31:17+00:00,229339,8968,334,7.03,False,Friday,17,36,0.040560044301230926
+Kevin Powell,An update on where things are headed,2018-09-19 16:00:04+00:00,1679,126,47,14.88,False,Wednesday,16,36,0.10303752233472305
+Kevin Powell,You guys blew me away! #svgchallenge results,2018-09-14 16:00:00+00:00,7403,256,12,14.1,False,Friday,16,44,0.03620153991625017
+Kevin Powell,Wrapup,2018-09-12 16:00:03+00:00,3700,93,19,8.22,False,Wednesday,16,6,0.03027027027027027
+Kevin Powell,How to code a brewery website - Finishing up the code [Design & Code] Code part 8,2018-09-07 16:52:27+00:00,3798,76,16,14.83,False,Friday,16,81,0.02422327540810953
+Kevin Powell,How to code a brewery website - The cards! [Design & Code] Code part 6,2018-09-05 17:32:26+00:00,2999,82,16,24.55,False,Wednesday,17,70,0.03267755918639546
+Kevin Powell,How to code a brewery website - JavaScript time! [Design & Code] Code part 5,2018-08-31 17:33:11+00:00,3801,117,40,32.93,False,Friday,17,76,0.041304919757958435
+Kevin Powell,How to code a brewery website - Styling the Beer section [Design & Code] Code part 4,2018-08-29 21:20:04+00:00,4413,128,23,22.17,False,Wednesday,21,84,0.034217085882619534
+Kevin Powell,How to code a brewery website - The Intro Section [Design & Code] Code part 3,2018-08-24 23:07:35+00:00,4214,135,27,11.13,False,Friday,23,77,0.03844328429046037
+Kevin Powell,How to code a brewery website - The Variables and Typography [Design & Code] Code part 2,2018-08-22 16:00:50+00:00,5572,134,27,17.32,False,Wednesday,16,88,0.028894472361809045
+Kevin Powell,How to code a brewery website - The Markup and Basic Setup [Design & Code] Code part 1,2018-08-15 16:00:10+00:00,10290,279,51,24.22,False,Wednesday,16,86,0.03206997084548105
+Kevin Powell,How to design a brewery website with Adobe XD,2018-08-09 02:16:29+00:00,11772,292,51,59.4,False,Thursday,2,45,0.029136935100237852
+Kevin Powell,I'm issuing you a challenge!,2018-08-06 23:38:17+00:00,1974,86,23,3.48,False,Monday,23,28,0.05521783181357649
+Kevin Powell,Animation with GSAP - the basics [ A beginners guide to SVG part 5 ],2018-08-01 16:00:01+00:00,68006,1713,110,51.0,False,Wednesday,16,68,0.0268064582536835
+Kevin Powell,"How to create, clean up, and optimize an SVG [ A beginners guide to SVG part 4 ]",2018-07-25 17:32:38+00:00,61167,1493,60,31.98,False,Wednesday,17,80,0.025389507414128532
+Kevin Powell,Solve your z-index issues | z-index and stacking context explained,2018-07-18 16:00:04+00:00,59642,1982,126,18.0,False,Wednesday,16,66,0.035344220515743936
+Kevin Powell,What are SVG viewport and viewBox? [ A beginners guide to SVG part 3 ],2018-07-04 17:05:23+00:00,106308,3130,173,17.97,False,Wednesday,17,70,0.031070098205215037
+Kevin Powell,How to create SVG shapes [ A beginners guide to SVG part 2 ],2018-06-27 16:00:01+00:00,128600,3988,109,18.02,False,Wednesday,16,60,0.03185847589424572
+Kevin Powell,"A beginners guide to SVG | Part One: The Why, What, and How",2018-06-20 14:24:27+00:00,373353,9254,296,14.37,False,Wednesday,14,59,0.025579009677168793
+Kevin Powell,Layouts with CSS Grid,2018-06-14 18:10:54+00:00,39009,671,39,133.45,False,Thursday,18,21,0.018200927990976442
+Kevin Powell,There is no CSS3 and there will never be a CSS4!,2018-06-08 15:15:00+00:00,9076,396,47,7.18,False,Friday,15,48,0.04881004847950639
+Kevin Powell,Launching the community,2018-06-05 14:00:29+00:00,1323,94,20,4.32,False,Tuesday,14,23,0.08616780045351474
+Kevin Powell,Browser Support: Is it okay if the layout is different in old browsers?,2018-05-30 16:00:08+00:00,9914,363,47,17.73,False,Wednesday,16,71,0.04135565866451483
+Kevin Powell,"Floats, Flexbox, Grid? The progression of CSS layouts",2018-05-23 16:41:26+00:00,289814,10044,383,27.0,False,Wednesday,16,53,0.03597824811775829
+Kevin Powell,Create a responsive navigation nav with no JS!,2018-05-16 16:00:02+00:00,478421,13125,932,44.22,False,Wednesday,16,46,0.029382071439171775
+Kevin Powell,Creating a background video,2018-04-25 15:25:50+00:00,5433,148,17,68.87,False,Wednesday,15,27,0.030369961347321922
+Kevin Powell,3 Box Shadow Tricks You MUST Know,2018-04-18 16:00:02+00:00,70448,3812,99,17.08,False,Wednesday,16,33,0.05551612536906655
+Kevin Powell,CSS box-shadows - how to make them look good,2018-04-11 16:00:06+00:00,68156,2427,57,14.43,False,Wednesday,16,44,0.036445800809906684
+Kevin Powell,CSS Box-Shadow tutorial: the basics,2018-04-04 16:00:00+00:00,162144,5207,184,12.52,False,Wednesday,16,35,0.03324822380106572
+Kevin Powell,Using CSS Position Absolute: some practical examples,2018-03-28 16:00:05+00:00,124175,4272,157,26.3,False,Wednesday,16,52,0.03566740487215623
+Kevin Powell,How to make shapes with CSS,2018-03-23 16:00:03+00:00,357366,13184,348,18.58,False,Friday,16,27,0.037865941359838375
+Kevin Powell,Building a quick site with Bootstrap 4,2018-03-15 12:40:12+00:00,4876,115,26,64.57,False,Thursday,12,38,0.028917145200984415
+Kevin Powell,The most underappreciated CSS property,2018-03-08 00:19:49+00:00,71485,2603,144,9.03,False,Thursday,0,38,0.038427642162691476
+Kevin Powell,Learning to use Jekyll by building a blog site - HTML & CSS,2018-03-03 21:05:37+00:00,30685,428,55,178.2,False,Saturday,21,59,0.015740589864754767
+Kevin Powell,CSS Before and After pseudo elements explained - part three: as design elements,2018-02-28 17:00:03+00:00,163882,7806,232,22.12,False,Wednesday,17,79,0.049047485385826387
+Kevin Powell,CSS Before and After pseudo elements explained - part two: the content property,2018-02-22 17:00:04+00:00,418492,17234,482,24.87,False,Thursday,17,79,0.04233294782218059
+Kevin Powell,Building a site with Boostrap: The setup 2018 update,2018-02-20 21:30:00+00:00,6783,134,41,14.47,False,Tuesday,21,52,0.025799793601651185
+Kevin Powell,Before and After pseudo elements explained - part one: how they work,2018-02-14 17:00:14+00:00,1108575,37370,776,9.13,False,Wednesday,17,68,0.034409940689624066
+Kevin Powell,Using JS to find a the Giveaway Winner!,2018-02-09 19:42:27+00:00,1586,52,11,9.82,False,Friday,19,39,0.03972257250945776
+Kevin Powell,CSS Positioning: Position absolute and relative explained,2018-02-07 17:00:02+00:00,438425,16096,847,8.52,False,Wednesday,17,57,0.03864515025374922
+Kevin Powell,Step up your CSS game using these selectors and combinators,2018-01-31 17:00:01+00:00,183911,7320,236,19.68,False,Wednesday,17,59,0.04108509007074074
+Kevin Powell,10k Subscriber Q&A [plus a giveaway!],2018-01-26 13:54:54+00:00,757,58,79,12.3,False,Friday,13,37,0.1809775429326288
+Kevin Powell,Animating with CSS Transitions - Using transitions in action,2018-01-24 17:00:04+00:00,90550,2421,61,19.4,False,Wednesday,17,60,0.02741027056874655
+Kevin Powell,Animating with CSS Transitions - A look at the transition properties,2018-01-17 17:00:02+00:00,567814,16299,292,18.0,False,Wednesday,17,68,0.029219075260560678
+Kevin Powell,CSS Specificity explained,2018-01-11 17:00:06+00:00,144427,3834,151,13.45,False,Thursday,17,25,0.027591793778171673
+Kevin Powell,CSS Variables - manipulating them with JavaScript,2018-01-04 17:00:04+00:00,30065,1267,70,11.37,False,Thursday,17,49,0.04447031431897555
+Kevin Powell,CSS Variables - Sass to the rescue for fallbacks,2018-01-03 17:00:11+00:00,15382,709,40,12.77,False,Wednesday,17,48,0.04869327785723573
+Kevin Powell,CSS Variables - Browser Fallbacks,2018-01-03 17:00:04+00:00,18170,748,38,4.6,False,Wednesday,17,33,0.043258117776554764
+Kevin Powell,CSS Variables - CSS vs Sass - variables inside media queries,2017-12-28 17:00:00+00:00,28653,1498,57,6.07,False,Thursday,17,60,0.054270058981607514
+Kevin Powell,CSS Variables - Using them in the real world and a cool trick,2017-12-27 17:00:04+00:00,40100,2214,68,8.08,False,Wednesday,17,61,0.05690773067331671
+Kevin Powell,CSS Variables - An introduction to CSS custom properties,2017-12-20 17:00:05+00:00,137260,5663,186,12.03,False,Wednesday,17,56,0.04261256010491039
+Kevin Powell,Margin and Padding Deep Dive: Using whitespace to make our designs look better,2017-12-14 17:00:04+00:00,43242,1835,119,28.37,False,Thursday,17,78,0.04518754914203783
+Kevin Powell,"Margin and Padding Deep Dive: Collapsing margins, resets, and CSS box-sizing",2017-12-13 17:00:11+00:00,88279,3427,198,23.0,False,Wednesday,17,76,0.04106299346390421
+Kevin Powell,Margin and Padding Deep Dive: The basics,2017-12-12 17:22:21+00:00,74386,3038,124,13.07,False,Tuesday,17,40,0.04250799881698169
+Kevin Powell,Channel Update & Community Pull Requests,2017-12-06 18:17:14+00:00,637,59,35,22.08,False,Wednesday,18,40,0.14756671899529042
+Kevin Powell,"How to create a modal with HTML, CSS & JS - Part 4: JavaScript continued",2017-11-29 17:57:01+00:00,7242,199,45,18.55,False,Wednesday,17,72,0.033692350179508425
+Kevin Powell,"How to create a modal with HTML, CSS & JS - Part 3: JavaScript intro",2017-11-29 17:39:10+00:00,6730,145,25,14.18,False,Wednesday,17,68,0.02526002971768202
+Kevin Powell,"How to create a modal with HTML, CSS & JS - Part 2: CSS",2017-11-29 17:38:44+00:00,7252,123,32,24.05,False,Wednesday,17,55,0.021373414230557088
+Kevin Powell,"How to create a modal with HTML, CSS & JS - Part 1: HTML",2017-11-29 17:31:09+00:00,17351,229,14,7.83,False,Wednesday,17,56,0.01400495648665783
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 7: Media Queries,2017-11-23 22:51:31+00:00,10816,200,33,32.2,False,Thursday,22,78,0.02154215976331361
+Kevin Powell,"How to code a slide out navigation | Part 3: Making it work, and bug fixes (lots of them)",2017-11-16 00:43:16+00:00,6601,138,49,21.02,False,Thursday,0,89,0.0283290410543857
+Kevin Powell,How to code a slide out navigation | Part 2: The JavaScript,2017-11-08 17:00:07+00:00,14694,280,51,20.8,False,Wednesday,17,59,0.022526201170545802
+Kevin Powell,How to code a slide out navigation | Part 1: The HTML & CSS,2017-11-01 16:00:03+00:00,29123,371,52,23.92,False,Wednesday,16,59,0.014524602547814442
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 6: Contact and Footer,2017-10-25 16:00:01+00:00,8101,195,23,20.7,False,Wednesday,16,83,0.02691025799284039
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 5: Portfolio with flexbox fallbal,2017-10-18 16:00:09+00:00,10556,224,50,32.7,False,Wednesday,16,95,0.025956801818870785
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 4.5: Some refactoring,2017-10-17 16:00:02+00:00,6328,140,4,5.75,False,Tuesday,16,83,0.022756005056890013
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 4: About Section using Grid Line Names,2017-10-11 16:00:05+00:00,10832,240,49,26.45,False,Wednesday,16,100,0.026680206794682422
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 3: Using CSS Grid & creating fallbacks,2017-10-04 16:00:05+00:00,16514,398,67,31.57,False,Wednesday,16,100,0.02815792660772678
+Kevin Powell,How to create a Portfolio Website with CSS Grid & Sass | Part 2: Variables and basic styles,2017-09-27 17:00:01+00:00,27390,440,92,32.32,False,Wednesday,17,91,0.019423147133990508
+Kevin Powell,Create a dynamic layout using CSS Grid (preview),2017-09-25 20:07:41+00:00,7745,94,6,1.22,False,Monday,20,48,0.012911555842479019
+Kevin Powell,How to create a Website with CSS Grid & Sass | Part One: The Markup,2017-09-20 16:00:07+00:00,73255,1359,148,26.93,False,Wednesday,16,67,0.02057197460924169
+Kevin Powell,Designing a portfolio website with Adobe XD - The desktop layout,2017-09-13 16:00:06+00:00,13836,204,25,22.85,False,Wednesday,16,64,0.016551026308181557
+Kevin Powell,Designing a portfolio website with Adobe XD - The interactive elements,2017-09-06 16:00:00+00:00,21535,350,28,40.4,False,Wednesday,16,70,0.01755282098908753
+Kevin Powell,Designing a portfolio website with Adobe XD,2017-08-30 19:42:37+00:00,86698,1302,76,49.43,False,Wednesday,19,43,0.01589425361600037
+Kevin Powell,The Explicit and Implicit grid explained,2017-08-23 16:00:04+00:00,19472,830,44,21.38,False,Wednesday,16,40,0.044884963023829084
+Kevin Powell,Creating a nice layout CSS Grid layout using grid template areas,2017-08-16 16:00:11+00:00,151089,3341,230,35.18,False,Wednesday,16,64,0.023635076014799226
+Kevin Powell,CSS Grid - Using line names,2017-08-09 16:00:04+00:00,28246,1023,66,22.22,False,Wednesday,16,27,0.038554131558450756
+Kevin Powell,Build a Mosaic Portfolio Layout with CSS Grid,2017-08-02 16:30:00+00:00,242187,5078,311,27.6,False,Wednesday,16,45,0.022251400777085477
+Kevin Powell,Flexbox Tutorial - Building a simple layout with Flexbox,2017-07-27 00:43:41+00:00,108402,4055,232,11.12,False,Thursday,0,56,0.039547240825815025
+Kevin Powell,Flexbox Tutorial - Flexbox Items,2017-07-19 16:00:00+00:00,88132,3431,91,11.85,False,Wednesday,16,32,0.03996278309808015
+Kevin Powell,Flexbox Tutorial - Flexbox containers,2017-07-12 16:01:15+00:00,199141,6662,159,17.52,False,Wednesday,16,37,0.03425211282458158
+Kevin Powell,How to automatically refresh your browser as you work,2017-07-05 16:00:08+00:00,67649,1171,147,13.68,False,Wednesday,16,53,0.019482919185797278
+Kevin Powell,Build a website with Bootstrap 4 - Part 6:  Styling the Music section,2017-06-29 21:21:46+00:00,7524,105,25,20.13,False,Thursday,21,69,0.017278043593833066
+Kevin Powell,Build a website with Bootstrap 4 - Part 7:  Upcoming Shows and Footer - plus an announcement!,2017-06-28 16:00:01+00:00,8135,124,41,39.4,False,Wednesday,16,93,0.020282728948985862
+Kevin Powell,Build a website with Bootstrap 4 - Part 5:  The About Section,2017-06-21 16:00:08+00:00,8002,132,19,29.2,False,Wednesday,16,61,0.018870282429392652
+Kevin Powell,Exploring CSS Grid,2017-06-19 18:33:35+00:00,25445,503,56,87.57,False,Monday,18,18,0.021968952642955394
+Kevin Powell,Build a website with Bootstrap 4 - Part 4:  Styling the Navbar and Hero,2017-06-14 16:00:03+00:00,17551,202,36,33.75,False,Wednesday,16,71,0.013560480884280099
+Kevin Powell,Build a website with Bootstrap 4 - Part 3:  Writing the HTML,2017-06-07 16:00:02+00:00,22529,244,31,38.47,False,Wednesday,16,60,0.012206489413644635
+Kevin Powell,Build a website with Bootstrap 4 - Part 2:  Customizing Variables,2017-05-31 20:51:34+00:00,27498,201,32,8.83,False,Wednesday,20,65,0.008473343515892065
+Kevin Powell,Build a website with Bootstrap 4 - Introduction,2017-05-26 21:30:00+00:00,19129,229,15,2.15,False,Friday,21,47,0.012755502117204245
+Kevin Powell,Build a website with Bootstrap 4 - Part 1: The setup,2017-05-24 16:00:01+00:00,78264,669,147,20.27,False,Wednesday,16,52,0.010426249616682
+Kevin Powell,How I approach designing a website - my thought process,2017-05-17 16:00:04+00:00,36553,755,76,24.85,False,Wednesday,16,55,0.022734112111181023
+Kevin Powell,Let's learn Bootstrap 4,2017-05-12 03:52:34+00:00,16057,217,46,92.17,False,Friday,3,23,0.016379149280687552
+Kevin Powell,How to add Smooth Scrolling to your one page website with jQuery,2017-05-10 16:00:09+00:00,100084,1948,269,19.83,False,Wednesday,16,64,0.022151392830022782
+Kevin Powell,"Git and GitHub for Beginners: GitHub basics, and how to use GitHub Desktop",2017-05-03 16:00:02+00:00,88544,1219,121,24.43,False,Wednesday,16,74,0.01513371882905674
+Kevin Powell,Should you use Bootstrap?,2017-04-28 18:46:31+00:00,93231,2428,245,7.23,False,Friday,18,25,0.028670721112076455
+Kevin Powell,Git and GitHub for Beginners: What is Git?,2017-04-26 16:30:00+00:00,64192,1978,141,9.28,False,Wednesday,16,42,0.03301034396809571
+Kevin Powell,CSS em and rem explained #CSS #responsive,2017-04-19 20:00:02+00:00,403445,17655,440,16.9,False,Wednesday,20,41,0.044851218877418234
+Kevin Powell,Create a Custom Grid System with CSS Calc() and Sass,2017-04-12 16:00:01+00:00,25080,840,84,14.27,False,Wednesday,16,52,0.03684210526315789
+Kevin Powell,How to Create a Website - Complete workflow | Part 12: Putting the site online,2017-04-07 16:00:04+00:00,5308,98,29,4.58,False,Friday,16,78,0.02392614920874152
+Kevin Powell,How to Create a Website - Complete workflow | Part 11: Making it responsive con't,2017-04-05 14:29:23+00:00,4908,133,21,26.52,False,Wednesday,14,81,0.03137734311328443
+Kevin Powell,How to Create a Website - Complete workflow | Part 10: Making it responsive,2017-03-31 19:30:01+00:00,3664,91,28,26.67,False,Friday,19,75,0.03247816593886463
+Kevin Powell,How to Create a Website - Complete workflow | Part 09: The CTA and Footer,2017-03-29 16:00:06+00:00,3263,111,9,20.93,False,Wednesday,16,73,0.03677597303095311
+Kevin Powell,How to Create a Website - Complete workflow | Part 08: Promo & Problem shooting!,2017-03-24 16:15:03+00:00,3196,103,20,24.83,False,Friday,16,80,0.03848560700876095
+Kevin Powell,How to Create a Website - Complete workflow | Part 07: Starting the flexbox grid,2017-03-22 16:00:01+00:00,4822,131,7,15.05,False,Wednesday,16,80,0.02861883036084612
+Kevin Powell,Redesigning & Coding My Website #CreateICG,2017-03-20 16:00:05+00:00,1602,27,7,18.7,False,Monday,16,42,0.02122347066167291
+Kevin Powell,How to Create a Website - Complete workflow | Part 06.2: Making the nav work with jQuery,2017-03-17 15:09:04+00:00,5661,157,34,24.1,False,Friday,15,88,0.03373962197491609
+Kevin Powell,How to Create a Website - Complete workflow | Part 06.1: Building the navigation with Flexbox,2017-03-17 15:08:47+00:00,16851,211,13,15.13,False,Friday,15,93,0.013292979645124919
+Kevin Powell,How to Create a Website - Complete workflow | Part 05: Typography & Buttons,2017-03-15 18:30:00+00:00,5469,160,8,23.65,False,Wednesday,18,75,0.030718595721338452
+Kevin Powell,How to Create a Website - Complete workflow | Part 04: Setting up the hero and header,2017-03-09 18:02:14+00:00,7001,164,33,21.8,False,Thursday,18,85,0.028138837308955864
+Kevin Powell,How to Create a Website - Complete workflow | Part 03: Sass Variables and a Mixin #Sass,2017-03-08 20:10:13+00:00,9846,178,45,14.72,False,Wednesday,20,87,0.022648791387365426
+Kevin Powell,How to Create a Website - Complete workflow | Part 02: The Markup #HTML,2017-03-02 00:00:04+00:00,15821,295,66,44.68,False,Thursday,0,71,0.022817773844889703
+Kevin Powell,100 Subscribers speed coding bonus video,2017-03-01 17:17:56+00:00,727,49,14,7.3,False,Wednesday,17,40,0.08665749656121045
+Kevin Powell,How to Create a Website - Complete workflow | Part 01: Intro + Setting things up,2017-02-22 23:00:00+00:00,39123,934,87,21.47,False,Wednesday,23,80,0.026097180686552666
+Kevin Powell,"CSS Units: vh, vw, vmin, vmax #css #responsive #design",2017-02-18 04:05:29+00:00,208460,6604,248,14.45,False,Saturday,4,54,0.03286961527391346
+Kevin Powell,Parallax effect | 2 different ways to add it with jQuery,2017-02-08 19:00:02+00:00,89286,1914,200,21.55,False,Wednesday,19,56,0.02367672423448245
+Kevin Powell,CSS Blending Modes,2017-01-27 00:04:28+00:00,43548,1552,81,11.87,False,Friday,0,18,0.037498851841646
+Kevin Powell,CSS Tutorial: Outline and Outline Offset,2017-01-18 21:00:01+00:00,34412,1244,48,8.23,False,Wednesday,21,40,0.037545042427060325
+Kevin Powell,Create a CSS only Mega Dropdown Menu,2017-01-12 02:13:26+00:00,84089,1999,194,21.23,False,Thursday,2,36,0.026079510994303653
+Kevin Powell,End of the year upate and what's coming to my channel to start the new year,2016-12-23 20:04:00+00:00,1314,51,3,1.73,False,Friday,20,75,0.0410958904109589
+Kevin Powell,Tutorial: Learn how to use CSS Media Queries in less than 5 minutes,2016-12-21 19:00:00+00:00,417487,16412,582,4.5,False,Wednesday,19,67,0.04070545909213939
+Kevin Powell,How to Create a Responsive Website from Scratch - Part 5: Call To Action and Footer #CSS #Responsive,2016-12-14 23:26:03+00:00,36850,1496,192,22.88,False,Wednesday,23,100,0.045807327001356854
+Kevin Powell,How to Create a Responsive Website from Scratch - Part 4: Building a Responsive Portfolio Section,2016-12-07 19:30:00+00:00,39176,1374,206,18.27,False,Wednesday,19,97,0.04033081478456198
+Kevin Powell,How to Create a Responsive Website from Scratch - Part 3: The About Section #Responsive #CSS,2016-11-30 21:26:48+00:00,58909,998,175,30.72,False,Wednesday,21,92,0.019912067765536674
+Kevin Powell,How to Create a Responsive Website from Scratch - Part 2: The Header and Hero area #Responsive #CSS3,2016-11-23 20:30:02+00:00,108425,2108,328,26.78,False,Wednesday,20,100,0.02246714318653447
+Kevin Powell,How to Create a Responsive Website from Scratch - Part 1: The HTML #Responsive #HTML5,2016-11-16 21:00:00+00:00,327710,5788,480,23.15,False,Wednesday,21,85,0.019126666870098563
+Kevin Powell,HTML & CSS for Beginners Part 22: How to create a basic layout - the CSS,2016-11-13 20:30:00+00:00,52684,1691,147,11.12,False,Sunday,20,72,0.034887252296712475
+Kevin Powell,HTML & CSS for Beginners Part 21: How to create a basic website layout - the HTML,2016-11-13 02:32:22+00:00,46713,970,29,8.37,False,Sunday,2,81,0.021385909703936806
+Kevin Powell,HTML & CSS for Beginners Part 20: How to center a div,2016-11-10 23:00:00+00:00,86528,2255,72,5.68,False,Thursday,23,53,0.026893028846153848
+Kevin Powell,"HTML & CSS for Beginners Part 19: Colors with CSS - hex, rgba, and hsla",2016-11-10 17:00:06+00:00,42435,992,58,12.85,False,Thursday,17,71,0.024743725698126547
+Kevin Powell,HTML & CSS for Beginners Part 18: How Floats and Clears work,2016-11-09 21:04:59+00:00,177651,4867,251,15.83,False,Wednesday,21,60,0.028809294628231757
+Kevin Powell,HTML & CSS for Beginners Part 17: How to Create and Style HTML Lists,2016-11-08 23:52:02+00:00,78086,1615,57,14.17,False,Tuesday,23,68,0.021412289014676126
+Kevin Powell,HTML & CSS for Beginners Part 16: CSS selectors and Specificity,2016-11-07 18:00:01+00:00,42558,1777,212,11.13,False,Monday,18,63,0.04673621880727478
+Kevin Powell,HTML & CSS for Beginners Part 15: How to style links,2016-11-06 18:00:04+00:00,53461,1494,64,13.67,False,Sunday,18,52,0.029142739567161107
+Kevin Powell,HTML & CSS for Beginners Part 14: Style Text with CSS,2016-11-06 01:32:49+00:00,76488,1757,74,26.97,False,Sunday,1,53,0.023938395565317436
+Kevin Powell,HTML & CSS for Beginners Part 13: Background Images,2016-11-04 16:00:01+00:00,762324,8502,462,11.32,False,Friday,16,51,0.011758779731452769
+Kevin Powell,"HTML & CSS for Beginners Part 12: The CSS Box Model - Margin, Borders & Padding explained",2016-11-03 13:30:00+00:00,146910,3375,120,18.87,False,Thursday,13,89,0.02379007555646314
+Kevin Powell,HTML & CSS for Beginners Part 11: Classes & IDs,2016-11-02 13:56:14+00:00,68479,1769,71,10.78,False,Wednesday,13,47,0.026869551249288103
+Kevin Powell,HTML & CSS for Beginners Part 10: Divs & Spans,2016-11-02 03:33:08+00:00,90610,2317,68,9.53,False,Wednesday,3,46,0.026321598057609537
+Kevin Powell,HTML & CSS for Beginners Part 9: External CSS,2016-10-30 18:49:38+00:00,94398,2080,97,13.63,False,Sunday,18,45,0.023061929278162672
+Kevin Powell,HTML & CSS for Beginner Part 8: Introduction to CSS,2016-10-29 18:12:30+00:00,90610,2006,79,11.9,False,Saturday,18,51,0.023010705220174375
+Kevin Powell,HTML and CSS for Beginners Part 1: Introduction to HTML,2016-10-26 15:13:51+00:00,478867,15428,305,3.72,False,Wednesday,15,55,0.03285463395890717
+Kevin Powell,HTML and CSS for Beginners Part 2: Building your first web page!,2016-10-26 15:13:51+00:00,369429,8395,243,14.47,False,Wednesday,15,64,0.02338203010592022
+Kevin Powell,HTML & CSS for Beginners Part 4: Bold and Italic text and HTML comments,2016-10-26 15:13:50+00:00,166323,4443,115,7.05,False,Wednesday,15,71,0.02740450809569332
+Kevin Powell,HTML & CSS for Beginners Part 5: Links,2016-10-26 15:13:50+00:00,187956,4553,103,8.83,False,Wednesday,15,38,0.024771755091617186
+Kevin Powell,HTML & CSS for Beginners Part 3: Paragraphs and Headings,2016-10-26 15:13:50+00:00,206096,4611,170,6.58,False,Wednesday,15,56,0.023197927179566803
+Kevin Powell,HTML & CSS for Beginners Part 6: Images,2016-10-26 15:13:49+00:00,164082,4756,131,7.57,False,Wednesday,15,39,0.029783888543533112
+Kevin Powell,HTML & CSS for Beginners Part 7: File Structure,2016-10-26 15:13:49+00:00,193229,5889,143,6.28,False,Wednesday,15,47,0.03121684633258983
+Kevin Powell,Improve your CSS by Keepin' it DRY,2016-10-19 19:56:17+00:00,77453,2781,114,19.75,False,Wednesday,19,34,0.037377506358694954
+Kevin Powell,How to create an awesome navigation bar with HTML & CSS,2016-10-12 14:27:49+00:00,1013418,15336,1360,19.03,False,Wednesday,14,55,0.016474939264942996

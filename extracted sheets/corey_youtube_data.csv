@@ -1,0 +1,247 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Corey Schafer,Python Tutorial: Type Hinting vs Type Checking vs Data Validation - What’s the Difference?,2025-05-29 16:45:15+00:00,18812,1062,72,18.27,False,Thursday,16,90,0.06028067191154582
+Corey Schafer,Python Tutorial: Ruff - A Fast Linter & Formatter to Replace Multiple Tools and Improve Code Quality,2025-05-19 20:37:50+00:00,42831,1728,85,35.78,False,Monday,20,100,0.04232915411734491
+Corey Schafer,"Python Tutorial: UV - A Faster, All-in-One Package Manager to Replace Pip and Venv",2025-04-30 16:35:32+00:00,131924,4752,280,27.03,False,Wednesday,16,82,0.038143173342227346
+Corey Schafer,I Let Python Pick My March Madness Bracket - Bracket Simulation Tutorial,2025-03-17 22:18:39+00:00,14979,510,57,24.08,False,Monday,22,72,0.03785299419186862
+Corey Schafer,Python Tutorial: Generate a Web Portfolio and Resume from One JSON File,2025-03-11 20:28:42+00:00,31893,1184,79,24.17,False,Tuesday,20,71,0.0396011664001505
+Corey Schafer,How to Deploy a Static Website to GitHub Pages - Free Hosting Tutorial,2025-03-10 18:22:20+00:00,38530,1186,83,23.88,False,Monday,18,70,0.03293537503244225
+Corey Schafer,Python Tutorial: Pathlib - The Modern Way to Handle File Paths,2024-09-23 12:01:00+00:00,47873,2025,92,34.85,False,Monday,12,62,0.044221168508344996
+Corey Schafer,Python Tkinter Tutorial (Part 2): Using Classes for Functionality and Organization,2024-08-15 19:30:04+00:00,34845,1202,91,34.77,False,Thursday,19,82,0.037107188979767544
+Corey Schafer,"Python Tkinter Tutorial (Part 1): Getting Started, Elements, Layouts, and Events",2024-07-27 18:33:48+00:00,108604,2989,210,41.13,False,Saturday,18,80,0.029455636993112592
+Corey Schafer,Automating My Bill Payments with Python and Selenium,2024-06-01 18:51:55+00:00,55959,1870,161,78.5,False,Saturday,18,52,0.036294429850426205
+Corey Schafer,Python Quick Tip: Secure Passwords and Sensitive Info with DotEnv #Shorts #Python #Programming,2024-04-17 21:52:16+00:00,27445,1331,26,0.92,True,Wednesday,21,94,0.04944434323191838
+Corey Schafer,Python Tutorial: Securely Manage Passwords and API Keys with DotEnv,2024-04-17 21:30:03+00:00,41991,1985,175,16.97,False,Wednesday,21,67,0.05143959419875688
+Corey Schafer,Automate Your Development Environment Setup with Scripts and Dotfiles,2024-03-05 22:57:56+00:00,63192,2458,292,30.15,False,Tuesday,22,69,0.04351816685656412
+Corey Schafer,How to Use ChatGPT as a Powerful Tool for Programming,2023-05-21 21:00:10+00:00,316604,8503,454,31.13,False,Sunday,21,53,0.028290861770539855
+Corey Schafer,Python Tutorial: Simulate the Powerball Lottery Using Python,2023-01-09 18:45:00+00:00,151847,4451,750,38.93,False,Monday,18,60,0.03425158218469907
+Corey Schafer,Python YouTube API Tutorial: Using OAuth to Access User Accounts,2020-09-10 14:15:03+00:00,149942,2798,354,43.35,False,Thursday,14,64,0.021021461631830975
+Corey Schafer,Python YouTube API Tutorial: Sort a Playlist by Most Popular Videos,2020-07-31 14:30:00+00:00,48995,1153,129,22.13,False,Friday,14,67,0.026165935299520358
+Corey Schafer,Python YouTube API Tutorial: Calculating the Duration of a Playlist,2020-06-10 15:53:26+00:00,61466,1680,176,37.63,False,Wednesday,15,67,0.0301955552663261
+Corey Schafer,Python YouTube API Tutorial: Getting Started - Creating an API Key and Querying the API,2020-05-29 16:17:07+00:00,229284,6068,330,20.82,False,Friday,16,87,0.02790425847420666
+Corey Schafer,Python Tutorial: Real World Example - Using Patreon API and Pillow to Automate Image Creation,2020-05-11 13:00:10+00:00,42788,973,87,52.55,False,Monday,13,93,0.024773300925493128
+Corey Schafer,"Python Pandas Tutorial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc",2020-04-01 16:30:04+00:00,194596,4907,352,32.75,False,Wednesday,16,99,0.027025221484511502
+Corey Schafer,"Live Stream - Chat, Q&A, Brews, and Coding",2020-03-23 19:47:33+00:00,80387,2926,262,61.35,False,Monday,19,42,0.03965815368156543
+Corey Schafer,Python Pandas Tutorial (Part 10): Working with Dates and Time Series Data,2020-03-17 19:02:48+00:00,348303,8188,456,35.68,False,Tuesday,19,73,0.024817472143507234
+Corey Schafer,Python Pandas Tutorial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values,2020-02-24 14:00:04+00:00,251313,6133,185,31.9,False,Monday,14,94,0.0251399649043225
+Corey Schafer,Python Pandas Tutorial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data,2020-02-14 14:38:33+00:00,456465,10405,747,49.1,False,Friday,14,93,0.024431226928680185
+Corey Schafer,Python Pandas Tutorial (Part 7): Sorting Data,2020-02-06 14:30:02+00:00,203929,5831,185,15.67,False,Thursday,14,45,0.0295004633965743
+Corey Schafer,Python Pandas Tutorial (Part 6): Add/Remove Rows and Columns From DataFrames,2020-02-01 22:39:16+00:00,304646,6592,258,16.92,False,Saturday,22,76,0.022485113869868633
+Corey Schafer,Python Pandas Tutorial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames,2020-01-24 19:15:01+00:00,440238,9770,367,40.05,False,Friday,19,93,0.023026181292846143
+Corey Schafer,Python Pandas Tutorial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns,2020-01-17 14:00:06+00:00,490837,11434,336,23.07,False,Friday,14,90,0.023979447352175977
+Corey Schafer,"Python Pandas Tutorial (Part 3): Indexes - How to Set, Reset, and Use Indexes",2020-01-13 19:45:00+00:00,440535,10426,217,17.45,False,Monday,19,77,0.024159260898680014
+Corey Schafer,Python Pandas Tutorial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns,2020-01-10 19:15:00+00:00,715183,16043,388,33.58,False,Friday,19,89,0.02297453938362629
+Corey Schafer,Python Pandas Tutorial (Part 1): Getting Started with Data Analysis - Installation and Loading Data,2020-01-09 14:00:08+00:00,1570204,23557,636,23.02,False,Thursday,14,99,0.015407552139721973
+Corey Schafer,Python Tutorial: Zip Files - Creating and Extracting Zip Archives,2019-11-19 15:15:01+00:00,126075,1991,118,27.17,False,Tuesday,15,65,0.016728138013087448
+Corey Schafer,Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey,2019-10-17 16:15:01+00:00,64411,1569,145,51.47,False,Thursday,16,80,0.026610361584201457
+Corey Schafer,Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module,2019-09-20 18:20:41+00:00,829664,22082,950,44.25,False,Friday,18,86,0.02776063563080958
+Corey Schafer,Python Threading Tutorial: Run Code Concurrently Using the Threading Module,2019-09-12 14:30:01+00:00,879972,21781,736,36.08,False,Thursday,14,75,0.025588314173632797
+Corey Schafer,"Python Quick Tip: The Difference Between ""=="" and ""is"" (Equality vs Identity)",2019-08-06 16:00:07+00:00,124664,4316,214,8.85,False,Tuesday,16,77,0.036337675672206894
+Corey Schafer,Python Tutorial: Calling External Commands Using the Subprocess Module,2019-07-24 17:00:00+00:00,387869,9309,385,19.02,False,Wednesday,17,70,0.024992974432089185
+Corey Schafer,Matplotlib Tutorial (Part 10): Subplots,2019-06-19 15:00:12+00:00,256588,5658,291,21.37,False,Wednesday,15,39,0.023185028138494396
+Corey Schafer,Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time,2019-06-18 15:00:04+00:00,438282,7612,356,20.57,False,Tuesday,15,61,0.018180075841581447
+Corey Schafer,Matplotlib Tutorial (Part 8): Plotting Time Series Data,2019-06-17 15:00:07+00:00,194434,3555,95,17.15,False,Monday,15,55,0.018772436919468817
+Corey Schafer,Matplotlib Tutorial (Part 7): Scatter Plots,2019-06-16 15:00:09+00:00,190137,4102,126,21.4,False,Sunday,15,43,0.022236597821570763
+Corey Schafer,Matplotlib Tutorial (Part 6): Histograms,2019-06-15 15:00:04+00:00,202072,4238,113,16.6,False,Saturday,15,40,0.021531929213349697
+Corey Schafer,Matplotlib Tutorial (Part 5): Filling Area on Line Plots,2019-06-14 15:00:16+00:00,109208,2875,96,15.3,False,Friday,15,56,0.02720496666910849
+Corey Schafer,Matplotlib Tutorial (Part 4): Stack Plots,2019-06-13 15:00:07+00:00,116500,2842,78,14.82,False,Thursday,15,41,0.025064377682403435
+Corey Schafer,Matplotlib Tutorial (Part 3): Pie Charts,2019-06-12 15:00:04+00:00,168358,3924,93,17.03,False,Wednesday,15,40,0.023859870038845793
+Corey Schafer,Matplotlib Tutorial (Part 2): Bar Charts and Analyzing Data from CSVs,2019-06-11 15:00:11+00:00,366933,7064,354,34.43,False,Tuesday,15,69,0.0202162247603786
+Corey Schafer,Matplotlib Tutorial (Part 1): Creating and Customizing Our First Plots,2019-06-10 15:00:04+00:00,1104144,19574,594,35.02,False,Monday,15,70,0.018265733455056585
+Corey Schafer,Visual Studio Code (Windows) - Setting up a Python Development Environment and Complete Overview,2019-05-01 17:45:01+00:00,723318,11420,495,75.28,False,Wednesday,17,96,0.016472699421278054
+Corey Schafer,Visual Studio Code (Mac) - Setting up a Python Development Environment and Complete Overview,2019-05-01 17:45:01+00:00,278871,4649,264,75.73,False,Wednesday,17,92,0.017617464705903446
+Corey Schafer,Python Tutorial: Clarifying the Issues with Mutable Default Arguments,2019-04-24 15:30:00+00:00,36490,1407,89,16.07,False,Wednesday,15,69,0.04099753357084133
+Corey Schafer,5 Common Python Mistakes and How to Fix Them,2019-04-22 17:45:00+00:00,296200,7727,214,29.32,False,Monday,17,44,0.026809588116137744
+Corey Schafer,How I Setup a New Development Machine - Using Scripts to Automate Installs and Save Time,2019-04-15 17:45:01+00:00,59652,1319,65,28.35,False,Monday,17,88,0.023201233822839135
+Corey Schafer,How to Write Python Scripts to Analyze JSON APIs and Sort Results,2019-04-09 19:00:00+00:00,162575,3517,144,48.72,False,Tuesday,19,65,0.022518837459634015
+Corey Schafer,Homebrew Tutorial: Simplify Software Installation on Mac Using This Package Manager,2019-04-09 16:15:01+00:00,219308,3953,147,20.03,False,Tuesday,16,83,0.01869516843890784
+Corey Schafer,Python Tutorial: VENV (Windows) - How to Use Virtual Environments with the Built-In venv Module,2019-04-02 15:30:01+00:00,591422,12451,532,17.17,False,Tuesday,15,95,0.02195217628021954
+Corey Schafer,Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module,2019-04-02 15:30:00+00:00,300965,8069,240,14.3,False,Tuesday,15,99,0.027607861379230145
+Corey Schafer,10 Python Tips and Tricks For Writing Better Code,2019-03-25 17:30:00+00:00,1401944,40405,986,39.35,False,Monday,17,49,0.02952400381184983
+Corey Schafer,"How to Send Emails Using Python - Plain Text, Adding Attachments, HTML Emails, and More",2019-03-18 17:00:03+00:00,472513,9965,719,31.95,False,Monday,17,87,0.022611018109554657
+Corey Schafer,Python Tutorial: Web Scraping with Requests-HTML,2019-03-11 20:15:02+00:00,196670,3563,209,56.45,False,Monday,20,48,0.019179335943458584
+Corey Schafer,"Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers",2019-03-04 18:45:00+00:00,158964,2974,99,45.98,False,Monday,18,91,0.019331420950655494
+Corey Schafer,"Python Requests Tutorial: Request Web Pages, Download Images, POST Data, Read JSON, and More",2019-02-26 15:45:00+00:00,1079612,20882,519,25.02,False,Tuesday,15,92,0.019822862287562568
+Corey Schafer,Python Django Tutorial: Deploying Your Application (Option #2) - Deploy using Heroku,2019-02-19 17:30:01+00:00,291058,4871,674,53.52,False,Tuesday,17,84,0.019051185674332952
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads,2019-02-18 20:15:01+00:00,161830,2519,466,26.58,False,Monday,20,85,0.018445282086139776
+Corey Schafer,Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,2019-01-24 18:45:01+00:00,151512,2395,198,20.78,False,Thursday,18,95,0.017114155974444267
+Corey Schafer,Python Flask Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,2019-01-24 18:30:00+00:00,144181,2331,174,17.23,False,Thursday,18,94,0.017373995186605724
+Corey Schafer,Python Django Tutorial: How to Use a Custom Domain Name for Our Application,2019-01-17 17:45:00+00:00,135836,1965,95,27.3,False,Thursday,17,75,0.015165346447186314
+Corey Schafer,Python Flask Tutorial: How to Use a Custom Domain Name for Our Application,2019-01-17 17:30:01+00:00,113126,1772,83,24.0,False,Thursday,17,74,0.01639764510368969
+Corey Schafer,Python Flask Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server,2018-12-20 17:45:00+00:00,357436,5776,665,75.0,False,Thursday,17,88,0.018020009176467955
+Corey Schafer,Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server,2018-12-13 19:00:02+00:00,439874,6658,877,82.02,False,Thursday,19,89,0.017129905381995752
+Corey Schafer,Python Tutorial: Itertools Module - Iterator Functions for Efficient Looping,2018-11-13 16:35:00+00:00,236288,6138,237,45.82,False,Tuesday,16,76,0.026979787378114843
+Corey Schafer,Python Coding Problem: Creating Your Own Iterators,2018-10-24 16:00:00+00:00,70335,2880,228,13.78,False,Wednesday,16,50,0.04418852633823843
+Corey Schafer,Python Tutorial: Iterators and Iterables - What Are They and How Do They Work?,2018-10-24 15:45:00+00:00,398111,11728,320,23.13,False,Wednesday,15,78,0.030262916623755687
+Corey Schafer,Python Tutorial: Pipenv - Easily Manage Packages and Virtual Environments,2018-10-17 18:30:00+00:00,261227,5907,288,32.48,False,Wednesday,18,73,0.023715006488609525
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 12 - Email and Password Reset,2018-08-31 20:45:01+00:00,230038,5465,1163,25.07,False,Friday,20,80,0.028812630956624556
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 11 - Pagination,2018-08-31 20:30:02+00:00,232111,5870,547,37.02,False,Friday,20,66,0.02764625545536403
+Corey Schafer,"Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",2018-08-31 20:15:01+00:00,373479,7935,778,53.25,False,Friday,20,88,0.02332929026799365
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 9 - Update User Profile,2018-08-31 20:00:00+00:00,294310,7416,669,26.12,False,Friday,20,74,0.027471033943800755
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 8 - User Profile and Picture,2018-08-31 19:45:01+00:00,439944,9830,1138,35.68,False,Friday,19,79,0.02493044569308821
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 7 - Login and Logout System,2018-08-31 19:30:01+00:00,485409,11053,649,31.28,False,Friday,19,78,0.024107505217249782
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 6 - User Registration,2018-08-31 19:15:02+00:00,649846,13450,1321,45.93,False,Friday,19,72,0.02273000064630697
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 5 - Database and Migrations,2018-08-31 19:00:01+00:00,688995,15846,939,38.78,False,Friday,19,78,0.02436157011299066
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 4 - Admin Page,2018-08-31 18:45:02+00:00,439018,12807,327,9.0,False,Friday,18,65,0.02991676878852348
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 3 - Templates,2018-08-31 18:30:03+00:00,926525,21463,1487,45.75,False,Friday,18,64,0.024769973826933973
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 2 - Applications and Routes,2018-08-31 18:15:01+00:00,885460,22376,842,20.45,False,Friday,18,78,0.02622139904682312
+Corey Schafer,Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started,2018-08-31 18:00:05+00:00,2315861,33308,1097,15.53,False,Friday,18,70,0.014856245690047891
+Corey Schafer,Best Sublime Text Features and Shortcuts (Windows),2018-08-09 19:30:01+00:00,32312,771,49,19.0,False,Thursday,19,50,0.02537756870512503
+Corey Schafer,Best Sublime Text Features and Shortcuts (Mac),2018-08-09 19:30:00+00:00,24615,475,25,19.17,False,Thursday,19,46,0.020312817387771683
+Corey Schafer,Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Windows),2018-07-26 17:30:01+00:00,213501,3628,137,24.28,False,Thursday,17,96,0.017634577823991457
+Corey Schafer,Python Tutorial: How to Set the Path and Switch Between Different Versions/Executables (Mac & Linux),2018-07-26 17:30:01+00:00,186219,3219,168,30.73,False,Thursday,17,100,0.018188262207400965
+Corey Schafer,Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting,2018-07-12 17:00:04+00:00,229659,7500,229,13.72,False,Thursday,17,76,0.033654243900739796
+Corey Schafer,"Big Announcements, Video Updates, and Future Plans",2018-06-26 17:45:00+00:00,65098,6301,791,8.28,False,Tuesday,17,50,0.10894343912255369
+Corey Schafer,Python Tutorial: Sets - Set Methods and Operations to Solve Common Problems,2018-06-20 16:45:00+00:00,152354,4650,178,18.57,False,Wednesday,16,75,0.031689355054675294
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages,2018-05-04 21:03:02+00:00,112840,2996,269,12.75,False,Friday,21,73,0.02893477490251684
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration,2018-05-04 21:01:31+00:00,190813,3806,475,42.72,False,Friday,21,83,0.022435578288691024
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset,2018-05-04 20:56:14+00:00,177417,3519,659,42.2,False,Friday,20,79,0.023549039832710505
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination,2018-05-04 20:54:46+00:00,169835,4063,290,31.37,False,Friday,20,64,0.02563075926634675
+Corey Schafer,"Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts",2018-05-04 20:48:15+00:00,243504,4771,325,48.22,False,Friday,20,86,0.020927787633878703
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture,2018-05-04 20:43:11+00:00,258593,5452,473,42.25,False,Friday,20,86,0.022912453159984997
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication,2018-05-04 20:24:49+00:00,416510,8022,690,47.25,False,Friday,20,73,0.020916664665914384
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure,2018-05-04 19:33:33+00:00,350356,8358,511,20.63,False,Friday,19,71,0.025314251789608284
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy,2018-05-04 19:10:53+00:00,688473,11707,1018,29.97,False,Friday,19,84,0.01848293251877706
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 3 - Forms and User Input,2018-05-04 19:08:44+00:00,777689,13758,1203,48.27,False,Friday,19,74,0.01923776728229408
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 2 - Templates,2018-05-04 17:59:29+00:00,917956,20185,885,31.7,False,Friday,17,63,0.022953169868708306
+Corey Schafer,Python Flask Tutorial: Full-Featured Web App Part 1 - Getting Started,2018-05-04 17:30:01+00:00,2039277,31718,1030,17.15,False,Friday,17,69,0.016058632544769542
+Corey Schafer,Linux/Mac Terminal Tutorial: The Grep Command - Search Files and Directories for Patterns of Text,2018-03-07 17:30:01+00:00,363845,9137,241,20.27,False,Wednesday,17,97,0.0257747117591282
+Corey Schafer,How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux,2018-02-21 17:30:02+00:00,506833,9813,477,14.52,False,Wednesday,17,82,0.020302545414367257
+Corey Schafer,Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Windows),2018-02-01 17:30:01+00:00,179223,6124,240,4.63,False,Thursday,17,85,0.03550883536153284
+Corey Schafer,Python Quick Tip: Hiding Passwords and Secret Keys in Environment Variables (Mac & Linux),2018-02-01 17:30:00+00:00,167566,4417,249,4.53,False,Thursday,17,89,0.027845744363415012
+Corey Schafer,"Python Tutorial: Calculate Number of Days, Weeks, or Months to Reach Specific Goals",2018-01-18 17:00:06+00:00,72348,1229,43,25.12,False,Thursday,17,83,0.017581688505556477
+Corey Schafer,Python Tutorial: Context Managers - Efficiently Managing Resources,2017-12-20 18:00:00+00:00,195893,6314,168,20.62,False,Wednesday,18,66,0.03308949273327786
+Corey Schafer,Channel Update: Look Back on the Year and Big Plans for 2018,2017-12-18 17:00:00+00:00,6399,504,67,4.22,False,Monday,17,60,0.08923269260822003
+Corey Schafer,Python Tutorial: Working with JSON Data using the json Module,2017-11-20 19:00:01+00:00,1225978,25663,779,20.57,False,Monday,19,61,0.0215680868661591
+Corey Schafer,Python Tutorial: Web Scraping with BeautifulSoup and Requests,2017-11-08 17:30:00+00:00,1161588,24598,1132,45.8,False,Wednesday,17,61,0.02215071092332221
+Corey Schafer,Python Tutorial: re Module - How to Write and Match Regular Expressions (Regex),2017-10-24 16:30:00+00:00,1183768,28616,1249,53.3,False,Tuesday,16,79,0.025228761041014795
+Corey Schafer,Linux/Mac Terminal Tutorial: How To Use The rsync Command - Sync Files Locally and Remotely,2017-10-10 16:30:06+00:00,178571,5215,188,17.92,False,Tuesday,16,91,0.03025687261649428
+Corey Schafer,Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text,2017-10-05 16:30:01+00:00,1328312,37652,1933,37.92,False,Thursday,16,70,0.029800980492534886
+Corey Schafer,5 Essential Skills Every Well-Rounded Programmer Should Know,2017-09-19 16:30:00+00:00,256001,8812,199,11.07,False,Tuesday,16,60,0.03519908125358885
+Corey Schafer,Corey Schafer Live Stream,2017-09-15 23:58:25+00:00,0,0,0,0.0,True,Friday,23,25,
+Corey Schafer,"Python Tutorial: How I Manage Multiple Projects, Virtual Environments, and Environment Variables",2017-09-06 16:30:01+00:00,154552,2418,83,20.82,False,Wednesday,16,96,0.01618225581034215
+Corey Schafer,Python Tutorial: Generate Random Numbers and Data Using the random Module,2017-08-29 17:00:01+00:00,514013,11382,422,13.62,False,Tuesday,17,73,0.02296439973308068
+Corey Schafer,Linux/Mac Tutorial: Cron Jobs - How to Schedule Commands with crontab,2017-08-23 16:00:03+00:00,256088,6419,279,18.85,False,Wednesday,16,69,0.02615507169410515
+Corey Schafer,Python Tutorial: Unit Testing Your Code with the unittest Module,2017-08-16 16:00:01+00:00,1458412,27414,705,39.22,False,Wednesday,16,64,0.019280559951508902
+Corey Schafer,"Python Tutorial: CSV Module - How to Read, Parse, and Write CSV Files",2017-08-09 16:00:06+00:00,1375357,22953,762,16.2,False,Wednesday,16,69,0.017242795870454
+Corey Schafer,Linux/Mac Tutorial: SSH Key-Based Authentication - How to SSH Without a Password,2017-08-02 16:00:07+00:00,322316,6280,252,15.77,False,Wednesday,16,80,0.020265826083719084
+Corey Schafer,Python Tutorial: Real World Example - Parsing Names From a CSV to an HTML List,2017-07-26 16:00:05+00:00,185039,3962,149,18.8,False,Wednesday,16,78,0.02221693805089738
+Corey Schafer,How to Create a Network of Machines in VirtualBox with SSH Access,2017-07-20 16:00:03+00:00,136750,2036,123,24.23,False,Thursday,16,65,0.015787934186471664
+Corey Schafer,VirtualBox: How to Use Snapshots,2017-07-12 16:00:05+00:00,63663,1037,45,14.67,False,Wednesday,16,32,0.016995743210341956
+Corey Schafer,Python Tutorial for Beginners 9: Import Modules and Exploring The Standard Library,2017-05-17 19:30:00+00:00,931255,19249,644,21.95,False,Wednesday,19,82,0.021361496045658814
+Corey Schafer,Python Tutorial for Beginners 8: Functions,2017-05-17 19:00:01+00:00,1231941,24531,824,21.8,False,Wednesday,19,42,0.020581342775343948
+Corey Schafer,Python Tutorial for Beginners 7: Loops and Iterations - For/While Loops,2017-05-17 18:30:00+00:00,975005,23001,529,10.23,False,Wednesday,18,71,0.02413320957328424
+Corey Schafer,"Python Tutorial for Beginners 6: Conditionals and Booleans - If, Else, and Elif Statements",2017-05-17 18:00:00+00:00,740503,18171,476,16.47,False,Wednesday,18,90,0.025181532012699476
+Corey Schafer,Python Tutorial for Beginners 5: Dictionaries - Working with Key-Value Pairs,2017-05-17 17:30:01+00:00,1663494,38181,872,9.98,False,Wednesday,17,76,0.02347648984607098
+Corey Schafer,"Python Tutorial for Beginners 4: Lists, Tuples, and Sets",2017-05-17 17:00:03+00:00,1632368,39291,1199,29.08,False,Wednesday,17,56,0.024804455857992805
+Corey Schafer,Python Tutorial for Beginners 3: Integers and Floats - Working with Numeric Data,2017-05-17 16:30:02+00:00,884022,22464,459,11.92,False,Wednesday,16,80,0.02593035014965691
+Corey Schafer,Python Tutorial for Beginners 2: Strings - Working with Textual Data,2017-05-17 16:00:04+00:00,1863734,40511,1237,21.2,False,Wednesday,16,68,0.022400192302120366
+Corey Schafer,Python Tutorial for Beginners 1: Install and Setup for Mac and Windows,2017-05-17 15:30:00+00:00,3752833,44429,1323,15.48,False,Wednesday,15,70,0.012191323195036923
+Corey Schafer,"Python SQLite Tutorial: Complete Overview - Creating a Database, Table, and Running Queries",2017-04-18 16:00:05+00:00,1019033,17552,582,29.82,False,Tuesday,16,91,0.017795302016715846
+Corey Schafer,"Channel Update: Code Snippets, New Rewards, and Playlists",2017-04-17 16:30:00+00:00,3886,155,24,7.1,False,Monday,16,57,0.046062789500772
+Corey Schafer,Python Tutorial: Decorators With Arguments,2017-03-27 16:30:00+00:00,109139,3146,118,6.22,False,Monday,16,42,0.029906816078578695
+Corey Schafer,"Python Tutorial: Logging Advanced - Loggers, Handlers, and Formatters",2017-03-15 16:30:02+00:00,351140,9780,272,19.78,False,Wednesday,16,69,0.02862675855784018
+Corey Schafer,"Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting",2017-03-15 16:00:00+00:00,549327,13536,312,14.42,False,Wednesday,16,82,0.025209028502148994
+Corey Schafer,Setting up a Python Development Environment in Sublime Text,2017-02-15 17:00:07+00:00,1089652,13337,931,26.05,False,Wednesday,17,59,0.013094088754941944
+Corey Schafer,Setting up a Python Development Environment in Atom,2017-02-15 17:00:02+00:00,660595,9697,631,23.02,False,Wednesday,17,51,0.01563439020882689
+Corey Schafer,Python Tutorial: Variable Scope - Understanding the LEGB rule and global/nonlocal statements,2016-12-20 17:30:00+00:00,382533,11273,363,20.98,False,Tuesday,17,92,0.0304182907095597
+Corey Schafer,"Frequently Asked Questions #1: Text Editors, Books, Career Advice, and More",2016-11-15 17:30:00+00:00,42708,1542,71,16.92,False,Tuesday,17,75,0.03776809965346071
+Corey Schafer,"Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough",2016-09-22 16:30:00+00:00,2210155,32382,892,30.35,False,Thursday,16,63,0.01505505269992376
+Corey Schafer,"Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters",2016-08-19 16:30:01+00:00,1035618,33827,995,9.55,False,Friday,16,75,0.033624367286007005
+Corey Schafer,Python Tutorial: Anaconda - Installation and Using Conda,2016-08-10 16:30:04+00:00,1160675,11099,292,11.42,False,Wednesday,16,56,0.009814116785491201
+Corey Schafer,Python OOP Tutorial 5: Special (Magic/Dunder) Methods,2016-08-08 16:30:01+00:00,895815,27217,546,13.83,False,Monday,16,53,0.03099189006658741
+Corey Schafer,"Python Tutorial: Datetime Module - How to work with Dates, Times, Timedeltas, and Timezones",2016-08-02 16:00:02+00:00,561122,10416,407,27.82,False,Tuesday,16,91,0.019288140546975523
+Corey Schafer,How to Install Kali Linux 2016 on VirtualBox with Guest Additions,2016-08-01 03:30:01+00:00,3744,100,12,8.8,False,Monday,3,65,0.029914529914529916
+Corey Schafer,Linux/Mac Terminal Tutorial: How To Use The find Command,2016-07-27 16:30:01+00:00,199209,6246,245,17.75,False,Wednesday,16,56,0.032583869202696666
+Corey Schafer,Python OOP Tutorial 4: Inheritance - Creating Subclasses,2016-07-25 16:30:01+00:00,1432610,42834,1245,19.67,False,Monday,16,56,0.030768317965112625
+Corey Schafer,Python OOP Tutorial 3: classmethods and staticmethods,2016-07-11 16:00:05+00:00,1667990,46140,1150,15.33,False,Monday,16,53,0.028351488917799268
+Corey Schafer,Python OOP Tutorial 2: Class Variables,2016-06-23 16:30:01+00:00,1843654,62344,1588,11.68,False,Thursday,16,38,0.03467678859482311
+Corey Schafer,Python OOP Tutorial 1: Classes and Instances,2016-06-20 17:00:03+00:00,4744266,121197,3854,15.4,False,Monday,17,44,0.02635834500004848
+Corey Schafer,Linux/Mac Terminal Tutorial: How To Use The cURL Command,2016-06-09 16:30:00+00:00,206841,3990,84,8.97,False,Thursday,16,56,0.019696288453449753
+Corey Schafer,How to Install Ubuntu 16.04 LTS on VirtualBox with Guest Additions,2016-05-31 17:00:00+00:00,10699,284,16,9.55,False,Tuesday,17,66,0.028040003738667166
+Corey Schafer,"Channel Update: 5000 Subscribers, Future Tutorials, and Giveaway",2016-05-03 16:00:04+00:00,3164,114,30,6.42,False,Tuesday,16,64,0.045512010113780026
+Corey Schafer,Python Tutorial: File Objects - Reading and Writing to Files,2016-04-29 16:00:03+00:00,1949834,28942,958,24.55,False,Friday,16,60,0.015334638743605866
+Corey Schafer,Python Tutorial: OS Module - Use Underlying Operating System Functionality,2016-04-06 16:30:01+00:00,983425,18863,642,19.23,False,Wednesday,16,74,0.019833744311970918
+Corey Schafer,Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions,2016-04-04 17:00:00+00:00,964767,20449,1020,30.47,False,Monday,17,83,0.022253041407925438
+Corey Schafer,"Python Tutorial: String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates",2016-03-10 17:30:00+00:00,332212,6473,224,13.88,False,Thursday,17,93,0.020158814251140838
+Corey Schafer,Programming Terms: Closures - How to Use Them and Why They Are Useful,2016-03-08 18:00:02+00:00,396026,8911,315,11.73,False,Tuesday,18,69,0.023296450233065504
+Corey Schafer,JavaScript Tutorial: Run JavaScript in Sublime Text with a NodeJS Build System,2016-02-18 18:00:00+00:00,165959,1389,120,4.17,False,Thursday,18,78,0.00909260721021457
+Corey Schafer,Python Tutorial: Custom Sublime Text Build Systems,2016-02-18 17:30:00+00:00,118525,1260,149,7.93,False,Thursday,17,50,0.011887787386627293
+Corey Schafer,Programming Terms: First-Class Functions,2016-02-11 17:30:00+00:00,293953,8890,481,15.47,False,Thursday,17,40,0.03187924600191187
+Corey Schafer,"Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)",2016-02-09 18:00:01+00:00,134282,3956,152,15.38,False,Tuesday,18,74,0.030592335532684947
+Corey Schafer,Customizing Your Terminal: How To Use and Modify Dotfiles,2016-02-05 18:00:01+00:00,55425,1276,67,20.18,False,Friday,18,57,0.024230942715381145
+Corey Schafer,Customizing Your Terminal: Adding Color and Information to Your Prompt,2016-02-05 17:30:00+00:00,208232,3083,171,18.6,False,Friday,17,70,0.01562680087594606
+Corey Schafer,Customizing Your Terminal: .bash_profile and .bashrc files,2016-02-05 17:00:04+00:00,287304,3507,167,8.33,False,Friday,17,58,0.012787848411438756
+Corey Schafer,"Linux/Mac Terminal Tutorial: Create, Copy, Move, Rename and Delete Files and Directories",2016-01-21 17:30:00+00:00,182793,2437,102,11.68,False,Thursday,17,88,0.013890028611598913
+Corey Schafer,Python Tutorial: Automate Parsing and Renaming of Multiple Files,2015-12-23 17:30:01+00:00,445864,13247,796,12.57,False,Wednesday,17,64,0.03149615129277089
+Corey Schafer,"Python Tutorial: Sorting Lists, Tuples, and Objects",2015-12-15 16:30:01+00:00,289418,5724,227,12.12,False,Tuesday,16,51,0.020561955372506203
+Corey Schafer,Python Tutorial: Image Manipulation with Pillow,2015-11-17 17:30:00+00:00,410245,5715,241,15.8,False,Tuesday,17,47,0.014518153786152177
+Corey Schafer,Welcome to my Channel,2015-11-16 06:17:57+00:00,694852,962,65,1.38,False,Monday,6,21,0.001478012583974717
+Corey Schafer,Python Tutorial: Using Try/Except Blocks for Error Handling,2015-11-13 17:30:00+00:00,756544,15390,497,10.57,False,Friday,17,59,0.02099943955672109
+Corey Schafer,Python Tutorial: Slicing Lists and Strings,2015-10-29 15:30:01+00:00,468578,8972,299,10.73,False,Thursday,15,42,0.019785393253631198
+Corey Schafer,Programming Terms: Memoization,2015-10-28 15:30:00+00:00,74533,2564,92,5.82,False,Wednesday,15,30,0.035635221982209225
+Corey Schafer,SQL Tutorial for Beginners 5: UPDATE and DELETE - Modifying and Removing Records from Your Database,2015-10-27 16:00:01+00:00,57858,1116,54,6.33,False,Tuesday,16,99,0.020221922638183138
+Corey Schafer,SQL Tutorial for Beginners 4: SELECT - Retrieving Records from Your Database,2015-10-27 15:30:02+00:00,97154,1413,22,7.25,False,Tuesday,15,76,0.014770364575828067
+Corey Schafer,Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits,2015-10-26 15:30:00+00:00,389749,8646,271,21.52,False,Monday,15,60,0.0228788271425969
+Corey Schafer,Setting up a Python Development Environment in Eclipse,2015-10-25 16:30:00+00:00,186365,1353,105,16.58,False,Sunday,16,54,0.007823357390067877
+Corey Schafer,Mac Tip: New Split Screen Feature in El Capitan,2015-10-24 17:30:00+00:00,18123,167,6,7.07,False,Saturday,17,47,0.009545880924791701
+Corey Schafer,Python: Ex Machina Easter Egg - Hidden Message within the Code,2015-10-23 15:30:00+00:00,31331,769,16,2.05,False,Friday,15,62,0.02505505729150043
+Corey Schafer,Linux/Mac Terminal Tutorial: Navigating your Filesystem,2015-10-21 15:30:00+00:00,183043,2424,48,8.57,False,Wednesday,15,55,0.013505023409799883
+Corey Schafer,SQL Tutorial for Beginners 3: INSERT - Adding Records to Your Database,2015-10-13 02:00:00+00:00,83271,1110,26,4.67,False,Tuesday,2,70,0.013642204368867913
+Corey Schafer,SQL Tutorial for Beginners 2: Creating Your First Table,2015-10-13 01:30:00+00:00,163807,1652,41,6.75,False,Tuesday,1,55,0.010335333654849914
+Corey Schafer,SQL Tutorial for Beginners 1: Installing PostgreSQL and Creating Your First Database,2015-10-13 01:00:00+00:00,514148,4375,170,7.67,False,Tuesday,1,84,0.008839867119973237
+Corey Schafer,Preparing for a Python Interview: 10 Things You Should Know,2015-10-11 21:00:00+00:00,980889,19147,517,22.92,False,Sunday,21,59,0.02004712052026274
+Corey Schafer,"Git Tutorial: Difference between ""add -A"", ""add -u"", ""add ."", and ""add *""",2015-09-22 15:00:01+00:00,53769,1535,65,10.25,False,Tuesday,15,73,0.02975692313414793
+Corey Schafer,Programming Terms: Combinations and Permutations,2015-09-12 20:30:00+00:00,49789,1233,47,9.23,False,Saturday,20,48,0.025708489827070236
+Corey Schafer,Chrome Quick Tip: Quickly Bookmark Open Tabs for Later Viewing,2015-08-31 16:00:01+00:00,5291,58,6,3.3,False,Monday,16,62,0.012096012096012096
+Corey Schafer,Python Tutorial: Comprehensions - How they work and why you should be using them,2015-08-24 16:30:01+00:00,553207,13767,510,18.48,False,Monday,16,80,0.025807699468734128
+Corey Schafer,Python Tutorial: Generators - How to use them and the benefits you receive,2015-08-17 16:30:01+00:00,891236,21178,686,11.23,False,Monday,16,74,0.024532222666050294
+Corey Schafer,Quickest and Easiest Way to Run a Local Web-Server,2015-08-10 17:00:01+00:00,132804,1258,65,3.88,False,Monday,17,50,0.009962049335863378
+Corey Schafer,Git Tutorial for Beginners: Command-Line Fundamentals,2015-08-03 16:30:00+00:00,2265472,37800,1618,30.55,False,Monday,16,53,0.017399464659020283
+Corey Schafer,Mac OS X Terminal Tutorial: Time-Saving Keyboard Shortcuts,2015-07-27 16:00:01+00:00,37029,987,33,7.28,False,Monday,16,58,0.027545977477112533
+Corey Schafer,Overview of Online Learning Resources,2015-07-15 17:30:01+00:00,38405,1245,61,23.98,False,Wednesday,17,37,0.03400598880354121
+Corey Schafer,Python Tutorial: Else Clauses on Loops,2015-07-09 17:30:01+00:00,49771,1506,48,7.07,False,Thursday,17,38,0.031223001346165437
+Corey Schafer,Programming Terms: Mutable vs Immutable,2015-07-08 17:30:01+00:00,107143,2857,122,7.1,False,Wednesday,17,39,0.02780396292804943
+Corey Schafer,Python Tutorial: Namedtuple - When and why should you use namedtuples?,2015-07-07 17:30:00+00:00,116753,3103,106,7.35,False,Tuesday,17,70,0.027485375108134265
+Corey Schafer,Programming Terms: Idempotence,2015-06-23 17:30:01+00:00,47297,1328,45,7.45,False,Tuesday,17,30,0.02902932532718777
+Corey Schafer,Programming Terms: String Interpolation,2015-06-22 17:30:01+00:00,32874,1065,40,6.33,False,Monday,17,39,0.033613189754821436
+Corey Schafer,Programming Terms: DRY (Don't Repeat Yourself),2015-06-16 17:00:00+00:00,49937,1322,23,7.87,False,Tuesday,17,46,0.026933936760318
+Corey Schafer,Python Tutorial: str() vs repr(),2015-06-15 17:00:00+00:00,131126,3448,80,7.75,False,Monday,17,32,0.026905419215106082
+Corey Schafer,Sublime Text Quick Tip: Launch Sublime Text from the Terminal,2015-05-12 15:00:00+00:00,17860,249,42,4.73,False,Tuesday,15,61,0.01629339305711086
+Corey Schafer,Git Tutorial: Change DiffMerge Font-Size on Mac OSX,2015-04-28 16:00:01+00:00,22739,235,7,2.23,False,Tuesday,16,51,0.010642508465631735
+Corey Schafer,Git Tutorial: Diff and Merge Tools,2015-04-28 15:30:00+00:00,141692,1324,50,9.63,False,Tuesday,15,34,0.009697089461649211
+Corey Schafer,"How Software Engineers, Developers, and Designers can volunteer their skills",2015-04-27 14:30:01+00:00,19150,633,24,13.85,False,Monday,14,76,0.03430809399477807
+Corey Schafer,Git Tutorial: Using the Stash Command,2015-04-17 14:00:00+00:00,232938,4904,179,10.55,False,Friday,14,37,0.021821257158557213
+Corey Schafer,Python Tutorial: pip - An in-depth look at the package management system,2015-04-16 15:33:57+00:00,270042,4165,173,9.1,False,Thursday,15,72,0.016064167796120604
+Corey Schafer,Python Tutorial: virtualenv and why you should use virtual environments,2015-04-14 05:37:52+00:00,844732,12983,563,9.75,False,Tuesday,5,71,0.016035855158795926
+Corey Schafer,Easily Resize Multiple Images Using the Mac Terminal,2015-04-04 23:48:03+00:00,10722,205,13,7.3,False,Saturday,23,52,0.020332027606789777
+Corey Schafer,Easily Resize Multiple Images Using Picasa,2015-04-04 23:38:38+00:00,3980,15,1,6.58,False,Saturday,23,42,0.004020100502512563
+Corey Schafer,"How to quickly create favicons for the desktop, Apple/Android devices, tablets, and more",2015-04-03 03:46:18+00:00,3669,59,5,7.98,False,Friday,3,88,0.01744344508040338
+Corey Schafer,"Sublime Text Quick Tip: ""Go To Definition"" Click Shortcut",2015-03-31 02:44:00+00:00,22183,152,22,5.85,False,Tuesday,2,57,0.007843844385340125
+Corey Schafer,Python Tutorial: if __name__ == '__main__',2015-03-23 06:04:35+00:00,2100339,57834,1668,8.72,False,Monday,6,42,0.02832971248926959
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 6 of 7)",2015-03-18 14:40:59+00:00,4800,78,4,11.87,False,Wednesday,14,70,0.017083333333333332
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 2 of 7)",2015-03-18 14:29:47+00:00,10109,113,5,10.53,False,Wednesday,14,70,0.01167276684142843
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 3 of 7)",2015-03-18 14:21:18+00:00,6981,84,3,9.08,False,Wednesday,14,70,0.012462397937258273
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 4 of 7)",2015-03-18 12:55:54+00:00,6076,87,4,11.92,False,Wednesday,12,70,0.014976958525345621
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 5 of 7)",2015-03-18 12:41:37+00:00,5512,75,4,10.7,False,Wednesday,12,70,0.014332365747460087
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 1 of 7)",2015-03-18 12:36:26+00:00,36846,359,22,11.62,False,Wednesday,12,70,0.010340335450252402
+Corey Schafer,"JavaScript Arrays: Properties, Methods, and Manipulation (Part 7 of 7)",2015-03-18 12:11:03+00:00,6097,133,20,7.72,False,Wednesday,12,70,0.02509430867639823
+Corey Schafer,CSS Tips and Tricks: Add External URLs to Print Stylesheets,2014-12-29 17:07:11+00:00,6754,58,3,7.63,False,Monday,17,59,0.0090316849274504
+Corey Schafer,Mac Tip: Adding Folder Stacks to the Dock,2014-12-22 21:57:32+00:00,29587,246,21,2.82,False,Monday,21,41,0.009024233616115186
+Corey Schafer,"Understanding Binary, Hexadecimal, Decimal (Base-10), and more",2014-12-15 18:02:45+00:00,192114,3896,206,10.73,False,Monday,18,62,0.02135190563935996
+Corey Schafer,"Sublime Text 3: Setup, Package Control, and Settings",2014-11-26 05:09:33+00:00,453524,2525,303,17.63,False,Wednesday,5,52,0.006235612668789303
+Corey Schafer,WordPress Tips: Test your theme with Theme Unit Test and Monster Widget,2014-11-26 02:26:50+00:00,8404,107,3,9.02,False,Wednesday,2,71,0.013089005235602094
+Corey Schafer,WordPress Plugins: Imsanity,2014-11-23 22:47:37+00:00,21287,133,11,7.58,False,Sunday,22,27,0.006764692065579931
+Corey Schafer,Mac Tip: Ways to perform Screen Capturing and Screenshots,2014-11-13 05:52:32+00:00,4624,97,4,8.87,False,Thursday,5,57,0.02184256055363322
+Corey Schafer,Paver Patio Time Lapse,2014-11-07 04:32:16+00:00,34240,856,40,1.07,False,Friday,4,22,0.026168224299065422
+Corey Schafer,ArcGIS API for JavaScript Part 2: Starting Templates,2014-10-28 05:44:09+00:00,28778,246,15,16.17,False,Tuesday,5,52,0.009069428035304746
+Corey Schafer,Linux/Mac Terminal Tutorial: Creating Aliases for Commands,2014-08-01 05:26:45+00:00,42239,573,36,11.13,False,Friday,5,58,0.01441795497052487
+Corey Schafer,Mac Tip: Windows' Snapping Feature on Mac with HyperDock,2014-08-01 05:18:59+00:00,9725,79,8,5.3,False,Friday,5,56,0.008946015424164525
+Corey Schafer,ArcGIS API for JavaScript Part 1: Our First Web Map,2014-07-23 06:18:23+00:00,75622,564,29,9.97,False,Wednesday,6,51,0.00784163338710957
+Corey Schafer,"Sublime Text 2: Setup, Package Control, and Settings",2014-07-20 18:39:58+00:00,47180,219,27,13.98,False,Sunday,18,52,0.005214073760067825
+Corey Schafer,Using Font Awesome in Desktop Applications (OS X),2014-07-15 17:18:03+00:00,40511,170,10,2.93,False,Tuesday,17,49,0.004443237639159735
+Corey Schafer,Web fonts using CSS Font Face,2014-07-02 01:17:17+00:00,12304,109,12,5.4,False,Wednesday,1,29,0.009834200260078023
+Corey Schafer,Lab Puppy playing fetch in a lake,2014-04-25 15:34:01+00:00,14794,483,20,1.03,False,Friday,15,33,0.034000270379883735
+Corey Schafer,Lab Puppy playing fetch in a creek,2014-04-25 15:23:56+00:00,14024,314,7,0.72,True,Friday,15,34,0.022889332572732457
+Corey Schafer,If I'm running even 1 minute late for my dog's morning walk...,2014-04-25 14:25:06+00:00,80004,1788,73,0.67,True,Friday,14,62,0.023261336933153343
+Corey Schafer,Lab Puppy Diving in Snow,2014-03-22 04:32:13+00:00,29590,577,16,0.92,True,Saturday,4,24,0.020040554241297737
+Corey Schafer,Lab puppy playing in bath tub,2014-01-20 02:35:57+00:00,29208,839,40,1.25,False,Monday,2,29,0.030094494658997537

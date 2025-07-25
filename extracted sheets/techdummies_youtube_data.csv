@@ -1,0 +1,41 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Tech Dummies - Narendra Lakshmana Gowda,MICROSERVICES ARCHITECTURE | INTER MICROSERVICES COMMUNICATION | PART - 7,2020-03-07 00:18:52+00:00,146690,2175,110,14.37,False,Saturday,0,73,0.015577067284750154
+Tech Dummies - Narendra Lakshmana Gowda,System Design distributed web crawler to crawl Billions of web pages | web crawler system design,2019-07-04 08:30:01+00:00,194956,3950,206,46.02,False,Thursday,8,96,0.021317630644863455
+Tech Dummies - Narendra Lakshmana Gowda,System design basics: What is asynchronous processing?,2019-07-03 12:30:01+00:00,35130,750,53,33.6,False,Wednesday,12,54,0.0228579561628238
+Tech Dummies - Narendra Lakshmana Gowda,System design basics: Learn about Distributed file systems,2019-07-01 15:36:45+00:00,60547,1151,49,18.68,False,Monday,15,58,0.01981931392141642
+Tech Dummies - Narendra Lakshmana Gowda,System design basics: Real-time data processing,2019-06-30 12:30:01+00:00,86930,1165,52,11.95,False,Sunday,12,47,0.013999769929828598
+Tech Dummies - Narendra Lakshmana Gowda,System design basics: When to use distributed computing |  how distributed computing works,2019-06-29 13:00:00+00:00,27603,426,17,25.43,False,Saturday,13,90,0.016048980183313407
+Tech Dummies - Narendra Lakshmana Gowda,Tinder System design | Dating app system design | tinder software architecture,2019-06-27 12:00:24+00:00,44216,754,58,67.43,False,Thursday,12,78,0.018364392979916773
+Tech Dummies - Narendra Lakshmana Gowda,Do you know Distributed transactions?,2019-06-18 11:45:30+00:00,235540,4827,222,31.17,False,Tuesday,11,37,0.02143584953723359
+Tech Dummies - Narendra Lakshmana Gowda,How Google searches one document among Billions of documents quickly?,2019-06-17 08:00:51+00:00,192956,3398,141,41.57,False,Monday,8,69,0.018340968925558157
+Tech Dummies - Narendra Lakshmana Gowda,what is OPTIMISTIC LOCK?,2019-06-13 17:08:06+00:00,61949,1671,63,18.68,False,Thursday,17,24,0.027990766598330885
+Tech Dummies - Narendra Lakshmana Gowda,Transactions Internal implementation write ahead log and locks with banking examples,2019-06-13 16:58:31+00:00,85378,1132,54,20.65,False,Thursday,16,84,0.013891166342617537
+Tech Dummies - Narendra Lakshmana Gowda,Watch this before your System design interview!!,2019-06-11 16:04:55+00:00,126449,2154,137,28.3,False,Tuesday,16,48,0.018117976417369848
+Tech Dummies - Narendra Lakshmana Gowda,This Rubber Duck can Debug your code !!,2019-06-07 10:55:41+00:00,6997,90,8,3.87,False,Friday,10,39,0.014006002572531085
+Tech Dummies - Narendra Lakshmana Gowda,Questions answered by Senior Software architects at software architects meetup Bangalore,2019-01-23 16:10:33+00:00,17674,386,44,26.12,False,Wednesday,16,88,0.024329523593979857
+Tech Dummies - Narendra Lakshmana Gowda,Distributed Locks | System design basics,2019-01-17 18:05:55+00:00,141220,2142,157,28.83,False,Thursday,18,40,0.016279563801161308
+Tech Dummies - Narendra Lakshmana Gowda,Google Docs System design | part 2| System components explanation micro services arcitecture,2019-01-03 18:52:52+00:00,65483,1153,70,28.2,False,Thursday,18,92,0.01867660308782432
+Tech Dummies - Narendra Lakshmana Gowda,Google Docs System design | Part 1| Operational transformation | differentail synchronisation,2019-01-03 18:39:32+00:00,159640,1658,91,36.27,False,Thursday,18,93,0.010955900776747683
+Tech Dummies - Narendra Lakshmana Gowda,Dropbox system design | Google drive system design | System design file share and upload,2018-12-05 13:15:09+00:00,273401,4440,308,45.53,False,Wednesday,13,88,0.017366432456355316
+Tech Dummies - Narendra Lakshmana Gowda,Learn System design : How distributed datastore works(basics)?,2018-11-28 03:53:00+00:00,62288,1456,68,22.43,False,Wednesday,3,62,0.024466992036989467
+Tech Dummies - Narendra Lakshmana Gowda,Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem,2018-11-27 10:55:06+00:00,98592,1460,83,21.13,False,Tuesday,10,83,0.015650357026939305
+Tech Dummies - Narendra Lakshmana Gowda,Learn System design : Distributed Systems Introduction | Horizontal scaling vertical scaling,2018-11-24 07:00:49+00:00,84721,1044,39,17.33,False,Saturday,7,92,0.012783135232114823
+Tech Dummies - Narendra Lakshmana Gowda,Online games System design backend,2018-10-31 10:42:07+00:00,63576,1336,55,33.38,False,Wednesday,10,34,0.021879325531647162
+Tech Dummies - Narendra Lakshmana Gowda,Online games system design frontend PART 1 | online game software architecture,2018-10-18 00:37:27+00:00,70996,1778,100,46.0,False,Thursday,0,78,0.026452194489830414
+Tech Dummies - Narendra Lakshmana Gowda,Redis system design | Distributed cache System design,2018-10-07 04:31:46+00:00,298736,4275,254,34.17,False,Sunday,4,53,0.015160543088211666
+Tech Dummies - Narendra Lakshmana Gowda,Count min sketch | Efficient algorithm for counting stream of data | system design components,2018-09-30 04:45:03+00:00,103809,2389,132,19.52,False,Sunday,4,93,0.024284984924235857
+Tech Dummies - Narendra Lakshmana Gowda,"Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs",2018-09-26 19:32:53+00:00,306573,4470,287,35.92,False,Wednesday,19,70,0.015516695860366046
+Tech Dummies - Narendra Lakshmana Gowda,SPORTS score update system design | CRICBUZZ System design,2018-09-21 04:33:49+00:00,83444,1376,75,33.65,False,Friday,4,58,0.017388907530799098
+Tech Dummies - Narendra Lakshmana Gowda,Bloom filter for System Design | Bloom filter applications | learn bloom filter easily,2018-09-10 07:30:46+00:00,113391,3297,150,24.12,False,Monday,7,86,0.030399238034764665
+Tech Dummies - Narendra Lakshmana Gowda,Twitter system design | twitter Software architecture | twitter interview questions,2018-09-06 12:37:59+00:00,356638,7633,397,36.93,False,Thursday,12,83,0.022515828374990887
+Tech Dummies - Narendra Lakshmana Gowda,URL shortener system design | tinyurl system design | bitly system design,2018-09-01 10:54:23+00:00,498851,13418,1014,34.65,False,Saturday,10,73,0.02893048224820638
+Tech Dummies - Narendra Lakshmana Gowda,NETFLIX System design | software architecture for netflix,2018-08-24 18:01:33+00:00,454459,6602,277,51.43,False,Friday,18,57,0.015136678996345104
+Tech Dummies - Narendra Lakshmana Gowda,UBER System design | OLA system design | uber architecture | amazon interview question,2018-08-11 08:21:23+00:00,830474,14341,568,36.93,False,Saturday,8,86,0.01795239826894039
+Tech Dummies - Narendra Lakshmana Gowda,"BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking",2018-08-04 07:56:10+00:00,301213,5062,280,27.3,False,Saturday,7,98,0.017734958318532067
+Tech Dummies - Narendra Lakshmana Gowda,Amazon interview question: Implement FloodFill algorithm,2018-08-01 12:00:19+00:00,45098,682,28,14.43,False,Wednesday,12,56,0.015743491950862568
+Tech Dummies - Narendra Lakshmana Gowda,Facebook interview question: Solve boggle,2018-07-23 13:02:16+00:00,46336,651,51,28.42,False,Monday,13,41,0.015150207182320442
+Tech Dummies - Narendra Lakshmana Gowda,Amazon interview question: System design / Architecture for auto suggestions | type ahead,2018-07-20 07:18:11+00:00,156354,2609,172,28.45,False,Friday,7,89,0.017786561264822136
+Tech Dummies - Narendra Lakshmana Gowda,Amazon Interview question: Learn hashing and consistent hash ring,2018-07-18 07:05:26+00:00,157381,3377,180,19.43,False,Wednesday,7,65,0.022601203448955085
+Tech Dummies - Narendra Lakshmana Gowda,Whatsapp System design or software architecture,2018-07-12 07:40:55+00:00,260795,4903,288,27.67,False,Thursday,7,47,0.019904522709407773
+Tech Dummies - Narendra Lakshmana Gowda,Interview question answered | daily routine | typical day look like for Developers and QA,2018-07-05 04:01:43+00:00,35649,315,18,9.22,False,Thursday,4,89,0.009341075485988387
+Tech Dummies - Narendra Lakshmana Gowda,Interview Question: Why Python?,2018-06-26 16:04:37+00:00,6740,132,3,5.7,False,Tuesday,16,31,0.020029673590504452

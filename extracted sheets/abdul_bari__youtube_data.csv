@@ -1,0 +1,118 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Abdul Bari,Bresenham's Circle Drawing Algorithm - Computer Graphics,2025-04-08 15:43:09+00:00,36112,1815,522,61.63,False,Tuesday,15,56,0.06471533008418254
+Abdul Bari,[New] Matrix Chain Multiplication using Dynamic Programming Formula,2019-05-12 16:10:36+00:00,947621,18206,1133,52.03,False,Sunday,16,67,0.020407947903222912
+Abdul Bari,4.6.2 [New] Optimal Binary Search Tree Successful and Unsuccessful Probability - Dynamic Programming,2019-04-02 21:01:02+00:00,586904,7713,306,57.0,False,Tuesday,21,100,0.013663222605400543
+Abdul Bari,Bresenham's Line Drawing Algorithm,2019-03-15 05:23:33+00:00,482512,9479,534,43.65,False,Friday,5,34,0.020751815498889145
+Abdul Bari,2.6.3 Heap - Heap Sort - Heapify - Priority Queues,2019-03-08 20:14:37+00:00,2504859,53145,2128,51.13,False,Friday,20,50,0.02206631191615975
+Abdul Bari,4.9 Longest Common Subsequence (LCS)  - Recursion and Dynamic Programming,2018-04-19 16:55:23+00:00,1328277,24012,809,23.58,False,Thursday,16,73,0.018686614313128964
+Abdul Bari,7.3 Traveling Salesman Problem - Branch and Bound,2018-04-13 21:12:09+00:00,2196554,29202,871,24.7,False,Friday,21,49,0.013690990524248436
+Abdul Bari,DDA Line Drawing Algorithm - Computer Graphics,2018-04-12 21:07:22+00:00,585758,14000,681,26.8,False,Thursday,21,46,0.02506325137684846
+Abdul Bari,4.8 Reliability Design - Dynamic Programming,2018-04-11 19:50:33+00:00,450070,6262,212,26.53,False,Wednesday,19,44,0.014384429088808407
+Abdul Bari,8.1 NP-Hard Graph Problem - Clique Decision Problem,2018-04-09 18:39:02+00:00,729903,10766,310,17.23,False,Monday,18,51,0.015174619093221976
+Abdul Bari,6.4 Hamiltonian Cycle - Backtracking,2018-04-07 18:38:50+00:00,1207733,16985,476,18.58,False,Saturday,18,36,0.014457665725785418
+Abdul Bari,1.12 Disjoint Sets Data Structure - Weighted Union and Collapsing Find,2018-04-04 17:51:26+00:00,1024744,18261,532,26.07,False,Wednesday,17,70,0.01833921447698157
+Abdul Bari,4.7 [New] Traveling Salesman Problem - Dynamic Programming using Formula,2018-04-02 20:10:47+00:00,614378,7068,149,17.3,False,Monday,20,72,0.011746839893355556
+Abdul Bari,6. Everything about Variables in JAVA,2018-04-01 05:09:30+00:00,48749,737,185,29.08,False,Sunday,5,37,0.018913208476071305
+Abdul Bari,9.2 Rabin-Karp String Matching Algorithm,2018-03-30 19:29:59+00:00,980053,18626,474,23.83,False,Friday,19,40,0.019488741935385127
+Abdul Bari,10.2  B Trees and B+ Trees. How they are useful in Databases,2018-03-30 10:22:27+00:00,1389119,37990,2312,39.68,False,Friday,10,60,0.02901263318693359
+Abdul Bari,5. Everything about JAVA Data Types,2018-03-26 17:00:29+00:00,53273,904,46,27.9,False,Monday,17,35,0.017832673211570588
+Abdul Bari,4. Why public static void main(String args[ ]) ? JAVA,2018-03-26 16:59:48+00:00,99559,2241,81,13.3,False,Monday,16,53,0.0233228537851927
+Abdul Bari,3. Why to Set Path ? JAVA,2018-03-26 16:59:17+00:00,50019,1118,67,14.03,False,Monday,16,25,0.023690997420980027
+Abdul Bari,9.1 Knuth-Morris-Pratt KMP String Matching Algorithm,2018-03-25 08:37:39+00:00,2044909,38581,1108,18.93,False,Sunday,8,52,0.01940868762375245
+Abdul Bari,2. Why and How Java is platform independent,2018-03-20 13:04:59+00:00,78467,1929,102,19.07,False,Tuesday,13,43,0.025883492423566596
+Abdul Bari,1. Why One should Learn Java - Introduction to Java,2018-03-18 14:42:51+00:00,221272,3051,157,14.45,False,Sunday,14,51,0.014497993419863336
+Abdul Bari,10.1 AVL Tree - Insertion and Rotations,2018-03-16 16:24:28+00:00,1441313,35126,1479,43.13,False,Friday,16,39,0.025396981779807717
+Abdul Bari,4.3.1 Matrix Chain Multiplication (Program) - Dynamic Programming,2018-03-05 19:56:11+00:00,377027,3898,154,18.67,False,Monday,19,65,0.01074724091378071
+Abdul Bari,4.5.1 0/1 Knapsack Problem (Program) - Dynamic Programming,2018-03-04 21:29:55+00:00,666679,6400,176,17.0,False,Sunday,21,58,0.009863817519375892
+Abdul Bari,1.1 Priori Analysis and Posteriori Testing,2018-03-04 21:22:17+00:00,1190366,9594,132,1.8,False,Sunday,21,42,0.008170596270390787
+Abdul Bari,4.1.1 MultiStage Graph (Program) - Dynamic Programming,2018-03-04 20:31:53+00:00,373870,3456,105,14.43,False,Sunday,20,54,0.009524701099312595
+Abdul Bari,8. NP-Hard and NP-Complete Problems,2018-02-28 12:08:20+00:00,2326826,42358,1738,31.88,False,Wednesday,12,35,0.0189511377301096
+Abdul Bari,7.2 0/1 Knapsack using Branch and Bound,2018-02-26 15:28:03+00:00,1512579,16057,336,10.8,False,Monday,15,39,0.010837781034907928
+Abdul Bari,7.1 Job Sequencing with Deadline - Branch and Bound,2018-02-26 15:27:05+00:00,424232,3669,122,10.93,False,Monday,15,51,0.00893614814535443
+Abdul Bari,6.3 Graph Coloring Problem - Backtracking,2018-02-26 14:13:52+00:00,1410576,20229,324,15.87,False,Monday,14,41,0.014570643481811685
+Abdul Bari,7 Branch and Bound Introduction,2018-02-26 13:57:05+00:00,1110826,12402,324,9.67,False,Monday,13,31,0.011456339696766191
+Abdul Bari,6.2 Sum Of Subsets Problem - Backtracking,2018-02-24 11:49:38+00:00,1702177,22462,476,12.32,False,Saturday,11,41,0.013475684373599221
+Abdul Bari,6.1 N Queens Problem using Backtracking,2018-02-24 11:35:29+00:00,2488425,34155,588,13.68,False,Saturday,11,39,0.01396184333463938
+Abdul Bari,6 Introduction to Backtracking - Brute Force Approach,2018-02-24 11:18:24+00:00,1525031,24370,326,8.25,False,Saturday,11,53,0.016193769175839704
+Abdul Bari,5.2 Articulation Point and Biconnected Components,2018-02-24 10:48:03+00:00,566522,8112,219,8.62,False,Saturday,10,49,0.014705518938364266
+Abdul Bari,5.1 Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search,2018-02-24 10:47:25+00:00,4265294,77722,1840,18.52,False,Saturday,10,77,0.01865334488079837
+Abdul Bari,Abdul Bari Live Stream,2018-02-23 18:12:31+00:00,0,0,0,0.0,True,Friday,18,22,
+Abdul Bari,4.6 Optimal Binary Search Tree (Successful Search Only) - Dynamic Programming,2018-02-22 12:56:07+00:00,1248774,13826,481,30.32,False,Thursday,12,77,0.011456836865597779
+Abdul Bari,4.7 Traveling Salesperson Problem - Dynamic Programming,2018-02-22 12:46:20+00:00,1849808,23753,681,15.42,False,Thursday,12,55,0.01320893844117876
+Abdul Bari,4.5 0/1 Knapsack - Two Methods - Dynamic Programming,2018-02-20 21:04:21+00:00,3467236,46332,1331,28.4,False,Tuesday,21,52,0.013746684679093088
+Abdul Bari,4.4 Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming,2018-02-16 11:37:57+00:00,2054723,32328,854,17.2,False,Friday,11,78,0.016149135430907232
+Abdul Bari,4.3 Matrix Chain Multiplication - Dynamic Programming,2018-02-16 10:48:53+00:00,2077829,26492,795,23.0,False,Friday,10,53,0.013132457001995832
+Abdul Bari,4.1 MultiStage Graph - Dynamic Programming,2018-02-16 10:47:52+00:00,1186975,16188,415,21.12,False,Friday,10,42,0.013987657701299522
+Abdul Bari,4.2 All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming,2018-02-16 10:45:38+00:00,3068194,46990,1396,14.22,False,Friday,10,66,0.015770189238359766
+Abdul Bari,4 Principle  of Optimality  - Dynamic Programming introduction,2018-02-16 10:32:32+00:00,1392793,22240,447,14.87,False,Friday,10,62,0.01628885268665193
+Abdul Bari,3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method,2018-02-09 20:36:06+00:00,4198148,66228,1848,18.58,False,Friday,20,68,0.01621572178970346
+Abdul Bari,3.5 Prims and Kruskals Algorithms - Greedy Method,2018-02-09 05:24:47+00:00,3301395,57540,1472,20.2,False,Friday,5,49,0.017874868048203867
+Abdul Bari,3.4 Huffman Coding - Greedy Method,2018-02-08 12:37:57+00:00,1979466,33943,1083,17.73,False,Thursday,12,34,0.017694671189098475
+Abdul Bari,3.2 Job Sequencing with Deadlines - Greedy Method,2018-02-07 21:38:27+00:00,1679582,25895,593,13.48,False,Wednesday,21,49,0.015770590539789065
+Abdul Bari,3.3 Optimal Merge Pattern - Greedy Method,2018-02-07 21:23:01+00:00,633961,8631,191,9.55,False,Wednesday,21,41,0.01391568251043834
+Abdul Bari,3.1 Knapsack Problem - Greedy Method,2018-02-06 20:11:14+00:00,2736918,43065,1143,15.5,False,Tuesday,20,36,0.01615247515636201
+Abdul Bari,3. Greedy Method -  Introduction,2018-02-06 19:08:54+00:00,1701538,27549,519,12.03,False,Tuesday,19,32,0.016495664510578077
+Abdul Bari,2.9 Strassens Matrix Multiplication,2018-02-06 03:28:56+00:00,1333766,19846,427,23.67,False,Tuesday,3,35,0.0151998176591696
+Abdul Bari,2.8.2 QuickSort Analysis,2018-02-02 06:02:57+00:00,973055,15516,353,11.62,False,Friday,6,24,0.016308430664248166
+Abdul Bari,2.8.1  QuickSort Algorithm,2018-02-02 06:02:46+00:00,3630246,61345,1801,13.72,False,Friday,6,26,0.01739441349153749
+Abdul Bari,2.7.3 MergeSort in-depth Analysis,2018-02-01 21:02:32+00:00,386050,5315,76,13.47,False,Thursday,21,33,0.013964512368864137
+Abdul Bari,1.5.3 Time Complexity of While and if #3,2018-02-01 11:54:14+00:00,1099456,17920,536,21.9,False,Thursday,11,40,0.016786483497293208
+Abdul Bari,2.7.2.  Merge Sort Algorithm,2018-01-31 11:58:58+00:00,2017382,29488,702,24.12,False,Wednesday,11,28,0.014964939708989175
+Abdul Bari,2.7.1  Two Way MergeSort - Iterative method,2018-01-31 11:44:02+00:00,824427,11877,357,20.32,False,Wednesday,11,43,0.014839397545204124
+Abdul Bari,2.6.1 Binary Search Iterative Method,2018-01-29 20:22:51+00:00,932566,12692,386,19.6,False,Monday,20,36,0.014023672319170975
+Abdul Bari,2.6.2 Binary Search Recursive Method,2018-01-29 20:15:11+00:00,624980,7722,166,7.18,False,Monday,20,36,0.012621203878524112
+Abdul Bari,2.4.2 Examples for Master Theorem #2,2018-01-26 07:42:22+00:00,469876,5095,138,5.68,False,Friday,7,36,0.011136980820471784
+Abdul Bari,2.4.1 Masters Theorem in Algorithms for Dividing Function #1,2018-01-26 06:44:24+00:00,1506748,23050,906,16.83,False,Friday,6,60,0.01589914172774744
+Abdul Bari,2.5 Root function (Recurrence Relation),2018-01-26 04:50:38+00:00,379903,4352,142,5.62,False,Friday,4,39,0.011829335382979339
+Abdul Bari,2.3.3 Recurrence Relation [ T(n)= 2T(n/2) +n]  #3,2018-01-26 04:41:35+00:00,857957,9924,283,11.33,False,Friday,4,49,0.011896866626182898
+Abdul Bari,2.3.2 Recurrence Relation Dividing [ T(n)=T(n/2)+ n].   #2,2018-01-26 04:15:39+00:00,569638,4871,152,7.43,False,Friday,4,58,0.008817880829579487
+Abdul Bari,2.3.1 Recurrence Relation Dividing Function T(n)=T(n/2)+1 #1,2018-01-24 19:01:33+00:00,609521,6652,125,8.68,False,Wednesday,19,60,0.011118566874644189
+Abdul Bari,2.2 Masters Theorem Decreasing Function,2018-01-24 18:55:39+00:00,764476,9945,293,8.17,False,Wednesday,18,39,0.01339217974141765
+Abdul Bari,2.1.4 Recurrence Relation T(n)=2 T(n-1)+1  #4,2018-01-24 18:53:59+00:00,797316,8955,244,10.7,False,Wednesday,18,45,0.011537458172167623
+Abdul Bari,2.1.3 Recurrence Relation (T(n)= T(n-1) + log n) #3,2018-01-23 21:11:24+00:00,819828,10302,282,12.42,False,Tuesday,21,51,0.012910025029640363
+Abdul Bari,2.1.2 Recurrence Relation (T(n)= T(n-1) + n) #2,2018-01-23 20:43:09+00:00,1174597,15685,369,16.0,False,Tuesday,20,47,0.013667666442192514
+Abdul Bari,2.1.1 Recurrence Relation (T(n)= T(n-1) + 1) #1,2018-01-22 19:21:24+00:00,2002435,26437,673,13.8,False,Monday,19,47,0.01353851685572815
+Abdul Bari,2 Divide And Conquer,2018-01-22 18:08:07+00:00,1249944,20158,301,7.07,False,Monday,18,20,0.016367933283411098
+Abdul Bari,1.11 Best Worst and Average Case Analysis,2018-01-21 20:39:56+00:00,912682,15957,429,18.93,False,Sunday,20,41,0.017953679375729992
+Abdul Bari,1.10.2 Comparison of Functions #2,2018-01-19 06:01:04+00:00,404407,6452,240,10.43,False,Friday,6,33,0.01654768587091717
+Abdul Bari,1.10.1 Comparison of Functions #1,2018-01-19 05:50:30+00:00,579417,6540,143,9.47,False,Friday,5,33,0.011534007459221942
+Abdul Bari,1.9 Properties of Asymptotic Notations,2018-01-19 04:17:24+00:00,710922,8881,196,11.97,False,Friday,4,38,0.012767926720512236
+Abdul Bari,1.8.2 Asymptotic Notations - Big Oh - Omega - Theta #2,2018-01-18 12:58:17+00:00,928740,15457,483,10.12,False,Thursday,12,54,0.017163038094622822
+Abdul Bari,1.8.1 Asymptotic Notations Big Oh - Omega - Theta #1,2018-01-18 12:57:58+00:00,2177389,36982,993,15.77,False,Thursday,12,52,0.01744061350544161
+Abdul Bari,1.7 Compare Class of Functions,2018-01-18 12:57:38+00:00,548483,6792,130,5.18,False,Thursday,12,30,0.01262026352685498
+Abdul Bari,1.6 Classes of functions,2018-01-18 12:57:15+00:00,616748,6543,88,3.17,False,Thursday,12,24,0.010751554930052469
+Abdul Bari,1.5.2 Time Complexity Example #2,2018-01-18 12:56:49+00:00,1572122,23327,840,14.22,False,Thursday,12,32,0.015372216660030202
+Abdul Bari,1.5.1 Time Complexity #1,2018-01-18 12:56:27+00:00,2728137,38023,1011,10.13,False,Thursday,12,24,0.014307932482862848
+Abdul Bari,1.4 Frequency Count Method,2018-01-18 12:56:03+00:00,1347800,22776,750,12.37,False,Thursday,12,26,0.017455112034426474
+Abdul Bari,1.3 How Write and Analyze Algorithm,2018-01-18 12:55:26+00:00,1300527,16830,275,10.62,False,Thursday,12,35,0.013152360543072155
+Abdul Bari,1.2 Characteristics of Algorithm,2018-01-18 12:54:57+00:00,1138274,12743,157,5.62,False,Thursday,12,32,0.011332947954534673
+Abdul Bari,1. Introduction to Algorithms,2018-01-18 12:54:29+00:00,6214708,68827,1924,11.82,False,Thursday,12,29,0.011384444771982851
+Abdul Bari,Why Object Orientation - Hindi,2017-01-05 16:03:17+00:00,6206,136,9,25.12,False,Thursday,16,30,0.02336448598130841
+Abdul Bari,Java AWT Listeners Coding Styles #7,2017-01-02 16:59:20+00:00,12350,139,11,17.58,False,Monday,16,35,0.012145748987854251
+Abdul Bari,Java AWT Coding Styles #6,2017-01-01 16:05:04+00:00,13727,127,4,8.0,False,Sunday,16,25,0.009543235958330298
+Abdul Bari,Java AWT Event Listeners #5,2017-01-01 14:50:27+00:00,19321,241,6,6.05,False,Sunday,14,27,0.012784017390404223
+Abdul Bari,Java AWT Event Classes #4,2017-01-01 13:57:44+00:00,28410,287,5,11.1,False,Sunday,13,25,0.010278071101724745
+Abdul Bari,Java AWT Event Handling #3,2017-01-01 12:38:19+00:00,56255,636,25,8.8,False,Sunday,12,26,0.011750066660741267
+Abdul Bari,Java AWT Simple App #2,2016-12-31 13:09:11+00:00,32560,434,20,8.9,False,Saturday,13,22,0.013943488943488944
+Abdul Bari,Java AWT - #1,2016-12-30 23:32:51+00:00,106822,915,23,20.5,False,Friday,23,13,0.008780962723034582
+Abdul Bari,How Java is Platform Independent,2016-12-29 23:45:09+00:00,18355,446,29,10.38,False,Thursday,23,32,0.02587850721874149
+Abdul Bari,Shortest Path Algorithms (Dijkstra and Bellman-Ford)  - Simplified,2016-12-22 15:01:37+00:00,247378,2137,61,26.22,False,Thursday,15,66,0.00888518785017261
+Abdul Bari,Websites  vs WebApps,2016-03-07 11:47:09+00:00,219515,3397,96,15.15,False,Monday,11,20,0.015912352231054826
+Abdul Bari,BFS DFS - Simplified,2015-10-23 10:24:17+00:00,216417,2008,85,19.22,False,Friday,10,20,0.009671144133778769
+Abdul Bari,Asymptotic Notations - Simplified,2015-09-17 18:59:09+00:00,120404,1554,69,22.73,False,Thursday,18,33,0.013479618617321684
+Abdul Bari,Row-Major and Column-Major Mapping,2015-09-16 20:49:47+00:00,69895,851,63,19.27,False,Wednesday,20,34,0.013076757994134058
+Abdul Bari,Pointer to Array,2015-09-16 18:52:13+00:00,108098,1845,83,14.6,False,Wednesday,18,16,0.017835667634923866
+Abdul Bari,Hashing Technique - Simplified,2015-09-16 11:23:23+00:00,830426,15686,581,17.07,False,Wednesday,11,30,0.019588741200299607
+Abdul Bari,Pointer Arithmetic - *p++;  *++p; ++*p;,2015-09-15 21:00:50+00:00,193695,3763,144,10.42,False,Tuesday,21,39,0.02017088721959782
+Abdul Bari,Why Pointers?,2015-09-15 20:37:59+00:00,191234,2735,67,9.22,False,Tuesday,20,13,0.01465220619764268
+Abdul Bari,Merge Sort Algorithm - Hindi,2015-09-10 15:59:32+00:00,107472,1209,95,16.63,False,Thursday,15,28,0.012133392883727855
+Abdul Bari,Tree Traversal,2015-09-08 04:22:47+00:00,75925,1998,69,6.25,False,Tuesday,4,14,0.027224234441883436
+Abdul Bari,Stack vs Heap,2015-09-08 03:52:10+00:00,140749,2598,107,11.13,False,Tuesday,3,13,0.019218609013207908
+Abdul Bari,Tower of Hanoi Problem - Made Easy,2014-05-07 19:41:58+00:00,890086,16528,804,9.53,False,Wednesday,19,34,0.019472275712683944
+Abdul Bari,Middleware Technologies Explained in Hindi,2014-05-07 00:05:16+00:00,98617,1891,232,27.12,False,Wednesday,0,42,0.021527728484946815
+Abdul Bari,Recursion and Stack - English,2014-05-05 21:28:14+00:00,193587,4277,266,13.15,False,Monday,21,29,0.023467484903428433
+Abdul Bari,Model View Controller ( MVC ) - Explained in Hindi,2014-05-01 21:08:17+00:00,132634,1726,205,16.95,False,Thursday,21,50,0.01455886122713633
+Abdul Bari,Cloud Computing Benefits - Hindi - # 4,2014-04-30 22:43:55+00:00,46571,842,199,15.33,False,Wednesday,22,38,0.02235296643834146
+Abdul Bari,Cloud Computing Services - Hindi - #3,2014-04-29 20:52:46+00:00,196951,2815,288,16.42,False,Tuesday,20,37,0.015755187838599447
+Abdul Bari,Cloud Computing - Hindi - #2,2014-04-22 23:05:33+00:00,69309,868,112,17.72,False,Tuesday,23,28,0.014139577832604713
+Abdul Bari,Cloud Computing - Hindi - #1,2014-04-20 09:26:22+00:00,200963,2070,157,13.42,False,Sunday,9,28,0.011081641894279046

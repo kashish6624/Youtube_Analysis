@@ -1,0 +1,1001 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Traversy Media,What happened to Brad Traversy?,2025-07-07 13:01:23+00:00,57454,4079,584,8.78,False,Monday,13,31,0.08116058063842378
+Traversy Media,Why This Boring AI business Idea Makes Money,2025-06-12 13:00:26+00:00,27861,1108,105,35.3,False,Thursday,13,44,0.04353756146584832
+Traversy Media,NextJS + Postgres and Error Monitoring  - Full Stack Support Ticketing System,2025-05-13 13:00:39+00:00,27499,1120,61,203.18,False,Tuesday,13,77,0.04294701625513655
+Traversy Media,I Tried Vibe Coding - Here Are My Thoughts,2025-04-28 16:03:14+00:00,117875,4784,524,7.3,False,Monday,16,42,0.04503075291622481
+Traversy Media,"Build & Deploy An AI-Powered Chat App | Vue, Node, TypeScript,  Open AI, Stream & Neon Database",2025-04-01 15:40:29+00:00,27240,980,87,166.35,False,Tuesday,15,95,0.03917033773861968
+Traversy Media,Freelance Web Developer Roadmap,2025-03-17 15:30:12+00:00,112407,5532,186,43.88,False,Monday,15,31,0.05086871814032934
+Traversy Media,React Native Crash Course+ | Build a Mobile App In 3 Hours,2025-02-26 15:00:53+00:00,83944,2679,144,183.48,False,Wednesday,15,58,0.03362956256551987
+Traversy Media,Full Stack JavaScript Developer Roadmap 2025,2025-02-10 16:00:36+00:00,125514,3675,153,41.55,False,Monday,16,44,0.03049858979874755
+Traversy Media,"TTS & Translate App | Serverless Functions, Google Translate & Web Speech API",2025-01-20 15:00:40+00:00,16608,678,34,45.37,False,Monday,15,77,0.042870905587668595
+Traversy Media,Git & GitHub Crash Course 2025,2025-01-13 15:01:15+00:00,126632,4637,194,49.48,False,Monday,15,30,0.038149914713500536
+Traversy Media,React Admin Crash Course 2025,2025-01-07 15:00:33+00:00,32880,1065,52,45.18,False,Tuesday,15,29,0.03397201946472019
+Traversy Media,Has Coding Become Boring?,2025-01-02 16:46:48+00:00,38079,2047,263,10.6,False,Thursday,16,25,0.0606633577562436
+Traversy Media,"New 22+ Hour Course - Build an Ecommerce Platform with Next.js, TypeScript, PostgreSQL & Prisma",2024-12-23 14:47:15+00:00,32518,1309,128,5.08,False,Monday,14,95,0.04419090965003998
+Traversy Media,Feeling Stagnant As A Developer,2024-11-22 16:20:12+00:00,40312,2641,226,7.72,False,Friday,16,31,0.07112026195673744
+Traversy Media,Build A Tesla Car Configurator | Tailwind & Vanilla JavaScript,2024-10-29 14:41:08+00:00,28110,1126,68,90.58,False,Tuesday,14,62,0.04247598719316969
+Traversy Media,"Create A Booking App From Scratch | React, Next.js, Appwrite, Tailwind",2024-10-07 15:28:59+00:00,67427,2118,123,252.72,False,Monday,15,70,0.0332359440580183
+Traversy Media,Course Announcement - Laravel From Scratch,2024-09-24 16:01:35+00:00,28111,1447,138,3.03,False,Tuesday,16,42,0.05638362206965245
+Traversy Media,Encore Crash Course - TypeScript Backend Framework & Toolset,2024-09-02 13:00:55+00:00,30969,920,90,36.32,False,Monday,13,60,0.03261325841971003
+Traversy Media,Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup),2024-08-13 14:00:28+00:00,42279,1496,85,50.22,False,Tuesday,14,78,0.03739445114595899
+Traversy Media,15 Myths & Misconceptions In Web Developement,2024-08-01 13:41:08+00:00,26009,1302,58,16.85,False,Thursday,13,45,0.05228959206428544
+Traversy Media,5 Reasons Why Your Side Projects Are Failing,2024-07-16 13:31:43+00:00,46111,2367,147,11.17,False,Tuesday,13,44,0.05452061330268266
+Traversy Media,Vue.js Crash Course,2024-07-01 14:00:32+00:00,447643,9442,608,176.73,False,Monday,14,19,0.02245092629617798
+Traversy Media,"Full App Build - Dev to Deployment - Next.js, Prisma, Neon & Clerk",2024-06-25 13:00:13+00:00,52156,1531,137,111.63,False,Tuesday,13,66,0.031980980136513536
+Traversy Media,"Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn/ui",2024-06-03 14:00:27+00:00,102070,2339,111,136.62,False,Monday,14,61,0.02400313510336044
+Traversy Media,The Importance of Specialization in Coding,2024-05-14 12:23:56+00:00,255661,12960,741,7.22,False,Tuesday,12,42,0.05359049679067202
+Traversy Media,Express Crash Course,2024-05-07 13:00:11+00:00,201912,4949,232,106.18,False,Tuesday,13,20,0.025659693331748484
+Traversy Media,Node.js Crash Course,2024-04-23 16:52:27+00:00,435373,9724,352,126.58,False,Tuesday,16,20,0.023143373612970947
+Traversy Media,20 Browser Extensions For Web Design & Development,2024-04-11 16:15:52+00:00,68808,3183,102,14.45,False,Thursday,16,50,0.04774154168119986
+Traversy Media,Microservices Crash Course & Moleculer JS Intro,2024-04-02 13:04:59+00:00,49669,1750,66,38.9,False,Tuesday,13,47,0.03656204070949687
+Traversy Media,React Crash Course,2024-03-18 14:28:48+00:00,869941,17666,1017,184.6,False,Monday,14,18,0.021476169073534872
+Traversy Media,20 Essential VS Code Extensions,2024-03-11 15:28:52+00:00,283966,6859,217,14.43,False,Monday,15,31,0.024918476155596093
+Traversy Media,"Exploring React 19 Features - use() Hook, Actions & More",2024-03-06 14:04:05+00:00,74850,2378,106,54.45,False,Wednesday,14,56,0.03318637274549098
+Traversy Media,Tailwind & JavaScript Project - Products Filtering UI,2024-02-27 14:00:10+00:00,36147,1091,48,45.35,False,Tuesday,14,53,0.03151022214844939
+Traversy Media,Next.js 14 Course Release With Promo,2024-02-20 14:00:02+00:00,30198,1344,136,3.68,False,Tuesday,14,36,0.04900986820319227
+Traversy Media,Stop Worrying About AI!,2024-02-06 14:00:42+00:00,53029,3757,402,6.67,False,Tuesday,14,23,0.0784287842501273
+Traversy Media,Web Development Technologies - A Practical Guide,2024-01-23 14:00:05+00:00,526588,13480,540,163.53,False,Tuesday,14,48,0.026624229948270753
+Traversy Media,HTMX Crash Course | Dynamic Pages Without Writing Any JavaScript,2024-01-01 13:30:00+00:00,170632,4545,274,56.78,False,Monday,13,64,0.028242064794411364
+Traversy Media,Should You Test As A Web Developer?,2023-12-28 17:58:45+00:00,29858,1238,98,11.0,False,Thursday,17,35,0.044745126934155
+Traversy Media,Astro Quick Start Course | Build an SSR Blog,2023-12-18 18:26:08+00:00,77312,2031,106,164.07,False,Monday,18,44,0.02764124586092715
+Traversy Media,Vue 3 & Composition API - Full Project,2023-11-08 14:39:51+00:00,171181,4452,214,69.25,False,Wednesday,14,38,0.02725769799218371
+Traversy Media,Are You Too Dumb To Code? A Chat About Imposter Syndrome,2023-10-26 13:03:44+00:00,78543,5405,409,7.13,False,Thursday,13,56,0.07402314655666323
+Traversy Media,Professional Website From Scratch | HTML & CSS For Beginners,2023-10-16 14:00:18+00:00,242330,5379,160,138.57,False,Monday,14,60,0.0228572607601205
+Traversy Media,15 Web Developer-Related Career Paths,2023-09-28 13:00:03+00:00,134202,5092,222,25.32,False,Thursday,13,37,0.03959702537965157
+Traversy Media,"Bun Crash Course | JavaScript Runtime, Bundler & Transpiler",2023-09-18 12:52:41+00:00,75395,2694,148,40.32,False,Monday,12,59,0.037694807347967374
+Traversy Media,Prisma Crash Course,2023-09-12 14:16:27+00:00,87478,2609,101,36.68,False,Tuesday,14,19,0.030979217631861726
+Traversy Media,New Course Alert - JS Challenges: Data Structures & Algorithms,2023-09-07 13:21:54+00:00,35593,2068,253,5.22,False,Thursday,13,62,0.06520945129660327
+Traversy Media,Modern JavaScript From The Beginning | First 12 Hours,2023-07-26 12:40:21+00:00,744439,18264,571,714.0,False,Wednesday,12,53,0.025300931305318502
+Traversy Media,Simple Next.js & React Authentication With Clerk,2023-07-10 13:00:19+00:00,62349,1460,109,49.58,False,Monday,13,48,0.025164798152336045
+Traversy Media,Write A ChatGPT Chatbot With Node.js,2023-06-30 13:05:34+00:00,97449,2002,106,28.65,False,Friday,13,36,0.02163182793050724
+Traversy Media,Build A RealTime Chat App With React & Appwrite Cloud,2023-06-26 13:00:39+00:00,79573,1982,118,141.23,False,Monday,13,53,0.026390861221771204
+Traversy Media,New Bootstrap 5 Course & Why Bootstrap?,2023-06-22 15:22:47+00:00,42394,1318,108,11.55,False,Thursday,15,39,0.03363683540123603
+Traversy Media,"MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More",2023-05-15 14:02:25+00:00,353677,7045,345,218.0,False,Monday,14,72,0.020894771217806078
+Traversy Media,ChatGPT Crash Course | 10 Practical Use Cases For Developers,2023-04-17 15:16:07+00:00,165388,6720,250,32.57,False,Monday,15,60,0.04214332357849421
+Traversy Media,"Next.js 13 Crash Course | App Directory, React Server Components & More",2023-04-05 17:49:23+00:00,218630,5532,304,82.75,False,Wednesday,17,71,0.026693500434524082
+Traversy Media,Build a Keyword Extractor: React + OpenAI API + Chakra UI,2023-03-23 13:00:28+00:00,50014,1235,84,47.85,False,Thursday,13,57,0.026372615667613068
+Traversy Media,Vite Crash Course | Faster Alternative To CRA,2023-03-14 16:24:34+00:00,249481,7295,163,16.4,False,Tuesday,16,45,0.029894060068702627
+Traversy Media,Web Development In 2023 - A Practical Guide,2023-03-06 14:00:35+00:00,806694,20550,577,174.42,False,Monday,14,43,0.02618960845128388
+Traversy Media,I'm Back! 37-Hour JavaScript Course & New Platform,2023-02-09 14:02:52+00:00,119846,5445,607,7.02,False,Thursday,14,50,0.05049813927874105
+Traversy Media,Build An AI Image Generator With OpenAI & Node.js,2022-12-07 13:19:37+00:00,168301,4747,341,36.32,False,Wednesday,13,49,0.030231549426325454
+Traversy Media,PostCSS Crash Course,2022-10-26 15:38:31+00:00,58882,1435,75,34.1,False,Wednesday,15,20,0.025644509357698447
+Traversy Media,Build a Shopping Cart With React JS & Stripe,2022-10-18 14:00:28+00:00,118432,2985,187,76.47,False,Tuesday,14,44,0.026783301810321535
+Traversy Media,Clean Code vs Preference,2022-10-11 14:00:33+00:00,51860,2424,173,8.07,False,Tuesday,14,24,0.05007713073659854
+Traversy Media,Create a Desktop App With JavaScript & Electron,2022-10-03 13:18:54+00:00,430859,8068,267,71.8,False,Monday,13,47,0.01934507576724636
+Traversy Media,5 Pro-Level React Do's & Don'ts,2022-09-20 14:00:04+00:00,178471,8756,365,30.1,False,Tuesday,14,31,0.051106342206857135
+Traversy Media,Command Line Crash Course For Beginners | Terminal Commands,2022-09-14 15:20:55+00:00,242553,7232,173,44.88,False,Wednesday,15,59,0.030529410067078124
+Traversy Media,3 Alternatives for Heroku's Free Tier - Full Stack & API Hosting,2022-09-08 13:30:07+00:00,231051,9066,393,13.07,False,Thursday,13,64,0.040939013464559776
+Traversy Media,Astro Crash Course,2022-08-29 14:28:44+00:00,161074,3914,246,95.32,False,Monday,14,18,0.025826638687808087
+Traversy Media,Do You Need To Learn Data Structures & Algorithms As A Developer?,2022-08-25 13:07:07+00:00,71998,2891,166,13.2,False,Thursday,13,65,0.04245951276424345
+Traversy Media,Create A Simple JavaScript App to Generate QR Codes,2022-08-16 13:17:27+00:00,111257,3478,137,37.22,False,Tuesday,13,51,0.032492337560782694
+Traversy Media,Build A Digital Resume & Host For Free,2022-08-11 14:00:30+00:00,97708,3142,71,70.33,False,Thursday,14,38,0.032883694272730996
+Traversy Media,"SpaceX Website Clone - HTML, CSS & JavaScript",2022-08-09 13:00:01+00:00,97347,2646,121,133.88,False,Tuesday,13,45,0.02842409113788817
+Traversy Media,Carbon Lang First Look & Crash Course | Google's C++ Successor,2022-08-01 13:35:01+00:00,109505,2579,210,66.77,False,Monday,13,62,0.025469156659513263
+Traversy Media,"5 HTML, CSS & JS Mini Projects - Scroll Animation, Rotating Navigation, Drag Events, etc",2022-07-27 13:27:54+00:00,94572,3271,115,101.4,False,Wednesday,13,88,0.035803409042845666
+Traversy Media,Improve The Developer Hiring Process,2022-07-19 13:30:21+00:00,55058,3675,436,8.97,False,Tuesday,13,36,0.07466671510043954
+Traversy Media,JavaScript Under The Hood [5] - JavaScript Engine Overview,2022-07-12 15:39:48+00:00,45836,2476,130,12.5,False,Tuesday,15,58,0.05685487389824592
+Traversy Media,JavaScript Under The Hood [4] - Memory Storage,2022-07-12 15:29:46+00:00,53429,2338,66,12.97,False,Tuesday,15,46,0.04499429148964046
+Traversy Media,"JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue & Event Loop",2022-07-07 13:00:02+00:00,69639,2740,68,12.83,False,Thursday,13,80,0.04032223323137897
+Traversy Media,JavaScript Under The Hood [2] - Execution Context,2022-06-30 15:13:30+00:00,88825,3683,168,14.47,False,Thursday,15,49,0.04335491134252744
+Traversy Media,JavaScript Under The Hood [1] - Thread & Call Stack,2022-06-30 15:01:38+00:00,145526,5244,140,9.08,False,Thursday,15,51,0.036996825309566675
+Traversy Media,Linux Server Setup & MERN Deployment,2022-06-20 13:00:37+00:00,68671,2430,121,38.68,False,Monday,13,36,0.037148141136724384
+Traversy Media,GraphQL Crash Course With Full Stack MERN Project,2022-06-06 13:00:10+00:00,347928,9293,491,194.65,False,Monday,13,49,0.028120760617139178
+Traversy Media,Python In The Browser! PyScript First Look,2022-05-30 13:00:28+00:00,154892,4438,266,21.57,False,Monday,13,42,0.030369547813960694
+Traversy Media,Alpine.js Crash Course,2022-05-12 13:00:22+00:00,141026,4111,182,42.03,False,Thursday,13,22,0.030441195240593934
+Traversy Media,Web RTC Full Course & More,2022-05-05 13:00:11+00:00,397512,10918,443,275.63,False,Thursday,13,26,0.028580269274889814
+Traversy Media,Laravel From Scratch | 4+ Hour Course,2022-04-26 13:00:19+00:00,1119343,20601,1413,258.87,False,Tuesday,13,37,0.019666893883286893
+Traversy Media,Dealing With Some Common Frustrations As A Developer,2022-04-13 13:00:21+00:00,74396,4568,279,11.52,False,Wednesday,13,52,0.06515135222323781
+Traversy Media,Tailwind Crash Course | Project From Scratch,2022-04-05 13:00:20+00:00,648745,13251,479,95.65,False,Tuesday,13,44,0.021163939606470956
+Traversy Media,PHP For Beginners | 3+ Hour Crash Course,2022-03-30 13:00:05+00:00,860786,16960,920,195.6,False,Wednesday,13,40,0.020771713294593545
+Traversy Media,Webpack 5 Crash Course | Frontend Development Setup,2022-03-22 13:34:15+00:00,324699,8735,353,41.28,False,Tuesday,13,51,0.027988999042189842
+Traversy Media,Build Strength From Struggle | My Story,2022-03-08 14:32:32+00:00,221048,24083,1948,9.33,False,Tuesday,14,39,0.11776175310339836
+Traversy Media,CSS Grid Crash Course,2022-03-02 14:00:00+00:00,346822,10987,451,53.75,False,Wednesday,14,21,0.032979453437209864
+Traversy Media,The Programming Language Guide,2022-02-21 13:00:02+00:00,544910,17779,402,24.42,False,Monday,13,30,0.03336514286762952
+Traversy Media,Learn The MERN Stack - Redux Goals & Deply,2022-02-17 13:00:25+00:00,115871,2669,585,58.37,False,Thursday,13,42,0.028082954319890222
+Traversy Media,Learn The MERN Stack - Frontend Authentication | Redux Toolkit,2022-02-14 13:53:35+00:00,234705,4110,442,73.43,False,Monday,13,62,0.019394559127415265
+Traversy Media,Learn The MERN Stack - JWT Authentication,2022-02-10 14:00:13+00:00,241320,5133,341,52.48,False,Thursday,14,41,0.022683573678103763
+Traversy Media,Learn The MERN Stack - Express & MongoDB Rest API,2022-02-07 14:00:00+00:00,531424,10659,551,57.57,False,Monday,14,49,0.0210942674775697
+Traversy Media,6 Of My Personal Tips When Learning To Code,2022-02-01 14:30:06+00:00,183319,11247,480,7.77,False,Tuesday,14,43,0.06397045587200453
+Traversy Media,MongoDB Crash Course 2022,2022-01-24 14:00:01+00:00,213043,6251,168,27.37,False,Monday,14,25,0.030130067638927352
+Traversy Media,Flexbox Crash Course,2022-01-18 14:00:01+00:00,463611,15890,717,46.9,False,Tuesday,14,20,0.035820979226118446
+Traversy Media,Web Development In 2022 - A Practical Guide,2022-01-10 14:00:07+00:00,942180,30428,841,90.85,False,Monday,14,43,0.03318792587403681
+Traversy Media,Remix Crash Course | Full Stack React,2021-12-16 15:31:57+00:00,128226,2955,169,64.82,False,Thursday,15,37,0.024363233665559248
+Traversy Media,React Router v6 Major Changes,2021-12-04 19:26:37+00:00,130950,3834,206,13.2,False,Saturday,19,29,0.030851470026727758
+Traversy Media,Build a Starbucks Landing Page Clone,2021-11-23 13:59:34+00:00,124298,3858,146,79.38,False,Tuesday,13,36,0.03221290768958471
+Traversy Media,10 Ways To Be A Better Developer,2021-11-15 17:57:53+00:00,164337,6803,215,12.07,False,Monday,17,32,0.04270492950461552
+Traversy Media,Build a Website Accessibility Tester With JavaScript & Pa11y,2021-11-09 15:00:09+00:00,32685,1034,46,31.65,False,Tuesday,15,60,0.03304268012849931
+Traversy Media,Vue 3 & Supabase | Workout Tracker App,2021-11-01 14:00:02+00:00,66609,1476,71,196.52,False,Monday,14,38,0.023225089702592742
+Traversy Media,"Build an API Proxy Server - Hide Your API Keys, Rate Limiting & Caching",2021-10-20 13:04:51+00:00,229481,10737,226,32.33,False,Wednesday,13,71,0.04777301824551924
+Traversy Media,Svelte Crash Course,2021-10-13 17:58:04+00:00,244703,5893,322,80.87,False,Wednesday,17,19,0.025398135699194534
+Traversy Media,Freelance Course Launch & Update,2021-10-04 14:00:14+00:00,47950,2048,93,4.87,False,Monday,14,32,0.04465067778936392
+Traversy Media,Python Django 7 Hour Course,2021-09-29 14:00:10+00:00,2064055,38437,1630,430.08,False,Wednesday,14,27,0.019411788930043045
+Traversy Media,Styled Components Crash Course & Project,2021-09-21 14:05:55+00:00,265948,6696,288,48.38,False,Tuesday,14,40,0.02626077278264924
+Traversy Media,Coming Back To Programming After A Break,2021-09-13 13:43:56+00:00,92780,5441,454,9.23,False,Monday,13,40,0.06353740030178918
+Traversy Media,JavaScript Drag & Drop Sortable List Project,2021-09-06 15:43:47+00:00,136552,3885,139,51.72,False,Monday,15,44,0.029468627336106393
+Traversy Media,React Testing Crash Course,2021-08-30 16:12:13+00:00,324375,8055,376,58.6,False,Monday,16,26,0.025991522157996147
+Traversy Media,TypeScript Crash Course,2021-08-18 13:13:38+00:00,652051,17355,577,52.45,False,Wednesday,13,23,0.02750091633936609
+Traversy Media,"Build 5 Projects With HTML, CSS & JavaScript",2021-08-05 15:52:41+00:00,535927,13151,311,111.0,False,Thursday,15,44,0.02511909271225372
+Traversy Media,GitHub Copilot - First Look,2021-07-29 13:10:14+00:00,238191,5575,438,17.72,False,Thursday,13,27,0.025244446683543878
+Traversy Media,Supabase Crash Course,2021-07-22 12:55:42+00:00,153552,4046,186,25.28,False,Thursday,12,21,0.027560696050849223
+Traversy Media,Hulu Webpage Clone | HTML & CSS,2021-07-15 11:54:37+00:00,105131,3260,157,90.95,False,Thursday,11,31,0.032502306645994045
+Traversy Media,Build a Node.js Password Generator,2021-07-05 14:23:43+00:00,41941,1773,134,30.7,False,Monday,14,34,0.04546863451038363
+Traversy Media,Static Blog With Next.js and Markdown,2021-06-28 13:38:54+00:00,103713,2564,150,46.67,False,Monday,13,37,0.026168368478397114
+Traversy Media,Fastify Crash Course | Node.js Framework,2021-06-18 12:52:09+00:00,155138,4039,297,39.72,False,Friday,12,40,0.027949309646895022
+Traversy Media,Bootstrap 5 Crash Course | Website Build & Deploy,2021-06-09 13:28:51+00:00,1201144,23485,929,78.8,False,Wednesday,13,49,0.020325622906162792
+Traversy Media,My First Freelance Gig Was a Disaster,2021-06-01 15:29:28+00:00,89346,6531,406,8.87,False,Tuesday,15,37,0.07764197613771182
+Traversy Media,6 Hour Vue.js & Firebase Project - FireBlogs,2021-05-26 12:58:14+00:00,207863,4483,379,388.8,False,Wednesday,12,44,0.02339040618099421
+Traversy Media,The New Notion API | Node.js Video Schedule Project,2021-05-19 12:32:21+00:00,92930,2733,150,35.38,False,Wednesday,12,51,0.03102335090928656
+Traversy Media,Terminal Style Landing Page | WinBox.js,2021-05-11 17:07:37+00:00,72929,3248,144,21.93,False,Tuesday,17,39,0.04651099014109614
+Traversy Media,Angular Crash Course,2021-05-06 15:40:03+00:00,1512467,22692,1461,121.53,False,Thursday,15,20,0.01596927404035923
+Traversy Media,Overworking Yourself As A Developer | Mental & Physical Health,2021-04-28 16:08:35+00:00,74092,6636,628,9.08,False,Wednesday,16,62,0.09804027425363063
+Traversy Media,Build a Covid Tracker App With Vue.js & Tailwind,2021-04-23 12:25:56+00:00,101027,2643,178,48.75,False,Friday,12,48,0.02792322844388134
+Traversy Media,Build a Music Player | Vanilla JavaScript,2021-04-10 14:00:27+00:00,262501,9099,334,44.1,False,Saturday,14,41,0.035935101199614475
+Traversy Media,Laravel 8 REST API With Sanctum Authentication,2021-03-31 14:08:32+00:00,556968,12107,876,54.22,False,Wednesday,14,46,0.023310136309446863
+Traversy Media,Welcome To My World | 2021 Home Office Tour,2021-03-23 13:38:52+00:00,129264,8846,981,21.67,False,Tuesday,13,43,0.07602271320708008
+Traversy Media,Creative Agency Website From Scratch | HTML & CSS,2021-03-16 13:58:10+00:00,182476,5906,352,86.85,False,Tuesday,13,49,0.03429492097590916
+Traversy Media,Quokka | The JavaScript Scratchpad,2021-03-08 18:13:26+00:00,257022,5697,278,11.47,False,Monday,18,34,0.023247037218603855
+Traversy Media,5 High Level Skills & Traits For Programmers,2021-03-01 18:50:12+00:00,103815,6583,509,10.12,False,Monday,18,44,0.06831382748157781
+Traversy Media,Vue JS Crash Course,2021-02-24 16:36:53+00:00,1350978,22279,1115,110.87,False,Wednesday,16,19,0.017316344159564404
+Traversy Media,Headless CMS & GraphQL API with KeystoneJS,2021-02-15 13:58:04+00:00,77520,2137,223,32.88,False,Monday,13,42,0.0304437564499484
+Traversy Media,Challenges of a Self-Taught Developer,2021-02-08 15:24:59+00:00,66345,3977,285,19.25,False,Monday,15,37,0.06423995779636747
+Traversy Media,"Build a Touch Slider with HTML, CSS & JavaScript",2021-02-03 18:18:34+00:00,139500,4857,211,34.82,False,Wednesday,18,48,0.036329749103942655
+Traversy Media,Next.js Crash Course,2021-01-26 21:03:52+00:00,840632,18106,748,69.75,False,Tuesday,21,20,0.02242836342180645
+Traversy Media,React JS Crash Course,2021-01-18 19:01:11+00:00,3536590,62313,2925,108.8,False,Monday,19,21,0.018446582725167464
+Traversy Media,10 Ways to Make Money as a Developer,2021-01-11 15:38:08+00:00,208198,9369,415,14.65,False,Monday,15,36,0.046993727125140494
+Traversy Media,Create a Website With Video Background | HTML & CSS,2021-01-04 19:19:12+00:00,628756,18795,645,35.25,False,Monday,19,51,0.030918194021210134
+Traversy Media,Web Development In 2021 - A Practical Guide,2020-12-30 16:11:05+00:00,1247220,42765,1222,65.27,False,Wednesday,16,43,0.035268036112313786
+Traversy Media,Vanilla JavaScript Search App | Wikipedia API,2020-12-28 16:19:47+00:00,83067,2987,179,133.18,False,Monday,16,45,0.03811381174232848
+Traversy Media,7 Tips To Ace Job Interviews,2020-12-23 15:40:03+00:00,35302,1228,101,14.17,False,Wednesday,15,28,0.0376465922610617
+Traversy Media,Web Vitals + DIY Chrome Extension = Performance Insight,2020-12-21 15:23:39+00:00,20640,837,41,29.5,False,Monday,15,55,0.04253875968992248
+Traversy Media,Real-Time Tweets & Socket.io Project | Twitter Streaming API,2020-12-17 17:53:40+00:00,59088,1907,112,41.75,False,Thursday,17,60,0.034169374492282696
+Traversy Media,PHP For Absolute Beginners | 6.5 Hour Course,2020-12-11 17:24:16+00:00,698482,15979,800,387.37,False,Friday,17,44,0.024022093625891576
+Traversy Media,Do All Devs End Up Being Content Creators?,2020-12-09 20:59:59+00:00,32303,2531,340,8.13,False,Wednesday,20,42,0.08887719406866236
+Traversy Media,Build a Portfolio Website With React & Sanity.io,2020-12-07 20:19:26+00:00,236747,5078,360,126.87,False,Monday,20,48,0.02296966804225608
+Traversy Media,Sanity.io Crash Course | Headless CMS,2020-12-07 16:26:57+00:00,143361,3139,231,22.4,False,Monday,16,37,0.023507090491835296
+Traversy Media,Getting Started With Open Source & GitHub,2020-12-03 17:00:53+00:00,58087,2215,144,27.47,False,Thursday,17,41,0.04061149654828103
+Traversy Media,"December Check In - #50Projects50Days, 2021 Roadmap, Health Update",2020-12-01 15:12:00+00:00,59216,4025,519,7.63,False,Tuesday,15,66,0.07673601729262361
+Traversy Media,How Far Can Learning Code Online Take You?,2020-11-27 15:27:52+00:00,46535,2643,259,8.68,False,Friday,15,42,0.062361663264209735
+Traversy Media,Top 20 VS Code Shortcuts,2020-11-23 15:50:45+00:00,100485,4210,239,17.0,False,Monday,15,24,0.04427526496492014
+Traversy Media,Build a Wildfire Tracker With React & NASA API,2020-11-20 15:03:26+00:00,109460,3893,299,33.33,False,Friday,15,46,0.03829709482916134
+Traversy Media,Laravel Crash Course,2020-11-16 16:38:03+00:00,642481,11601,993,148.95,False,Monday,16,20,0.01960213609429695
+Traversy Media,Two Factor Authentication | Node.js & Speakeasy,2020-11-12 16:32:07+00:00,84869,2440,140,24.98,False,Thursday,16,47,0.030399792621569714
+Traversy Media,Build A Simple Android App With Kotlin,2020-11-09 20:53:13+00:00,1035076,17361,743,71.68,False,Monday,20,38,0.017490503112814904
+Traversy Media,Kotlin Crash Course,2020-11-09 18:34:20+00:00,272089,6904,365,83.83,False,Monday,18,19,0.026715523229531513
+Traversy Media,"DevOps Crash Course (Docker, Terraform, and Github Actions)",2020-11-05 16:00:30+00:00,165771,5938,206,58.07,False,Thursday,16,59,0.037063177515970824
+Traversy Media,Starting a Small Business as a Web Developer,2020-11-02 14:15:50+00:00,224745,10694,380,24.18,False,Monday,14,44,0.04927362121515495
+Traversy Media,Intro To JavaScript Unit Testing & BDD (2 Hour+ Course),2020-10-27 15:28:16+00:00,97505,2863,165,151.93,False,Tuesday,15,55,0.031054817701656325
+Traversy Media,"Build a Responsive Website | HTML, CSS Grid, Flexbox & More",2020-10-23 13:44:49+00:00,1009978,25900,931,122.37,False,Friday,13,59,0.026565925198370657
+Traversy Media,What Is The Jamstack?,2020-10-19 13:56:27+00:00,65340,2379,124,13.58,False,Monday,13,21,0.038307315580042856
+Traversy Media,Vanilla Node.js REST API | No Framework,2020-10-15 13:17:22+00:00,169372,5599,323,61.62,False,Thursday,13,39,0.034964456935030586
+Traversy Media,Automatic Deployment With Github Actions,2020-10-12 13:42:17+00:00,181770,4269,192,43.43,False,Monday,13,40,0.024542003630962206
+Traversy Media,Material UI React Tutorial,2020-10-09 13:56:37+00:00,500493,11923,466,42.98,False,Friday,13,26,0.02475359295734406
+Traversy Media,React Admin Crash Course,2020-10-07 14:09:27+00:00,303891,6822,383,31.43,False,Wednesday,14,24,0.02370915887604437
+Traversy Media,Build a Blog With Next.js & Ghost,2020-10-05 13:17:35+00:00,89246,2273,243,61.92,False,Monday,13,33,0.028191739685812248
+Traversy Media,Build a Gym Website Using The Tailwind Starter Kit,2020-10-02 16:42:57+00:00,86225,3189,172,41.5,False,Friday,16,50,0.03897941432299217
+Traversy Media,Check In & MERN eCommerce Course Release,2020-09-30 12:51:07+00:00,96115,5859,994,13.23,False,Wednesday,12,40,0.07130000520210165
+Traversy Media,Neural Networks & TensorfFlow Crash Course,2020-09-28 16:18:29+00:00,54334,1523,104,125.2,False,Monday,16,42,0.02994441785990356
+Traversy Media,"Full Stack Photobook App | Vue, GraphQL, AWS Amplify",2020-09-24 12:28:06+00:00,66724,1946,117,150.75,False,Thursday,12,52,0.03091841016725616
+Traversy Media,What Is Serverless?,2020-09-22 13:05:48+00:00,182221,6402,271,8.5,False,Tuesday,13,19,0.03662036757563618
+Traversy Media,Ruby On Rails Crash Course,2020-09-20 10:13:58+00:00,205044,3635,250,125.1,False,Sunday,10,26,0.018947152806226955
+Traversy Media,Build Pac-Man Game With JavaScript,2020-09-16 14:53:06+00:00,76581,2224,126,102.58,False,Wednesday,14,34,0.030686462699625234
+Traversy Media,5 Design Patterns Every Engineer Should Know,2020-09-14 13:25:59+00:00,948920,28373,562,11.85,False,Monday,13,44,0.0304925599629052
+Traversy Media,Multiplayer Snake Game | JavaScript & Socket.io,2020-09-09 15:13:38+00:00,140190,3647,239,78.08,False,Wednesday,15,47,0.02771952350381625
+Traversy Media,Burnout Signs & How To Avoid It,2020-09-07 15:47:45+00:00,30249,1824,137,9.13,False,Monday,15,31,0.06482858937485536
+Traversy Media,Machine Learning Crash Course With ML.NET,2020-09-04 13:44:16+00:00,98022,2430,108,20.97,False,Friday,13,41,0.025892146660953665
+Traversy Media,Planning & Building Projects,2020-09-02 12:55:10+00:00,84531,3708,178,13.88,False,Wednesday,12,28,0.045971300469650186
+Traversy Media,"Build an Event App with Vue.js, Gridsome & Strapi.js",2020-08-31 15:37:09+00:00,103234,2485,207,89.27,False,Monday,15,52,0.02607668016351202
+Traversy Media,Build a Modern Landing Page Website | HTML & CSS,2020-08-28 17:06:23+00:00,235521,8183,371,75.43,False,Friday,17,48,0.03631947894242976
+Traversy Media,R Programming Crash Course,2020-08-26 13:12:15+00:00,86366,2161,167,93.38,False,Wednesday,13,26,0.026955051756478245
+Traversy Media,Create a Discord Bot With Node.js,2020-08-24 15:43:09+00:00,247785,6355,410,77.53,False,Monday,15,33,0.027301894787820087
+Traversy Media,Object Oriented Programming (OOP) in Python,2020-08-21 15:44:06+00:00,288490,9287,349,46.62,False,Friday,15,43,0.03340150438490069
+Traversy Media,How To Grow As A Software Developer,2020-08-19 15:23:44+00:00,68018,3407,173,13.38,False,Wednesday,15,35,0.05263312652533153
+Traversy Media,"Realtime Chat App | React, GraphQL & Websockets",2020-08-17 14:55:08+00:00,149617,5557,318,40.37,False,Monday,14,47,0.03926692822339707
+Traversy Media,Keeping the Coding Dream Alive,2020-08-15 13:19:58+00:00,195894,13310,1056,11.45,False,Saturday,13,30,0.07333557944602694
+Traversy Media,Your First Tailwind Website,2020-08-14 14:09:58+00:00,123714,3396,153,42.45,False,Friday,14,27,0.028687133226635627
+Traversy Media,C++ Crash Course For Beginners,2020-08-12 16:05:30+00:00,359291,10973,733,94.67,False,Wednesday,16,30,0.03258083280683346
+Traversy Media,Should You Learn Bootstrap in 2020?,2020-08-10 14:23:06+00:00,227634,9946,659,8.73,False,Monday,14,35,0.04658794380452832
+Traversy Media,Build Hangman With React,2020-08-07 14:20:54+00:00,79337,2233,219,47.53,False,Friday,14,24,0.03090613459041809
+Traversy Media,Minimum Job Requirements in Development,2020-08-05 12:54:38+00:00,84366,6404,548,7.85,False,Wednesday,12,39,0.08240286371287012
+Traversy Media,Build a Photo Gallery With React & Firebase,2020-07-29 18:20:32+00:00,328017,10625,836,81.52,False,Wednesday,18,43,0.034940262242505724
+Traversy Media,Build Minesweeper with JavaScript,2020-07-27 14:55:35+00:00,129036,4288,524,48.1,False,Monday,14,33,0.037291918534362506
+Traversy Media,Figma in 40 Minutes,2020-07-24 14:18:14+00:00,509253,16363,712,41.37,False,Friday,14,19,0.033529503017164355
+Traversy Media,Build a Portfolio Website & Deploy,2020-07-22 13:01:59+00:00,595818,16895,539,120.75,False,Wednesday,13,34,0.02926061314025424
+Traversy Media,Build a GitHub Jobs App With React Hooks,2020-07-20 14:53:57+00:00,153051,5601,418,48.78,False,Monday,14,40,0.039326760360925445
+Traversy Media,UI Design For Coders,2020-07-14 14:22:31+00:00,277389,11626,501,50.35,False,Tuesday,14,20,0.04371838825620338
+Traversy Media,"Channel Update - Taking a Break, Guest Creators",2020-07-09 12:49:49+00:00,110101,12419,3064,6.35,False,Thursday,12,47,0.1406254257454519
+Traversy Media,React App - Breaking Bad API,2020-07-02 18:06:39+00:00,178982,5719,378,34.0,False,Thursday,18,28,0.034064878032427845
+Traversy Media,Bootstrap 5 - First Look,2020-06-25 16:06:43+00:00,695575,13183,527,23.52,False,Thursday,16,24,0.01971031161269453
+Traversy Media,3 HTML & CSS UI Components in 1 Hour,2020-06-22 15:42:54+00:00,100229,3946,208,59.78,False,Monday,15,36,0.04144509074220036
+Traversy Media,"Node.js App From Scratch | Express, MongoDB & Google OAuth",2020-06-19 13:54:30+00:00,653079,16111,1095,148.72,False,Friday,13,58,0.026345970395618295
+Traversy Media,Python & MySQL Crash Course,2020-06-15 16:30:42+00:00,101756,2527,137,24.65,False,Monday,16,27,0.02618027438185463
+Traversy Media,Tips For Getting Clients | Web Development,2020-06-11 12:31:58+00:00,86603,4398,241,11.5,False,Thursday,12,42,0.05356627368566909
+Traversy Media,Breathe & Relax App - JavaScript & CSS Animations,2020-06-07 12:23:45+00:00,93740,4053,234,22.72,False,Sunday,12,49,0.04573287817367186
+Traversy Media,Deno & PostgreSQL (Crash Course Part 2),2020-06-03 16:28:42+00:00,37983,1274,166,40.9,False,Wednesday,16,39,0.03791169733828292
+Traversy Media,Stack Data Structure | JavaScript,2020-05-29 14:57:52+00:00,101955,3564,319,16.48,False,Friday,14,33,0.03808542984650091
+Traversy Media,Who Can or Can't Be a Programmer?,2020-05-25 17:43:20+00:00,96840,6902,838,7.57,False,Monday,17,33,0.07992565055762081
+Traversy Media,New Course Alert - Electron From Scratch: Desktop Apps With JavaScript,2020-05-21 22:11:50+00:00,43873,1828,213,7.0,False,Thursday,22,70,0.04652063911745265
+Traversy Media,Deno Crash Course,2020-05-19 21:43:17+00:00,140959,5196,451,52.1,False,Tuesday,21,17,0.040061294418944515
+Traversy Media,CSS Grid Layout With Image Span,2020-05-12 15:38:51+00:00,152168,6793,387,13.63,False,Tuesday,15,31,0.047184690605120656
+Traversy Media,200+ Design & UI Resources For Developers,2020-05-06 16:59:55+00:00,165686,14882,867,10.27,False,Wednesday,16,41,0.09505329357942131
+Traversy Media,Strapi.js Crash Course | Headless CMS,2020-04-29 18:06:18+00:00,370801,8814,486,25.1,False,Wednesday,18,37,0.02508083850906551
+Traversy Media,Full Screen Video Background - HTML & CSS,2020-04-24 15:34:58+00:00,112545,3944,225,17.87,False,Friday,15,41,0.03704296059354036
+Traversy Media,Python In The Browser | Brython Crash Course,2020-04-20 15:53:46+00:00,84295,2681,245,35.78,False,Monday,15,44,0.034711430096684266
+Traversy Media,Easy Frontend JS Workflow With No Framework,2020-04-15 13:03:13+00:00,103437,3332,226,22.43,False,Wednesday,13,43,0.03439774935467966
+Traversy Media,React & Tailwind CSS Image Gallery,2020-04-09 18:21:39+00:00,232796,4895,300,38.93,False,Thursday,18,34,0.02231567552707091
+Traversy Media,5 Common Programmer Health Problems & Prevention Tips,2020-04-06 17:41:26+00:00,42112,2805,302,12.93,False,Monday,17,53,0.0737794452887538
+Traversy Media,Node.js CLI For Cryptocurrency Prices,2020-04-03 18:11:50+00:00,105876,1891,139,57.68,False,Friday,18,37,0.019173372624579698
+Traversy Media,Parallax Landing Page - Rellax.js,2020-03-30 12:04:31+00:00,85329,2963,129,22.55,False,Monday,12,33,0.03623621512029908
+Traversy Media,"Realtime Chat With Users & Rooms - Socket.io, Node & Express",2020-03-24 11:58:57+00:00,906461,20338,955,58.75,False,Tuesday,11,60,0.023490254958569646
+Traversy Media,Productivity Over Panic,2020-03-19 17:26:43+00:00,46815,3581,385,7.25,False,Thursday,17,23,0.08471643703941044
+Traversy Media,Web Components Crash Course,2020-03-17 16:08:57+00:00,262032,8402,448,28.9,False,Tuesday,16,27,0.0337745008243268
+Traversy Media,Create a Presentation Slide Website,2020-03-13 19:05:30+00:00,86615,2445,120,32.4,False,Friday,19,35,0.029613808231830515
+Traversy Media,Guide To Becoming A Self-Taught Software Developer,2020-03-10 13:27:24+00:00,913154,33909,803,17.23,False,Tuesday,13,50,0.03801330334204307
+Traversy Media,"Animated Counter With JavaScript (HTML, CSS)",2020-03-02 14:52:54+00:00,157698,4275,266,18.25,False,Monday,14,44,0.0287955459168791
+Traversy Media,Sass Crash Course,2020-02-28 18:09:29+00:00,417319,11664,518,48.08,False,Friday,18,17,0.02919109841631941
+Traversy Media,Node.js & Express API | Expense Tracker - Part 2 (MERN),2020-02-25 15:40:39+00:00,170219,4023,275,72.65,False,Tuesday,15,55,0.02524982522515113
+Traversy Media,Build an Expense Tracker | React Hooks & Context API,2020-02-22 17:06:34+00:00,962748,15345,562,49.68,False,Saturday,17,52,0.01652249602180425
+Traversy Media,Create Desktop Apps With Web Technologies - NW.js,2020-02-17 15:28:23+00:00,180768,5261,357,12.97,False,Monday,15,49,0.03107850947070278
+Traversy Media,"Microsoft Homepage Clone - CSS Grid, Flex & Media Queries",2020-02-11 15:58:24+00:00,220241,6865,445,70.98,False,Tuesday,15,57,0.03319091359011265
+Traversy Media,Don't Put Too Much Trust Into Online Influencers,2020-02-09 13:22:00+00:00,97490,9600,1240,7.05,False,Sunday,13,48,0.1111908913734742
+Traversy Media,Setting Up VSCode For Python Programming,2020-02-07 14:19:52+00:00,481358,8623,337,22.33,False,Friday,14,40,0.01861400454547343
+Traversy Media,React Native Crash Course,2020-02-04 12:17:28+00:00,709471,15142,777,51.47,False,Tuesday,12,25,0.022437844534871756
+Traversy Media,Udemy Course Alert - 20 Web Projects With Vanilla JS,2020-01-29 13:24:49+00:00,66569,2820,366,6.38,False,Wednesday,13,52,0.047860115068575466
+Traversy Media,Particles Effect With P5.js,2020-01-23 18:30:35+00:00,52460,1786,125,25.43,False,Thursday,18,27,0.03642775447960351
+Traversy Media,Work & Life Balance Tips For Programmers,2020-01-20 18:21:27+00:00,39007,2421,171,11.95,False,Monday,18,40,0.06644961160817289
+Traversy Media,Intro To Web Crawlers & Scraping With Scrapy,2020-01-14 14:02:04+00:00,277441,4934,236,28.93,False,Tuesday,14,44,0.018634592580044046
+Traversy Media,Outdated Programming Courses Can Still Be Beneficial,2020-01-09 19:19:19+00:00,41478,2175,200,6.98,False,Thursday,19,52,0.057259269974444284
+Traversy Media,HTML5 Canvas API Crash Course,2020-01-07 19:40:22+00:00,199689,5411,198,53.93,False,Tuesday,19,29,0.028088677894125363
+Traversy Media,Node.js GeoJSON API & App | Store Locator,2019-12-31 17:03:37+00:00,122057,3268,214,76.7,False,Tuesday,17,41,0.028527655111955888
+Traversy Media,Imposter Syndrome In Programming,2019-12-27 12:26:55+00:00,169411,8159,747,18.22,False,Friday,12,32,0.05257037618572584
+Traversy Media,Build A Python Speech Assistant App,2019-12-23 13:03:21+00:00,292706,8723,717,26.78,False,Monday,13,35,0.032250790895984364
+Traversy Media,HTML & CSS Mobile UI Layout | CVS Clone,2019-12-16 17:45:49+00:00,110031,3079,196,35.58,False,Monday,17,39,0.029764339140787598
+Traversy Media,Flutter Crash Course,2019-12-11 18:50:20+00:00,699508,14607,624,59.33,False,Wednesday,18,20,0.02177387535239054
+Traversy Media,Web Development In 2020 - A Practical Guide,2019-12-05 19:07:44+00:00,1106632,36317,1455,72.75,False,Thursday,19,43,0.03413239450874365
+Traversy Media,React Suspense Introduction (Data Fetching),2019-11-22 21:43:35+00:00,94563,2121,109,19.08,False,Friday,21,43,0.023582162156445968
+Traversy Media,Documenting Your JavaScript | JSDoc Crash Course,2019-11-18 13:24:59+00:00,137199,3571,150,36.53,False,Monday,13,48,0.02712118892994847
+Traversy Media,Escape Tutorial Hell & Utilize Them In A Better Way,2019-11-11 16:37:10+00:00,222878,13247,696,12.33,False,Monday,16,51,0.06255888871938908
+Traversy Media,Desktop GUI App With Python & Tkinter,2019-11-07 13:44:34+00:00,391094,7046,372,56.65,False,Thursday,13,37,0.018967307092412566
+Traversy Media,VSCode Keyboard Shortcuts For Productivity,2019-11-01 13:30:16+00:00,300417,7278,317,15.07,False,Friday,13,42,0.025281525346435123
+Traversy Media,20+ Developer YouTube Channels To Follow,2019-10-28 17:56:55+00:00,195169,9869,1313,24.13,False,Monday,17,40,0.05729393499992314
+Traversy Media,Axios Crash Course | HTTP Library,2019-10-25 13:09:49+00:00,383367,8581,292,42.33,False,Friday,13,33,0.02314492379364943
+Traversy Media,JavaScript Password Generator,2019-10-21 15:16:38+00:00,133452,4027,255,35.52,False,Monday,15,29,0.03208644306567155
+Traversy Media,Udemy Course Alert - Node.js API Masterclass,2019-10-17 00:28:55+00:00,41755,1483,211,8.97,False,Thursday,0,44,0.04056999161777033
+Traversy Media,"Build a Calendar With Vue, Vuetify & Firebase",2019-10-14 16:54:42+00:00,114023,2666,162,60.95,False,Monday,16,45,0.02480201362882927
+Traversy Media,Stop Stressing Over Frameworks | My Thoughts,2019-10-10 17:21:14+00:00,81092,5582,517,8.98,False,Thursday,17,44,0.07521087160262419
+Traversy Media,"Real-time App With Feathers.js, Socket.io & Express",2019-10-04 13:59:01+00:00,68599,1928,119,25.93,False,Friday,13,51,0.02984008513243633
+Traversy Media,10 Tips For Effective Web Design,2019-09-30 12:39:39+00:00,56501,3082,166,8.35,False,Monday,12,32,0.05748570821755367
+Traversy Media,"Full Node.js Deployment - NGINX, SSL With Lets Encrypt",2019-09-23 11:14:31+00:00,415466,11665,569,23.8,False,Monday,11,54,0.029446452898672815
+Traversy Media,10 Things All Web Developers Should Learn,2019-09-16 13:03:56+00:00,162359,8288,292,11.08,False,Monday,13,41,0.052845853940958
+Traversy Media,The Benefits Of Becoming a Web Developer,2019-09-09 14:43:27+00:00,201280,8545,577,11.97,False,Monday,14,40,0.04531995230524642
+Traversy Media,Python Django Crash Course,2019-09-04 15:58:21+00:00,379414,7125,492,71.85,False,Wednesday,15,26,0.020075695678071975
+Traversy Media,Animate On Scroll Webpage | AOS Library,2019-08-28 19:23:14+00:00,212386,7007,257,21.42,False,Wednesday,19,39,0.034201877713220266
+Traversy Media,Web Development & Making Money - My Story,2019-08-23 15:12:25+00:00,292202,16871,1176,17.42,False,Friday,15,41,0.061762068705895234
+Traversy Media,Redis Caching in Node.js,2019-08-20 13:15:46+00:00,242346,6723,243,17.7,False,Tuesday,13,24,0.02874402713475774
+Traversy Media,"Build & Deploy A Python Web App | Flask, Postgres & Heroku",2019-08-16 17:06:04+00:00,284780,5291,329,53.4,False,Friday,17,58,0.01973453191937636
+Traversy Media,Why Developers Should Have a YouTube Channel,2019-08-10 13:48:43+00:00,81571,4914,501,12.95,False,Saturday,13,44,0.06638388643022643
+Traversy Media,Apex Legends Tracker App | Full Stack Node & Vue.js,2019-08-07 19:25:46+00:00,80482,2545,218,87.62,False,Wednesday,19,51,0.03433065778683432
+Traversy Media,Product Landing Page | Build & Deploy | HTML & CSS,2019-08-02 17:04:57+00:00,153406,4603,328,61.35,False,Friday,17,50,0.032143462446058174
+Traversy Media,10 Tips For Starting & Creating Side Projects,2019-07-28 14:17:50+00:00,66875,3451,168,10.75,False,Sunday,14,45,0.05411588785046729
+Traversy Media,Tailwind CSS Crash Course,2019-07-24 16:02:07+00:00,665045,13859,444,30.52,False,Wednesday,16,25,0.021506815328286057
+Traversy Media,"VSCode ESLint, Prettier & Airbnb Style Guide Setup",2019-07-19 18:11:20+00:00,304678,6107,186,22.67,False,Friday,18,50,0.02065459271755755
+Traversy Media,MongoDB Crash Course,2019-07-16 12:52:55+00:00,768924,16738,485,36.72,False,Tuesday,12,20,0.0223988326544626
+Traversy Media,Negative Mindsets Are Counterproductive,2019-07-12 16:20:56+00:00,31854,3687,462,7.55,False,Friday,16,39,0.1302505179883217
+Traversy Media,Build a Custom URL Shortener Service,2019-07-09 15:15:21+00:00,129804,3195,152,34.12,False,Tuesday,15,36,0.025785029737142154
+Traversy Media,10 In-Demand Technology Jobs In 2019,2019-07-05 18:56:50+00:00,314414,7821,404,10.52,False,Friday,18,36,0.026159776600278614
+Traversy Media,Linked List Data Structure | JavaScript,2019-07-03 16:41:49+00:00,219650,5932,399,29.6,False,Wednesday,16,39,0.028823127703164125
+Traversy Media,RethinkDB & ReQL Crash Course,2019-06-30 14:18:01+00:00,34661,884,97,36.45,False,Sunday,14,29,0.028302703326505294
+Traversy Media,Quoting Web Development Clients,2019-06-26 12:38:56+00:00,45983,2037,117,11.18,False,Wednesday,12,31,0.04684339864732619
+Traversy Media,Simple Frontend Pagination | React,2019-06-23 12:43:32+00:00,487724,11890,499,19.22,False,Sunday,12,34,0.025401661595492533
+Traversy Media,Rock Paper Scissors Game - UI & JavaScript,2019-06-20 17:17:24+00:00,66419,2226,182,47.05,False,Thursday,17,42,0.036254686159080986
+Traversy Media,Before Learning a JavaScript Framework...,2019-06-17 18:22:17+00:00,186190,8819,441,9.47,False,Monday,18,41,0.049734142542564044
+Traversy Media,Easy Peasy React State Management,2019-06-13 18:57:59+00:00,63053,1597,102,21.9,False,Thursday,18,33,0.026945585459851235
+Traversy Media,Dynamic Landing Page | JavaScript,2019-06-10 18:20:23+00:00,195786,5630,282,35.18,False,Monday,18,33,0.030196234664378454
+Traversy Media,Svelte Crash Course,2019-06-06 20:44:40+00:00,128759,3684,321,32.33,False,Thursday,20,19,0.031104621812844152
+Traversy Media,React Front To Back 2019 - New Udemy Course,2019-06-04 11:13:11+00:00,40433,1565,238,7.38,False,Tuesday,11,43,0.04459228847723394
+Traversy Media,Stop Comparing Yourself To Other Developers,2019-06-03 13:04:11+00:00,38605,3743,337,5.58,False,Monday,13,43,0.10568579199585545
+Traversy Media,Quick & Easy CSS Loaders,2019-05-30 16:16:41+00:00,95677,3004,145,28.3,False,Thursday,16,24,0.032912821263208505
+Traversy Media,Build a PWA With Vue & Ionic 4,2019-05-27 12:54:56+00:00,70742,1723,125,59.58,False,Monday,12,30,0.026123095190975658
+Traversy Media,"Build a Netflix Landing Page Clone with HTML, CSS & JS",2019-05-21 13:11:13+00:00,679737,16373,603,92.32,False,Tuesday,13,54,0.024974365085319764
+Traversy Media,TypeScript Setup With Node & Express,2019-05-19 16:01:23+00:00,241150,6621,223,13.78,False,Sunday,16,36,0.02838067592784574
+Traversy Media,Getting Started With Three.js,2019-05-15 15:39:30+00:00,293576,6943,235,19.58,False,Wednesday,15,29,0.024450227539035887
+Traversy Media,What Makes A Great Programmer? 10 Characteristics,2019-05-10 15:35:04+00:00,88368,4191,249,11.48,False,Friday,15,49,0.050244432373709944
+Traversy Media,"JS Package Spotlight Ep.1 -  Moment, BcryptJS, JWT Simple, Request & More",2019-05-08 11:48:53+00:00,24851,1153,127,33.37,False,Wednesday,11,73,0.05150698161039797
+Traversy Media,HTTP Crash Course & Exploration,2019-05-03 17:55:12+00:00,1176046,28828,454,38.5,False,Friday,17,31,0.024898685935754214
+Traversy Media,Nuxt JS Crash Course,2019-05-01 17:31:26+00:00,232038,5120,232,46.13,False,Wednesday,17,20,0.02306518759858299
+Traversy Media,Social Network Theme With Sass - Part 4,2019-04-30 13:23:14+00:00,34067,776,54,44.05,False,Tuesday,13,39,0.024363753779317227
+Traversy Media,Social Network Theme With Sass - Part 3,2019-04-30 13:20:51+00:00,22878,549,34,39.43,False,Tuesday,13,39,0.025482996765451526
+Traversy Media,Social Network Theme With Sass - Part 2,2019-04-30 13:05:22+00:00,25250,552,17,23.15,False,Tuesday,13,39,0.022534653465346534
+Traversy Media,Social Network Theme With Sass - Part 1,2019-04-30 13:05:06+00:00,122241,2194,126,42.18,False,Tuesday,13,39,0.01897890233227804
+Traversy Media,Quick Autocomplete App With JS & JSON,2019-04-27 14:23:28+00:00,155508,4889,304,19.48,False,Saturday,14,37,0.03339378038428891
+Traversy Media,"Front End, Back End & Full Stack Web Development",2019-04-24 16:51:58+00:00,170970,5502,198,13.47,False,Wednesday,16,48,0.033339182312686434
+Traversy Media,MySQL Crash Course | Learn SQL,2019-04-22 20:51:55+00:00,489623,10662,379,71.58,False,Monday,20,30,0.022550002757223415
+Traversy Media,Netlify Dev Crash Course | Easy Dev & Deploy,2019-04-19 19:13:02+00:00,41427,1452,88,23.18,False,Friday,19,44,0.03717382383469718
+Traversy Media,Sliding Sign In & Sign Up Form,2019-04-17 17:23:39+00:00,253841,7376,268,32.23,False,Wednesday,17,30,0.03011333866475471
+Traversy Media,The Introvert Developer: The Good & Bad,2019-04-15 20:09:38+00:00,28740,1898,158,8.17,False,Monday,20,39,0.07153792623521225
+Traversy Media,15 VS Code Extensions For Front-End Developers in 2019,2019-04-12 14:13:01+00:00,375299,9366,277,28.32,False,Friday,14,54,0.02569417984060709
+Traversy Media,React File Uploader With Express (Using React Hooks),2019-04-10 11:50:19+00:00,216228,4121,295,45.02,False,Wednesday,11,52,0.02042288695266108
+Traversy Media,My Top 10 Learning Methods For Self Taught Developers,2019-04-07 13:04:16+00:00,166181,8155,368,14.6,False,Sunday,13,53,0.051287451634061655
+Traversy Media,Pure CSS Hamburger Menu & Overlay,2019-04-04 14:58:42+00:00,400736,10207,415,35.78,False,Thursday,14,33,0.026506228539487343
+Traversy Media,Python Face Recognition Tutorial,2019-04-02 17:13:09+00:00,630925,13095,388,31.3,False,Tuesday,17,32,0.021370210405357214
+Traversy Media,VSCode In The Cloud - Setup a Remote Dev Environment,2019-03-28 17:40:33+00:00,135798,3905,247,18.97,False,Thursday,17,52,0.03057482437149295
+Traversy Media,NestJS Crash Course,2019-03-25 21:48:36+00:00,257845,5265,372,60.0,False,Monday,21,19,0.021861971339370553
+Traversy Media,Overwhelmed With Web Development Technology,2019-03-22 17:39:13+00:00,94180,6099,400,10.52,False,Friday,17,43,0.06900615842004672
+Traversy Media,Full Screen Responsive Image Slider | No Libraries,2019-03-20 11:16:38+00:00,98395,3341,242,31.92,False,Wednesday,11,50,0.03641445195385944
+Traversy Media,Vuex Crash Course | State Management,2019-03-16 16:43:10+00:00,403135,8172,493,61.32,False,Saturday,16,36,0.02149404045791112
+Traversy Media,JavaScript Crash Course For Beginners,2019-03-13 15:46:32+00:00,4364670,78678,2500,100.5,False,Wednesday,15,37,0.01859888605553226
+Traversy Media,Forget Programmer Stereotypes,2019-03-11 17:28:40+00:00,34254,3522,568,8.62,False,Monday,17,29,0.1194021136217668
+Traversy Media,Landing Page With Smooth Scroll - 3 Options,2019-03-08 16:54:39+00:00,289556,6946,266,22.72,False,Friday,16,43,0.024907099144897707
+Traversy Media,Learn The Mern Stack [12] - React Login & Access Control,2019-03-07 12:18:26+00:00,74059,959,167,23.87,False,Thursday,12,56,0.015204094033135744
+Traversy Media,Learn The Mern Stack [11] - React Registration,2019-03-07 12:17:43+00:00,53946,627,102,31.82,False,Thursday,12,46,0.013513513513513514
+Traversy Media,Learn The Mern Stack [10] - React & Redux Auth State,2019-03-07 12:16:57+00:00,79869,963,95,29.02,False,Thursday,12,52,0.013246691457261265
+Traversy Media,Learn The Mern Stack [9] - Backend JWT Auth,2019-03-07 12:16:17+00:00,117453,2152,162,48.97,False,Thursday,12,43,0.019701497620324724
+Traversy Media,8 Tips To Increase Developer Productivity,2019-03-04 16:59:23+00:00,91303,4083,188,12.98,False,Monday,16,41,0.046778309584570056
+Traversy Media,Code Faster With Custom VS Code Snippets,2019-02-28 18:46:59+00:00,141009,3485,131,20.67,False,Thursday,18,40,0.025643753235609076
+Traversy Media,Python Data Visualization With Bokeh,2019-02-26 14:37:42+00:00,169452,2595,107,33.9,False,Tuesday,14,36,0.015945518494913012
+Traversy Media,Express JS Crash Course,2019-02-22 15:05:16+00:00,981589,20012,800,74.02,False,Friday,15,23,0.02120235658712557
+Traversy Media,Rust Crash Course | Rustlang,2019-02-20 14:00:54+00:00,1011220,19292,1037,110.72,False,Wednesday,14,28,0.0201034394098218
+Traversy Media,React Infinite Scroll Challenge | Scotch.io,2019-02-17 14:46:27+00:00,61696,1378,117,37.15,False,Sunday,14,43,0.024231716804979254
+Traversy Media,Create a Custom PDF Viewer With JavaScript,2019-02-14 14:09:10+00:00,217023,3930,248,28.45,False,Thursday,14,42,0.019251415748561214
+Traversy Media,My Opinion On Pre-Made Templates,2019-02-12 13:57:03+00:00,38096,2177,220,8.95,False,Tuesday,13,32,0.062919991600168
+Traversy Media,Exploring The Wordpress REST API & React Integration,2019-02-10 13:32:58+00:00,204246,4565,232,51.53,False,Sunday,13,52,0.023486384066273024
+Traversy Media,Node.js Crash Course,2019-02-06 20:10:58+00:00,1667016,35640,1661,90.13,False,Wednesday,20,20,0.02237591000926206
+Traversy Media,Simple Contact Form Submission With Netlify,2019-02-04 15:20:38+00:00,90051,2942,172,11.35,False,Monday,15,43,0.034580404437485425
+Traversy Media,10 Web Developer Portfolio Tips,2019-02-02 13:58:46+00:00,204672,8896,284,9.42,False,Saturday,13,31,0.04485225140712946
+Traversy Media,Full Stack React & Django [7] - Frontend Authentication,2019-01-31 16:49:16+00:00,101214,1398,233,47.18,False,Thursday,16,55,0.01611437152963029
+Traversy Media,Full Stack React & Django [6] - Auth State & Private Routes,2019-01-31 16:48:40+00:00,63003,642,71,33.0,False,Thursday,16,59,0.011316921416440487
+Traversy Media,Full Stack React & Django [5] - Django Token Authentication,2019-01-31 16:48:19+00:00,127051,1306,212,45.08,False,Thursday,16,59,0.011947957906667401
+Traversy Media,Full Stack React & Django [4] - Error Handling & Alerts,2019-01-31 16:46:40+00:00,67812,753,198,34.9,False,Thursday,16,55,0.014024066536896125
+Traversy Media,Full Stack React & Django [3] - Redux & HTTP,2019-01-29 19:12:41+00:00,128320,1348,154,47.1,False,Tuesday,19,44,0.011705112219451372
+Traversy Media,Full Stack React & Django [2] - Implementing React,2019-01-29 19:03:01+00:00,205328,2328,449,31.23,False,Tuesday,19,50,0.013524701940310137
+Traversy Media,Full Stack React & Django [1] - Basic REST API,2019-01-29 18:51:34+00:00,612776,7745,327,22.7,False,Tuesday,18,46,0.013172839667349896
+Traversy Media,Start Building Your Empire As A Developer,2019-01-25 11:42:14+00:00,263353,16515,1264,8.72,False,Friday,11,41,0.06751014797629037
+Traversy Media,Angular Crash Course (2019),2019-01-23 17:46:58+00:00,971829,16155,842,84.15,False,Wednesday,17,27,0.017489702406493324
+Traversy Media,Quick Wordpress Setup With Docker,2019-01-20 13:19:19+00:00,208405,5095,344,14.95,False,Sunday,13,33,0.026098222211559222
+Traversy Media,Udemy Course Alert - Modern HTML & CSS,2019-01-18 11:30:01+00:00,34231,1759,335,6.33,False,Friday,11,38,0.06117262130817096
+Traversy Media,Simple Animations In React,2019-01-13 17:27:47+00:00,202682,4026,188,20.8,False,Sunday,17,26,0.020791190140219653
+Traversy Media,Vue JS Crash Course (2019),2019-01-10 12:59:59+00:00,1185052,20556,1198,68.87,False,Thursday,12,26,0.018357000367916345
+Traversy Media,REST API With Flask & SQL Alchemy,2019-01-07 16:49:58+00:00,300984,6036,368,35.42,False,Monday,16,33,0.02127687850516971
+Traversy Media,React JS Crash Course (2019),2019-01-03 21:20:36+00:00,1684703,30573,2199,98.4,False,Thursday,21,28,0.019452686912767414
+Traversy Media,2019 Tech Cave Tour / Home Studio Setup,2018-12-31 18:08:21+00:00,110488,7351,735,21.97,False,Monday,18,39,0.07318441821736298
+Traversy Media,Node.js With Passport Authentication | Full Project,2018-12-29 14:19:27+00:00,858970,17296,1331,84.93,False,Saturday,14,51,0.02168527422377964
+Traversy Media,JavaScript BookList App | No Frameworks,2018-12-24 19:20:31+00:00,432471,11829,658,51.75,False,Monday,19,39,0.0288736123346999
+Traversy Media,Pipenv Crash Course,2018-12-23 12:43:36+00:00,114801,2468,106,15.67,False,Sunday,12,19,0.02242140747902893
+Traversy Media,Web Development In 2019 - A Practical Guide,2018-12-20 14:19:56+00:00,1138194,35104,1531,41.57,False,Thursday,14,43,0.03218695582651112
+Traversy Media,CSS Text Background Animation,2018-12-15 17:23:34+00:00,67528,2718,153,11.25,False,Saturday,17,29,0.0425156971922758
+Traversy Media,Build a Node.js App With Sequelize [3] - Add & Search,2018-12-12 17:15:06+00:00,81331,1549,115,21.25,False,Wednesday,17,53,0.020459603349276413
+Traversy Media,Build a Node.js App With Sequelize [2] - UI & Handlebars,2018-12-12 17:08:24+00:00,83193,1157,114,23.55,False,Wednesday,17,56,0.015277727693435746
+Traversy Media,Build a Node.js App With Sequelize [1] - Connection & Model,2018-12-12 17:04:57+00:00,288680,4026,167,24.12,False,Wednesday,17,59,0.014524733268671193
+Traversy Media,What To Learn Before A JavaScript Framework,2018-12-09 13:20:29+00:00,233087,9211,350,23.32,False,Sunday,13,43,0.041019018649688745
+Traversy Media,Serverless Lambda Functions,2018-12-06 19:44:51+00:00,64345,1861,119,31.42,False,Thursday,19,27,0.030771621726629887
+Traversy Media,MongoDB In The Cloud With Atlas,2018-12-03 16:12:02+00:00,194500,3090,164,14.88,False,Monday,16,31,0.016730077120822622
+Traversy Media,10 Resources For Free Website & Web App Themes,2018-12-01 13:21:49+00:00,244128,6200,183,14.38,False,Saturday,13,46,0.026146120068160965
+Traversy Media,Python Crash Course For Beginners,2018-11-28 22:28:31+00:00,954190,18530,519,95.78,False,Wednesday,22,33,0.019963529276139973
+Traversy Media,Newsletter Signup App - Mailchimp API,2018-11-26 16:45:22+00:00,63199,1545,132,34.23,False,Monday,16,37,0.026535229987816263
+Traversy Media,10 Bad Habits To Avoid As A Developer,2018-11-23 13:15:18+00:00,186487,7553,333,18.98,False,Friday,13,37,0.04228712993399004
+Traversy Media,Data Driven Maps With Python Folium & Leaflet.js,2018-11-19 20:45:38+00:00,109126,2693,158,32.93,False,Monday,20,48,0.02612576287960706
+Traversy Media,5 Tips To Maximize & Move Beyond Tutorials,2018-11-16 19:51:55+00:00,44540,2726,132,10.03,False,Friday,19,42,0.06416704086214639
+Traversy Media,Introducing React Hooks,2018-11-15 18:57:45+00:00,346302,7024,230,20.83,False,Thursday,18,23,0.020947034669161597
+Traversy Media,GraphQL With React & Apollo [4] - Simple Heroku Deploy,2018-11-12 20:43:32+00:00,38096,936,96,9.23,False,Monday,20,54,0.027089458210835783
+Traversy Media,GraphQL With React & Apollo [3] - Finishing The App,2018-11-12 20:35:29+00:00,47034,938,83,28.13,False,Monday,20,51,0.021707700812178425
+Traversy Media,GraphQL With React & Apollo [2] - React & Apollo Setup,2018-11-12 18:26:26+00:00,77579,1446,94,29.65,False,Monday,18,54,0.01985073280140244
+Traversy Media,GraphQL With React & Apollo [1] - Express GraphQL Server,2018-11-12 18:16:05+00:00,223164,3617,196,35.02,False,Monday,18,56,0.01708608915416465
+Traversy Media,Pluralsight Login Page Clone - HTML & CSS,2018-11-08 17:14:12+00:00,241287,5699,199,42.58,False,Thursday,17,41,0.024443919481778962
+Traversy Media,Multi Step Form With React & Material UI,2018-11-05 16:12:10+00:00,517889,9059,418,43.97,False,Monday,16,40,0.01829928807138209
+Traversy Media,My Top 5 Free Text Editors For Web Development,2018-11-02 11:42:35+00:00,413887,6374,531,12.5,False,Friday,11,46,0.016683297615049518
+Traversy Media,"Node.js Rest API With Restify, Mongoose, JWT - Part 2",2018-10-30 21:09:35+00:00,25908,745,64,41.1,False,Tuesday,21,53,0.03122587617724255
+Traversy Media,"Node.js Rest API With Restify, Mongoose, JWT - Part 1",2018-10-30 16:45:40+00:00,74089,1521,118,39.98,False,Tuesday,16,53,0.022122042408454695
+Traversy Media,"JavaScript Cardio [Session 3] - Add All, Sum Primes, Seek & Destroy",2018-10-26 20:09:52+00:00,40723,1216,117,40.4,False,Friday,20,67,0.03273334479286889
+Traversy Media,Wordpress Website Build For Beginners,2018-10-23 16:10:57+00:00,86582,2006,171,51.33,False,Tuesday,16,37,0.02514379432214548
+Traversy Media,What's New In Create React App 2.0?,2018-10-21 15:45:46+00:00,22509,883,67,6.72,False,Sunday,15,35,0.042205340086187745
+Traversy Media,Dealing With Frustration As A Web Developer,2018-10-18 13:05:22+00:00,39181,2731,312,9.92,False,Thursday,13,43,0.07766519486485797
+Traversy Media,Creating A Simple VSCode Extension,2018-10-16 14:18:20+00:00,79907,1666,102,17.48,False,Tuesday,14,34,0.02212572115083785
+Traversy Media,30 Blogs & Podcasts For Web Developers,2018-10-14 15:26:34+00:00,29653,1419,81,18.8,False,Sunday,15,38,0.050585101001584996
+Traversy Media,Data Display With ApexCharts | Vanilla JS & React,2018-10-11 16:42:00+00:00,93610,1989,124,30.82,False,Thursday,16,49,0.02257237474628779
+Traversy Media,Udemy Course Alert - Python Django Dev To Deployment,2018-10-09 10:25:42+00:00,17752,666,125,10.38,False,Tuesday,10,52,0.044558359621451105
+Traversy Media,"Full Stack Vue.js, Express & MongoDB [3] - Prepare & Deploy",2018-10-08 17:29:18+00:00,86499,1678,152,15.27,False,Monday,17,59,0.021156313945825962
+Traversy Media,"Full Stack Vue.js, Express & MongoDB [2] - Vue Frontend",2018-10-08 17:23:31+00:00,124949,1559,176,28.77,False,Monday,17,55,0.013885665351463397
+Traversy Media,"Full Stack Vue.js, Express & MongoDB [1] - Express API",2018-10-08 17:16:30+00:00,270784,3614,194,25.5,False,Monday,17,54,0.014062869298038289
+Traversy Media,"Developer Education - College, Bootcamp & Self Taught",2018-10-03 18:19:04+00:00,22218,1127,243,13.8,False,Wednesday,18,53,0.061661715725987935
+Traversy Media,Deploy Websites In Seconds With Netlify,2018-09-29 14:28:45+00:00,226964,5548,244,22.1,False,Saturday,14,39,0.025519465642128265
+Traversy Media,Pure JavaScript Type Writer Effect,2018-09-27 17:47:03+00:00,124870,4132,258,36.42,False,Thursday,17,34,0.03515656282533835
+Traversy Media,Koa.js Crash Course - Modern & Minimalist Node.js Framework,2018-09-23 12:55:31+00:00,85570,1959,103,37.38,False,Sunday,12,59,0.024097230337735188
+Traversy Media,Go / Golang Crash Course,2018-09-18 20:17:43+00:00,483388,10728,500,98.7,False,Tuesday,20,24,0.023227717692619592
+Traversy Media,HTML & CSS Easy Elegant Landing Page With Blur Effect,2018-09-13 16:30:38+00:00,155362,4666,305,34.72,False,Thursday,16,53,0.03199624103706183
+Traversy Media,GitHub Pages Deploy & Domain,2018-09-11 16:30:26+00:00,175778,4471,272,21.42,False,Tuesday,16,28,0.026982898883819363
+Traversy Media,Web Development Framework Pros & Cons,2018-09-09 14:17:36+00:00,59634,1974,162,20.37,False,Sunday,14,37,0.03581849280611731
+Traversy Media,Text To Speech & Synthesis App - JavaScript & Web Speech API,2018-09-06 17:22:12+00:00,110059,3109,196,44.13,False,Thursday,17,60,0.030029347895219837
+Traversy Media,70+ Websites To Find Developer Jobs,2018-09-04 10:49:12+00:00,39696,1868,137,22.68,False,Tuesday,10,35,0.05050886739218057
+Traversy Media,Lyric Search App With React & Context API [3] - Search,2018-09-01 12:01:50+00:00,29737,978,85,31.42,False,Saturday,12,54,0.03574671284931231
+Traversy Media,Lyric Search App With React & Context API [2] - Lyrics Page,2018-09-01 11:52:55+00:00,27835,636,63,28.22,False,Saturday,11,59,0.025112268726423567
+Traversy Media,Lyric Search App With React & Context API [1] - Top 10 Tracks,2018-09-01 11:36:42+00:00,124220,2514,217,54.53,False,Saturday,11,61,0.021985187570439543
+Traversy Media,Simple Machine Learning With JavaScript - Brain.js,2018-08-27 15:55:18+00:00,207312,5552,322,27.03,False,Monday,15,50,0.028334105116925214
+Traversy Media,Coder Cloud IDE Crash Course,2018-08-25 10:47:53+00:00,38257,1125,229,27.47,False,Saturday,10,28,0.035392215803643774
+Traversy Media,Responsive Landing Page Using HTML & CSS (A Little jQuery),2018-08-19 13:41:22+00:00,215547,4866,299,64.12,False,Sunday,13,58,0.023962291286819117
+Traversy Media,Exploring Docker [2] - Docker Compose With Node & MongoDB,2018-08-15 11:34:27+00:00,231652,6009,306,26.78,False,Wednesday,11,57,0.027260718664203203
+Traversy Media,Exploring Docker [1] - Getting Started,2018-08-15 11:30:32+00:00,413485,9902,457,34.63,False,Wednesday,11,38,0.0250529039747512
+Traversy Media,Working For Yourself & Side Projects,2018-08-11 14:13:26+00:00,117623,8095,675,13.5,False,Saturday,14,36,0.0745602475706282
+Traversy Media,Intro To Web Scraping With Node.js & Cheerio,2018-08-08 11:41:26+00:00,193221,4214,289,20.25,False,Wednesday,11,44,0.023304920272641173
+Traversy Media,Build A Speed Typing Game In JavaScript,2018-08-06 12:04:07+00:00,102607,2877,191,32.62,False,Monday,12,39,0.029900494118335005
+Traversy Media,Intro To Service Workers & Caching,2018-08-03 15:24:44+00:00,244235,7211,349,35.43,False,Friday,15,34,0.030953794501197618
+Traversy Media,The Importance Of Passion & Hard Work,2018-08-01 10:30:31+00:00,43818,3902,447,8.33,False,Wednesday,10,37,0.09925144917613767
+Traversy Media,Intro To Web Scraping With Python,2018-07-29 12:11:26+00:00,202263,4011,251,25.8,False,Sunday,12,33,0.021071575127433094
+Traversy Media,Responsive Portfolio Website [7] - Website Deployment,2018-07-26 12:53:47+00:00,78652,2099,338,9.37,False,Thursday,12,53,0.030984590347352896
+Traversy Media,Responsive Portfolio Website [6] - Work & Contact Pages,2018-07-26 12:51:07+00:00,60043,1068,106,25.65,False,Thursday,12,55,0.0195526539313492
+Traversy Media,Responsive Portfolio Website [5] - About Page With CSS Grid,2018-07-26 12:39:43+00:00,65085,1238,123,22.18,False,Thursday,12,59,0.020911116232618883
+Traversy Media,Responsive Portfolio Website [4] - Menu Overlay & Responsiveness,2018-07-26 12:39:05+00:00,79800,1397,327,35.83,False,Thursday,12,64,0.021604010025062657
+Traversy Media,Responsive Portfolio Website [3] - Rotating Menu Button,2018-07-25 20:44:46+00:00,86960,1625,281,21.03,False,Wednesday,20,55,0.021918123275068997
+Traversy Media,Responsive Portfolio Website [2] - Homepage & Main Sass,2018-07-25 20:41:41+00:00,131029,2244,348,33.13,False,Wednesday,20,55,0.019781880347098733
+Traversy Media,Responsive Portfolio Website [1] - Intro & Sass Workflow Setup,2018-07-25 20:25:20+00:00,352855,7166,570,21.08,False,Wednesday,20,62,0.021924019781496648
+Traversy Media,Udemy Course Alert - React Front To Back,2018-07-23 10:24:16+00:00,22017,989,224,7.82,False,Monday,10,40,0.0550937911613753
+Traversy Media,40+ Online Tools & Resources For Web Developers & Designers,2018-07-16 14:13:37+00:00,94470,4705,271,43.68,False,Monday,14,59,0.05267280618185667
+Traversy Media,YouTube API Project With Authentication,2018-07-12 19:51:05+00:00,153582,2842,264,58.4,False,Thursday,19,39,0.02022372413433866
+Traversy Media,SSH Crash Course | With Some DevOps,2018-07-08 14:27:08+00:00,563309,13912,456,55.03,False,Sunday,14,35,0.025506427200701568
+Traversy Media,"Build A Pet Find App | JS, Parcel, Babel, Fetch-JSONP",2018-07-02 23:06:26+00:00,34502,1067,156,49.98,False,Monday,23,53,0.035447220450988345
+Traversy Media,"Thoughts On Bootstrap, Technology Bashing & Freelancing",2018-06-30 12:14:57+00:00,35773,2122,250,8.5,False,Saturday,12,55,0.06630699130629246
+Traversy Media,Learn The MERN Stack [8] - Prepare & Deploy,2018-06-27 16:14:32+00:00,164223,2541,443,16.37,False,Wednesday,16,43,0.018170414619145918
+Traversy Media,Learn The MERN Stack [7] - Connecting The Backend,2018-06-27 16:06:24+00:00,75515,1040,164,17.15,False,Wednesday,16,49,0.015943852214791762
+Traversy Media,Learn The MERN Stack [6] - Finishing Redux,2018-06-27 16:05:56+00:00,60465,876,74,30.32,False,Wednesday,16,42,0.015711568676093607
+Traversy Media,Learn The MERN Stack [5] - Implementing Redux,2018-06-27 15:54:39+00:00,95079,1211,238,29.98,False,Wednesday,15,45,0.015239958350424384
+Traversy Media,Learn The MERN Stack [4] - ShoppingList Component & Transitions,2018-06-27 15:41:34+00:00,94313,1296,203,18.7,False,Wednesday,15,63,0.0158938852544188
+Traversy Media,Learn The MERN Stack [3] - Client Setup & Reactstrap,2018-06-27 15:33:30+00:00,134755,2117,224,27.12,False,Wednesday,15,52,0.017372268190419652
+Traversy Media,Learn the MERN Stack [2] - Express API & MongoDB,2018-06-27 15:21:12+00:00,257708,3616,496,35.67,False,Wednesday,15,48,0.015956043273782732
+Traversy Media,Learn The MERN Stack [1] - Series Introduction,2018-06-27 15:09:20+00:00,427810,5773,283,7.23,False,Wednesday,15,46,0.014155816834576097
+Traversy Media,"Async JS Crash Course - Callbacks, Promises, Async Await",2018-06-22 13:13:12+00:00,1491717,38129,1407,24.52,False,Friday,13,56,0.026503686691242374
+Traversy Media,"Personal Vlog - Health, Stress & Life",2018-06-19 19:34:38+00:00,23212,3458,709,11.43,False,Tuesday,19,37,0.17951921419955197
+Traversy Media,React Authentication App With Okta,2018-06-16 14:19:54+00:00,127244,1794,189,56.38,False,Saturday,14,34,0.01558423186947911
+Traversy Media,"Fancy Form UI From Scratch -  HTML, CSS3, JS & Sass",2018-06-13 20:54:54+00:00,65361,1644,173,70.38,False,Wednesday,20,51,0.027799452272762044
+Traversy Media,JavaScript OOP Crash Course (ES5 & ES6),2018-06-09 12:58:25+00:00,606414,16553,634,40.35,False,Saturday,12,39,0.028342023765942078
+Traversy Media,There Is No Best Programming Language,2018-06-06 14:55:22+00:00,17588,1331,158,5.68,False,Wednesday,14,37,0.08465999545144416
+Traversy Media,Build A Slackbot,2018-06-04 21:38:39+00:00,134169,2051,171,34.03,False,Monday,21,16,0.016561202662313947
+Traversy Media,ECMAScript Modules In Node,2018-06-01 14:03:38+00:00,45290,1082,95,12.2,False,Friday,14,26,0.025988076838154118
+Traversy Media,"Build a Responsive, Mobile First Website - HTML5 & CSS3",2018-05-29 22:34:18+00:00,263844,7228,334,48.38,False,Tuesday,22,55,0.028660875365746425
+Traversy Media,PHP REST API From Scratch [3] - Update & Delete,2018-05-27 19:33:21+00:00,86570,1494,107,16.25,False,Sunday,19,47,0.01849370451657618
+Traversy Media,PHP REST API From Scratch [2] - Single & Create,2018-05-27 19:29:29+00:00,149162,1935,103,25.02,False,Sunday,19,47,0.013662997278127137
+Traversy Media,PHP REST API From Scratch [1] - Database & Read,2018-05-27 19:26:30+00:00,518277,7475,360,32.3,False,Sunday,19,47,0.015117398611167388
+Traversy Media,Learning Outside Of Your Full Time Job & Time Management,2018-05-24 11:56:37+00:00,138961,8083,430,15.87,False,Thursday,11,56,0.06126179287713819
+Traversy Media,Drag & Drop With Vanilla JS,2018-05-22 11:42:45+00:00,254719,8133,404,19.0,False,Tuesday,11,27,0.03351536398933727
+Traversy Media,What's New In Node.js 10?,2018-05-20 12:39:10+00:00,33699,1392,103,11.48,False,Sunday,12,25,0.04436333422356747
+Traversy Media,Shell Scripting Crash Course - Beginner Level,2018-05-17 21:09:21+00:00,760858,17840,526,32.32,False,Thursday,21,45,0.02413853833435411
+Traversy Media,Push Notifications Using Node.js & Service Worker,2018-05-14 15:33:53+00:00,287860,4864,278,29.87,False,Monday,15,49,0.017862849996526087
+Traversy Media,Facebook Login Button In React,2018-05-11 15:21:21+00:00,143062,2018,152,19.43,False,Friday,15,30,0.015168248731319289
+Traversy Media,Learning & Memorizing In Programming,2018-05-08 12:55:52+00:00,279664,20237,1330,9.33,False,Tuesday,12,36,0.07711754104925911
+Traversy Media,Build a Wordpress Website In 1 Hour,2018-05-04 21:25:16+00:00,106538,2662,229,70.33,False,Friday,21,35,0.027135857628264093
+Traversy Media,Vagrant Crash Course,2018-05-02 18:23:11+00:00,192004,4210,248,46.5,False,Wednesday,18,20,0.02321826628611904
+Traversy Media,Simple Pure CSS Spinners,2018-04-29 14:06:22+00:00,68264,3233,212,15.05,False,Sunday,14,24,0.05046583850931677
+Traversy Media,Angular 6 - What To Expect,2018-04-25 13:35:52+00:00,28081,814,112,14.78,False,Wednesday,13,26,0.03297603361703643
+Traversy Media,React & Material UI Project Using The PixaBay API,2018-04-22 15:21:37+00:00,107565,2623,200,48.3,False,Sunday,15,49,0.02624459629061498
+Traversy Media,Jest Crash Course - Unit Testing in JavaScript,2018-04-20 21:28:27+00:00,442755,7900,303,57.32,False,Friday,21,46,0.018527176429402267
+Traversy Media,Problems & Solutions In The Life Of A Programmer,2018-04-18 12:12:51+00:00,53146,3149,228,23.42,False,Wednesday,12,48,0.06354194106800136
+Traversy Media,Udemy Course Alert - MERN Stack Front To Back,2018-04-15 23:44:00+00:00,31100,1335,262,8.53,False,Sunday,23,45,0.05135048231511254
+Traversy Media,Gatsby JS Crash Course,2018-04-12 18:38:55+00:00,247011,4956,251,64.55,False,Thursday,18,22,0.021080032873029945
+Traversy Media,Build A Travel Agency Theme With Materialize CSS 1.0.0,2018-04-09 20:14:37+00:00,183640,4008,261,54.48,False,Monday,20,54,0.023246569374863864
+Traversy Media,CamanJS - Build An Image Filter Web App,2018-04-05 19:27:56+00:00,36441,1229,104,46.5,False,Thursday,19,39,0.03657967673774046
+Traversy Media,Is jQuery Still Relevant in 2018?,2018-04-02 16:17:53+00:00,120672,3805,453,22.3,False,Monday,16,33,0.035285733227260675
+Traversy Media,React & Webpack 4 From Scratch - No CLI,2018-03-29 16:14:35+00:00,161895,5160,420,24.75,False,Thursday,16,39,0.03446678402668396
+Traversy Media,PHP vs. Python - My Take...,2018-03-26 17:18:57+00:00,254495,5036,518,19.73,False,Monday,17,27,0.021823611465844123
+Traversy Media,Markdown Crash Course,2018-03-23 18:42:36+00:00,332197,9314,296,19.53,False,Friday,18,21,0.02892861765759474
+Traversy Media,Social Media Accordion With CSS3 Transitions,2018-03-20 20:37:21+00:00,57041,2062,128,37.73,False,Tuesday,20,44,0.038393436300205114
+Traversy Media,Redux Crash Course With React,2018-03-17 13:50:15+00:00,822496,12837,1217,69.38,False,Saturday,13,29,0.017087013189121893
+Traversy Media,"Up & Running With Symfony 4 - Part 3: Create, Update & Delete",2018-03-15 01:05:38+00:00,68792,1008,107,29.97,False,Thursday,1,61,0.016208280032561927
+Traversy Media,Up & Running With Symfony 4 - Part 2: Database & Doctrine ORM,2018-03-15 00:59:27+00:00,107186,1016,99,22.83,False,Thursday,0,61,0.010402477935551284
+Traversy Media,"Up & Running With Symfony 4 - Part 1: Setup, Controllers, Twig",2018-03-15 00:52:09+00:00,192198,2337,213,32.8,False,Thursday,0,62,0.013267567820684919
+Traversy Media,Responsive Coming Soon Landing Page With Countdown,2018-03-09 19:15:05+00:00,42532,1624,138,38.42,False,Friday,19,50,0.04142763096021819
+Traversy Media,My Struggles & Success - Up Close & Personal With Brad,2018-03-07 19:03:57+00:00,100169,12706,2032,16.18,False,Wednesday,19,54,0.14713134802184308
+Traversy Media,Uploading Files to MongoDB With GridFS (Node.js App),2018-03-06 02:34:23+00:00,252434,4121,341,55.37,False,Tuesday,2,52,0.017675907365885736
+Traversy Media,Star Ratings With JavaScript & Font Awesome,2018-03-02 19:14:39+00:00,105927,2705,128,33.98,False,Friday,19,43,0.02674483370623165
+Traversy Media,Freelancing As A Web Developer,2018-02-27 20:58:33+00:00,337268,11642,540,19.88,False,Tuesday,20,30,0.03611964372546462
+Traversy Media,"JavaScript Cardio [Session 2] - LongestWord, Anagrams, Array Chunking",2018-02-25 15:16:25+00:00,56090,1814,121,42.45,False,Sunday,15,69,0.03449812800855768
+Traversy Media,"PHP, MySQL & Stripe API Payment App - Part 3",2018-02-21 18:29:25+00:00,31600,554,61,18.1,False,Wednesday,18,44,0.019462025316455696
+Traversy Media,"PHP, MySQL & Stripe API Payment App - Part 2",2018-02-21 18:17:49+00:00,41759,597,50,26.95,False,Wednesday,18,44,0.015493666036064082
+Traversy Media,"PHP, MySQL & Stripe API Payment App - Part 1",2018-02-21 18:10:30+00:00,227365,3318,247,40.42,False,Wednesday,18,44,0.015679634068568163
+Traversy Media,Full Stack Vue.js & Laravel,2018-02-19 19:22:54+00:00,540621,6396,394,45.23,False,Monday,19,27,0.012559630499000224
+Traversy Media,"JavaScript Cardio [Session 1] - Reversals, FizzBuzz, MaxChar",2018-02-16 19:20:30+00:00,173091,6694,330,44.58,False,Friday,19,60,0.04057981061984736
+Traversy Media,Udemy Course Alert - Materialize CSS With 5 Projects,2018-02-15 18:17:51+00:00,19857,640,94,10.37,False,Thursday,18,52,0.03696429470715617
+Traversy Media,"Build a Reddit Search App With ES6, Fetch & Parcel",2018-02-12 20:29:12+00:00,45065,1355,124,45.88,False,Monday,20,50,0.032819261067347165
+Traversy Media,Vue.js Firebase Authentication - Add To An Existing Project,2018-02-09 17:14:20+00:00,77305,1494,139,48.77,False,Friday,17,59,0.021124118750404243
+Traversy Media,Build a Responsive Grid CSS Website Layout From Scratch,2018-02-05 20:41:17+00:00,667487,19759,909,45.55,False,Monday,20,55,0.030963898922376016
+Traversy Media,Windows 10 Bash & Linux Subsystem Setup,2018-02-03 04:00:13+00:00,651579,9030,536,13.55,False,Saturday,4,39,0.014681258911045322
+Traversy Media,Starting A Serious Web Development Project,2018-01-31 16:17:50+00:00,535922,15432,384,19.07,False,Wednesday,16,42,0.029511757307966457
+Traversy Media,Node.js & Pusher Real Time Polling App [3] - MongoDB & Mongoose,2018-01-29 18:50:26+00:00,33230,730,60,22.58,False,Monday,18,63,0.02377369846524225
+Traversy Media,Node.js & Pusher Real Time Polling App [2] - Front End JS & Chart,2018-01-29 18:41:57+00:00,30496,420,45,15.03,False,Monday,18,65,0.015247901364113326
+Traversy Media,Node.js & Pusher Real Time Polling App [1] - Initial Back End,2018-01-29 18:37:52+00:00,87254,1341,66,27.63,False,Monday,18,61,0.016125335228184382
+Traversy Media,Yarn Package Manager Crash Course,2018-01-25 15:36:36+00:00,114121,2419,108,22.72,False,Thursday,15,33,0.022143163834877015
+Traversy Media,Build & Publish a Custom Google Chrome Extension,2018-01-23 15:07:49+00:00,295840,6773,332,25.4,False,Tuesday,15,48,0.024016360194699837
+Traversy Media,Modern Image Gallery With ES6 Vanilla JavaScript,2018-01-21 15:11:56+00:00,93691,3108,247,22.6,False,Sunday,15,48,0.035809202591497585
+Traversy Media,Next.js Crash Course - Server Side React,2018-01-19 21:45:28+00:00,285172,6012,329,41.58,False,Friday,21,40,0.022235703364986745
+Traversy Media,Build a Webcam Filter & Picture App With WebRTC & Canvas,2018-01-17 23:05:35+00:00,35814,978,84,50.03,False,Wednesday,23,56,0.029653208242586698
+Traversy Media,JavaScript Higher Order Functions & Arrays,2018-01-13 15:05:58+00:00,999523,29226,1150,34.93,False,Saturday,15,42,0.030390496266719226
+Traversy Media,Golang REST API With Mux,2018-01-10 18:06:22+00:00,344109,6338,350,44.05,False,Wednesday,18,24,0.019435702059521838
+Traversy Media,Concerns & Struggles Of A Web Developer,2018-01-05 17:36:11+00:00,69971,3681,333,28.18,False,Friday,17,39,0.05736662331537351
+Traversy Media,"Create a Split Landing Page With HTML, CSS & JS",2018-01-03 17:17:36+00:00,138015,3473,203,34.22,False,Wednesday,17,47,0.026634786073977467
+Traversy Media,React & Express Starter Pack For Full Stack Development,2017-12-31 20:59:12+00:00,293144,7474,454,26.77,False,Sunday,20,55,0.027044728870452745
+Traversy Media,Laravel 5.5 API From Scratch Using Resources,2017-12-30 01:06:50+00:00,247773,4221,407,42.87,False,Saturday,1,44,0.01867838707203771
+Traversy Media,CSS Variables Tutorial (CSS Custom Properties),2017-12-27 15:12:53+00:00,127895,4005,167,23.1,False,Wednesday,15,46,0.03262050901129833
+Traversy Media,Create a Sortable & Responsive Grid With Muuri,2017-12-24 14:26:53+00:00,27491,957,82,19.23,False,Sunday,14,46,0.03779418718853443
+Traversy Media,Node.js API Authentication With JWT,2017-12-21 21:29:47+00:00,564434,10694,449,23.02,False,Thursday,21,35,0.0197419007359585
+Traversy Media,Web Hosting & CPanel Guide - How To Easily Upload Your Website,2017-12-20 16:13:39+00:00,395301,5617,320,34.13,False,Wednesday,16,62,0.015018934938186344
+Traversy Media,Exploring The Parcel Application Bundler,2017-12-17 17:35:10+00:00,39132,1207,131,33.63,False,Sunday,17,40,0.03419196565470715
+Traversy Media,Vue.js & Firestore App - Build & Deploy [Part 6],2017-12-14 20:47:56+00:00,23317,636,58,8.08,False,Thursday,20,48,0.02976369172706609
+Traversy Media,Vue.js & Firestore App - Build & Deploy [Part 5],2017-12-14 20:42:23+00:00,19931,249,27,15.88,False,Thursday,20,48,0.013847774823139833
+Traversy Media,Vue.js & Firestore App - Build & Deploy [Part 4],2017-12-14 20:36:26+00:00,25172,313,38,15.2,False,Thursday,20,48,0.013944064833942475
+Traversy Media,Vue.js & Firestore App - Build & Deploy [Part 3],2017-12-14 20:28:50+00:00,37883,417,33,13.25,False,Thursday,20,48,0.011878679090885094
+Traversy Media,Vue.js & Firestore App - Build & Deploy [Part 2],2017-12-14 20:22:44+00:00,44909,442,19,15.08,False,Thursday,20,48,0.010265202965997908
+Traversy Media,Vue.js & Firestore App - Build & Deploy [Part 1],2017-12-14 20:17:20+00:00,121807,1366,80,18.23,False,Thursday,20,48,0.011871238927155255
+Traversy Media,Visual Studio Code Intro & Setup,2017-12-12 19:33:12+00:00,618312,7364,384,38.62,False,Tuesday,19,32,0.012530890553636351
+Traversy Media,Udemy Course Alert - Modern JavaScript From The Beginning,2017-12-10 17:35:54+00:00,26330,1054,259,7.58,False,Sunday,17,57,0.04986707178123813
+Traversy Media,Web Development in 2018 - A Practical Guide,2017-12-06 12:01:41+00:00,945364,23566,1266,40.95,False,Wednesday,12,43,0.02626713096754266
+Traversy Media,OctoberCMS For Rapid Website Creation,2017-12-02 17:33:38+00:00,128866,2426,233,26.85,False,Saturday,17,37,0.02063383669858613
+Traversy Media,Use Babel & Webpack To Compile ES2015 - ES2017,2017-11-29 17:29:59+00:00,114257,2308,208,29.9,False,Wednesday,17,46,0.02202053265883053
+Traversy Media,Getting Started With Aurelia JS,2017-11-26 17:47:43+00:00,33971,690,106,34.0,False,Sunday,17,31,0.023431750610815108
+Traversy Media,Deploy An Angular App To Firebase In Minutes,2017-11-25 13:08:16+00:00,86999,1390,118,7.07,False,Saturday,13,44,0.017333532569339876
+Traversy Media,Send SMS Text Messages From Node.js,2017-11-22 18:05:21+00:00,137150,2599,157,32.65,False,Wednesday,18,35,0.02009478672985782
+Traversy Media,Getting Started With AdonisJS 4.0 [5] - Edit & Delete Posts,2017-11-20 00:25:54+00:00,12097,352,33,13.32,False,Monday,0,59,0.03182607257997851
+Traversy Media,Getting Started With AdonisJS 4.0 [4] - Add Post & Validation,2017-11-20 00:22:23+00:00,13378,155,25,11.77,False,Monday,0,61,0.013454925997907012
+Traversy Media,Getting Started With AdonisJS 4.0 [3] - Database & Model,2017-11-20 00:14:03+00:00,19586,218,33,17.6,False,Monday,0,56,0.012815276217706525
+Traversy Media,"Getting Started With AdonisJS 4.0 [2] - Controller,  Layouts & Routing",2017-11-20 00:07:44+00:00,20717,301,31,12.92,False,Monday,0,70,0.016025486315586233
+Traversy Media,Getting Started With AdonisJS 4.0 [1] - Framework Intro & Setup,2017-11-20 00:05:45+00:00,59895,963,130,18.75,False,Monday,0,63,0.0182486017196761
+Traversy Media,Static Type Checking In JavaScript With Flow,2017-11-17 21:11:38+00:00,29049,948,70,20.28,False,Friday,21,44,0.035044235601914005
+Traversy Media,Dealing With Programmer Burnout,2017-11-15 15:32:11+00:00,43927,2478,209,14.35,False,Wednesday,15,31,0.0611696678580372
+Traversy Media,Build A Command Line Interface With Node.js & MongoDB,2017-11-13 16:43:10+00:00,83524,1761,121,45.3,False,Monday,16,53,0.022532445764091757
+Traversy Media,"Grid CSS Responsive Website Layout - ""Mobile First"" Design",2017-11-10 19:57:07+00:00,416016,11388,457,49.15,False,Friday,19,58,0.0284724625975924
+Traversy Media,Python Django Crash Course,2017-11-07 12:41:05+00:00,748498,10781,990,68.18,False,Tuesday,12,26,0.015726160924945692
+Traversy Media,What's New In Angular Version 5?,2017-11-04 15:52:18+00:00,104567,1630,146,13.73,False,Saturday,15,32,0.0169843258389358
+Traversy Media,CSS3 Animation & Transitions Crash Course,2017-10-31 17:23:10+00:00,439033,12293,393,36.33,False,Tuesday,17,41,0.02889532221951425
+Traversy Media,200k Subscribers - Thank You!,2017-10-30 22:02:10+00:00,9641,1743,465,5.23,False,Monday,22,29,0.2290218856965045
+Traversy Media,Angular & FireStore Application [3] - Updating Data & Deploy,2017-10-27 20:51:21+00:00,27237,662,80,17.93,False,Friday,20,60,0.027242354150603956
+Traversy Media,Angular & FireStore Application - [2] Add & Delete Data,2017-10-27 20:45:22+00:00,47414,586,83,21.17,False,Friday,20,55,0.014109756611971148
+Traversy Media,Angular & FireStore Application [1] - Setup & Getting Data,2017-10-27 20:39:13+00:00,141665,1706,146,39.98,False,Friday,20,58,0.013073094977587971
+Traversy Media,Self Doubt In Programming & Web Development,2017-10-24 21:00:30+00:00,117128,9309,1050,15.87,False,Tuesday,21,43,0.08844170480158459
+Traversy Media,"Full Screen Image Slider With HTML, CSS & JS",2017-10-23 10:08:38+00:00,323245,6106,330,27.43,False,Monday,10,44,0.01991059413138641
+Traversy Media,Intro To The Node.js PayPal REST SDK,2017-10-21 12:49:54+00:00,108784,2881,337,25.62,False,Saturday,12,36,0.02958155611119282
+Traversy Media,Udemy Course Alert & Promo Link - OOP PHP & MVC,2017-10-19 15:13:13+00:00,13378,427,139,10.68,False,Thursday,15,47,0.04230826730452983
+Traversy Media,Angular 4 vs React - A Comprehensive Comparison,2017-10-18 17:32:39+00:00,109289,2314,247,21.72,False,Wednesday,17,47,0.023433282398045548
+Traversy Media,Node.js Image Uploading With Multer,2017-10-16 20:19:58+00:00,245209,4223,307,37.18,False,Monday,20,35,0.0184740364342255
+Traversy Media,JavaScript Zipcode App Using Fetch & Bulma CSS,2017-10-13 15:34:37+00:00,29000,936,61,35.0,False,Friday,15,46,0.034379310344827586
+Traversy Media,Node.js & Stripe API - Ebook Sales App & Heroku Deploy,2017-10-10 19:59:07+00:00,124921,2995,200,61.88,False,Tuesday,19,54,0.025576164135733784
+Traversy Media,Simple Explanation Of rem & em CSS Units,2017-10-08 15:16:14+00:00,119774,6063,282,14.72,False,Sunday,15,40,0.052974769148563125
+Traversy Media,Fullscreen Video Background With HTML & CSS,2017-10-05 17:22:57+00:00,275395,5974,433,23.62,False,Thursday,17,43,0.02326476515550391
+Traversy Media,Vanilla JS Number Facts App - Ajax & Fetch,2017-10-03 14:56:15+00:00,48193,1902,97,25.87,False,Tuesday,14,42,0.04147905297449837
+Traversy Media,Full Stack React & LoopBack [5] - Front & Back End Integration,2017-10-02 10:44:00+00:00,20842,371,70,10.45,False,Monday,10,62,0.02115919777372613
+Traversy Media,"Full Stack React & LoopBack [4] - Add, Edit & Delete Meetups",2017-10-02 10:40:16+00:00,47963,515,39,32.5,False,Monday,10,60,0.011550570231219899
+Traversy Media,Full Stack React & LoopBack [3] - Fetching & Displaying Meetups,2017-10-02 10:27:19+00:00,18982,351,26,28.95,False,Monday,10,63,0.019860920872405437
+Traversy Media,"Full Stack React & LoopBack [2] - React, Routing and UI",2017-10-02 10:17:29+00:00,31422,401,35,39.0,False,Monday,10,55,0.013875628540513016
+Traversy Media,Full Stack React & LoopBack [1] - Intro & LoopBack Server,2017-10-02 10:07:15+00:00,74647,967,92,20.15,False,Monday,10,57,0.014186772408804105
+Traversy Media,Google Chrome Developer Tools Crash Course,2017-09-28 16:29:33+00:00,702494,12109,296,51.33,False,Thursday,16,42,0.017658513809370613
+Traversy Media,Udemy Course Alert - Node.js Dev To Deployment,2017-09-25 20:29:40+00:00,12687,400,111,10.07,False,Monday,20,46,0.04027744935761015
+Traversy Media,PDO Crash Course (PHP),2017-09-25 16:30:16+00:00,284656,6222,379,45.58,False,Monday,16,22,0.02318939351357428
+Traversy Media,Skeleton CSS Crash Course & Landing Page,2017-09-24 15:48:44+00:00,59412,1270,86,38.62,False,Sunday,15,40,0.022823671985457483
+Traversy Media,reCAPTCHA v2 Client-Server Implementation With Node.js,2017-09-23 12:18:52+00:00,60958,1140,84,25.55,False,Saturday,12,54,0.020079398930411104
+Traversy Media,NPM Crash Course,2017-09-18 16:39:58+00:00,339021,9052,412,42.05,False,Monday,16,16,0.02791567484020164
+Traversy Media,Build an Electron App in Under 60 Minutes,2017-09-14 19:42:59+00:00,959488,14751,869,55.58,False,Thursday,19,41,0.016279515741728923
+Traversy Media,JavaScript DOM Crash Course - Part 4 [Final Project],2017-09-12 18:20:46+00:00,295890,7721,424,22.13,False,Tuesday,18,52,0.027527121565446618
+Traversy Media,JavaScript DOM Crash Course - Part 3,2017-09-12 18:18:40+00:00,324780,8535,264,33.75,False,Tuesday,18,36,0.02709218547940144
+Traversy Media,JavaScript DOM Crash Course - Part 2,2017-09-12 16:46:15+00:00,392931,8393,291,21.35,False,Tuesday,16,36,0.02210057236512263
+Traversy Media,JavaScript DOM Crash Course - Part 1,2017-09-12 14:38:01+00:00,1269592,23192,792,39.02,False,Tuesday,14,36,0.018891108324564112
+Traversy Media,Awesome Split Screen Slider Using CSS3 & JavaScript,2017-09-10 13:48:46+00:00,116143,4633,245,33.93,False,Sunday,13,51,0.041999948339546934
+Traversy Media,Nodemailer - Send Emails From Your Node.js App,2017-09-08 14:05:57+00:00,369832,6871,616,29.9,False,Friday,14,46,0.020244327153950983
+Traversy Media,Intro to Anime.js - The JavaScript Animation Engine,2017-09-06 14:55:15+00:00,161935,3391,232,29.52,False,Wednesday,14,51,0.022373174421835923
+Traversy Media,"Create a Modal With HTML, CSS & JavaScript",2017-09-04 14:42:46+00:00,285216,6449,381,31.45,False,Monday,14,42,0.023946763154942218
+Traversy Media,LoopBack REST API with Authentication,2017-09-03 01:59:18+00:00,122682,2347,182,24.12,False,Sunday,1,37,0.02061427104220668
+Traversy Media,Fetch API Introduction,2017-08-31 17:02:10+00:00,510242,9871,484,30.9,False,Thursday,17,22,0.020294291728238757
+Traversy Media,AJAX Crash Course (Vanilla JavaScript),2017-08-28 18:47:39+00:00,741414,17017,836,69.72,False,Monday,18,38,0.0240796639933964
+Traversy Media,Build a Useful Wordpress Widget Plugin,2017-08-27 13:15:04+00:00,93056,2077,119,44.65,False,Sunday,13,38,0.02359869325997249
+Traversy Media,Build A Bootstrap 4 Theme | Latest Beta Version,2017-08-25 11:34:35+00:00,129010,2196,263,53.07,False,Friday,11,47,0.019060537942795133
+Traversy Media,Sass Workflow & Dev Server From Scratch Using Gulp,2017-08-23 00:28:00+00:00,58661,1473,167,38.45,False,Wednesday,0,50,0.02795724587033975
+Traversy Media,Connecting Firebase to a Contact Form,2017-08-20 12:59:00+00:00,226637,5935,529,26.12,False,Sunday,12,37,0.0285213800041476
+Traversy Media,Mobile First Responsive Contact Form Featuring Grid CSS,2017-08-18 20:24:30+00:00,127579,3676,285,29.7,False,Friday,20,55,0.031047429435878945
+Traversy Media,Build a Sails.js App [Part 4] - Edit & Delete Articles,2017-08-16 18:56:51+00:00,21001,699,91,10.38,False,Wednesday,18,54,0.037617256321127564
+Traversy Media,Build a Sails.js App [Part 3] -  Article List & Add Pages,2017-08-16 18:53:34+00:00,29631,334,41,12.97,False,Wednesday,18,57,0.012655664675508757
+Traversy Media,Build a Sails.js App [Part 2] - MongoDB Adapter & Homepage,2017-08-16 18:51:56+00:00,43746,438,39,12.87,False,Wednesday,18,58,0.010903854066657523
+Traversy Media,Build a Sails.js App [Part 1] - Sails & API Setup,2017-08-16 18:46:55+00:00,93904,1512,101,14.07,False,Wednesday,18,49,0.017177117055716475
+Traversy Media,Easy Fullscreen Landing Page With HTML & CSS,2017-08-14 14:07:19+00:00,333115,8180,460,22.63,False,Monday,14,44,0.02593698872761659
+Traversy Media,Ionic 3 Mobile Weather App Build,2017-08-12 09:41:50+00:00,259596,4128,444,75.03,False,Saturday,9,32,0.0176119816946332
+Traversy Media,Emmet For Faster HTML & CSS Workflow,2017-08-10 18:09:42+00:00,190590,5322,259,35.58,False,Thursday,18,36,0.029282753554751035
+Traversy Media,Bootstrap 4 Udemy Course Preview & Coupon,2017-08-08 12:08:27+00:00,12958,525,119,6.75,False,Tuesday,12,41,0.04969902762772033
+Traversy Media,Create Particle Effects With Particles.js,2017-08-06 10:40:33+00:00,232098,6851,427,30.5,False,Sunday,10,41,0.031357443838378615
+Traversy Media,Mobile Apps - Web vs. Native vs. Hybrid,2017-08-04 11:56:14+00:00,406919,8099,345,13.07,False,Friday,11,39,0.020751058564480892
+Traversy Media,CSS Grid Layout Crash Course,2017-08-01 16:03:58+00:00,2056975,51134,1660,27.92,False,Tuesday,16,28,0.025665844261597733
+Traversy Media,Building a GraphQL Server [Part 5] - Mutations,2017-07-31 14:34:17+00:00,38939,1277,73,12.07,False,Monday,14,46,0.034669611443539895
+Traversy Media,Building a GraphQL Server [Part 4] - JSON Server & Axios,2017-07-31 14:29:48+00:00,37773,632,33,8.33,False,Monday,14,56,0.017605167712387154
+Traversy Media,Building a GraphQL Server [Part 3] - RootQuery & Fetching Data,2017-07-31 14:27:25+00:00,53387,796,47,15.22,False,Monday,14,62,0.01579036094929477
+Traversy Media,Building a GraphQL Server [Part 2] - Server & Express GraphQL Setup,2017-07-31 14:20:32+00:00,70048,1012,41,10.2,False,Monday,14,67,0.015032549109182275
+Traversy Media,Building a GraphQL Server [Part 1] - What Is GraphQL?,2017-07-31 14:16:53+00:00,123756,2157,78,7.57,False,Monday,14,53,0.01805973043731213
+Traversy Media,Getting Started With Animate.css,2017-07-29 16:05:57+00:00,125357,4302,274,20.28,False,Saturday,16,32,0.03650374530341345
+Traversy Media,Build a Chat App With MongoDB & Socket.io [Part 2],2017-07-27 16:11:02+00:00,89997,1402,230,32.35,False,Thursday,16,50,0.0181339377979266
+Traversy Media,Build a Chat App With MongoDB & Socket.io [Part 1],2017-07-27 15:57:50+00:00,232644,3073,192,20.9,False,Thursday,15,50,0.014034318529598872
+Traversy Media,Animate Your Font Awesome Icons With JavaScript,2017-07-25 10:07:58+00:00,98674,3641,209,18.87,False,Tuesday,10,47,0.039017370330583535
+Traversy Media,Simple Weight Converter App With JavaScript & Bootstrap 4,2017-07-23 13:10:15+00:00,151210,3978,337,16.95,False,Sunday,13,57,0.028536472455525427
+Traversy Media,Using MySQL With Node.js,2017-07-20 13:45:28+00:00,539472,9113,458,26.22,False,Thursday,13,24,0.01774142124151022
+Traversy Media,CSS Crash Course For Absolute Beginners,2017-07-19 15:01:36+00:00,4638817,91123,4098,85.18,False,Wednesday,15,39,0.02052700074178395
+Traversy Media,HTML Crash Course For Absolute Beginners,2017-07-17 14:38:43+00:00,7149222,166546,6358,60.7,False,Monday,14,40,0.024185009221982474
+Traversy Media,Create a Fake REST API with JSON-Server,2017-07-14 14:31:59+00:00,211120,4099,219,21.02,False,Friday,14,39,0.020452823039029934
+Traversy Media,Basic Parallax Website With HTML & CSS,2017-07-12 13:06:04+00:00,443000,14002,659,20.8,False,Wednesday,13,38,0.033094808126410837
+Traversy Media,Hapi.js Framework Crash Course,2017-07-10 15:11:08+00:00,67358,1109,152,37.33,False,Monday,15,30,0.018720864633748033
+Traversy Media,Angular In 60 Minutes,2017-07-07 16:51:18+00:00,997997,13316,835,61.2,False,Friday,16,21,0.014179401340885795
+Traversy Media,Angular 4 Front To Back: Udemy Course Preview,2017-07-06 16:29:53+00:00,13012,466,173,8.33,False,Thursday,16,45,0.04910851521672303
+Traversy Media,Build A Meteor.js App In 45 Minutes,2017-07-05 00:07:13+00:00,103145,1352,159,48.35,False,Wednesday,0,35,0.014649280139609288
+Traversy Media,Build A Filterable List With Vanilla JavaScript,2017-07-02 23:30:12+00:00,206161,6011,318,17.77,False,Sunday,23,47,0.030699307822527055
+Traversy Media,Bulma CSS Framework Crash Course,2017-06-30 17:45:06+00:00,170718,3486,239,49.68,False,Friday,17,32,0.021819608945746787
+Traversy Media,Simple Ruby on Rails 5 REST API From Scratch,2017-06-27 17:43:16+00:00,154896,3012,224,34.8,False,Tuesday,17,44,0.0208914368350377
+Traversy Media,10 Essential Atom Editor Packages & Setup,2017-06-26 10:37:34+00:00,585724,10223,407,27.13,False,Monday,10,41,0.018148479488632872
+Traversy Media,Using Chart.js With React,2017-06-24 13:48:54+00:00,223123,2988,171,23.68,False,Saturday,13,25,0.014158110100706785
+Traversy Media,Easy Responsive CSS3 Pricing Tables,2017-06-23 14:53:43+00:00,55901,1223,144,17.35,False,Friday,14,35,0.02445394536770362
+Traversy Media,Responsive HTML & CSS Side Menu From Scratch,2017-06-21 15:19:41+00:00,398194,8656,415,23.95,False,Wednesday,15,44,0.022780353295127502
+Traversy Media,Getting Started With Chart.js,2017-06-19 14:33:56+00:00,509410,9494,431,19.43,False,Monday,14,29,0.01948332384523272
+Traversy Media,Deploy Laravel To Shared Hosting The Easy Way,2017-06-18 14:04:04+00:00,446511,5682,642,13.68,False,Sunday,14,45,0.014163144916922539
+Traversy Media,Materialize CSS Crash Course [Part 2] - JavaScript Widgets,2017-06-16 14:13:41+00:00,80426,1775,146,40.15,False,Friday,14,58,0.023885310720413798
+Traversy Media,Materialize CSS Crash Course [Part 1],2017-06-15 22:54:58+00:00,249152,4502,374,56.13,False,Thursday,22,37,0.019570382738248137
+Traversy Media,Google Geocode API & JavaScript Tutorial,2017-06-14 16:03:20+00:00,279513,3941,243,32.78,False,Wednesday,16,40,0.014968892323433973
+Traversy Media,Google Maps JavaScript API Tutorial,2017-06-12 15:46:17+00:00,1110726,16730,942,27.45,False,Monday,15,35,0.015910314515010904
+Traversy Media,Difficult Clients In Web Design & Development,2017-06-11 14:21:12+00:00,21220,992,112,15.07,False,Sunday,14,45,0.052026390197926486
+Traversy Media,Build a C# .NET Application in 60 Minutes,2017-06-09 19:47:20+00:00,1139653,17101,636,55.7,False,Friday,19,41,0.015563509243603097
+Traversy Media,Build A Responsive HTML & CSS Template With FlexboxGrid,2017-06-05 17:28:58+00:00,241808,4975,321,72.1,False,Monday,17,55,0.02190167405544895
+Traversy Media,Laravel From Scratch [Part 12] - File Uploading & Finishing Up,2017-06-03 23:48:48+00:00,203451,3374,541,24.13,False,Saturday,23,62,0.0192429626789743
+Traversy Media,Laravel From Scratch [Part 11] - Access Control,2017-06-03 23:43:06+00:00,138696,2860,269,8.62,False,Saturday,23,47,0.02256013151064198
+Traversy Media,Laravel From Scratch [Part 10] - Model Relationships,2017-06-03 23:41:56+00:00,196580,1567,278,10.08,False,Saturday,23,52,0.009385491911689896
+Traversy Media,Laravel From Scratch [Part 9] - User Authentication,2017-06-03 23:41:00+00:00,295970,2061,338,16.72,False,Saturday,23,51,0.00810555123830118
+Traversy Media,Laravel From Scratch [Part 7] - Forms & Saving Data,2017-06-03 23:39:20+00:00,344797,3032,625,18.9,False,Saturday,23,51,0.010606240773556614
+Traversy Media,Laravel From Scratch [Part 8] - Edit & Delete Data,2017-06-03 23:38:15+00:00,231962,1887,215,9.97,False,Saturday,23,50,0.009061829092696217
+Traversy Media,Laravel From Scratch [Part 6] - Fetching Data With Eloquent,2017-06-03 23:36:34+00:00,371972,4701,545,19.5,False,Saturday,23,59,0.014103212069725679
+Traversy Media,Laravel From Scratch [Part 5] - Models & Database Migrations,2017-06-03 23:32:20+00:00,475983,4216,497,16.15,False,Saturday,23,60,0.00990161413327787
+Traversy Media,Laravel From Scratch [Part 4] - Blade Templating & Compiling Assets,2017-06-03 23:31:00+00:00,505881,5423,678,20.8,False,Saturday,23,67,0.01206014853295538
+Traversy Media,Laravel From Scratch [Part 3] - Basic Routing & Controllers,2017-06-03 23:24:56+00:00,592636,6728,317,13.83,False,Saturday,23,59,0.011887566735736608
+Traversy Media,Laravel From Scratch [Part 2] - Environment Setup & Laravel Installation,2017-06-03 23:23:54+00:00,756640,7523,740,19.75,False,Saturday,23,72,0.010920649185874392
+Traversy Media,Laravel From Scratch [Part 1] - Series Introduction,2017-06-03 23:18:35+00:00,1213529,10871,501,17.27,False,Saturday,23,51,0.009371016267431599
+Traversy Media,Node js vs Ruby on Rails For Web Development,2017-05-31 15:54:35+00:00,152679,2811,251,19.47,False,Wednesday,15,44,0.020055148383209216
+Traversy Media,Node.js & Express From Scratch [FINAL] - Deploying Our App,2017-05-30 15:58:08+00:00,158257,2359,221,22.52,False,Tuesday,15,58,0.01630259640963749
+Traversy Media,Node.js & Express From Scratch [Part 10] - User Login,2017-05-30 13:49:29+00:00,82324,699,93,21.95,False,Tuesday,13,53,0.009620523784072688
+Traversy Media,Node.js & Express From Scratch [Part 11] - Access Control,2017-05-30 13:44:34+00:00,66131,897,87,14.97,False,Tuesday,13,57,0.014879557242443029
+Traversy Media,Node.js & Express From Scratch [Part 9] - User Registration,2017-05-30 13:40:58+00:00,98445,1023,84,28.15,False,Tuesday,13,59,0.011244857534664025
+Traversy Media,Node.js & Express From Scratch [Part 8] - Messaging & Validation,2017-05-29 14:02:38+00:00,75740,804,128,25.25,False,Monday,14,64,0.012305254819118035
+Traversy Media,Node.js & Express From Scratch [Part 7] - Update & Delete Articles,2017-05-27 10:32:19+00:00,80094,744,125,15.25,False,Saturday,10,66,0.010849751541938223
+Traversy Media,Node.js & Express From Scratch [Part 6] - Bower & Bootstrap,2017-05-27 10:29:49+00:00,83393,822,126,18.15,False,Saturday,10,59,0.01136786061180195
+Traversy Media,Node.js & Express From Scratch [Part 5] - Save Articles to MongoDB,2017-05-27 10:22:54+00:00,76375,617,81,10.63,False,Saturday,10,66,0.00913911620294599
+Traversy Media,Node.js & Express From Scratch [Part 4] - Mongoose & Model Setup,2017-05-27 10:15:31+00:00,135627,1069,108,13.97,False,Saturday,10,64,0.008678213040176366
+Traversy Media,Node.js & Express From Scratch [Part 3] - Pug Template Engine,2017-05-27 10:09:43+00:00,170176,1665,183,16.68,False,Saturday,10,61,0.01085934561865363
+Traversy Media,Node.js & Express From Scratch [Part 2] - App Setup & Express Install,2017-05-27 10:05:25+00:00,152661,1299,62,11.2,False,Saturday,10,69,0.008915178074295335
+Traversy Media,Node.js & Express From Scratch [Part 1] - Intro & Environment,2017-05-27 10:01:26+00:00,336042,3107,187,13.62,False,Saturday,10,61,0.009802346135304516
+Traversy Media,"PHP Front To Back [Part 22] - MySQLi Insert, Update & Delete",2017-05-26 12:52:07+00:00,73962,1340,181,23.45,False,Friday,12,60,0.020564614261377463
+Traversy Media,An Introduction To NoSQL Databases,2017-05-24 16:38:36+00:00,309526,7483,188,15.67,False,Wednesday,16,34,0.024783055381454224
+Traversy Media,Dealing With Depression & Anxiety In Programming,2017-05-22 13:09:02+00:00,74197,5811,739,18.58,False,Monday,13,48,0.0882785018262194
+Traversy Media,Gulp JS Crash Course,2017-05-19 16:01:54+00:00,180956,5175,405,33.68,False,Friday,16,20,0.030836225380755544
+Traversy Media,What's New In Bootstrap 4?,2017-05-17 11:09:29+00:00,99314,1825,165,12.35,False,Wednesday,11,26,0.020037456954709307
+Traversy Media,Katana PHP Static Site & Blog Generator,2017-05-17 09:48:36+00:00,11669,276,61,30.45,False,Wednesday,9,39,0.028879938298054676
+Traversy Media,Build a Full Featured Ecommerce Website With Opencart,2017-05-14 13:21:23+00:00,290853,4512,332,47.18,False,Sunday,13,53,0.01665446118829787
+Traversy Media,Less CSS Pre-Processor Tutorial,2017-05-12 15:38:18+00:00,133894,2218,109,26.92,False,Friday,15,31,0.017379419540830807
+Traversy Media,Facebook Login & Graph API | JavaScript SDK,2017-05-10 14:06:56+00:00,219883,2746,227,41.13,False,Wednesday,14,43,0.013520826985260343
+Traversy Media,Basic cURL Tutorial,2017-05-08 14:28:49+00:00,454781,6569,169,14.7,False,Monday,14,19,0.014815922389018011
+Traversy Media,Top 5 JavaScript Frameworks 2017,2017-05-06 22:57:31+00:00,129323,1886,174,14.53,False,Saturday,22,32,0.015929107737989376
+Traversy Media,Build A Codeigniter PHP App - Part 8,2017-05-05 15:10:34+00:00,64359,621,176,21.6,False,Friday,15,36,0.012383660404916173
+Traversy Media,PHP Front To Back [Part 21] - Fetching Data With MySQLi,2017-05-05 12:16:35+00:00,95788,1501,141,26.23,False,Friday,12,55,0.01714202196517309
+Traversy Media,Creating Simple YouTube Thumbnails With Photoshop,2017-05-02 13:24:05+00:00,5755,216,26,9.02,False,Tuesday,13,49,0.0420503909643788
+Traversy Media,Intro To JavaScript Unit Testing With Mocha JS & Chai,2017-05-01 15:17:48+00:00,322023,6177,285,17.85,False,Monday,15,53,0.020066889632107024
+Traversy Media,Semantic UI In 60 Minutes,2017-04-30 12:22:36+00:00,188421,2458,143,58.5,False,Sunday,12,25,0.013804193800054133
+Traversy Media,What Is MVC? Simple Explanation,2017-04-26 16:28:39+00:00,525713,15520,415,10.67,False,Wednesday,16,31,0.030311215435037748
+Traversy Media,Python Flask From Scratch [Part 5] - Edit & Delete Articles,2017-04-25 21:06:59+00:00,66721,881,136,13.42,False,Tuesday,21,59,0.015242577299500907
+Traversy Media,Python Flask From Scratch [Part 4] - Dashboard & Articles,2017-04-25 21:06:25+00:00,85052,702,57,25.07,False,Tuesday,21,57,0.00892395240558717
+Traversy Media,Python Flask From Scratch [Part 3] - Login & Access Control,2017-04-25 21:04:49+00:00,97451,1093,91,28.3,False,Tuesday,21,59,0.01214969574452802
+Traversy Media,Python Flask From Scratch [Part 2] - User Registration,2017-04-25 21:04:12+00:00,192245,1791,264,36.13,False,Tuesday,21,54,0.010689484772035684
+Traversy Media,Python Flask From Scratch - [Part 1] - Getting Started,2017-04-25 20:47:12+00:00,517183,6505,338,28.8,False,Tuesday,20,54,0.013231293371978583
+Traversy Media,PHP Front To Back [Part 20] - OOP,2017-04-20 22:26:53+00:00,60426,2021,173,18.65,False,Thursday,22,33,0.03630887366365472
+Traversy Media,Webpack Crash Course,2017-04-18 17:22:39+00:00,220155,4662,258,35.4,False,Tuesday,17,20,0.02234789125843156
+Traversy Media,Build a Bootstrap Theme With Scroll Animation,2017-04-13 18:54:25+00:00,197210,4249,242,35.75,False,Thursday,18,45,0.022772678870239847
+Traversy Media,Build A Codeigniter PHP App - Part 7,2017-04-10 14:44:16+00:00,53380,540,98,28.05,False,Monday,14,36,0.011952041963282128
+Traversy Media,Build A Codeigniter PHP App - Part 6,2017-04-10 14:25:36+00:00,51123,515,72,32.48,False,Monday,14,36,0.01148211176965358
+Traversy Media,JSON Crash Course,2017-04-05 15:53:52+00:00,1083461,21998,614,24.82,False,Wednesday,15,17,0.020870155917010396
+Traversy Media,PHP Front To Back [Part 19] - File System Functions,2017-04-01 18:00:01+00:00,60328,1365,52,18.8,False,Saturday,18,51,0.023488264155947486
+Traversy Media,PHP Front To Back [Part 18] - PHP & AJAX,2017-04-01 17:55:16+00:00,109516,1749,124,13.8,False,Saturday,17,40,0.017102523832134117
+Traversy Media,Build a Vue js Translator App Using The Yandex API,2017-03-31 15:09:54+00:00,29658,638,71,36.43,False,Friday,15,50,0.023905860138916987
+Traversy Media,12 Chrome Extensions For Web Developers & Web Designers,2017-03-25 13:21:45+00:00,107728,2944,121,24.0,False,Saturday,13,55,0.028451284717065203
+Traversy Media,PHP Front To Back [Part 17] - Cookies Tutorial,2017-03-24 14:10:56+00:00,71341,1451,89,14.1,False,Friday,14,46,0.021586465006097476
+Traversy Media,PHP Front To Back [Part 16] - Sessions Tutorial,2017-03-23 11:39:57+00:00,87342,1486,73,10.52,False,Thursday,11,47,0.017849373726271437
+Traversy Media,Cmder: A Better Windows Command Line,2017-03-22 19:10:17+00:00,230460,3043,222,16.82,False,Wednesday,19,36,0.014167317538835373
+Traversy Media,Build A Node.js & Redis App From Scratch,2017-03-20 13:40:34+00:00,146374,2188,97,34.2,False,Monday,13,40,0.015610695888614098
+Traversy Media,Redis Crash Course Tutorial,2017-03-19 13:56:17+00:00,480380,7439,155,39.58,False,Sunday,13,27,0.015808318414588452
+Traversy Media,Angular 2 and Firebase App [Part 7] - Edit & Delete Listings,2017-03-18 16:28:31+00:00,13493,198,63,15.38,False,Saturday,16,60,0.01934336322537612
+Traversy Media,Build A Codeigniter PHP App - Part 5,2017-03-17 14:22:52+00:00,52327,537,115,24.03,False,Friday,14,36,0.01246010663710895
+Traversy Media,Build A JavaScript & jQuery Movie Info App in 30 Minutes,2017-03-16 15:22:30+00:00,213890,4228,353,29.68,False,Thursday,15,56,0.02141755107765674
+Traversy Media,PHP Front To Back [Part 15] - PHP Contact Form,2017-03-16 11:41:32+00:00,128978,2242,262,19.95,False,Thursday,11,46,0.01941416365581727
+Traversy Media,Build & Deploy A React JS Text Generator App,2017-03-14 12:26:47+00:00,61525,791,94,35.33,False,Tuesday,12,44,0.014384396586753351
+Traversy Media,An Intro To Electron - Desktop Apps with JavaScript,2017-03-12 17:58:22+00:00,354815,6117,321,24.17,False,Sunday,17,51,0.018144666939109114
+Traversy Media,PHP Front To Back [Part 14] - Filters & Validation,2017-03-11 19:37:29+00:00,102328,1721,122,21.33,False,Saturday,19,50,0.018010710655929952
+Traversy Media,PHP Front To Back - [Part 13] Ternary & Shorthand Syntax,2017-03-11 14:41:52+00:00,57681,1123,42,10.1,False,Saturday,14,56,0.020197292002565835
+Traversy Media,Tips On Learning How To Code,2017-03-10 14:54:49+00:00,203514,9543,310,10.33,False,Friday,14,28,0.04841435970006978
+Traversy Media,PHP Front To Back [Part 12] - Common String Functions,2017-03-08 17:26:17+00:00,68398,1206,50,13.58,False,Wednesday,17,53,0.01836311003245709
+Traversy Media,MEAN Stack Front To Back [Part 10] - App Deployment to Heroku,2017-03-07 16:33:46+00:00,86417,1226,236,16.35,False,Tuesday,16,61,0.016917967529537014
+Traversy Media,PHP Front To Back [Part 11] - Get & Post Tutorial,2017-03-06 19:51:45+00:00,90995,1852,89,13.35,False,Monday,19,49,0.021330842353975494
+Traversy Media,Setup Linux Ubuntu For Web Development,2017-03-06 12:50:10+00:00,191249,2677,159,15.72,False,Monday,12,38,0.014828835706330491
+Traversy Media,Create a Responsive Website With the W3 CSS Framework,2017-03-05 15:20:50+00:00,157728,2173,148,47.57,False,Sunday,15,53,0.01471520592412254
+Traversy Media,Build A Codeigniter PHP App - Part 4,2017-03-04 13:43:06+00:00,79382,1012,193,29.55,False,Saturday,13,36,0.015179763674384622
+Traversy Media,PHP Front To Back [Part 10] - $_SERVER Superglobal,2017-03-03 16:04:10+00:00,97717,1944,128,16.95,False,Friday,16,50,0.021204089360090876
+Traversy Media,jQuery Image Slider - Quick & Easy,2017-03-03 14:25:05+00:00,136386,1819,104,12.25,False,Friday,14,34,0.014099687651225198
+Traversy Media,Angular 2 & Firebase App [Part 6] - Add Listing & Storage,2017-03-02 22:19:14+00:00,14181,166,98,25.15,False,Thursday,22,57,0.018616458641844722
+Traversy Media,PHP Front To Back [Part 9] - Include & Require,2017-03-02 12:47:54+00:00,85930,1539,51,8.38,False,Thursday,12,46,0.018503433026882347
+Traversy Media,PHP Front To Back [Part 8] - Dates & Timestamps,2017-03-01 14:44:29+00:00,91485,1508,61,11.35,False,Wednesday,14,47,0.017150352516806033
+Traversy Media,PHP Front To Back [Part 7] - Conditionals & Comparison,2017-03-01 14:40:34+00:00,68687,1176,22,11.0,False,Wednesday,14,54,0.017441437244311152
+Traversy Media,Angular 2 & Firebase App [Part 5] - Details Page,2017-02-28 21:44:18+00:00,11643,121,26,14.08,False,Tuesday,21,48,0.012625611955681525
+Traversy Media,PHP Front To Back [Part 6] - Functions,2017-02-28 21:39:30+00:00,82803,1555,89,13.18,False,Tuesday,21,38,0.019854353103148436
+Traversy Media,Healthy Tips For Programmers & Web Developers,2017-02-28 14:35:00+00:00,54817,2503,162,14.0,False,Tuesday,14,45,0.048616305160807775
+Traversy Media,Angular 2 & Firebase App [Part 4] - Firebase Authentication,2017-02-27 15:09:25+00:00,17226,167,66,14.87,False,Monday,15,59,0.013526065250203181
+Traversy Media,Angular 2 & Firebase App [Part 3] - AngularFire2 Setup,2017-02-27 15:07:22+00:00,18183,156,48,11.58,False,Monday,15,54,0.011219270747401418
+Traversy Media,PHP Front To Back [Part 5] - Loops,2017-02-27 13:45:50+00:00,87914,1467,39,9.45,False,Monday,13,34,0.01713037741429124
+Traversy Media,PHP Front To Back [Part 4] - Arrays,2017-02-27 13:42:33+00:00,111210,1775,56,13.12,False,Monday,13,35,0.016464346731409046
+Traversy Media,"PHP Front To Back [Part 3] - Variables, Constants & Data Types",2017-02-26 22:23:56+00:00,151175,2342,101,15.4,False,Sunday,22,62,0.01616007937820407
+Traversy Media,PHP Front To Back [Part 2] - PHP7 & Xammp Installation,2017-02-26 17:51:55+00:00,169175,1851,111,8.05,False,Sunday,17,54,0.011597458253288015
+Traversy Media,PHP Front To Back [Part 1] - Series Introduction,2017-02-26 14:37:11+00:00,372154,4801,245,9.22,False,Sunday,14,48,0.013558903034765177
+Traversy Media,Angular 2 & Firebase App [Part 2] - Setup & Components,2017-02-25 19:06:28+00:00,25515,329,42,22.23,False,Saturday,19,54,0.014540466392318244
+Traversy Media,Angular 2 & Firebase App [Part 1] - Project Introduction,2017-02-24 22:58:24+00:00,41834,649,72,10.25,False,Friday,22,56,0.017234785103026246
+Traversy Media,50k Subscribers! What's Next For The Channel,2017-02-21 15:02:02+00:00,3563,430,270,10.55,False,Tuesday,15,44,0.19646365422396855
+Traversy Media,What Is A RESTful API? Explanation of REST & HTTP,2017-02-20 14:13:37+00:00,1441019,25360,536,18.63,False,Monday,14,49,0.017970616626151355
+Traversy Media,MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard,2017-02-18 16:47:02+00:00,56505,725,491,23.43,False,Saturday,16,67,0.02152021944960623
+Traversy Media,Should You Learn PHP? - Pros and Cons,2017-02-18 15:16:19+00:00,138725,3490,249,10.93,False,Saturday,15,37,0.026952604072805912
+Traversy Media,MEAN Stack Front To Back [Part 8] - Login & Logout,2017-02-18 15:11:55+00:00,61572,513,98,19.33,False,Saturday,15,50,0.009923341778730593
+Traversy Media,MEAN Stack Front To Back [Part 7] - Auth Service & User Registration,2017-02-16 14:37:45+00:00,53108,471,210,11.7,False,Thursday,14,68,0.012822926866008888
+Traversy Media,"MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages",2017-02-16 13:05:39+00:00,61027,519,131,19.1,False,Thursday,13,83,0.010651023317547971
+Traversy Media,MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes,2017-02-16 13:05:12+00:00,83392,966,167,21.22,False,Thursday,13,65,0.013586435149654644
+Traversy Media,Simple JavaScript Slideshow In 5 Minutes,2017-02-15 13:45:35+00:00,531328,8096,352,4.97,False,Wednesday,13,40,0.01589978318477475
+Traversy Media,MEAN Stack Front To Back [Part 4] - API Authentication and Token,2017-02-14 19:09:38+00:00,96991,901,654,23.23,False,Tuesday,19,64,0.016032415378746483
+Traversy Media,MEAN Stack Front To Back [Part 3] - User Model & Register,2017-02-14 19:02:56+00:00,94244,794,254,15.38,False,Tuesday,19,57,0.011120071304274013
+Traversy Media,MEAN Stack Front To Back [Part 2] - Express Setup & Routes,2017-02-14 19:01:28+00:00,143956,1562,163,24.9,False,Tuesday,19,58,0.01198282808635972
+Traversy Media,MEAN Stack Front To Back [Part 1] - Project Introduction,2017-02-13 15:19:57+00:00,277026,4744,242,12.92,False,Monday,15,56,0.017998310627883304
+Traversy Media,Linux Tutorial - Basic Command Line,2017-02-09 15:02:02+00:00,250694,6180,157,20.4,False,Thursday,15,35,0.025277828747397226
+Traversy Media,Keystone JS Tutorial - A Node.js CMS,2017-02-08 16:31:52+00:00,121795,1803,182,46.62,False,Wednesday,16,36,0.016297877581181494
+Traversy Media,Build A Website With Foundation and Sass - Part 3,2017-02-06 12:40:28+00:00,13004,190,23,15.63,False,Monday,12,49,0.016379575515226084
+Traversy Media,Build A Website With Foundation and Sass - Part 2,2017-02-06 12:39:25+00:00,13214,156,10,29.6,False,Monday,12,49,0.01256243378235205
+Traversy Media,Build A Website With Foundation and Sass - Part 1,2017-02-06 12:30:18+00:00,77118,784,94,38.75,False,Monday,12,49,0.011385150029824424
+Traversy Media,Git & GitHub Crash Course For Beginners,2017-02-05 20:03:20+00:00,3238972,61475,2526,32.7,False,Sunday,20,39,0.01975966448613943
+Traversy Media,TypeScript Crash Course,2017-01-31 19:52:44+00:00,287514,5890,326,46.15,False,Tuesday,19,23,0.021619816774139693
+Traversy Media,Python Django Tutorial - Build A Todo App,2017-01-29 15:02:32+00:00,241126,2303,171,51.03,False,Sunday,15,41,0.010260195914169356
+Traversy Media,Finding A Web Developer Job With No Experience,2017-01-27 16:54:44+00:00,372652,15137,519,18.47,False,Friday,16,46,0.042012386891791806
+Traversy Media,Build A Mean js App In 30 Minutes,2017-01-24 14:22:21+00:00,71588,827,105,30.62,False,Tuesday,14,33,0.013018941722076325
+Traversy Media,Deploy Node.js App To Digital Ocean Server,2017-01-21 13:01:16+00:00,205268,3714,292,35.27,False,Saturday,13,42,0.019515949880156674
+Traversy Media,jQuery & Ajax: Build A Github Finder App,2017-01-18 15:43:52+00:00,57866,1468,122,33.82,False,Wednesday,15,40,0.02747727508381433
+Traversy Media,Foundation Framework Crash Course,2017-01-17 17:14:23+00:00,99418,1535,118,73.0,False,Tuesday,17,33,0.01662676778852924
+Traversy Media,Learn JavaScript By Building A Bookmarker Application,2017-01-11 16:03:17+00:00,352852,6809,465,45.5,False,Wednesday,16,53,0.02061487535850725
+Traversy Media,React Native Crash Course,2017-01-07 22:59:58+00:00,639040,6631,430,91.97,False,Saturday,22,25,0.011049386579869805
+Traversy Media,Android SDK & AVD Setup For React Native,2017-01-06 15:51:44+00:00,183588,1201,118,15.88,False,Friday,15,40,0.007184565440006972
+Traversy Media,Build A CMS Admin Bootstrap Theme From Scratch,2017-01-03 14:00:10+00:00,522497,6488,291,60.78,False,Tuesday,14,46,0.012974237172653624
+Traversy Media,Bootstrap Beginner Crash Course,2017-01-02 20:39:29+00:00,1027696,15733,765,73.45,False,Monday,20,31,0.01605338543693855
+Traversy Media,Build An HTML5 Website With A Responsive Layout,2016-12-25 16:11:06+00:00,3178859,51249,3056,61.25,False,Sunday,16,47,0.017083173553781403
+Traversy Media,Web Development In 2017 - A Practical Guide,2016-12-20 16:58:20+00:00,841107,16654,1001,34.05,False,Tuesday,16,43,0.02099019506436161
+Traversy Media,Vue js Customer Manager App Frontend,2016-12-18 17:36:26+00:00,201375,1966,112,61.57,False,Sunday,17,36,0.010319056486654252
+Traversy Media,RESTful API With PHP & MySQL,2016-12-15 16:20:33+00:00,322461,3706,423,44.65,False,Thursday,16,28,0.01280464924440475
+Traversy Media,Welcome To Traversy Media,2016-12-12 12:49:27+00:00,314840,928,79,0.95,True,Monday,12,25,0.003198450006352433
+Traversy Media,Ionic 2 Mobile App in Under 60 Minutes,2016-12-10 16:04:52+00:00,321745,2783,305,57.73,False,Saturday,16,38,0.009597662745341807
+Traversy Media,Flexbox CSS In 20 Minutes,2016-12-08 20:02:53+00:00,1836543,42641,1078,19.98,False,Thursday,20,25,0.023805051120501942
+Traversy Media,Vue.js 2.0 In 60 Minutes,2016-12-04 20:16:40+00:00,646369,9675,474,61.78,False,Sunday,20,24,0.01570155746949498
+Traversy Media,Angular 2 In 60 Minutes,2016-11-23 18:55:32+00:00,803746,9564,686,58.02,False,Wednesday,18,23,0.012752785083844895
+Traversy Media,Node.js Tutorial For Absolute Beginners,2016-11-18 20:37:57+00:00,1022442,14578,550,24.77,False,Friday,20,39,0.014795949305681887
+Traversy Media,Custom Bootstrap Theme With Sass,2016-11-17 19:15:04+00:00,186392,2190,229,64.32,False,Thursday,19,32,0.01297802480793167
+Traversy Media,React JS Crash Course,2016-11-12 17:59:51+00:00,843388,8519,575,60.65,False,Saturday,17,21,0.010782700251841382
+Traversy Media,Build A Codeigniter PHP App - Part 3,2016-11-03 18:52:41+00:00,93652,665,146,26.75,False,Thursday,18,36,0.008659718959552386
+Traversy Media,Build A CodeIgniter PHP App - Part 1,2016-11-03 16:03:03+00:00,774872,4443,525,44.35,False,Thursday,16,36,0.006411381492685243
+Traversy Media,Build A CodeIgniter PHP App - Part 2,2016-11-03 16:02:06+00:00,145820,1221,115,30.3,False,Thursday,16,36,0.009161980523933617
+Traversy Media,Node js With CouchDB,2016-11-01 18:31:13+00:00,60086,673,47,35.72,False,Tuesday,18,20,0.011982824618047465
+Traversy Media,CouchDB Basics,2016-11-01 14:53:23+00:00,143204,1243,56,24.07,False,Tuesday,14,14,0.00907097567107064
+Traversy Media,Intro To Memcached,2016-10-31 19:38:02+00:00,71126,984,51,35.23,False,Monday,19,18,0.014551640750217924
+Traversy Media,Ruby On Rails In 60 Minutes,2016-10-19 16:44:37+00:00,592806,6019,468,62.13,False,Wednesday,16,27,0.010942871698329639
+Traversy Media,"MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS",2016-10-02 02:29:19+00:00,511941,4673,578,76.72,False,Sunday,2,60,0.010257041338748019
+Traversy Media,Angular 2 Auth0 Application,2016-09-30 19:14:05+00:00,84842,794,90,47.17,False,Friday,19,27,0.01041936776596497
+Traversy Media,Live Coding Stream,2016-09-24 12:16:05+00:00,0,0,0,0.0,True,Saturday,12,18,
+Traversy Media,RxJS Observables Crash Course,2016-09-23 23:33:24+00:00,275159,3664,190,73.08,False,Friday,23,29,0.014006447181447817
+Traversy Media,Node.js Static Server in Minutes,2016-09-18 20:00:55+00:00,11648,167,10,10.32,False,Sunday,20,32,0.015195741758241758
+Traversy Media,jQuery Crash Course [5] - Ajax,2016-09-18 14:10:15+00:00,148573,2813,122,20.25,False,Sunday,14,30,0.019754598749436303
+Traversy Media,jQuery Crash Course [4] - Effects and Animation,2016-09-18 13:28:14+00:00,130947,2116,46,15.07,False,Sunday,13,47,0.016510496613133557
+Traversy Media,jQuery Crash Course [3] - DOM Manipulation,2016-09-18 12:50:41+00:00,138683,2145,62,20.98,False,Sunday,12,42,0.015913990900110322
+Traversy Media,jQuery Crash Course [2] - Events,2016-09-18 12:45:54+00:00,189512,3053,110,24.32,False,Sunday,12,32,0.016690235974502934
+Traversy Media,jQuery Crash Course [1] - Intro & Selectors,2016-09-18 12:36:54+00:00,429944,6854,195,21.2,False,Sunday,12,43,0.016395158439238597
+Traversy Media,Angular 2 Github Application (RC6 Update),2016-09-06 20:35:57+00:00,15699,189,42,41.25,False,Tuesday,20,41,0.014714313013567744
+Traversy Media,Angular 2 Spotify App - Updating to RC6,2016-09-06 17:07:24+00:00,12089,115,19,18.75,False,Tuesday,17,39,0.011084456944329555
+Traversy Media,Ractive.js Crash Course,2016-09-05 16:06:34+00:00,12954,159,14,41.95,False,Monday,16,23,0.013354948278524008
+Traversy Media,MongoDB In 30 Minutes,2016-09-04 20:47:56+00:00,2362868,25752,1007,32.2,False,Sunday,20,21,0.011324796814718385
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 7,2016-08-17 13:43:40+00:00,20423,177,23,9.58,False,Wednesday,13,46,0.009792880575821377
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 2,2016-08-17 13:40:41+00:00,91016,409,27,7.68,False,Wednesday,13,46,0.004790366528961941
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 6,2016-08-17 13:40:41+00:00,18238,117,10,6.47,False,Wednesday,13,46,0.006963482838030486
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 4,2016-08-17 13:39:40+00:00,45926,209,50,16.37,False,Wednesday,13,46,0.005639507033053172
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 5,2016-08-17 13:39:31+00:00,24450,133,5,8.93,False,Wednesday,13,46,0.005644171779141104
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 3,2016-08-17 13:34:50+00:00,66149,272,20,11.5,False,Wednesday,13,46,0.004414276859816475
+Traversy Media,Recipe App Using Node.js & PostgreSQL - Part 1,2016-08-17 13:26:33+00:00,154379,872,22,2.3,False,Wednesday,13,46,0.005790943068681621
+Traversy Media,Build An Angular 2 Spotify App - Part 7,2016-08-12 14:58:28+00:00,11840,92,10,12.68,False,Friday,14,39,0.008614864864864865
+Traversy Media,Build An Angular 2 Spotify App - Part 6,2016-08-12 14:56:24+00:00,7571,40,2,13.42,False,Friday,14,39,0.005547483819838859
+Traversy Media,Build An Angular 2 Spotify App - Part 5,2016-08-12 14:52:54+00:00,9244,57,1,12.05,False,Friday,14,39,0.006274340112505409
+Traversy Media,Build An Angular 2 Spotify App - Part 4,2016-08-12 14:48:52+00:00,10925,53,5,7.57,False,Friday,14,39,0.005308924485125858
+Traversy Media,Build An Angular 2 Spotify App - Part 3,2016-08-12 14:48:29+00:00,19021,97,49,14.23,False,Friday,14,39,0.0076757268282424684
+Traversy Media,Build An Angular 2 Spotify App - Part 2,2016-08-12 14:47:12+00:00,38513,199,62,16.48,False,Friday,14,39,0.006776932464362683
+Traversy Media,Build An Angular 2 Spotify App - Part 1,2016-08-12 14:39:20+00:00,60888,393,23,2.15,False,Friday,14,39,0.006832216528708448
+Traversy Media,ExpressJS Crash Course,2016-07-23 00:39:54+00:00,407898,5387,556,75.78,False,Saturday,0,22,0.014569818925319566
+Traversy Media,React & Redux - Freestyle Coding [3],2016-07-22 00:15:44+00:00,28514,260,29,38.73,False,Friday,0,36,0.010135372097916812
+Traversy Media,Using Webpack and Babel In Your Project,2016-07-08 18:41:25+00:00,26028,291,18,15.5,False,Friday,18,39,0.011871830336560626
+Traversy Media,Angular 2 Github Application - Freestyle Coding [1],2016-07-07 20:30:57+00:00,29168,319,27,44.02,False,Thursday,20,51,0.011862314865606143
+Traversy Media,Node.js With Neo4j - Freestyle Coding [2],2016-07-07 14:27:27+00:00,55533,645,56,39.45,False,Thursday,14,41,0.01262312498874543
+Traversy Media,Neo4j Graph Database & Cypher,2016-07-06 18:03:11+00:00,67841,1027,45,29.05,False,Wednesday,18,29,0.015801653867130495
+Traversy Media,Simple Angular 2 App With Angular CLI,2016-06-15 16:39:29+00:00,122063,927,140,41.75,False,Wednesday,16,37,0.00874138764408543
+Traversy Media,Wordpress Theme With Bootstrap [10] - Implement Customizer Settings,2016-05-23 17:15:41+00:00,44361,1168,145,6.92,False,Monday,17,67,0.02959807037713307
+Traversy Media,Wordpress Theme With Bootstrap [9] - Theme Customizer,2016-05-23 17:15:20+00:00,40578,390,22,14.95,False,Monday,17,53,0.010153285031297747
+Traversy Media,Wordpress Theme With Bootstrap [8] - Custom Front Page,2016-05-23 17:12:23+00:00,39898,351,21,11.83,False,Monday,17,54,0.00932377562785102
+Traversy Media,Wordpress Theme With Bootstrap [7] - Post Formats,2016-05-23 17:10:27+00:00,32827,306,12,12.68,False,Monday,17,49,0.009687147774697657
+Traversy Media,Wordpress Theme With Bootstrap [5] - Single Posts & Pages,2016-05-23 17:06:35+00:00,48104,419,35,12.05,False,Monday,17,57,0.009437884583402627
+Traversy Media,Wordpress Theme With Bootstrap [6] - Sidebar Widgets,2016-05-23 17:05:59+00:00,36586,337,23,8.57,False,Monday,17,52,0.009839829442956322
+Traversy Media,Wordpress Theme With Bootstrap [4] - Main Post Loop,2016-05-23 17:05:40+00:00,68262,548,52,15.18,False,Monday,17,51,0.008789663355893469
+Traversy Media,Wordpress Theme With Bootstrap [2] - Header & Footer,2016-05-23 17:01:56+00:00,116591,1192,72,16.9,False,Monday,17,52,0.010841317082793697
+Traversy Media,Wordpress Theme With Bootstrap [3] - Menu With Dropdown,2016-05-23 16:59:30+00:00,95786,711,217,8.48,False,Monday,16,55,0.009688263420541625
+Traversy Media,Wordpress Theme With Bootstrap [1] - Intro and HTML,2016-05-23 16:53:14+00:00,284834,2543,110,18.42,False,Monday,16,51,0.009314197041083579
+Traversy Media,JavaScript ES6 / ES2015 - [11] Generators,2016-05-06 15:17:56+00:00,47306,749,34,5.32,False,Friday,15,41,0.016551811609520992
+Traversy Media,JavaScript ES6 / ES2015 - [10] Promises,2016-05-06 15:12:28+00:00,75993,819,67,12.3,False,Friday,15,39,0.011658968589212164
+Traversy Media,JavaScript ES6 / ES2015 - [09] Arrow Functions,2016-05-06 15:06:09+00:00,53798,495,49,5.25,False,Friday,15,46,0.010111900070634595
+Traversy Media,"JavaScript ES6 / ES2015 - [08] Set, Map, WeakSet and WeakMap",2016-05-05 22:52:36+00:00,90696,887,49,11.28,False,Thursday,22,60,0.010320190526594337
+Traversy Media,JavaScript ES6 / ES2015 - [07] Default Params & Spread Operator,2016-05-05 22:48:15+00:00,43434,383,22,4.58,False,Thursday,22,63,0.009324492333195192
+Traversy Media,JavaScript ES6 / ES2015 - [04] Classes and Inheritance,2016-05-05 22:47:34+00:00,150079,1903,80,7.62,False,Thursday,22,54,0.013213041131670654
+Traversy Media,JavaScript ES6 / ES2015 - [06] New String & Number Methods,2016-05-05 22:47:34+00:00,44363,466,7,5.92,False,Thursday,22,58,0.010662038184973965
+Traversy Media,JavaScript ES6 / ES2015 - [05] Template Literals,2016-05-05 22:44:41+00:00,61279,725,20,4.87,False,Thursday,22,48,0.012157509097733318
+Traversy Media,JavaScript ES6 / ES2015 - [03] Let and Const Declaration,2016-05-05 22:41:51+00:00,69487,697,37,8.33,False,Thursday,22,56,0.010563126915825982
+Traversy Media,JavaScript ES6 / ES2015 - [02] Compile ES6 With Babel,2016-05-05 22:40:36+00:00,128455,1015,64,11.45,False,Thursday,22,53,0.008399828733797828
+Traversy Media,JavaScript ES6 / ES2015 - [01] Introduction,2016-05-05 22:29:07+00:00,197498,1555,30,5.77,False,Thursday,22,43,0.008025397725546588
+Traversy Media,Angular 2 Tutorial [7] - HTTP and Observables,2016-04-23 12:58:04+00:00,43955,214,30,11.0,False,Saturday,12,45,0.005551131839381185
+Traversy Media,Angular 2 Tutorial [6] - Creating A Service,2016-04-23 01:24:03+00:00,12518,74,6,12.48,False,Saturday,1,43,0.006390797251957182
+Traversy Media,Angular 2 Tutorial [5] - Pipes and Filtering,2016-04-23 00:12:57+00:00,28763,110,18,11.87,False,Saturday,0,44,0.004450161666029274
+Traversy Media,Angular 2 Tutorial [3] - Components and Data Binding,2016-04-23 00:09:59+00:00,17060,117,11,12.83,False,Saturday,0,52,0.007502930832356389
+Traversy Media,Angular 2 Tutorial [4] - Template Directives,2016-04-23 00:09:41+00:00,10272,63,5,6.32,False,Saturday,0,44,0.00661993769470405
+Traversy Media,Angular 2 Tutorial [2] - Quickstart Setup,2016-04-23 00:06:00+00:00,19416,105,3,5.13,False,Saturday,0,41,0.005562422744128554
+Traversy Media,Angular 2 Tutorial [1] - Introduction,2016-04-23 00:00:24+00:00,35339,225,8,7.57,False,Saturday,0,37,0.006593282209456974
+Traversy Media,SQL Crash Course - Beginner to Intermediate,2016-03-29 16:42:20+00:00,872011,12926,419,58.65,False,Tuesday,16,43,0.015303706031231257
+Traversy Media,JavaScript Fundamentals For Beginners,2016-03-24 16:18:08+00:00,1666427,24416,904,68.37,False,Thursday,16,37,0.01519418492379204
+Traversy Media,Node.js Login System With Passport - Part 3,2016-03-18 16:05:00+00:00,119317,1901,262,19.67,False,Friday,16,43,0.018128179555302264
+Traversy Media,Node.js Login System With Passport - Part 2,2016-03-18 16:03:48+00:00,138163,948,101,17.2,False,Friday,16,43,0.007592481344498889
+Traversy Media,Node.js Login System With Passport - Part 1,2016-03-18 16:03:26+00:00,439100,2856,263,22.9,False,Friday,16,43,0.007103165565930312
+Traversy Media,Node.js & Drywall User Management System,2016-03-11 15:25:22+00:00,8108,96,12,22.07,False,Friday,15,40,0.013320177602368031
+Traversy Media,Build a Mobile App With Ionic - Part 4,2016-03-04 17:10:07+00:00,21803,108,20,8.22,False,Friday,17,38,0.0058707517314131085
+Traversy Media,Build a Mobile App With Ionic - Part 3,2016-03-04 16:49:58+00:00,20303,68,18,14.2,False,Friday,16,38,0.004235827217652564
+Traversy Media,Build a Mobile App With Ionic - Part 2,2016-03-04 16:20:12+00:00,41469,147,22,10.37,False,Friday,16,38,0.00407533338156213
+Traversy Media,Build a Mobile App With Ionic - Part 1,2016-03-04 16:12:14+00:00,114606,629,35,6.95,False,Friday,16,38,0.00579376297925065
+Traversy Media,Build an App With AngularJS & Firebase,2016-03-03 16:46:33+00:00,50659,403,41,44.42,False,Thursday,16,38,0.008764484099567697
+Traversy Media,Zend Framework 2 - Routes & Controllers,2016-02-29 14:34:35+00:00,16651,49,2,10.23,False,Monday,14,39,0.0030628791063599782
+Traversy Media,Zend Framework 2 - Fetching and Inserting Data,2016-02-29 14:29:50+00:00,9812,39,0,10.92,False,Monday,14,46,0.003974724826742764
+Traversy Media,Zend Framework 2 - Models & Database,2016-02-29 14:27:39+00:00,11665,45,3,7.68,False,Monday,14,36,0.004114873553364766
+Traversy Media,Zend Framework 2 - Editing & Deleting Data,2016-02-29 14:27:27+00:00,4867,52,4,8.67,False,Monday,14,42,0.011506061228682966
+Traversy Media,Zend Framework 2 - Config & Modules,2016-02-29 14:21:00+00:00,19459,69,7,7.98,False,Monday,14,35,0.003905647772239067
+Traversy Media,Zend Framework 2 - Installing in Windows,2016-02-28 15:51:42+00:00,45084,172,14,8.7,False,Sunday,15,40,0.0041256321533138145
+Traversy Media,Socket.io Chat App Using Websockets,2016-02-26 16:19:05+00:00,407738,4963,501,35.55,False,Friday,16,35,0.013400762254192643
+Traversy Media,Meteor.js in 50 Minutes,2016-02-23 21:13:39+00:00,135918,1395,84,48.17,False,Tuesday,21,23,0.010881560941155697
+Traversy Media,"Install LAMP Stack (Linux, Apache, MySQL, PHP) in Ubuntu 15.10",2016-02-22 20:50:42+00:00,188490,1971,173,9.57,False,Monday,20,62,0.011374608732558756
+Traversy Media,How to Install Node.js In Ubuntu 15.10,2016-02-22 20:44:33+00:00,9222,92,14,3.38,False,Monday,20,38,0.011494252873563218
+Traversy Media,Install Ubuntu 15.10 in VMware Workstation,2016-02-22 15:44:09+00:00,1364,21,2,10.62,False,Monday,15,42,0.01686217008797654
+Traversy Media,PHP OOP -  Beginners Crash Course,2016-02-20 16:31:50+00:00,162150,2809,95,24.08,False,Saturday,16,33,0.017909343200740054
+Traversy Media,Supernight 16' LED Strip Unboxing,2016-02-14 14:44:45+00:00,5537,60,3,6.08,False,Sunday,14,33,0.011378002528445006
+Traversy Media,LimeStudio 700W Photography Lighting Kit Unboxing,2016-02-14 14:18:23+00:00,1612,26,0,10.67,False,Sunday,14,49,0.016129032258064516
+Traversy Media,Installing CouchDB & Futon in Windows,2016-02-14 13:38:48+00:00,10111,49,4,5.9,False,Sunday,13,37,0.005241815844130155
+Traversy Media,MongoLab - Remote MongoDB API & JQuery - Part 2,2016-02-14 12:57:08+00:00,3443,64,9,19.42,False,Sunday,12,47,0.02120243973279117
+Traversy Media,MongoLab - Remote MongoDB API & JQuery,2016-02-13 19:12:22+00:00,15187,165,22,17.43,False,Saturday,19,38,0.01231316257325344
+Traversy Media,Install Ampps Webserver With Softaculous,2016-02-12 19:16:23+00:00,17643,133,26,14.87,False,Friday,19,40,0.00901207277673865
+Traversy Media,Learning Flux and React.js - Part 4,2016-02-09 21:25:39+00:00,8202,43,17,9.63,False,Tuesday,21,35,0.0073152889539136795
+Traversy Media,Learning Flux and React.js - Part 3,2016-02-09 21:16:24+00:00,8412,43,5,10.7,False,Tuesday,21,35,0.005706134094151213
+Traversy Media,Learning Flux and React.js - Part 2,2016-02-09 20:56:51+00:00,15007,61,4,13.73,False,Tuesday,20,35,0.004331312054374625
+Traversy Media,Learning Flux and React.js - Part 1,2016-02-09 20:41:22+00:00,51463,266,14,15.42,False,Tuesday,20,35,0.0054408021296854054
+Traversy Media,Building a Symfony 3 App - Part 4,2016-01-25 18:15:58+00:00,49453,777,107,17.33,False,Monday,18,33,0.0178755586112066
+Traversy Media,Building a Symfony 3 App - Part 3,2016-01-25 17:59:08+00:00,58964,335,51,22.58,False,Monday,17,33,0.006546367274947426
+Traversy Media,Building a Symfony 3 App - Part 2,2016-01-25 17:55:55+00:00,84927,455,46,20.78,False,Monday,17,33,0.005899184005086722
+Traversy Media,Building a Symfony 3 App - Part 1,2016-01-25 17:51:23+00:00,246559,1185,127,18.17,False,Monday,17,33,0.005321241568955098
+Traversy Media,Building An App With FuelPHP - Part 2,2016-01-23 04:16:39+00:00,9501,105,11,24.25,False,Saturday,4,37,0.012209241132512367
+Traversy Media,Building An App With FuelPHP - Part 1,2016-01-23 04:00:26+00:00,37037,243,18,38.07,False,Saturday,4,37,0.007047007047007047
+Traversy Media,How to Rip & Compress DVDs & Blu-Rays,2016-01-22 15:33:38+00:00,7977,98,6,9.18,False,Friday,15,37,0.013037482762943463
+Traversy Media,CakePHP 3.1 Login & Registration From Scratch - Part 2,2015-12-14 17:41:05+00:00,25135,243,26,12.83,False,Monday,17,54,0.010702208076387507
+Traversy Media,CakePHP 3.1 Login & Registration From Scratch - Part 1,2015-12-14 17:35:59+00:00,124635,625,58,27.23,False,Monday,17,54,0.005480001604685683
+Traversy Media,"NodeJS, Express and Handlebars",2015-12-14 17:13:56+00:00,37094,472,27,14.3,False,Monday,17,30,0.013452310346686796
+Traversy Media,Building an Ember.js App - Part 3,2015-12-13 18:40:49+00:00,17392,308,33,14.2,False,Sunday,18,33,0.019606715731370745
+Traversy Media,Building an Ember.js App - Part 2,2015-12-13 18:30:13+00:00,26360,193,56,18.13,False,Sunday,18,33,0.009446130500758725
+Traversy Media,Building an Ember.js App - Part 1,2015-12-13 18:27:09+00:00,91021,577,33,22.23,False,Sunday,18,33,0.006701750145570802
+Traversy Media,Learning D3 Part 2 - Simple Data Binding,2015-12-06 16:50:20+00:00,16191,178,7,8.55,False,Sunday,16,40,0.011426100920264344
+Traversy Media,Learning D3 Part 8 - Axes and Guides,2015-12-06 16:33:55+00:00,13150,205,18,18.88,False,Sunday,16,36,0.016958174904942967
+Traversy Media,Learning D3 Part 7 - Transitions,2015-12-06 15:31:09+00:00,15060,168,13,11.58,False,Sunday,15,32,0.01201859229747676
+Traversy Media,Learning D3 Part 6 - Using Scales,2015-12-06 15:22:54+00:00,14601,125,11,10.7,False,Sunday,15,33,0.00931443051845764
+Traversy Media,Learning D3 Part 4 - Drawing Basic Shapes with SVG,2015-12-06 15:21:01+00:00,15723,126,2,10.35,False,Sunday,15,50,0.008140940024168417
+Traversy Media,Learning D3 Part 5 - Simple Bar Chart Using SVG,2015-12-06 15:20:56+00:00,26034,189,1,8.43,False,Sunday,15,47,0.007298148574940462
+Traversy Media,Learning D3 Part 3 - Basic Static Chart,2015-12-06 15:19:01+00:00,12309,121,9,7.75,False,Sunday,15,39,0.010561377853603055
+Traversy Media,Learning D3 Part 1 -  Basic Selections,2015-12-06 15:16:11+00:00,38255,336,5,7.0,False,Sunday,15,38,0.008913867468304797
+Traversy Media,Install Laravel 5 on XAMPP in Windows 8,2015-11-09 22:15:15+00:00,18656,80,11,12.05,False,Monday,22,39,0.00487778730703259
+Traversy Media,RESTful API From Scratch  - Part 2  - Angular Frontend,2015-10-30 23:09:26+00:00,91524,764,97,52.78,False,Friday,23,54,0.009407368559066475
+Traversy Media,"Practical Gulp Tasks - Minify, Webserver, SASS Compiler",2015-10-23 15:00:21+00:00,4164,80,7,30.88,False,Friday,15,55,0.02089337175792507
+Traversy Media,"RESTful API From Scratch Using Node, Express and MongoDB",2015-10-02 16:56:42+00:00,454458,4575,366,65.98,False,Friday,16,56,0.01087229182894789
+Traversy Media,Create a REST API in minutes with Sails,2015-06-15 18:51:49+00:00,29657,267,11,8.78,False,Monday,18,39,0.009373840914455272
+Traversy Media,NodeJS & Express 4 With Cassandra  - Part 7,2015-01-13 20:26:00+00:00,4281,26,9,18.82,False,Tuesday,20,43,0.00817565989254847
+Traversy Media,NodeJS & Express 4 With Cassandra  - Part 5,2015-01-13 20:23:30+00:00,4775,37,2,18.73,False,Tuesday,20,43,0.008167539267015706
+Traversy Media,NodeJS & Express 4 With Cassandra  - Part 6,2015-01-13 20:21:18+00:00,3511,23,0,13.85,False,Tuesday,20,43,0.006550840216462546
+Traversy Media,NodeJS & Express 4 With Cassandra  - Part 4,2015-01-13 20:20:31+00:00,15461,70,9,18.85,False,Tuesday,20,43,0.00510963068365565
+Traversy Media,NodeJS & Express 4 With Cassandra  - Part 2,2015-01-13 20:19:22+00:00,12744,66,2,15.37,False,Tuesday,20,43,0.0053358443188951665
+Traversy Media,NodeJS & Express 4 With Cassandra  - Part 3,2015-01-13 20:19:22+00:00,9814,40,6,11.68,False,Tuesday,20,43,0.004687181577338496
+Traversy Media,NodeJS & Express 4 With Cassandra - Part 1,2015-01-13 20:18:24+00:00,29505,156,7,12.33,False,Tuesday,20,42,0.005524487375021183
+Traversy Media,Installing Apache Cassandra In Windows,2014-12-29 18:23:32+00:00,71988,243,38,14.22,False,Monday,18,38,0.003903428349169306
+Traversy Media,Using Bootstrap With Ruby on Rails,2014-11-07 18:48:41+00:00,18986,125,20,17.37,False,Friday,18,34,0.0076372063625829555
+Traversy Media,Build a Ruby on Rails 4 Shopping Cart Usng Spree,2014-11-07 18:45:57+00:00,34551,309,41,35.62,False,Friday,18,48,0.010129952823362565
+Traversy Media,Install Ruby on Rails In Ubuntu 14.04 Using RVM,2014-10-17 14:18:25+00:00,64516,390,65,5.05,False,Friday,14,47,0.00705251410502821
+Traversy Media,Youtube Data API v3 & jQuery To List Channel Videos,2014-09-29 17:23:28+00:00,140394,1123,185,29.27,False,Monday,17,51,0.00931663746313945
+Traversy Media,Build An Audio Player Using HTML5 & jQuery - Part 2,2014-09-26 16:02:35+00:00,40143,488,144,29.85,False,Friday,16,51,0.015743716214533045
+Traversy Media,Build An Audio Player Using HTML5 & jQuery - Part 1,2014-09-26 15:49:47+00:00,73809,559,75,35.62,False,Friday,15,51,0.008589738378788495
+Traversy Media,Install Package Control & SFTP Plugin in Sublime Text 2,2014-09-25 18:44:48+00:00,21929,115,17,7.6,False,Thursday,18,55,0.006019426330430024
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 9,2014-09-24 16:26:57+00:00,9681,60,6,27.45,False,Wednesday,16,56,0.006817477533312674
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 11,2014-09-24 16:25:47+00:00,13876,159,39,9.37,False,Wednesday,16,57,0.01426924185644278
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 8,2014-09-24 16:23:37+00:00,10021,76,7,24.45,False,Wednesday,16,56,0.008282606526294782
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 10,2014-09-24 16:23:13+00:00,8183,53,3,16.25,False,Wednesday,16,57,0.006843455945252352
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 6,2014-09-24 16:21:16+00:00,17703,107,13,23.18,False,Wednesday,16,56,0.006778512116590409
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 4,2014-09-24 16:21:16+00:00,20556,85,13,23.08,False,Wednesday,16,56,0.00476746448725433
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 5,2014-09-24 16:21:16+00:00,15530,72,4,13.82,False,Wednesday,16,56,0.00489375402446877
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 3,2014-09-24 16:21:16+00:00,24187,117,11,19.18,False,Wednesday,16,56,0.005292099061479307
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 2,2014-09-24 16:21:16+00:00,46776,245,28,22.82,False,Wednesday,16,56,0.005836326321190354
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 7,2014-09-24 16:21:16+00:00,13684,74,7,23.18,False,Wednesday,16,56,0.005919321835720549
+Traversy Media,Build An HTML5 Template With Bootstrap and SASS - Part 1,2014-09-24 16:00:42+00:00,168212,839,64,18.52,False,Wednesday,16,56,0.005368225810287019
+Traversy Media,Get Started With Sass on Windows,2014-09-19 20:16:50+00:00,92715,821,141,40.72,False,Friday,20,32,0.01037588308256485
+Traversy Media,Create A Wordpress Widget - Part 4,2014-08-22 19:23:46+00:00,3425,35,0,6.57,False,Friday,19,34,0.010218978102189781
+Traversy Media,Create A Wordpress Widget - Part 3,2014-08-22 17:35:08+00:00,2123,20,0,18.98,False,Friday,17,34,0.009420631182289214
+Traversy Media,Create A Wordpress Widget - Part 2,2014-08-22 17:31:39+00:00,3051,21,2,12.08,False,Friday,17,34,0.0075385119632907244
+Traversy Media,Create A Wordpress Widget - Part 1,2014-08-22 17:31:26+00:00,14618,104,4,12.23,False,Friday,17,34,0.007388151593925298
+Traversy Media,Ubuntu Server 14.04 Setup Part 5 - Install OpenSSH,2014-06-16 16:02:30+00:00,17760,55,4,3.88,False,Monday,16,50,0.003322072072072072
+Traversy Media,Ubuntu Server 14.04 Setup Part 4 - Samba File Server,2014-06-16 15:57:48+00:00,41680,95,14,11.63,False,Monday,15,52,0.0026151631477927062
+Traversy Media,Ubuntu Server 14.04 Setup Part 3 - Set Static IP,2014-06-16 15:28:02+00:00,58395,84,30,4.68,False,Monday,15,48,0.0019522219368096584
+Traversy Media,Ubuntu Server 14.04 Setup Part 2 - Change Hostname,2014-06-16 15:25:38+00:00,35164,104,11,4.82,False,Monday,15,50,0.0032703901717665794
+Traversy Media,Ubuntu Server 14.04 Setup Part 1 - Installation,2014-06-16 15:25:07+00:00,49235,177,9,5.82,False,Monday,15,47,0.003777800345282827
+Traversy Media,Easily migrate a Joomla site with Akeeba,2014-05-25 22:38:49+00:00,10351,61,8,12.47,False,Sunday,22,40,0.0066660226065114484
+Traversy Media,Hosts File - Temporarily Assign Domain Name to IP Address,2014-05-25 22:12:53+00:00,56416,254,24,5.95,False,Sunday,22,57,0.004927680090754396
+Traversy Media,Create a Joomla Bootstrap Template From Scratch,2014-03-30 18:49:56+00:00,113424,697,128,49.22,False,Sunday,18,47,0.007273592890393568
+Traversy Media,Install Python 3.3 On Windows 7 in 2 1/2 Minutes,2014-03-14 19:20:23+00:00,5239,28,4,2.47,False,Friday,19,48,0.006108035884710822
+Traversy Media,Install XAMPP In Windows 7,2014-03-13 15:02:48+00:00,373505,1071,128,6.67,False,Thursday,15,26,0.003210131055809159
+Traversy Media,HTML5 Web Storage,2014-03-12 14:51:25+00:00,21861,307,18,18.48,False,Wednesday,14,17,0.014866657517954348
+Traversy Media,Install MongoDB in Ubuntu,2014-03-12 12:27:38+00:00,27169,99,12,4.47,False,Wednesday,12,25,0.004085538665390702
+Traversy Media,Create a Joomla Quickstart with Custom Sample Data,2014-02-05 17:07:21+00:00,1918,17,8,12.22,False,Wednesday,17,50,0.013034410844629822
+Traversy Media,Node.js Part 2 - Install MongoDB in Windows,2014-02-03 17:39:46+00:00,70183,217,61,17.93,False,Monday,17,43,0.003961073194363307
+Traversy Media,Node.js Part 4 - NPM,2014-02-03 14:18:35+00:00,25880,102,16,7.33,False,Monday,14,20,0.004559505409582689
+Traversy Media,Node.js Part 3 - Building a Static Page Server,2014-02-02 18:54:52+00:00,34030,140,34,10.32,False,Sunday,18,46,0.005113135468704085
+Traversy Media,Node.js Part 1 - Install NodeJS on Windows,2014-01-31 18:09:58+00:00,224015,549,47,8.33,False,Friday,18,42,0.0026605361248130707
+Traversy Media,Codeigniter App Part 10 - Finishing Our App,2014-01-25 17:47:09+00:00,6875,49,9,13.37,False,Saturday,17,43,0.008436363636363636
+Traversy Media,Codeigniter App Part 9 - Relational Table Joins,2014-01-25 17:43:50+00:00,22372,94,6,26.53,False,Saturday,17,47,0.004469873055605221
+Traversy Media,Codeigniter App Part 8 - Models Task CRUD,2014-01-25 17:40:27+00:00,4945,23,3,19.22,False,Saturday,17,41,0.0052578361981799795
+Traversy Media,Codeigniter App Part 7 - Models List CRUD,2014-01-25 17:39:49+00:00,7236,37,4,31.45,False,Saturday,17,41,0.005666113875069099
+Traversy Media,Codeigniter App Part 6 - Login/Register System,2014-01-25 17:37:05+00:00,10554,52,13,30.98,False,Saturday,17,46,0.006158802349819974
+Traversy Media,Codeigniter App Part 4 - Form Helper,2014-01-25 17:33:59+00:00,8667,41,5,10.8,False,Saturday,17,36,0.005307488173531787
+Traversy Media,Codeigniter App Part 5 - Form Validation,2014-01-25 17:32:21+00:00,7746,38,4,15.52,False,Saturday,17,40,0.005422153369481022
+Traversy Media,Codeigniter App Part 2 - Installation and Configuration,2014-01-25 17:29:28+00:00,16352,77,13,16.83,False,Saturday,17,55,0.005503913894324853
+Traversy Media,Codeigniter App Part 3 - Home Controller and View,2014-01-25 17:28:30+00:00,13569,61,7,16.63,False,Saturday,17,49,0.005011423096764684
+Traversy Media,Codeigniter App Part 1 - Creating the Database,2014-01-25 17:24:47+00:00,33772,150,13,7.5,False,Saturday,17,46,0.00482648347743693
+Traversy Media,Parse JSON With PHP,2014-01-13 15:18:49+00:00,82983,739,66,12.03,False,Monday,15,19,0.00970078208789752
+Traversy Media,Installing Git on Windows,2014-01-07 12:00:25+00:00,254053,763,33,6.83,False,Tuesday,12,25,0.0031332044888271347
+Traversy Media,Easy JQuery Widgets,2014-01-06 14:23:33+00:00,6704,20,3,10.92,False,Monday,14,19,0.003430787589498807
+Traversy Media,Convert HTML to Wordpress Theme - Part 1,2013-12-10 19:24:15+00:00,270908,1614,119,29.2,False,Tuesday,19,40,0.0063970056255260085
+Traversy Media,Convert HTML to Wordpress Theme - Part 2,2013-12-10 19:24:15+00:00,61138,525,56,17.82,False,Tuesday,19,40,0.009503091367071215
+Traversy Media,Secure FTP Login With Private Access Key,2013-12-10 15:07:58+00:00,8880,30,1,4.62,False,Tuesday,15,40,0.003490990990990991
+Traversy Media,301 Redirect With htaccess File,2013-12-10 15:07:52+00:00,38987,207,15,4.35,False,Tuesday,15,31,0.005694205760894657
+Traversy Media,Add Facebook Login To Jomsocial,2013-08-26 18:40:02+00:00,922,4,1,5.45,False,Monday,18,31,0.005422993492407809
+Traversy Media,JQuery FAQ Slider Tutorial,2013-08-26 11:11:56+00:00,2289,33,3,20.03,False,Monday,11,26,0.015727391874180863
+Traversy Media,Notepad Plus Installation with FTP Plugin,2013-08-26 11:08:00+00:00,2490,9,2,4.18,False,Monday,11,41,0.004417670682730923
+Traversy Media,My Sites - Joomla 2.5 Component Setup,2013-06-26 18:49:26+00:00,1061,3,0,9.38,False,Wednesday,18,37,0.002827521206409048
+Traversy Media,Free Joomla Templates - 2.5 & 3.0,2013-06-23 18:02:00+00:00,11083,22,6,6.07,False,Sunday,18,33,0.002526391771181088
+Traversy Media,Rockettheme Rocketlauncher   Joomla Site in Under 10 Minutes,2013-06-16 14:48:43+00:00,1068,5,1,10.0,False,Sunday,14,60,0.0056179775280898875
+Traversy Media,Convert an HTML Template to Joomla 2.5/3.0 - Part Two,2013-06-13 11:28:58+00:00,34208,239,39,30.08,False,Thursday,11,53,0.008126753975678204
+Traversy Media,Convert an HTML Template to Joomla 2.5/3.0 - Part One,2013-06-13 11:24:32+00:00,78783,196,12,17.25,False,Thursday,11,53,0.0026401634870466977
+Traversy Media,Install Rails on Windows 7,2013-06-02 20:49:18+00:00,7885,30,10,5.4,False,Sunday,20,26,0.0050729232720355105
+Traversy Media,Install Joomla 3 0,2013-06-01 23:57:59+00:00,437,9,1,7.32,False,Saturday,23,18,0.02288329519450801
+Traversy Media,Create a Custom Joomla Component,2013-05-26 14:06:15+00:00,20275,72,13,23.48,False,Sunday,14,32,0.004192355117139334
+Traversy Media,Install Wordpress on XAMPP,2013-05-26 13:45:12+00:00,2820,37,3,9.58,False,Sunday,13,26,0.014184397163120567
+Traversy Media,Build a Joomla 2.5 Blog,2013-05-26 13:44:29+00:00,8032,38,16,21.92,False,Sunday,13,23,0.006723107569721116
+Traversy Media,Font Dragr,2013-05-23 13:20:49+00:00,600,12,0,2.3,False,Thursday,13,10,0.02
+Traversy Media,Joomla Component Overrides,2013-05-16 13:51:49+00:00,5345,26,6,8.12,False,Thursday,13,26,0.00598690364826941
+Traversy Media,Joomla SEO Tutorial - sh404sef Configuration,2013-05-04 14:53:23+00:00,14602,32,6,14.5,False,Saturday,14,44,0.002602383235173264
+Traversy Media,Create a Custom Joomla 2.5 Module - Part 3,2013-04-05 15:24:02+00:00,1811,14,2,3.5,False,Friday,15,42,0.00883489784649365
+Traversy Media,Create a Custom Joomla 2.5 Module - Part 2,2013-04-05 15:23:53+00:00,1743,8,0,10.9,False,Friday,15,42,0.004589787722317842
+Traversy Media,Create a Custom Joomla 2.5 Module - Part 1,2013-04-05 15:03:47+00:00,8273,58,9,11.32,False,Friday,15,42,0.008098634110963374
+Traversy Media,Pull A Heroku Rails App and Database,2013-03-27 15:51:46+00:00,2682,17,2,15.6,False,Wednesday,15,36,0.0070842654735272185
+Traversy Media,Add An Addon Domain In Cpanel,2013-03-06 14:53:50+00:00,1043,9,0,2.18,False,Wednesday,14,29,0.00862895493767977
+Traversy Media,Drupal 7 Security Update 7.19 to 7.20,2013-02-27 14:44:03+00:00,4581,24,0,4.85,False,Wednesday,14,37,0.005239030779305829
+Traversy Media,Install Joomla 2.5 on Xampp,2013-02-22 15:17:44+00:00,3803,10,2,5.82,False,Friday,15,27,0.003155403628714173
+Traversy Media,Install Phoca Gallery On Joomla 2.5,2013-02-22 15:17:43+00:00,12255,16,6,8.3,False,Friday,15,35,0.001795185638514892
+Traversy Media,Remove Phoca Gallery 3.2.3 Footer Text,2013-02-22 15:14:04+00:00,10966,36,12,2.97,False,Friday,15,38,0.0043771657851541124
+Traversy Media,Connect Joomla Site With Dreamweaver,2012-10-19 16:01:06+00:00,36318,79,10,6.95,False,Friday,16,36,0.002450575472217633
+Traversy Media,PHP Arrays & Foreach Loops,2012-06-14 13:14:41+00:00,2286,23,2,5.9,False,Thursday,13,26,0.010936132983377077
+Traversy Media,Use A Custom Font On Your Website Using CSS,2012-06-07 18:06:14+00:00,8747,55,9,5.95,False,Thursday,18,43,0.007316794329484394
+Traversy Media,Import & Export A MySQL Database,2012-06-01 16:51:14+00:00,16748,38,1,8.07,False,Friday,16,32,0.002328636255075233
+Traversy Media,Connect Dreamweaver to your website,2012-05-11 19:53:53+00:00,4878,23,6,7.22,False,Friday,19,35,0.005945059450594506
+Traversy Media,Create a Joomla Blog,2011-05-27 14:52:38+00:00,5356,16,4,8.68,False,Friday,14,20,0.0037341299477221808
+Traversy Media,Adding and linking an article in Joomla,2011-05-26 16:56:06+00:00,1986,5,1,8.65,False,Thursday,16,39,0.0030211480362537764
+Traversy Media,Create and connect to FTP,2010-08-03 18:00:21+00:00,2685,37,8,5.27,False,Tuesday,18,25,0.01675977653631285
+Traversy Media,Install & Uninstall Joomla Extensions,2010-08-03 17:26:30+00:00,2008,8,4,4.87,False,Tuesday,17,37,0.00597609561752988
+Traversy Media,Create a MySQL database in cPanel,2010-08-03 16:49:39+00:00,1579,18,7,3.05,False,Tuesday,16,33,0.015832805573147563
+Traversy Media,Adding & Checking Emails in cPanel,2010-08-03 15:49:45+00:00,3717,36,2,5.62,False,Tuesday,15,34,0.010223298358891578
+Traversy Media,Changing Your DNS/Nameservers,2010-08-03 15:26:44+00:00,11462,274,77,4.0,False,Tuesday,15,29,0.03062292793578782

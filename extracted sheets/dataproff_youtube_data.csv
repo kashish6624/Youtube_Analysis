@@ -1,0 +1,356 @@
+channel_name,title,publishedAt,views,likes,comments,duration_min,is_short,weekday,hour,title_length,engagement
+Data Professor,Bioinformatics Project from Scratch PART 2 - Preparing the Data Set,2025-06-01 05:16:42+00:00,1729,87,8,21.38,False,Sunday,5,67,0.054945054945054944
+Data Professor,Building a Call Center Analytics Pipeline in Python,2025-04-30 16:49:00+00:00,1731,78,7,29.03,False,Wednesday,16,51,0.049104563835932986
+Data Professor,How to Quickly Leverage Computer Vision in Python,2025-02-11 07:33:44+00:00,2131,80,5,8.37,False,Tuesday,7,49,0.03988737681839512
+Data Professor,From DNA to UI: Connecting the Dots between Theory and Application in Bioinformatics,2024-12-30 18:29:34+00:00,3310,102,21,25.62,False,Monday,18,84,0.03716012084592145
+Data Professor,Code Your Own Multilingual AI in Python that speaks 32 languages,2024-12-10 01:05:00+00:00,1860,62,7,10.07,False,Tuesday,1,64,0.037096774193548385
+Data Professor,Bioinformatics Project from Scratch PART 1 - Collecting the Data Set,2024-11-28 15:00:54+00:00,4484,212,45,8.13,False,Thursday,15,68,0.057314897413024084
+Data Professor,Using Google Colab for Data Science and AI,2024-11-13 04:22:43+00:00,10661,287,21,23.12,False,Wednesday,4,42,0.028890347997373604
+Data Professor,Building a YouTube AI assistant for content creators with Python,2024-10-27 22:58:54+00:00,1558,61,8,9.92,False,Sunday,22,64,0.044287548138639284
+Data Professor,Data Science Podcast with Sebastian Flores,2024-10-19 15:56:39+00:00,1512,41,0,42.32,False,Saturday,15,42,0.027116402116402115
+Data Professor,How to level up in Gen AI,2024-09-27 14:00:08+00:00,1598,52,10,18.7,False,Friday,14,25,0.03879849812265332
+Data Professor,Code your own YouTube AI assistant in Python,2024-08-16 15:57:31+00:00,2430,98,17,11.12,False,Friday,15,44,0.047325102880658436
+Data Professor,Data Storytelling in Python,2024-07-27 17:53:35+00:00,2917,91,0,66.3,False,Saturday,17,27,0.031196434693177923
+Data Professor,How I Would learn Python?,2024-07-21 13:00:02+00:00,1277,76,1,0.83,True,Sunday,13,25,0.060297572435395456
+Data Professor,Advice for newcomers to Tech (Ft. Cheuk Ting Ho),2024-07-19 13:00:21+00:00,806,0,0,0.57,True,Friday,13,48,0.0
+Data Professor,Tips for Learning Python (Ft. Cheuk Ting Ho),2024-07-17 13:00:53+00:00,579,0,0,0.9,True,Wednesday,13,44,0.0
+Data Professor,On Choosing a Programming Language to Learn!,2024-07-16 03:30:34+00:00,1017,37,1,0.93,True,Tuesday,3,44,0.03736479842674533
+Data Professor,Exploring Data Science Salaries Using R and the tidyverse,2024-07-15 03:41:32+00:00,2505,92,6,21.83,False,Monday,3,57,0.03912175648702595
+Data Professor,Learning Python and breaking into Tech,2024-07-14 17:53:27+00:00,865,0,1,0.65,True,Sunday,17,38,0.0011560693641618498
+Data Professor,From Social Sciences to Tech (Ft. Data Engineer Sergio),2024-06-26 13:00:50+00:00,1036,45,0,1.55,False,Wednesday,13,55,0.04343629343629344
+Data Professor,Learning Python (Ft. Data Scientist Nick Muoh),2024-06-24 13:00:12+00:00,508,0,1,0.68,True,Monday,13,46,0.001968503937007874
+Data Professor,Advice for Python learners (Ft. Data Scientist Nick Muoh),2024-06-22 13:00:04+00:00,642,0,0,0.8,True,Saturday,13,57,0.0
+Data Professor,Breaking into Tech (Ft. Data Scientist Nick Muoh),2024-06-20 13:00:18+00:00,619,0,0,0.65,True,Thursday,13,49,0.0
+Data Professor,"Journey of learning Python (Ft. Python Educator, Rodrigo)",2024-06-18 13:00:05+00:00,889,21,0,0.7,True,Tuesday,13,57,0.023622047244094488
+Data Professor,"Tips for learning Python (Ft. Python Educator, Rodrigo)",2024-06-16 13:00:30+00:00,1309,38,1,0.7,True,Sunday,13,55,0.029793735676088617
+Data Professor,Discover the Power of Python (Ft. Python Crash Course Author Eric Matthes),2024-05-31 11:00:26+00:00,6035,166,4,0.5,True,Friday,11,74,0.028169014084507043
+Data Professor,Tips for Mastering Python (Ft. Python Crash Course Author Eric Matthes),2024-05-30 07:20:09+00:00,4108,150,0,0.78,True,Thursday,7,71,0.0365141187925998
+Data Professor,Who is Sebastian Flores? | PyCon US 2024,2024-05-27 14:00:18+00:00,785,16,1,0.85,True,Monday,14,40,0.02165605095541401
+Data Professor,Try this to Level up your Coding (Ft. Sebastian Flores) | PyCon US 2024,2024-05-26 21:47:37+00:00,1274,54,3,0.85,True,Sunday,21,71,0.044740973312401885
+Data Professor,Getting into Tech with Python (Ft. Sebastian Flores) | PyCon US 2024,2024-05-21 17:08:48+00:00,1700,41,0,0.7,True,Tuesday,17,68,0.02411764705882353
+Data Professor,How to use Llama2 locally,2023-12-09 07:18:51+00:00,7673,187,13,9.0,False,Saturday,7,25,0.026065424214779094
+Data Professor,A glimpse into the future of LLMs with State of LLM Apps 2023,2023-12-05 04:35:21+00:00,2238,49,5,8.62,False,Tuesday,4,61,0.024128686327077747
+Data Professor,How to Get Ahead of 99% of Data Scientists with Streamlit (Tips from Tyler Richards),2023-10-23 08:10:38+00:00,5433,142,22,53.33,False,Monday,8,84,0.030185900975519972
+Data Professor,Streamlit LLM Hackathon,2023-09-08 09:10:04+00:00,6236,108,10,3.45,False,Friday,9,23,0.01892238614496472
+Data Professor,How to Use the Open-Source Hugging Chat API in Python,2023-08-28 05:05:38+00:00,12520,231,27,7.63,False,Monday,5,53,0.02060702875399361
+Data Professor,How to use GitHub Codespaces for Coding and Data Science,2023-08-21 01:00:30+00:00,50047,801,33,11.88,False,Monday,1,56,0.01666433552460687
+Data Professor,Introducing the Mito Streamlit component,2023-08-14 07:29:14+00:00,3124,72,4,4.53,False,Monday,7,40,0.024327784891165175
+Data Professor,How to use the Llama 2 LLM in Python,2023-08-01 03:23:49+00:00,135248,1304,48,4.85,False,Tuesday,3,36,0.009996450964154737
+Data Professor,Choosing a Programming Language to Learn!,2023-06-21 02:00:08+00:00,2849,104,1,0.82,True,Wednesday,2,41,0.036855036855036855
+Data Professor,Identifying the PROBLEM to solve when learning to CODE,2023-06-14 02:00:02+00:00,1801,74,1,0.98,True,Wednesday,2,54,0.0416435313714603
+Data Professor,How to unleash the power of ChatGPT on your Pandas Dataframes with Mito AI,2023-06-09 14:00:44+00:00,4594,102,19,1.95,False,Friday,14,74,0.02633870265563779
+Data Professor,How I would learn Python,2023-06-05 08:54:29+00:00,5224,205,1,0.83,True,Monday,8,24,0.03943338437978561
+Data Professor,How I would learn Python,2023-05-13 16:48:08+00:00,9570,319,18,15.62,False,Saturday,16,24,0.03521421107628004
+Data Professor,Data Science Podcast with Jess Haberman from Anaconda,2023-05-02 15:00:27+00:00,11595,205,7,80.08,False,Tuesday,15,53,0.018283742992669254
+Data Professor,"Streamlit Hackathon - Ready, Set, Build!",2023-05-01 18:02:58+00:00,3626,61,5,2.22,False,Monday,18,40,0.01820187534473249
+Data Professor,Building a web app in Python for analyzing YouTube channels,2023-03-25 15:38:54+00:00,12821,340,11,13.93,False,Saturday,15,59,0.02737695967553233
+Data Professor,ChatGPT a threat for schools?,2023-02-14 12:54:14+00:00,2442,41,8,0.87,True,Tuesday,12,29,0.020065520065520065
+Data Professor,How to use ChatGPT to Explain Code,2023-01-29 13:05:38+00:00,14078,196,16,2.57,False,Sunday,13,34,0.015058957238244068
+Data Professor,How to use ChatGPT to Generate Code in 90 seconds,2023-01-20 12:16:58+00:00,18341,148,14,1.65,False,Friday,12,49,0.008832669974374353
+Data Professor,How to summarize text using ChatGPT,2023-01-13 11:06:56+00:00,147557,991,54,5.77,False,Friday,11,35,0.007082008986357814
+Data Professor,How to get started with ChatGPT for Beginners,2023-01-08 05:55:39+00:00,17236,405,36,13.7,False,Sunday,5,45,0.02558598282664191
+Data Professor,Build machine learning models in Google Sheets,2022-12-22 14:44:06+00:00,19485,604,31,16.77,False,Thursday,14,46,0.032589171157300485
+Data Professor,How to Built an App for Converting Video to Animated Images in Python (Full code inside),2022-12-16 17:25:27+00:00,7628,177,10,20.17,False,Friday,17,88,0.024514944939695856
+Data Professor,Welcome to the Data Professor YouTube channel,2022-12-06 05:59:46+00:00,32129,218,20,1.75,False,Tuesday,5,45,0.007407637959475863
+Data Professor,How to build a protein structure prediction app in Python using ESMFold and Streamlit,2022-11-29 12:05:54+00:00,22244,705,34,12.15,False,Tuesday,12,85,0.0332224420068333
+Data Professor,Streamlit at tech conference Build 22,2022-11-12 12:31:24+00:00,2773,40,7,1.95,False,Saturday,12,37,0.01694915254237288
+Data Professor,How to quickly prototype your Streamlit web app,2022-11-04 08:09:07+00:00,5240,101,9,7.15,False,Friday,8,47,0.02099236641221374
+Data Professor,How I would learn to code (If I had to start over),2022-10-25 07:47:33+00:00,7285,370,25,11.3,False,Tuesday,7,50,0.05422100205902539
+Data Professor,Build a data storytelling web app in Python with ipyvizzu | Streamlit tutorial,2022-10-18 11:01:08+00:00,16372,528,32,5.97,False,Tuesday,11,78,0.034204739799657956
+Data Professor,Building a Dashboard web app in Python - Full Streamlit Tutorial,2022-10-12 13:53:06+00:00,111254,1878,61,13.6,False,Wednesday,13,64,0.017428586837327197
+Data Professor,Tips for learning to code,2022-10-06 08:20:07+00:00,2917,108,4,1.0,False,Thursday,8,25,0.03839561193006513
+Data Professor,Advice on breaking into Tech from a FAANG Developer (@CodewithVincent),2022-09-30 03:40:25+00:00,1081,19,4,42.93,False,Friday,3,70,0.02127659574468085
+Data Professor,Introduction to Computational Drug Discovery,2022-09-21 12:19:43+00:00,12463,357,14,115.53,False,Wednesday,12,44,0.02976811361630426
+Data Professor,Data Science Podcast with @misraturp,2022-09-12 07:10:42+00:00,9685,195,16,48.6,False,Monday,7,36,0.021786267423851317
+Data Professor,How to run R and Python together in a Streamlit app,2022-08-31 11:49:25+00:00,6132,144,23,12.08,False,Wednesday,11,51,0.027234181343770383
+Data Professor,Faster Data Analysis in Python with Mito,2022-08-05 04:55:04+00:00,5795,242,9,6.35,False,Friday,4,40,0.04331320103537532
+Data Professor,How to become a Full-Stack Developer with Meta x Coursera,2022-07-31 15:10:26+00:00,14484,237,30,2.53,False,Sunday,15,57,0.01843413421706711
+Data Professor,How to build a content moderation app in Python for analyzing audio files,2022-07-28 13:40:34+00:00,3843,68,5,20.42,False,Thursday,13,73,0.018995576372625552
+Data Professor,Walkthrough of How I use Coding for Data Analysis,2022-07-25 15:56:32+00:00,7576,395,12,0.98,True,Monday,15,49,0.053722280887011614
+Data Professor,This ONE thing helped me learn to CODE,2022-07-22 02:00:30+00:00,5247,348,4,0.63,True,Friday,2,38,0.06708595387840671
+Data Professor,How to build a Linktree Clone using Python + Streamlit,2022-07-18 17:23:51+00:00,7103,190,18,12.5,False,Monday,17,54,0.029283401379698717
+Data Professor,Free computing resource for data science,2022-07-06 13:00:57+00:00,5290,173,10,9.25,False,Wednesday,13,40,0.03459357277882798
+Data Professor,MLOps 101 - A Practical Tutorial on Creating a Machine Learning Project with DagsHub,2022-06-13 14:00:21+00:00,9076,194,9,28.25,False,Monday,14,84,0.02236668135742618
+Data Professor,Cloud Dataholics - Sitcom for Data Enthusiast,2022-06-10 15:00:02+00:00,1934,70,3,0.97,True,Friday,15,45,0.037745604963805586
+Data Professor,How to come up with Data Science projects - From Ideas to Implementation,2022-06-03 14:50:48+00:00,13592,385,21,16.28,False,Friday,14,72,0.02987051206592113
+Data Professor,Introduction to DagsHub for Data Science,2022-05-30 14:00:11+00:00,48640,368,11,19.02,False,Monday,14,40,0.007791940789473684
+Data Professor,Build your first machine learning model in Python,2022-05-27 15:15:52+00:00,515797,12892,469,30.95,False,Friday,15,49,0.025903601610711192
+Data Professor,Introducing the Cloud Dataholics sitcom by AtScale,2022-05-25 13:57:25+00:00,1197,32,7,2.03,False,Wednesday,13,50,0.03258145363408521
+Data Professor,How to build VennLit App for comparing lists in Python using Streamlit,2022-05-21 08:55:30+00:00,4565,106,7,14.12,False,Saturday,8,70,0.02475355969331873
+Data Professor,How to build a portfolio website for data science | Hugo + Hostinger,2022-05-13 13:09:22+00:00,20321,366,16,60.27,False,Friday,13,68,0.018798287485852074
+Data Professor,How to create graphs using Mito,2022-05-05 12:50:01+00:00,2989,103,6,5.95,False,Thursday,12,31,0.03646704583472733
+Data Professor,How to stay up-to-date in data science,2022-04-25 14:36:03+00:00,5757,261,36,14.27,False,Monday,14,38,0.05158936946326212
+Data Professor,How to build a machine learning model in Python from scratch,2022-04-11 14:51:28+00:00,41031,823,28,63.57,False,Monday,14,60,0.02074041578318832
+Data Professor,How to Build a Dashboard Web App in Python with Streamlit,2022-04-01 16:57:08+00:00,53103,795,35,10.68,False,Friday,16,57,0.015630002071446058
+Data Professor,Tips and Tricks for building web applications in Python with Streamlit (Ft. Avra),2022-03-25 19:30:55+00:00,12363,295,20,83.88,False,Friday,19,81,0.025479252608590148
+Data Professor,"The AI Conference NVIDIA GTC 22 kicks off today (Giveaway, details inside)",2022-03-21 15:43:23+00:00,1468,43,23,3.83,False,Monday,15,74,0.04495912806539509
+Data Professor,How to Build a Real-Time Transcription Web App in Python using AssemblyAI and Streamlit,2022-03-16 13:35:50+00:00,22646,470,34,16.42,False,Wednesday,13,87,0.022255585975448203
+Data Professor,How to Create an Engaging README for your Data Science Project on GitHub,2022-03-11 12:17:10+00:00,2917,172,18,5.12,False,Friday,12,72,0.06513541309564622
+Data Professor,Python 101 for Beginners,2022-02-23 15:33:51+00:00,9716,213,18,36.6,False,Wednesday,15,24,0.02377521613832853
+Data Professor,So how is a machine learning model built?,2022-02-20 13:30:15+00:00,5981,95,17,0.5,True,Sunday,13,41,0.018725965557599065
+Data Professor,Python Data Science in a Spreadsheet,2022-02-15 07:01:01+00:00,7462,230,15,6.82,False,Tuesday,7,36,0.03283302063789869
+Data Professor,How to build a data science resume (portfolio website) in Python with Streamlit,2022-02-07 06:18:11+00:00,20853,696,52,14.15,False,Monday,6,79,0.035870138589171825
+Data Professor,Fastest way to upload files from Google Drive to Google Colab,2022-01-29 16:03:01+00:00,46959,612,49,4.67,False,Saturday,16,61,0.01407610894610192
+Data Professor,How to get started with Pandas for Data Science,2022-01-26 12:56:12+00:00,9424,302,49,10.67,False,Wednesday,12,47,0.037245331069609505
+Data Professor,Live Coding a Streamlit App for Data Science from Scratch,2022-01-22 09:21:35+00:00,13357,262,37,32.32,False,Saturday,9,57,0.022385266152579172
+Data Professor,Data Science Podcast on Time Series Prediction with Ben Auffarth,2022-01-17 18:06:18+00:00,4004,117,18,46.33,False,Monday,18,64,0.03371628371628372
+Data Professor,How to create your first data science project,2022-01-13 08:33:09+00:00,22933,630,24,21.3,False,Thursday,8,45,0.02851785636419134
+Data Professor,How to apply custom CSS styles in Streamlit apps,2022-01-09 12:50:52+00:00,72284,865,79,8.02,False,Sunday,12,48,0.013059598251341929
+Data Professor,How to get started with the 66 Days of Data challenge,2022-01-06 06:04:31+00:00,7175,175,22,6.1,False,Thursday,6,53,0.027456445993031358
+Data Professor,dabl - A Python library for AutoEDA and AutoML,2022-01-03 13:13:55+00:00,7709,289,20,12.5,False,Monday,13,46,0.040083019846932154
+Data Professor,How to use Machine Learning to explain how drugs work,2021-12-30 03:20:37+00:00,5813,257,17,3.63,False,Thursday,3,53,0.0471357302597626
+Data Professor,The Future of this Data Science YouTube Channel,2021-12-25 13:25:52+00:00,3208,155,54,0.75,True,Saturday,13,47,0.06514962593516209
+Data Professor,How to Stay Motivated Learning Data Science,2021-12-21 07:31:59+00:00,5465,247,38,6.38,False,Tuesday,7,43,0.05215004574565416
+Data Professor,How to use the ChEMBL database | Online drug discovery course,2021-12-15 06:22:27+00:00,13583,251,18,4.92,False,Wednesday,6,61,0.01980416697342266
+Data Professor,How to do research? and How to write a research paper?,2021-12-11 12:46:15+00:00,5886,340,36,10.38,False,Saturday,12,54,0.06388039415562351
+Data Professor,Ligand-based drug discovery | Online drug discovery course,2021-12-10 11:04:01+00:00,10412,272,29,28.65,False,Friday,11,58,0.028908951210142142
+Data Professor,How to build your own Speech-to-Text Transcription App in Python using AssemblyAI and Streamlit,2021-12-03 10:36:33+00:00,24085,448,33,26.8,False,Friday,10,95,0.01997093626738634
+Data Professor,Exploring and Analyzing Data with Mito,2021-11-26 11:38:41+00:00,3307,107,9,5.72,False,Friday,11,38,0.035077109162382825
+Data Professor,What is the best way to learn data science?,2021-11-21 02:35:52+00:00,6117,206,9,0.27,True,Sunday,2,43,0.03514794834068988
+Data Professor,My journey into data science,2021-11-20 04:18:53+00:00,10269,242,34,2.92,False,Saturday,4,28,0.026877008472100495
+Data Professor,How to web scrape data using no code with Octoparse,2021-11-18 10:17:34+00:00,52224,552,58,19.92,False,Thursday,10,51,0.01168045343137255
+Data Professor,How to Create Your Personal Data Science Learning Curriculum,2021-11-09 13:05:12+00:00,10605,396,33,34.98,False,Tuesday,13,60,0.04045261669024045
+Data Professor,How to build a Google Scholar App | Streamlit #30,2021-11-05 10:40:02+00:00,4674,87,3,21.03,False,Friday,10,49,0.019255455712451863
+Data Professor,Using Mito to make Machine Learning Easier,2021-10-29 09:45:00+00:00,3621,89,10,8.63,False,Friday,9,42,0.027340513670256836
+Data Professor,Streamlit 101 - How to clone and reproduce a Streamlit web app from SCRATCH,2021-10-26 10:25:54+00:00,6843,105,7,8.97,False,Tuesday,10,75,0.016367090457401725
+Data Professor,Streamlit 101 - How to setup your Streamlit working environment,2021-10-20 10:46:32+00:00,27988,214,8,3.6,False,Wednesday,10,63,0.007931970844647706
+Data Professor,How to Use Mito for Data Analysis in Python,2021-10-15 09:47:21+00:00,5792,179,17,6.83,False,Friday,9,43,0.03383977900552486
+Data Professor,The upcoming NVIDIA GTC is FREE + Giveaways (Swag Bag and Course Credits),2021-10-11 13:14:08+00:00,2401,66,64,5.42,False,Monday,13,73,0.054144106622240736
+Data Professor,Call for Participation in the Open Bioinformatics Research Project,2021-10-10 02:37:23+00:00,25168,893,168,23.48,False,Sunday,2,66,0.042156706929434205
+Data Professor,Is it Possible to Add a Navigation Bar to Streamlit Apps? | Streamlit #29,2021-10-03 08:04:21+00:00,42301,626,43,6.57,False,Sunday,8,73,0.01581522895439824
+Data Professor,How to build a Cryptocurrency Price App in Python using Binance API | Streamlit #28,2021-10-02 02:34:41+00:00,13962,334,58,14.42,False,Saturday,2,83,0.028076206847156567
+Data Professor,An Introduction to Computational Drug Discovery,2021-09-25 08:52:48+00:00,79965,2430,126,151.53,False,Saturday,8,47,0.03196398424310636
+Data Professor,How to automatically clean data with BitRook,2021-09-22 09:56:50+00:00,3459,172,18,4.55,False,Wednesday,9,44,0.05492917028042787
+Data Professor,How to use Mito to automatically generate Python code for data visualization,2021-09-18 04:35:48+00:00,7864,203,18,2.65,False,Saturday,4,76,0.028102746693794506
+Data Professor,How to build machine learning models for imbalanced datasets,2021-09-14 13:34:33+00:00,9076,270,26,19.75,False,Tuesday,13,60,0.03261348611723226
+Data Professor,Data Science Podcast with Pat Walters (Cheminformatics Scientist),2021-09-10 11:14:07+00:00,5808,212,30,59.78,False,Friday,11,65,0.041666666666666664
+Data Professor,How to automate data processing in Python with Mito,2021-09-07 13:29:36+00:00,9184,280,41,5.68,False,Tuesday,13,51,0.03495209059233449
+Data Professor,Data Science Podcast with Tyler Richards (Facebook Data Scientist),2021-09-04 10:55:18+00:00,6413,188,29,68.12,False,Saturday,10,66,0.03383751754249181
+Data Professor,Building and deploying your first machine learning app in Python using Gradio,2021-09-01 10:02:53+00:00,19551,490,45,19.43,False,Wednesday,10,77,0.027364329190322747
+Data Professor,Top 5 Python Libraries for Data Visualization (Ft. @CodingProfessor),2021-08-29 02:43:06+00:00,6623,242,12,11.55,False,Sunday,2,68,0.03835120036237355
+Data Professor,Building a Simple Digits Image Classification Model,2021-08-25 13:12:28+00:00,3919,105,17,10.4,False,Wednesday,13,51,0.031130390405715743
+Data Professor,How to Monitor Machine Learning Models (Evidently AI),2021-08-21 07:33:57+00:00,25356,405,26,21.78,False,Saturday,7,53,0.016997949203344374
+Data Professor,FLAML - The AutoML from Microsoft (Machine Learning Models in 3 Lines of Code),2021-08-17 11:21:29+00:00,7463,234,18,20.93,False,Tuesday,11,78,0.033766581803564254
+Data Professor,How to write a great looking research article using LaTeX on Overleaf,2021-08-13 15:59:21+00:00,96948,1662,63,25.7,False,Friday,15,69,0.017793043693526425
+Data Professor,Podcast with Minhaaj Rehman on Data Science and Psychology,2021-08-10 11:27:06+00:00,2321,79,11,70.0,False,Tuesday,11,58,0.03877638948728996
+Data Professor,DataPrep Python library for Easy Data Preparation and EDA,2021-08-07 07:40:39+00:00,12614,351,34,9.93,False,Saturday,7,57,0.030521642619311874
+Data Professor,Data Slicing in Python with Mito,2021-08-03 11:01:31+00:00,3406,94,17,6.63,False,Tuesday,11,32,0.03258954785672343
+Data Professor,What if Data Science was a Building Block? (Dolphyn),2021-07-31 04:13:31+00:00,2435,96,13,8.35,False,Saturday,4,52,0.04476386036960986
+Data Professor,How I Use Notion as a Professor and Content Creator in Data Science (Template Included),2021-07-28 09:17:21+00:00,9556,251,29,36.25,False,Wednesday,9,87,0.029300962745918795
+Data Professor,AlphaFold 2 Learns the Entire Human Proteome (AlphaFold Protein Structure Database),2021-07-25 04:04:26+00:00,5107,195,14,8.13,False,Sunday,4,83,0.04092422165654983
+Data Professor,Data Science Podcast with Nate at StrataScratch,2021-07-23 15:15:11+00:00,2367,88,2,64.25,False,Friday,15,47,0.03802281368821293
+Data Professor,AlphaFold 2 Paper with Code,2021-07-20 10:35:42+00:00,13047,369,40,7.17,False,Tuesday,10,27,0.03134820265195064
+Data Professor,How to handle missing data with Pandas,2021-07-16 16:03:15+00:00,2776,109,13,15.1,False,Friday,16,38,0.04394812680115274
+Data Professor,How to build a Portfolio website that supports Jupyter notebooks using fastpages,2021-07-13 07:32:08+00:00,9387,250,35,27.43,False,Tuesday,7,80,0.03036113774368808
+Data Professor,How to Build a Machine Learning Model Performance Calculator App,2021-07-10 06:37:03+00:00,7199,167,18,14.15,False,Saturday,6,64,0.025698013613001804
+Data Professor,How to build machine learning models for drug discovery using PaDELPy,2021-07-05 10:43:26+00:00,11671,278,41,17.97,False,Monday,10,69,0.027332704995287466
+Data Professor,How to handle missing data in R (Ft. @StatisticsGlobe),2021-07-02 14:03:36+00:00,4478,153,28,24.3,False,Friday,14,54,0.040419830281375614
+Data Professor,Data Science for Bioinformatics,2021-06-27 15:17:03+00:00,18319,581,50,70.12,False,Sunday,15,31,0.03444511163273104
+Data Professor,AutoPlotter - A GUI based Exploratory Data Analysis in Python,2021-06-26 04:36:38+00:00,5964,222,29,9.18,False,Saturday,4,61,0.042085848423876596
+Data Professor,How to Master Python for Data Science,2021-06-21 11:02:28+00:00,7941,306,31,27.43,False,Monday,11,37,0.04243798010326155
+Data Professor,How to Create Animated Plots in R,2021-06-20 02:40:28+00:00,9057,238,21,12.42,False,Sunday,2,33,0.028596665562548307
+Data Professor,Who is @KenJee_ds? (Data science and Sports analytics),2021-06-17 14:24:36+00:00,1723,70,13,64.98,False,Thursday,14,54,0.0481717933836332
+Data Professor,Exploratory Data Analysis in Python using Mito,2021-06-11 10:11:27+00:00,4395,140,15,4.97,False,Friday,10,46,0.03526734926052332
+Data Professor,How to Build a Simple Portfolio Website for FREE,2021-06-04 09:49:43+00:00,9815,320,35,17.52,False,Friday,9,48,0.03616912888436067
+Data Professor,How to handle imbalanced datasets in Python,2021-05-28 15:27:56+00:00,62862,1526,104,11.8,False,Friday,15,43,0.025929814514332985
+Data Professor,How to Build Bioinformatics Tools,2021-05-21 12:35:38+00:00,38030,1145,68,122.58,False,Friday,12,33,0.03189587168025243
+Data Professor,My thoughts and review of the Google Data Analytics Professional Certificate,2021-05-19 09:22:19+00:00,13380,356,97,12.12,False,Wednesday,9,76,0.03385650224215247
+Data Professor,How to paraphrase text in Python using the PARROT library (Ft. @KenJee_ds),2021-05-16 07:39:55+00:00,14473,345,61,4.98,False,Sunday,7,74,0.02805223519657293
+Data Professor,How to make a Histogram plot in Python using Matplotlib | Ft.@CodingProfessor,2021-05-14 12:40:19+00:00,8666,111,20,12.65,False,Friday,12,77,0.015116547426725132
+Data Professor,Ep. 2 How to create a finance web app in 1 minute using Streamlit #shorts,2021-05-11 09:39:49+00:00,17524,535,10,0.98,True,Tuesday,9,73,0.031100205432549648
+Data Professor,Ep. 1 How to create your first Streamlit web app in 1 minute #shorts,2021-05-09 06:40:38+00:00,45902,1230,20,0.98,True,Sunday,6,68,0.027231928891987278
+Data Professor,How to create and share beautiful images of your source code with CARBON #shorts,2021-05-08 05:47:08+00:00,6441,218,10,0.97,True,Saturday,5,80,0.035398230088495575
+Data Professor,Data science in Psychology - Gaining insights on the Big 5 Personality Traits (Ft. Minhaaj Rehman),2021-05-07 12:05:00+00:00,6602,233,25,6.65,False,Friday,12,98,0.03907906694940927
+Data Professor,How to build a web app for Drug Discovery in Python | Streamlit #26,2021-05-05 09:23:57+00:00,9123,205,33,19.73,False,Wednesday,9,67,0.026087909678833718
+Data Professor,How to easily perform statistical analysis in Python with the Pengouin library,2021-05-02 15:15:45+00:00,7719,267,25,10.35,False,Sunday,15,78,0.037828734292006734
+Data Professor,How to quickly explore data in Python using the D-Tale library,2021-04-29 11:46:43+00:00,18256,545,49,11.98,False,Thursday,11,62,0.03253724802804557
+Data Professor,How to use Mito for pre-processing datasets in Python (low code approach),2021-04-26 09:40:16+00:00,2882,96,24,5.95,False,Monday,9,73,0.041637751561415685
+Data Professor,How to deploy machine learning model as an app in Python using Gradio,2021-04-23 07:35:17+00:00,13565,331,37,12.87,False,Friday,7,69,0.02712863988204939
+Data Professor,How to build a Currency Converter App | Streamlit #25,2021-04-19 11:24:04+00:00,5501,134,26,9.73,False,Monday,11,53,0.029085620796218868
+Data Professor,How to stack machine learning models in Python,2021-04-16 12:59:56+00:00,32184,954,86,14.23,False,Friday,12,46,0.03231419338801889
+Data Professor,My thoughts on web frameworks in Python and R (PyWebIO vs Streamlit vs R Shiny),2021-04-15 08:37:23+00:00,17495,246,43,18.07,False,Thursday,8,79,0.016519005430122892
+Data Professor,How to build your first simple web application in Python with PyWebIO,2021-04-13 06:07:32+00:00,80929,919,73,11.55,False,Tuesday,6,69,0.012257657947089424
+Data Professor,How to create variables and lists in R | R Tutorial #4,2021-04-11 12:58:39+00:00,3577,58,14,4.7,False,Sunday,12,54,0.020128599384959464
+Data Professor,How to paraphrase text in Python using transformers,2021-04-09 12:39:05+00:00,16405,365,51,13.17,False,Friday,12,51,0.02535812252362085
+Data Professor,Learn about the R Data Types | R Tutorial #3,2021-04-06 16:24:14+00:00,1992,73,7,6.6,False,Tuesday,16,44,0.040160642570281124
+Data Professor,Easy webscraping in Python,2021-04-04 09:44:38+00:00,5647,260,30,4.77,False,Sunday,9,26,0.051354701611475116
+Data Professor,How to install R packages | R Tutorial #2,2021-04-02 12:07:00+00:00,1849,46,26,6.37,False,Friday,12,41,0.038939967550027044
+Data Professor,How to set up the R programming environment | R Tutorial #1,2021-03-31 10:50:55+00:00,7480,132,52,20.15,False,Wednesday,10,59,0.02459893048128342
+Data Professor,How to customize the themes of your Streamlit web apps | Streamlit #24,2021-03-28 08:18:07+00:00,34975,361,42,3.62,False,Sunday,8,70,0.011522516082916368
+Data Professor,NVIDIA GTC21 (The AI Conference) is FREE + Course Giveaway,2021-03-25 13:01:29+00:00,2442,102,104,6.78,False,Thursday,13,58,0.08435708435708436
+Data Professor,How to build an app for combining the contents of multiple spreadsheets | Streamlit #23,2021-03-22 23:44:19+00:00,7049,153,27,19.35,False,Monday,23,87,0.025535536955596537
+Data Professor,Quickly build Explainable AI dashboards in Python (explainerdashboard library),2021-03-19 15:16:12+00:00,14427,426,38,12.02,False,Friday,15,78,0.03216191862480072
+Data Professor,Making Sense of Data with Explainable AI (shapash Python library),2021-03-16 11:03:10+00:00,6507,300,24,7.78,False,Tuesday,11,65,0.04979253112033195
+Data Professor,How to Run Data Science Projects on the Cloud with Code Ocean (Reproducible Data Science),2021-03-13 13:08:50+00:00,4164,112,21,11.05,False,Saturday,13,89,0.031940441882804996
+Data Professor,Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22,2021-03-12 12:23:12+00:00,20557,339,76,24.48,False,Friday,12,97,0.02018777058909374
+Data Professor,A Peek into the Google Professional Certificate in Data Analytics (and IT Support),2021-03-08 12:55:48+00:00,7221,248,52,10.88,False,Monday,12,82,0.04154549231408392
+Data Professor,How to effortlessly work with spreadsheets in Python using MITO,2021-03-06 03:38:30+00:00,9389,350,25,6.27,False,Saturday,3,63,0.039940355735435085
+Data Professor,How to examine chance prediction of a machine learning model (Y-Scrambling / Y-Permutation),2021-03-02 13:01:05+00:00,2359,85,15,14.2,False,Tuesday,13,91,0.0423908435777872
+Data Professor,How to build a Bioinformatics web app (Molecular Descriptor Calculator) in Python | Streamlit #21,2021-02-25 12:23:13+00:00,14455,296,36,24.6,False,Thursday,12,97,0.02296783120027672
+Data Professor,How to build a Stock price web app in Python | Streamlit #20,2021-02-21 08:21:15+00:00,22172,495,67,11.87,False,Sunday,8,60,0.02534728486379217
+Data Professor,How to build a machine learning model to predict antimicrobial peptides (End-to-end Bioinformatics),2021-02-17 12:58:16+00:00,24041,683,81,35.75,False,Wednesday,12,99,0.03177904413293956
+Data Professor,The Art of Learning Data Science (How to learn data science),2021-02-11 15:30:13+00:00,106763,3378,232,32.93,False,Thursday,15,60,0.033813212442512855
+Data Professor,How to build an Exploratory Data Analysis app using Pandas Profiling | Streamlit #19,2021-02-07 12:13:58+00:00,24443,733,57,11.77,False,Sunday,12,84,0.032320091641778834
+Data Professor,How to build an Avatar maker app in 20 minutes (Python weekend project) | Streamlit #18,2021-02-03 14:20:44+00:00,16384,325,50,20.0,False,Wednesday,14,87,0.02288818359375
+Data Professor,How to Build Your Own AutoML App | Streamlit #17,2021-01-31 06:08:32+00:00,15525,409,76,18.72,False,Sunday,6,48,0.031239935587761676
+Data Professor,How to Make a Multi-Page Web App | Streamlit #16,2021-01-28 11:16:07+00:00,54360,816,90,5.78,False,Thursday,11,48,0.016666666666666666
+Data Professor,Let's Build a Pomodoro Web App for Data Science | Streamlit #15,2021-01-26 07:02:38+00:00,8352,202,23,9.2,False,Tuesday,7,63,0.02693965517241379
+Data Professor,Bioinformatics Project from Scratch - Drug Discovery Part 5 (Compare Models),2021-01-22 15:05:06+00:00,15868,354,79,7.8,False,Friday,15,76,0.027287622888832873
+Data Professor,Vaex - Fast data frame for Data Science (Handle billion rows in seconds),2021-01-19 12:28:25+00:00,15039,518,90,6.75,False,Tuesday,12,72,0.04042821996143361
+Data Professor,How to compare machine learning classifiers in 2 lines of code (lazypredict Python library),2021-01-16 12:35:32+00:00,12492,504,60,9.85,False,Saturday,12,91,0.04514889529298751
+Data Professor,How NVIDIA NGC can be used for Data Science (Podcast + Giveaway),2021-01-13 06:25:52+00:00,2910,91,47,38.45,False,Wednesday,6,64,0.04742268041237113
+Data Professor,Progress Bars for Tracking the Progress of Data Science Workflow (Tqdm Python library),2021-01-09 03:23:33+00:00,12252,303,41,5.2,False,Saturday,3,86,0.028077048645119163
+Data Professor,How to Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib,2021-01-06 04:16:15+00:00,9060,452,60,9.38,False,Wednesday,4,79,0.0565121412803532
+Data Professor,How to Build a Machine Learning Hyperparameter Optimization App | Streamlit #14,2021-01-03 11:59:53+00:00,10580,273,27,17.2,False,Sunday,11,79,0.02835538752362949
+Data Professor,Could this be the Best Data Science Notebook? (Deepnote),2020-12-31 09:52:06+00:00,18277,419,58,11.7,False,Thursday,9,56,0.026098375006839196
+Data Professor,How to Build a Machine Learning App | Streamlit #13,2020-12-28 12:05:49+00:00,25950,686,66,17.5,False,Monday,12,51,0.028978805394990367
+Data Professor,Learn AI for FREE (Elements of AI),2020-12-26 09:36:32+00:00,6913,231,31,7.4,False,Saturday,9,34,0.03789960943150586
+Data Professor,BCG Data Science & Advanced Analytics Virtual Experience Program,2020-12-25 13:04:10+00:00,8993,245,45,4.92,False,Friday,13,64,0.0322473034582453
+Data Professor,Explainable AI in Python with LIME (Ft. Diogo Resende),2020-12-24 14:59:21+00:00,5088,148,20,17.03,False,Thursday,14,54,0.0330188679245283
+Data Professor,How to Build a Machine Learning Model,2020-12-23 12:19:40+00:00,45464,1132,61,9.05,False,Wednesday,12,37,0.026240541967270808
+Data Professor,How to use Spreadsheet in Python with Mito,2020-12-18 14:40:55+00:00,9668,327,37,6.48,False,Friday,14,42,0.03764997931319818
+Data Professor,Build AI Apps with H2O Wave (from H2O.ai),2020-12-16 15:50:20+00:00,8546,208,16,4.42,False,Wednesday,15,41,0.026211092908963257
+Data Professor,The Data Science Process - A Visual Guide (Part 2),2020-12-16 08:28:05+00:00,6893,224,21,6.25,False,Wednesday,8,50,0.035543304801973014
+Data Professor,The Data Science Process - A Visual Guide (Part 1),2020-12-14 15:03:20+00:00,31668,702,27,8.93,False,Monday,15,50,0.023020083364910952
+Data Professor,Machine Learning for Drug Discovery (Explained in 2 minutes),2020-12-12 03:43:06+00:00,94104,2715,99,2.63,False,Saturday,3,60,0.029903085947462382
+Data Professor,Talking with Founders / Developers of MITO Python Library | Data Science Podcast,2020-12-09 12:34:15+00:00,1784,65,18,43.95,False,Wednesday,12,80,0.04652466367713005
+Data Professor,Deepmind's Alphafold2 Solves Protein Structures (Part 2) #shorts,2020-12-07 11:06:13+00:00,7923,240,17,0.97,True,Monday,11,64,0.03243720812823425
+Data Professor,Deepmind's Alphafold2 Solves Protein Structures (Part 1) #shorts,2020-12-06 05:32:13+00:00,10738,303,25,0.98,True,Sunday,5,64,0.030545725460979698
+Data Professor,How to Perform Data Splitting (Weka Tutorial #5),2020-12-02 11:55:12+00:00,13662,253,20,8.37,False,Wednesday,11,48,0.019982433025911288
+Data Professor,Level Up Your Data Science Skills #shorts,2020-11-26 16:30:59+00:00,5747,308,26,0.98,True,Thursday,16,41,0.058117278580128766
+Data Professor,Kite: Free AI Coding Assistant + Giveaway,2020-11-23 12:51:50+00:00,16128,273,133,7.63,False,Monday,12,41,0.025173611111111112
+Data Professor,Want Access to a High-Performance Jupyter Notebook? BlazingSQL Notebooks (Powered by NVIDIA GPUs),2020-11-21 03:37:35+00:00,6036,218,50,9.45,False,Saturday,3,97,0.04440026507620941
+Data Professor,How to Quickly Perform Exploratory Data Analysis (EDA) in Python using Sweetviz,2020-11-19 01:42:14+00:00,23484,901,69,11.38,False,Thursday,1,79,0.04130471810594447
+Data Professor,Building a Classification Model of the Penguins Data using Visual Programming (Orange Tutorial #2),2020-11-17 01:32:00+00:00,3125,79,10,6.07,False,Tuesday,1,98,0.02848
+Data Professor,How to Build your First Classification Model using Visual Programming (Orange Tutorial #1),2020-11-14 02:39:34+00:00,29302,483,33,9.97,False,Saturday,2,90,0.01760971947307351
+Data Professor,Ask Me Anything About Bioinformatics #3,2020-11-11 10:23:06+00:00,1285,47,34,14.47,False,Wednesday,10,39,0.06303501945525292
+Data Professor,Build a Machine Learning Model for Computational Drug Discovery from Scratch (Weka Tutorial #4),2020-11-09 10:15:09+00:00,17491,379,29,37.02,False,Monday,10,95,0.023326282087930937
+Data Professor,Ask Me Anything About Bioinformatics #2,2020-11-07 12:11:02+00:00,1693,62,33,10.82,False,Saturday,12,39,0.05611340815121087
+Data Professor,How to Build Classification Models for the Penguins Dataset (Weka Tutorial #3),2020-11-06 11:46:25+00:00,12734,300,33,14.0,False,Friday,11,78,0.026150463326527408
+Data Professor,This Book will Help you Land a Data Science Job,2020-11-05 12:44:36+00:00,11337,457,67,18.3,False,Thursday,12,47,0.04622034047808062
+Data Professor,How to Build Classification Models (Weka Tutorial #2),2020-11-04 08:49:14+00:00,47680,851,40,16.78,False,Wednesday,8,53,0.018687080536912752
+Data Professor,Spreadsheets in Python with Mito library,2020-11-02 14:31:26+00:00,4921,199,22,4.98,False,Monday,14,40,0.0449095712253607
+Data Professor,How to Build Regression Models (Weka Tutorial #1),2020-11-01 08:28:27+00:00,117218,2662,146,19.15,False,Sunday,8,49,0.023955365216946203
+Data Professor,How to use PandasGUI for Exploratory Data Analysis and Data Science,2020-10-31 03:53:14+00:00,26408,871,80,11.3,False,Saturday,3,67,0.03601181460163587
+Data Professor,Building a No-Code Machine Learning Application (for Computer Vision) with Microsoft's Lobe,2020-10-29 16:57:27+00:00,12942,376,44,6.37,False,Thursday,16,91,0.03245248029670839
+Data Professor,How to Become a Data Analyst (Featuring @HowtoGetanAnalyticsJob),2020-10-28 15:30:17+00:00,1635,87,12,21.52,False,Wednesday,15,64,0.060550458715596334
+Data Professor,Ask Me Anything About Bioinformatics #1,2020-10-24 15:11:05+00:00,16976,628,113,20.8,False,Saturday,15,39,0.04364985862393968
+Data Professor,How to Build a Cryptocurrency Price Web App - Streamlit Tutorial #12,2020-10-19 14:29:29+00:00,14236,238,56,27.23,False,Monday,14,68,0.020651868502388312
+Data Professor,How to Deploy Data Science Web App to Streamlit Sharing - Streamlit Tutorial #11,2020-10-17 10:30:55+00:00,53592,972,81,7.77,False,Saturday,10,80,0.01964845499328258
+Data Professor,Probably the Best Platform to Find Online Courses in Data Science (FREE),2020-10-15 02:37:44+00:00,4006,148,13,16.93,False,Thursday,2,72,0.04018971542685971
+Data Professor,How to Build a Stocks Price Web App in Python | Streamlit #10,2020-10-11 03:12:24+00:00,23821,507,28,23.7,False,Sunday,3,61,0.022459174677805296
+Data Professor,How to Build a Football Data Web App in Python | Streamlit #9,2020-10-06 12:22:12+00:00,31824,618,43,10.65,False,Tuesday,12,61,0.020770487682252387
+Data Professor,Learn about Artificial Intelligence Use Cases from YouTube Originals,2020-10-03 11:53:04+00:00,2157,79,19,6.48,False,Saturday,11,68,0.045433472415391744
+Data Professor,How to Build a Simple Bioinformatics Web App in Python | Streamlit #8,2020-09-30 12:33:21+00:00,13037,223,33,16.75,False,Wednesday,12,69,0.019636419421646085
+Data Professor,Learn Deep Learning from NVIDIA,2020-09-28 07:08:29+00:00,20715,431,67,22.63,False,Monday,7,31,0.024040550325850833
+Data Professor,How to Become a Data Scientist at FAANG (Ft. Tina Huang),2020-09-26 15:30:10+00:00,4534,185,32,55.03,False,Saturday,15,56,0.047860608734009706
+Data Professor,Learn Data Science with Medium.com,2020-09-21 02:14:07+00:00,6828,177,33,20.33,False,Monday,2,34,0.030755711775043937
+Data Professor,Building a Bioinformatics Web App in Python | Streamlit #7,2020-09-16 07:40:51+00:00,22622,439,60,27.17,False,Wednesday,7,58,0.022058173459464238
+Data Professor,Data Science in Industry (Ft. RichardOnData),2020-09-12 12:59:50+00:00,1404,61,24,36.98,False,Saturday,12,44,0.06054131054131054
+Data Professor,Learn Python for Data Science (with Real Python),2020-09-09 15:20:19+00:00,5199,181,23,18.05,False,Wednesday,15,48,0.03923831506058857
+Data Professor,How to Harness GPU to Speed Up Machine Learning with Hummingbird-ML,2020-09-04 23:47:17+00:00,2841,130,30,9.12,False,Friday,23,67,0.056318197817669835
+Data Professor,Tons of FREE Data for Data Science (TidyTuesday),2020-09-03 15:30:10+00:00,10243,256,34,12.78,False,Thursday,15,48,0.02831201796348726
+Data Professor,Facebook Field Guide to Machine Learning (FREE Course in Data Science),2020-08-29 12:50:37+00:00,10785,304,34,8.8,False,Saturday,12,70,0.031339823829392675
+Data Professor,GPU Computing for Data Science (Unboxing NVIDIA TITAN RTX),2020-08-27 15:21:53+00:00,5500,136,50,8.7,False,Thursday,15,58,0.03381818181818182
+Data Professor,1 Year on YouTube as the Data Professor (Data Science YouTube Channel),2020-08-23 06:37:49+00:00,1924,92,62,7.52,False,Sunday,6,70,0.08004158004158005
+Data Professor,How to Build a Boston Housing Price Prediction Web App in Python | Streamlit #6,2020-08-21 07:11:39+00:00,22428,500,71,12.18,False,Friday,7,79,0.025459247369359728
+Data Professor,Amazon's Machine Learning University (FREE Courses in Data Science),2020-08-18 08:44:13+00:00,59452,1549,88,14.45,False,Tuesday,8,67,0.027534818004440558
+Data Professor,Data Science for Computational Drug Discovery using Python (Part 2 with PyCaret),2020-08-09 10:04:39+00:00,12590,384,69,19.2,False,Sunday,10,80,0.03598093725178713
+Data Professor,Learn Data Science for FREE with Machine Learning Mastery,2020-08-02 01:43:19+00:00,12770,340,34,11.1,False,Sunday,1,57,0.02928739232576351
+Data Professor,Web Apps in R: How to Deploy R Shiny web app to Heroku | Shiny Tutorial Ep 6,2020-07-26 03:22:59+00:00,14385,426,76,6.78,False,Sunday,3,76,0.03489746263468891
+Data Professor,Learn Bioinformatics through Coding on ROSALIND Platform,2020-07-18 14:28:43+00:00,11607,468,38,5.32,False,Saturday,14,56,0.04359438270009477
+Data Professor,Bioinformatics Project from Scratch - Drug Discovery Part 4 (Model Building),2020-07-13 12:23:48+00:00,18954,487,136,9.0,False,Monday,12,76,0.0328690513875699
+Data Professor,FREE Online Courses in Data Science from Harvard University,2020-07-10 12:02:45+00:00,48196,1446,129,7.97,False,Friday,12,59,0.032679060502946305
+Data Professor,How to Build a Basketball Player Data Explorer Web App in Python | Streamlit #5,2020-07-07 09:49:19+00:00,26526,515,59,21.33,False,Tuesday,9,79,0.021639146497775767
+Data Professor,Data Science Virtual Internship - Part 12 (Data Science & AI at Y Combinator),2020-07-05 09:17:53+00:00,4003,142,46,3.8,False,Sunday,9,77,0.04696477641768673
+Data Professor,Data Science Interview (Tips and Tricks) [Ft. Data Science Jay],2020-07-03 15:00:13+00:00,1744,82,15,29.7,False,Friday,15,63,0.05561926605504587
+Data Professor,How to Deploy Data Science Web App to Heroku | Streamlit #4,2020-06-30 12:56:17+00:00,48924,1185,177,10.58,False,Tuesday,12,59,0.027839097375521215
+Data Professor,FREE Machine Learning Crash Course from Google,2020-06-28 10:45:36+00:00,17922,789,91,16.63,False,Sunday,10,46,0.04910166276085259
+Data Professor,How to Build a Penguin Classification Web App in Python | Streamlit #3,2020-06-25 11:57:57+00:00,53836,1253,94,17.85,False,Thursday,11,70,0.02502043242440003
+Data Professor,Penguins Dataset as Alternative to Iris Dataset for Data Science,2020-06-23 11:40:01+00:00,5018,109,25,12.15,False,Tuesday,11,64,0.026703866082104424
+Data Professor,"Data Science Portfolio Tips | Discussion with Ken Jee, Krish Naik, Codebasics and Data Professor",2020-06-21 14:30:13+00:00,14005,557,61,66.0,False,Sunday,14,96,0.044127097465191
+Data Professor,Data Science Virtual Internship - Part 11 (Quantium Data Analytics Program),2020-06-19 12:46:10+00:00,11664,236,51,3.73,False,Friday,12,75,0.02460562414266118
+Data Professor,Wrangle and Explore Data with PANDAS-UI for Data Science,2020-06-17 02:17:44+00:00,17024,379,62,8.33,False,Wednesday,2,56,0.025904605263157895
+Data Professor,Data Science Virtual Internship - Part 10 (Data@ANZ Program),2020-06-15 00:27:27+00:00,3962,159,34,3.67,False,Monday,0,60,0.048712771327612314
+Data Professor,How to Build a Simple Machine Learning Web App in Python - Streamlit Tutorial #2,2020-06-12 12:25:54+00:00,113466,3092,175,8.85,False,Friday,12,80,0.028792766114959546
+Data Professor,Bioinformatics Project from Scratch - Drug Discovery Part 3 (Dataset Preparation),2020-06-11 02:23:41+00:00,22512,611,118,12.32,False,Thursday,2,81,0.03238272921108742
+Data Professor,Data Science Virtual Internship - Part 9 (NSW Government),2020-06-09 12:00:02+00:00,4367,172,61,5.37,False,Tuesday,12,57,0.05335470574765285
+Data Professor,How to Build Your First Data Science Web App in Python - Streamlit Tutorial #1,2020-06-07 02:40:30+00:00,484009,11291,378,10.95,False,Sunday,2,78,0.024109055823342128
+Data Professor,Learn Data Science for Free with Kaggle Micro-Courses,2020-06-05 06:18:56+00:00,14823,532,65,18.23,False,Friday,6,53,0.04027524792552115
+Data Professor,Data Science Virtual Internship - Part 8 (Careers in Tech by Commonwealth Bank),2020-06-03 05:41:42+00:00,4095,119,26,6.93,False,Wednesday,5,79,0.03540903540903541
+Data Professor,Papers With Code (Free Resource of Machine Learning Papers and Code),2020-06-01 02:22:58+00:00,15253,496,36,16.73,False,Monday,2,68,0.034878384580082605
+Data Professor,Data Science Virtual Internship - Part 7 (McGrathNicol in Cybersecurity Data),2020-05-30 03:12:18+00:00,2206,54,13,3.15,False,Saturday,3,77,0.030371713508612876
+Data Professor,Data Science Virtual Internship - Part 6 (BCG in Digital Transformation),2020-05-28 11:47:23+00:00,3983,72,21,4.13,False,Thursday,11,72,0.02334923424554356
+Data Professor,Data Science Virtual Internship - Part 5 (Y Combinator Startup),2020-05-26 12:48:40+00:00,3282,87,19,5.03,False,Tuesday,12,63,0.032297379646556976
+Data Professor,Bioinformatics Project from Scratch - Drug Discovery Part 2 (Exploratory Data Analysis),2020-05-24 08:00:57+00:00,41609,998,195,22.87,False,Sunday,8,87,0.028671681607344564
+Data Professor,Data Science Virtual Internship - Part 4 (JP Morgan Chase Software Engineering),2020-05-22 06:55:14+00:00,8115,220,27,4.93,False,Friday,6,79,0.030437461491065926
+Data Professor,Data Science Virtual Internship - Part 3 (GE Data Analytics),2020-05-20 09:53:29+00:00,10484,333,37,4.58,False,Wednesday,9,60,0.03529187333078977
+Data Professor,Data Science Virtual Internship - Part 2 (Deloitte Tech Consulting),2020-05-18 07:11:57+00:00,12035,356,47,7.5,False,Monday,7,67,0.033485666805151644
+Data Professor,Using Computer Code to Decipher Genetic Code - Part 2 (Bioinformatics 101),2020-05-16 02:47:24+00:00,7099,190,35,16.0,False,Saturday,2,74,0.031694604873925905
+Data Professor,Using Computer Code to Decipher Genetic Code - Part 1 (Bioinformatics 101),2020-05-14 16:01:40+00:00,12925,365,33,19.15,False,Thursday,16,74,0.03079303675048356
+Data Professor,Data Science Virtual Internship - Part 1 (KPMG Data Analytics Consulting),2020-05-12 10:21:07+00:00,38780,1192,135,5.87,False,Tuesday,10,73,0.03421866941722537
+Data Professor,Becoming a Data Scientist (To PhD or not to PhD),2020-05-11 01:44:49+00:00,11680,346,58,25.3,False,Monday,1,48,0.03458904109589041
+Data Professor,How to use R and Python in same notebook on Google Colab,2020-05-08 11:02:42+00:00,10964,396,64,5.4,False,Friday,11,56,0.04195549069682598
+Data Professor,How to use Grepper for Data Science,2020-05-06 08:26:21+00:00,6379,324,26,5.03,False,Wednesday,8,35,0.054867534096253334
+Data Professor,Bioinformatics Project from Scratch - Drug Discovery Part 1 (Data Collection and Pre-Processing),2020-05-04 12:19:39+00:00,174753,4416,285,22.62,False,Monday,12,96,0.02690082573689722
+Data Professor,How to use Pandas Profiling on Kaggle,2020-05-02 07:31:27+00:00,2013,65,13,7.07,False,Saturday,7,37,0.038748137108792845
+Data Professor,How to use Bamboolib for Data Wrangling in Data Science,2020-04-30 03:31:33+00:00,9811,340,29,14.87,False,Thursday,3,55,0.03761084496993171
+Data Professor,How to Adjust the Style of Pandas DataFrame,2020-04-28 02:01:49+00:00,19444,413,27,9.78,False,Tuesday,2,43,0.022629088664883768
+Data Professor,How to Install and Use Pandas Profiling on Google Colab,2020-04-26 02:54:47+00:00,16050,465,64,10.42,False,Sunday,2,55,0.0329595015576324
+Data Professor,How to Upload Files to Google Colab,2020-04-24 10:17:02+00:00,66805,905,78,4.33,False,Friday,10,35,0.014714467479979043
+Data Professor,Quick tour of PyCaret (a low-code machine learning library in Python),2020-04-22 07:30:23+00:00,36519,866,63,14.78,False,Wednesday,7,69,0.025438812672855225
+Data Professor,Exploratory Data Analysis in Python using pandas,2020-04-20 08:20:33+00:00,59195,1702,92,28.87,False,Monday,8,48,0.030306613734268097
+Data Professor,Pandas Profiling for Data Science (Quick and Easy Exploratory Data Analysis),2020-04-18 03:00:10+00:00,38416,974,82,5.77,False,Saturday,3,76,0.027488546438983758
+Data Professor,Data Science for Computational Drug Discovery using Python (Part 1),2020-04-16 01:36:33+00:00,39470,1121,88,24.82,False,Thursday,1,67,0.03063085888016215
+Data Professor,Easy Web Scraping in Python using Pandas for Data Science,2020-04-14 01:15:41+00:00,80487,1741,126,9.83,False,Tuesday,1,57,0.023196292568986296
+Data Professor,How to Save and Download files from Google Colab,2020-04-12 05:33:03+00:00,67760,835,64,4.28,False,Sunday,5,48,0.01326741440377804
+Data Professor,Use native R on Google Colab for Data Science,2020-04-10 02:48:34+00:00,21089,578,91,6.55,False,Friday,2,45,0.03172269903741287
+Data Professor,Installing conda on Google Colab for Data Science,2020-04-08 03:10:47+00:00,19970,408,77,7.9,False,Wednesday,3,49,0.0242864296444667
+Data Professor,How to Plot an ROC Curve in Python | Machine Learning in Python,2020-04-06 01:41:22+00:00,50860,853,81,7.65,False,Monday,1,63,0.01836413684624459
+Data Professor,Machine Learning in Python: Principal Component Analysis (PCA) for Handling High-Dimensional Data,2020-04-04 12:30:39+00:00,41437,862,94,21.07,False,Saturday,12,97,0.02307116827955692
+Data Professor,Machine Learning in Python: Building a Linear Regression Model,2020-04-02 02:33:18+00:00,172241,2964,125,17.77,False,Thursday,2,62,0.017934173628810793
+Data Professor,Pandas for Data Science: Create and Combine DataFrames / Rename Columns,2020-03-31 05:27:33+00:00,3697,82,6,9.48,False,Tuesday,5,71,0.023803083581282122
+Data Professor,File Handling in Google Colab for Data Science,2020-03-29 01:26:40+00:00,25432,438,32,18.98,False,Sunday,1,46,0.01848065429380308
+Data Professor,Practical Introduction to Google Colab for Data Science,2020-03-26 14:46:25+00:00,47861,1007,57,10.25,False,Thursday,14,55,0.0222310440651052
+Data Professor,Hyperparameter Tuning of Machine Learning Model in Python,2020-03-21 01:59:58+00:00,47243,1040,80,24.2,False,Saturday,1,57,0.02370721588383464
+Data Professor,Compare Machine Learning Classifiers in Python,2020-03-15 15:58:05+00:00,20240,526,49,11.13,False,Sunday,15,46,0.028409090909090908
+Data Professor,Machine Learning in Python: Building a Classification Model,2020-03-11 15:45:05+00:00,131141,2168,99,19.97,False,Wednesday,15,59,0.017286737176016653
+Data Professor,Making Scatter Plots in R [Data Visualisation in R series],2020-03-08 01:06:53+00:00,5658,81,9,20.05,False,Sunday,1,58,0.015906680805938492
+Data Professor,Interpretable Machine Learning Models,2020-03-03 17:30:50+00:00,7204,182,14,11.1,False,Tuesday,17,37,0.027207107162687396
+Data Professor,Using Python in R,2020-02-28 17:45:37+00:00,30392,571,46,14.2,False,Friday,17,17,0.02030139510397473
+Data Professor,How to Become a Data Scientist (Learning Path and Skill Sets Needed),2020-02-22 18:02:16+00:00,17073,568,48,20.43,False,Saturday,18,68,0.03608036080360803
+Data Professor,What programming language to learn for Data Science? R versus Python,2020-02-15 00:46:59+00:00,16186,518,44,11.7,False,Saturday,0,68,0.03472136414185098
+Data Professor,Machine Learning in R: Building a Linear Regression Model,2020-02-06 21:53:31+00:00,21531,437,20,8.77,False,Thursday,21,57,0.02122521016209187
+Data Professor,Web Apps in R: Build BMI Calculator web application in R for health monitoring | Shiny Tutorial Ep 5,2020-02-01 09:58:27+00:00,11819,198,39,14.75,False,Saturday,9,100,0.0200524579067603
+Data Professor,Web Apps in R: Building the Machine Learning Web Application in R | Shiny Tutorial Ep 4,2020-01-29 09:54:44+00:00,15453,317,69,17.65,False,Wednesday,9,87,0.024978968485083804
+Data Professor,Web Apps in R: Building Data-Driven Web Application in R | Shiny Tutorial Ep 3,2020-01-25 02:22:00+00:00,21244,459,72,16.2,False,Saturday,2,78,0.024995292788552063
+Data Professor,Web Apps in R: Build Interactive Histogram Web Application in R | Shiny Tutorial Ep 2,2020-01-19 15:00:14+00:00,27286,641,39,11.42,False,Sunday,15,85,0.024921205013560068
+Data Professor,Web Apps in R: Building your First Web Application in R | Shiny Tutorial Ep 1,2020-01-16 15:52:17+00:00,141191,3607,176,20.88,False,Thursday,15,77,0.026793492503063225
+Data Professor,Data Science 101: Overview of Machine Learning Model Building Process,2020-01-12 09:50:17+00:00,24821,847,81,13.1,False,Sunday,9,69,0.03738769590266307
+Data Professor,Machine Learning in R: Speed up Model Building with Parallel Computing,2020-01-08 12:45:37+00:00,9102,240,26,9.07,False,Wednesday,12,70,0.02922434629751703
+Data Professor,Data Pre-processing in R: Handling Missing Data,2020-01-04 02:30:14+00:00,23111,423,67,17.82,False,Saturday,2,47,0.021202025009735625
+Data Professor,Machine Learning in R: Deploy Machine Learning Model using RDS,2020-01-01 00:58:47+00:00,6970,147,20,7.78,False,Wednesday,0,62,0.023959827833572454
+Data Professor,Data Science 101: Deploying your Machine Learning Model,2019-12-27 14:31:18+00:00,64706,1474,43,4.93,False,Friday,14,55,0.023444502828176676
+Data Professor,Machine Learning in R: Repurpose Machine Learning Code for New Data,2019-12-24 16:19:24+00:00,4382,86,10,21.0,False,Tuesday,16,67,0.02190780465540849
+Data Professor,Machine Learning in R: Building a Classification Model,2019-12-21 01:19:55+00:00,39926,794,106,18.5,False,Saturday,1,54,0.022541702148975606
+Data Professor,Exploratory Data Analysis in R: Quick Dive into Data Visualization,2019-12-17 13:29:58+00:00,14769,268,18,8.58,False,Tuesday,13,66,0.019364885909675673
+Data Professor,Exploratory Data Analysis in R: Towards Data Understanding,2019-12-14 02:06:04+00:00,77277,1350,59,14.8,False,Saturday,2,58,0.018233109463359085
+Data Professor,"R Programming 101: Setting up R programming environment (R, RStudio and RStudio.cloud)",2019-12-10 13:26:34+00:00,15234,234,19,11.5,False,Tuesday,13,86,0.016607588289352763
+Data Professor,Building your Data Science Portfolio with GitHub (Data Science 101),2019-12-08 01:03:38+00:00,84305,1978,54,6.3,False,Sunday,1,67,0.024102959492319553
+Data Professor,Strategies for Learning Data Science in 2020 (Data Science 101),2019-12-05 01:20:20+00:00,40836,1214,162,11.07,False,Thursday,1,63,0.03369575864433343
+Data Professor,Data Science 101: Basic Command-Line for Data Science,2019-11-30 03:20:58+00:00,4255,107,9,15.02,False,Saturday,3,53,0.027262044653349003
+Data Professor,R Programming 101: Read and Write CSV files,2019-11-26 12:39:24+00:00,2949,65,14,14.48,False,Tuesday,12,43,0.026788741946422515
+Data Professor,R Programming 101: How to Define Variables,2019-11-23 02:21:58+00:00,3843,63,6,9.72,False,Saturday,2,42,0.01795472287275566
+Data Professor,Data Science 101: CRISP-DM - Data Mining / Data Science in 6 Steps,2019-11-19 01:04:44+00:00,2878,31,3,12.12,False,Tuesday,1,66,0.0118137595552467
+Data Professor,Data Science 101: Starting a Data Science / Data Mining Project,2019-11-16 02:03:36+00:00,3398,39,3,18.72,False,Saturday,2,63,0.012360211889346674
+Data Professor,Quotes #5 on Big Data and Data Science,2019-11-10 17:16:32+00:00,479,11,4,2.65,False,Sunday,17,38,0.031315240083507306
+Data Professor,Quotes #4 on Big Data and Data Science,2019-11-06 17:43:27+00:00,453,8,4,2.82,False,Wednesday,17,38,0.026490066225165563
+Data Professor,Quotes #3 on Big Data and Data Science,2019-11-05 10:49:57+00:00,513,10,4,2.28,False,Tuesday,10,38,0.02729044834307992
+Data Professor,Quotes #2 on Big Data and Data Science,2019-10-31 16:01:03+00:00,767,11,3,2.83,False,Thursday,16,38,0.018252933507170794
+Data Professor,Quotes #1 on Big Data and Data Science,2019-10-20 15:48:35+00:00,1895,29,4,2.82,False,Sunday,15,38,0.017414248021108178
+Data Professor,Data Professor Live Stream,2019-10-19 16:32:46+00:00,0,0,0,0.0,True,Saturday,16,26,
+Data Professor,Computational Drug Discovery: Machine Learning for Making Sense of Big Data in Drug Discovery,2019-10-02 12:32:13+00:00,31270,858,74,142.12,False,Wednesday,12,93,0.029804924848097217
+Data Professor,WEKA Tutorial #1.3 - How to Build a Data Mining Model from Scratch,2019-09-07 14:57:40+00:00,5962,87,14,3.6,False,Saturday,14,66,0.016940623951694062
+Data Professor,WEKA Tutorial #1.2 - How to Build a Data Mining Model from Scratch,2019-09-01 14:46:38+00:00,11888,147,10,13.72,False,Sunday,14,66,0.013206594885598923
+Data Professor,WEKA Tutorial #1.1 - How to Build a Data Mining Model from Scratch,2019-08-29 17:51:45+00:00,20968,292,11,9.35,False,Thursday,17,66,0.014450591377336895
+Data Professor,How a Biologist became a Data Scientist,2019-08-20 17:27:57+00:00,50797,1296,189,6.2,False,Tuesday,17,39,0.029234009882473374
