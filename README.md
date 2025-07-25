@@ -1,6 +1,7 @@
 # YouTube Tech Education Dashboard
 
 This Power BI dashboard provides a **comprehensive visual analysis of educational tech content on YouTube**, focusing on programming skills, video performance, teaching quality, viewer behavior, and engagement trends over time.  
+  
 <img width="1299" height="731" alt="Screenshot 2025-07-13 233152" src="https://github.com/user-attachments/assets/6f2c2152-5f0e-4b68-b9ea-6011a6df386b" />
 
 ---
