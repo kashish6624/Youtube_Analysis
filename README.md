@@ -99,3 +99,10 @@ This dashboard enables users to:
   - YouTube API
   - Web scraping tools (e.g., Selenium, BeautifulSoup)
 
+---
+  
+## Files 
+
+- **get_channelid**: It is used to get the channel id of the youtube channels whose data you want to scrape using the yoututbe API.
+- **youtube_videos_extraction**: It is used to extract the data of the youtube videos of various channels. You just have to change the api key value in it and also the name of the sheet where you want to store the data.
+- **integration**: it is used to integrate all the files of different channels into one.
